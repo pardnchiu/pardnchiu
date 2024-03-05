@@ -7,12 +7,6 @@ Specializing in native iOS and full-stack web development.<br><br>
 I excel in self-learning and in-depth research. <br><br>
 Independently developed and launched multiple websites and apps.
 
-<h2 width="100%">Languages and Tools</h2>
-
-![邱敬幃 - 帕登數位科技](https://skillicons.dev/icons?i=swift,nodejs,express,typescript,pug,html,css,sass,javascript,nginx)
-![邱敬幃 - 帕登數位科技](https://skillicons.dev/icons?i=php,laravel,python,mysql,mongodb,redis,gcp,firebase,git,github)
-![邱敬幃 - 帕登數位科技](https://skillicons.dev/icons?i=linux,raspberrypi,bash,markdown,regex,docker,postman,vscode,figma,cloudflare)
-
 ## Independent Side Projects:
 
 - 1 expert community website, '<a href="https://joball.tw" target="_blank">JOBALL找專家</a>.'<br>
@@ -22,3 +16,9 @@ Independently developed and launched multiple websites and apps.
 - 1 web-based markdown editor, '<a href="https://github.com/pardnchiu/markdown-editor" target="_blank">Markdown Editor</a>.'<br>
 - 1 web-based website builder, '<a href="https://github.com/pardnchiu/website-builder" target="_blank">Website Builder</a>.'<br>
 - 2 iOS examples and 40 website examples.
+
+### Languages and Tools
+
+![邱敬幃 - 帕登數位科技](https://skillicons.dev/icons?i=swift,nodejs,express,typescript,pug,html,css,sass,javascript,nginx)
+![邱敬幃 - 帕登數位科技](https://skillicons.dev/icons?i=php,laravel,python,mysql,mongodb,redis,gcp,firebase,git,github)
+![邱敬幃 - 帕登數位科技](https://skillicons.dev/icons?i=linux,raspberrypi,bash,markdown,regex,docker,postman,vscode,figma,cloudflare)
