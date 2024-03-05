@@ -1,5 +1,3 @@
-![邱敬幃 - 帕登數位科技](image/cover.jpg)
-
 # Self-taught and passionate about programming
 
 <a href="https://hits.sh/github.com//pardnchiu/"><img alt="Hits" src="https://hits.sh/github.com//pardnchiu.svg"/></a>
@@ -24,3 +22,5 @@ Independently developed and launched multiple websites and apps.
 - 1 web-based markdown editor, '<a href="https://github.com/pardnchiu/markdown-editor" target="_blank">Markdown Editor</a>.'<br>
 - 1 web-based website builder, '<a href="https://github.com/pardnchiu/website-builder" target="_blank">Website Builder</a>.'<br>
 - 2 iOS examples and 40 website examples.
+
+![邱敬幃 - 帕登數位科技](image/cover.jpg)
