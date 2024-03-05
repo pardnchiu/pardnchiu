@@ -2,10 +2,13 @@
 
 <a href="https://hits.sh/github.com//pardnchiu/"><img alt="Hits" src="https://hits.sh/github.com//pardnchiu.svg"/></a>
 
-I am <strong>Pardn Chiu</strong>, the founder of <strong>Pardn Ltd</strong>. <br><br>
-Specializing in native iOS and full-stack web development.<br><br>
-I excel in self-learning and in-depth research. <br><br>
-Independently developed and launched multiple websites and apps.
+I am **Pardn Chiu**, the founder of **Pardn Ltd**. 
+
+Specializing in native iOS and full-stack web development, 
+
+I excel in self-learning and in-depth research. 
+
+I have independently developed and launched multiple websites and apps.
 
 ## Independent Side Projects:
 
