@@ -15,7 +15,7 @@ Independently developed and launched multiple websites and apps.
 - 1 <a href="https://github.com/pardnchiu/PDExtension-swift" target="_blank">Swift library</a> for accelerated development.<br>
 - 1 web-based markdown editor, '<a href="https://github.com/pardnchiu/markdown-editor" target="_blank">Markdown Editor</a>.'<br>
 - 1 web-based website builder, '<a href="https://github.com/pardnchiu/website-builder" target="_blank">Website Builder</a>.'<br>
-- 2 iOS examples and 40 website examples.
+- 2 iOS examples and over 40 website examples on GitHub.
 
 ### Languages and Tools
 
