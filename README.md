@@ -1,3 +1,5 @@
+![](image/cover.jpg)
+
 # Self-taught and passionate about programming
 
 <a href="https://hits.sh/github.com//pardnchiu/"><img alt="Hits" src="https://hits.sh/github.com//pardnchiu.svg"/></a>
