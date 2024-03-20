@@ -4,7 +4,7 @@
 
 <a href="https://hits.sh/github.com//pardnchiu/"><img alt="Hits" src="https://hits.sh/github.com//pardnchiu.svg"/></a>
 
-I am **Pardn Chiu**, the founder of **Pardn Ltd**. 
+I am **Pardn Chiu**, the founder of **Pardn Ltd** and [JOBALL找專家](https://joball.tw). 
 
 Specializing in native iOS and full-stack web development, 
 
