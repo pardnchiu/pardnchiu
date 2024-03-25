@@ -2,8 +2,6 @@
 
 # Self-taught and passionate about programming
 
-<a href="https://hits.sh/github.com//pardnchiu/"><img alt="Hits" src="https://hits.sh/github.com//pardnchiu.svg"/></a>
-
 I am **Pardn Chiu 邱敬幃**, the founder of [JOBALL找專家](https://joball.tw) and **Pardn Ltd**. 
 
 Specializing in native iOS and full-stack web development, 
