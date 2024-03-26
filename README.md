@@ -1,4 +1,4 @@
-[![](image/cover.jpg)](https://joball.tw)
+[![](image/2024-1.jpg)](https://joball.tw)
 
 # Self-taught and passionate about programming
 
