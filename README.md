@@ -13,7 +13,7 @@
 ## 獨立開發的項目
 
 - 1 款萬人註冊的專業人才媒合平台「<a href="https://joball.tw" target="_blank">JOBALL 找專家</a>」
-- 2 款 **iOS APP**「<a href="https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp" target="_blank">JOBALL 接洽 (社群)</a>」與「<a href="https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp" target="_blank">NEEDS 開箱 (電商)</a>」
+- 2 款 **iOS APP** 包含**社群**「<a href="https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp" target="_blank">JOBALL 接洽</a>」與**電商**「<a href="https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp" target="_blank">NEEDS 開箱 (電商)</a>」
 - 1 款包含多款範例的**架站工具**「<a href="https://github.com/pardnchiu/website-builder" target="_blank">Website Builder</a>」
 - 1 款 **Markdown 編輯器**「<a href="https://github.com/pardnchiu/markdown-editor" target="_blank">Markdown Editor</a>」
 - 1 款輕量化前端框架 **JS 庫**「<a href="https://github.com/pardnchiu/PDExtension-js" target="_blank">PDExtension-js</a>」
