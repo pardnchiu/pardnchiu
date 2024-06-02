@@ -43,7 +43,7 @@
 
 - 擅長使用 **Node.js 搭配 TypeScript** 以及**原生 PHP**。
 - 擅長使用 **Python** 與 **Node.js** 開發爬蟲軟體。
-- 熟悉 MySQL / MariaDB、Redis、ElasticSearch 等資料操作。
+- 熟悉 MySQL / MariaDB、MongoDB、Redis、ElasticSearch 等資料操作。
 - 熟悉 Firebase / Firestore 等 NoSQL 的雲端服務。
 - 熟悉綠界、藍新等第三方金流串接。
 - 獨立開發萬人註冊的人才媒合平台與社群電商 APP 以及其他多個官網的後台系統。
