@@ -42,6 +42,7 @@
 ### 後端
 
 - 擅長使用 **Node.js 搭配 TypeScript** 以及**原生 PHP**。
+- 擅長使用 **Python** 與 **Node.js** 開發爬蟲軟體。
 - 熟悉 MySQL / MariaDB、Redis、ElasticSearch 等資料操作。
 - 熟悉 Firebase / Firestore 等 NoSQL 的雲端服務。
 - 熟悉綠界、藍新等第三方金流串接。
