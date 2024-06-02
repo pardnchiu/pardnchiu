@@ -2,7 +2,7 @@
 
 # 善於自學並對開發充滿熱忱
 
-我是 **邱敬幃 Pardn Chiu**, [JOBALL找專家](https://joball.tw) 與 **帕登國際有限公司** 創辦人。
+我是 **邱敬幃 Pardn Chiu**，[JOBALL找專家](https://joball.tw) 與 **帕登國際有限公司** 創辦人。
 
 專精於 **原生 iOS** 與 **網站全端** 的開發。
 
