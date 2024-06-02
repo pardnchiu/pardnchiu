@@ -18,7 +18,7 @@
 - 1 款 **Markdown 編輯器**「<a href="https://github.com/pardnchiu/markdown-editor" target="_blank">Markdown Editor</a>」
 - 1 款輕量化前端框架 **JS 庫**「<a href="https://github.com/pardnchiu/PDExtension-js" target="_blank">PDExtension-js</a>」
 - 1 款加速開發的 **Swift 庫**「<a href="https://github.com/pardnchiu/PDExtension-swift" target="_blank">Swift library</a>」
-- 2 款 **iOS 範例** 以及超過 40 個**網站範例**於 GitHub 中分享
+- 2 款 **iOS 範例** 以及多達 40 組**網站範例**於 GitHub 中分享
 
 ### 原生 iOS
 
