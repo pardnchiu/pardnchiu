@@ -1,81 +1,121 @@
-- 輕量化前端框架: [PDRenderKit](https://github.com/pardnchiu/PDRenderKit)
-- Markdown 編輯器: [PDMarkdownKit](https://github.com/pardnchiu/PDMarkdownKit)
-- 影片播放器: [PDPlayerKit](https://github.com/pardnchiu/PDPlayerKit)
-- 前端模組包: [PDUtils](https://github.com/pardnchiu/PDUtils)
-- Website 架站工具: [Website Builder](https://github.com/pardnchiu/website-builder)
-- 視窗管理器: [PaneDesk](https://github.com/pardnchiu/pane-desk)
-- (iOS) Firebase 即時訊息: [Firebase Messaging](https://github.com/pardnchiu/firebase-messaging-ios)
-- (iOS) Moneybook 簡易記帳: [Moneybook](https://github.com/pardnchiu/moneybook-js)
-- CSS繪圖: [pokemon-quest-css-drawing](https://github.com/pardnchiu/pokemon-quest-css-drawing)
-- ... 還有超過 30 個網站範例可去[查閱](https://github.com/pardnchiu?q=web&sort=&tab=repositories)
-  
+[中文版本](https://github.com/pardnchiu/pardnchiu/blob/main/README-zh.md)
+
+**Repo Naming Conventions**
+
+| Prefix | Description | Link |
+| :- | :- | :- |
+| `PD*` | Module | [Here](https://github.com/pardnchiu?tab=repositories&q=PD) |
+| `ios-*` | iOS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=ios-) |
+| `swift-*` | Swift Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=swift-) |
+| `web-*` | Web Frontend Example | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
+| `css-*` | CSS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=css-) |
+| `php-*` | PHP Example | [Here](https://github.com/pardnchiu?tab=repositories&q=php-) |
+| `nodejs-*` | Node.js Example | [Here](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
+| `vscode-*` | VSCode Extension | [Here](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
+| `flutter-*` | Flutter Example | [Here](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
+| `kotlin-*` | Kotlin Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
+
+**Repo Overview**
+
+| Category | Description | Link |
+| :- | :- | :- |
+| JS Library | Lightweight Frontend Framework | [Here](https://github.com/pardnchiu/PDRenderKit) |
+| JS Library | Markdown Editor and Viewer Module | [Here](https://github.com/pardnchiu/PDMarkdownKit) |
+| JS Library | HTML5 / Youtube Player Module | [Here](https://github.com/pardnchiu/PDPlayerKit) |
+| Web | Website Builder | [Here](https://github.com/pardnchiu/website-builder) |
+| Web | Window Manager | [Here](https://github.com/pardnchiu/pane-desk) |
+| Web | Over 30 website examples | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
+| iOS | Firebase Realtime Messaging | [Here](https://github.com/pardnchiu/ios-firebase-messaging) |
+| iOS | Moneybook Accounting | [Here](https://github.com/pardnchiu/ios-moneybook) |
+| CSS | Pokemon Quest | [Here](https://github.com/pardnchiu/css-pokemon-quest) |
+
 ***
 
-# 善於自學並對開發充滿熱忱
+# Passionate Self-Learner and Developer
 
-我是 **邱敬幃 Pardn Chiu**，[JOBALL找專家](https://joball.tw) 與 **帕登國際有限公司** 創辦人。<br>
-I am **Pardn Chiu**, the founder of [JOBALL](https://joball.tw) and **Pardn Ltd**.
+I am [邱敬幃 Pardn Chiu](https://linkedin.com/in/pardnchiu), founder of "[JOBALL](https://joball.tw)" and "[Pardn Ltd](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502)".<br>
 
-專精於 **原生 iOS** 與 **網站全端** 的開發。<br>
-Specialized in **native iOS** and **full-stack web** development.
+Specialized in Native iOS and Website development.<br>
+Proficient in self-learning new technologies and conducting in-depth research on required projects.<br>
 
-擁有豐富的硬體管理經驗，並擅長多種版本的 Linux 操作，包括 RHEL 和 Debian。<br>
-Experienced in hardware management and proficient in various versions of Linux operations, including RHEL and Debian.
+Independently developed and released multiple websites and applications.<br>
+Github is only used to showcase personal side projects.
 
-善於自學新技術並針對有需求的項目深入研究。<br>
-Proficient in self-learning new technologies and conducting in-depth research on required projects.
+## Personal Projects
 
-已獨立開發與發布多款網站與 iOS APP。<br>
-Independently developed and released multiple websites and apps.
+- A professional experts matching platform "[JOBALL](https://joball.tw)" with over 10 thousands of registered users.
+- 2 iOS apps including the social app "[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)" and the e-commerce app "[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)".
 
-## 獨立開發的項目
+## Technical Expertise
 
-- 1 款萬人註冊的專業人才媒合平台「<a href="https://joball.tw" target="_blank">JOBALL 找專家</a>」<br>
-  A professional experts matching platform "JOBALL" with over 10 thousands of registered users.
-  
-- 2 款 **iOS APP** 包含**社群**「<a href="https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp" target="_blank">JOBALL 接洽</a>」與**電商**「<a href="https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp" target="_blank">NEEDS 開箱</a>」<br>
-  2 iOS apps including the social app "JOBALL" and the e-commerce app "NEEDS".
+- **Native iOS**<br>
+  Specialized in pure Swift and UIKit code development, without relying on Storyboard or SwiftUI.
+- **Web Frontend**<br>
+  Expert in pure HTML, CSS / SASS, and native JavaScript development.
+- **Backend**<br>
+   - Proficient in backend development using Node.js with TypeScript and native PHP.
+   - Skilled in web scraping development with Python and Node.js.
+   - Experienced in data operations with MySQL / MariaDB, MongoDB, Redis, and ElasticSearch.
+   - Proficient in NoSQL cloud services like Firebase / Firestore.
+   - Familiar with integrating third-party payment gateways like ECPay and Neweb.
+- **OS**
+   - Knowledgeable in various Linux distributions, including RHEL and Ubuntu / Debian.
+   - Extensive hardware management experience and own a variety of hardware, including HPE, Dell, Supermicro, and ASRockRack.
+   - Proficient in configuring Proxmox and establishing high-availability server clusters.
 
-### 原生 iOS
+## Pricing Overview
 
-- 專精於 **Swift 純代碼**開發，不使用 Storyboard 與 SwiftUI。<br>
-  Specialized in **pure code** development in Swift, without using Storyboard and SwiftUI.
-   
-### 網站前端
+Development time is calculated in business days (excluding weekends and public holidays).<br>
+If non-business days are included, it's considered a rush job (1.5x).<br>
+Projects exceeding 15 business days are not accepted as rush jobs.<br>
+All prices are pre-tax; an additional 5% fee applies for invoicing.
 
-- 專精於**純 HTML、CSS 及原生 JavaScript** 進行開發。<br>
-  Specialized in pure HTML, CSS, and native JavaScript development.
-  
-### 後端
+- **Native iOS**
 
-- 擅長使用 **Node.js 搭配 TypeScript** 以及**原生 PHP**。<br>
-  Proficient in using Node.js with TypeScript and native PHP.
-  
-- 擅長使用 **Python** 與 **Node.js** 開發爬蟲軟體。<br>
-  Proficient in using Python and Node.js to develop web scraping software.
-  
-- 熟悉 MySQL / MariaDB、MongoDB、Redis、ElasticSearch 等資料操作。<br>
-  Familiar with data operations using MySQL / MariaDB, MongoDB, Redis, and ElasticSearch.
-  
-- 熟悉 Firebase / Firestore 等 NoSQL 的雲端服務。<br>
-  Familiar with NoSQL cloud services like Firebase / Firestore.
-  
-- 熟悉綠界、藍新等第三方金流串接。<br>
-  Familiar with third-party payment integrations such as ECPay and Neweb.
-  
-### OS / 硬體 / 虛擬化
+  | Type | Time | Price |
+  | :- | :- | :- |
+  | Native iOS | Minimum 20 business days | Starting from $2,500 USD |
 
-- 熟悉多種 Linux 發行版，包括 RHEL、Debian 與延伸的 Ubuntu。<br>
-  Familiar with various Linux distributions, including RHEL and Ubuntu / Debian.
-  
-- 擁有豐富的硬體管理經驗，包括 HPE、Dell、Supermicro 和 ASRockRack。<br>
-  Rich experience in hardware management, including HPE, Dell, Supermicro, and ASRockRack.
-  
-- 熟練配置 Proxmox 並建立高可用性的伺服器集群。<br>
-  Proficient in configuring Proxmox and establishing high-availability server clusters.
+- **Frontend Development (Pure Frontend)**<br>
+  No design provided, but can replicate existing designs.<br>
+  **RWD**:All pages are responsive.<br>
+  **Service**:Assist with deployment and setup of free HTTPS.
 
-### 語言以及工具
+  | Type | Time | Price |
+  | :- | :- | :- |
+  | RWD Layout | 1 business day / page | Starting from $100 USD / page |
+  | Single-page website | 3 - 5 business days | Starting from $350 USD |
+  | Multi-page website | 5 - 20 business days | Starting from $1,000 USD |
+  | E-commerce or social platform | Minimum 15 business days | Starting from $2,700 USD |
 
-![](https://skillicons.dev/icons?i=swift,nodejs,express,typescript,pug,html,css,sass,javascript,nginx)
-![](https://skillicons.dev/icons?i=php,laravel,python,mysql,mongodb,redis,gcp,firebase,git,github)
-![](https://skillicons.dev/icons?i=linux,raspberrypi,bash,markdown,regex,docker,postman,vscode,figma,cloudflare)
+- **Backend and Admin Panels**  
+  **Discount**: Get $200 USD off when developing both frontend and backend together
+
+  | Type | Time | Price |
+  | :- | :- | :- |
+  | API Development | 1 business day / item | Starting from $70 USD / item |
+  | Basic admin panel | Minimum 5 business days | Starting from $850 USD |
+  | Custom admin panel | Minimum 15 business days | Starting from $2,000 USD |
+
+- **Hosting and Maintenance**<br>
+  Must be combined with frontend or backend development.<br>
+  **Recovery**: 1-hour downtime recovery.<br>
+  **Snapshot**: System snapshots every 3 days.<br>
+  **Backup**: Database backups every 7 days.<br>
+  **Monitoring**: 24-hour health monitoring.
+
+  | Type | Suitable For | Price |
+  | :- | :- | :- |
+  | Basic | Blog, Official Website | $700 USD / Year |
+  | Advanced | Social Platforms, E-commerce | $1,700 USD / Year |
+
+- **Dedicated Development**<br>
+  Only available when no other development projects are ongoing.<br>
+  All invoiced; health and labor insurance to be handled independently.<br>
+  **Contract**: Signed for six months at a time.<br>
+  **On-site**: Taipei, New Taipei
+
+  | Type | Fully Remote | On-site |
+  | :- | :- | :- |
+  | iOS | Starting from $2,200 USD / Month | Starting from $2,700 USD / Month |
+  | Full Stack | Starting from $3,200 USD / Month | Starting from $4,000 USD / Month |
