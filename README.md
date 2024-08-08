@@ -54,12 +54,12 @@ Independently developed and released multiple websites and apps.
 
 ### Naming Conventions
 
+- `PD*`: NPM Module (Published or Ready to Publish)
 - `ios-*`: Complete iOS Example
 - `swift-*`: Swift Feature Showcase
-- `kotlin-*`: Kotlin Feature Showcase
 - `web-*`: Complete HTML/CSS/JS Example
 - `css-*`: CSS Example
-- `flutter-*`: Complete Flutter Example
 - `php-*`: PHP Example
 - `vscode-*`: VSCode Extension
-- `PD*`: NPM Module (Published or Ready to Publish)
+- `flutter-*`: Complete Flutter Example
+- `kotlin-*`: Kotlin Feature Showcase
