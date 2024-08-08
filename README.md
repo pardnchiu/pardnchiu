@@ -51,3 +51,15 @@ Independently developed and released multiple websites and apps.
 ![](https://skillicons.dev/icons?i=swift,nodejs,express,typescript,pug,html,css,sass,javascript,nginx)
 ![](https://skillicons.dev/icons?i=php,laravel,python,mysql,mongodb,redis,gcp,firebase,git,github)
 ![](https://skillicons.dev/icons?i=linux,raspberrypi,bash,markdown,regex,docker,postman,vscode,figma,cloudflare)
+
+### Naming Conventions
+
+- `ios-*`: Complete iOS Example
+- `swift-*`: Swift Feature Showcase
+- `kotlin-*`: Kotlin Feature Showcase
+- `web-*`: Complete HTML/CSS/JS Example
+- `css-*`: CSS Example
+- `flutter-*`: Complete Flutter Example
+- `php-*`: PHP Example
+- `vscode-*`: VSCode Extension
+- `PD*`: NPM Module (Published or Ready to Publish)
