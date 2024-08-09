@@ -2,7 +2,7 @@
 
 | Prefix | Description | Link |
 | :- | :- | :- |
-| `PD*` | NPM Module | [Here](https://github.com/pardnchiu?tab=repositories&q=PD*) |
+| `PD*` | NPM Module | [Here](https://github.com/pardnchiu?tab=repositories&q=PD) |
 | `ios-*` | iOS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=ios-) |
 | `swift-*` | Swift Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=swift-) |
 | `web-*` | Web Frontend Example | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
