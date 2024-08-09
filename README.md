@@ -1,16 +1,16 @@
 **Repo Naming Conventions**
 
-| Prefix | Description |
-| :- | :- |
-| `PD*` | NPM Module |
-| `ios-*` | iOS Example |
-| `swift-*` | Swift Feature Showcase |
-| `web-*` | Web Frontend Example |
-| `css-*` | CSS Example |
-| `php-*` | PHP Example |
-| `vscode-*` | VSCode Extension |
-| `flutter-*` | Flutter Example |
-| `kotlin-*` | Kotlin Feature Showcase |
+| Prefix | Description | Link |
+| :- | :- | :- |
+| `PD*` | NPM Module | [Here](https://github.com/pardnchiu?tab=repositories&q=PD*) |
+| `ios-*` | iOS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=ios-) |
+| `swift-*` | Swift Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=swift-) |
+| `web-*` | Web Frontend Example | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
+| `css-*` | CSS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=css-) |
+| `php-*` | PHP Example | |
+| `vscode-*` | VSCode Extension | [Here](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
+| `flutter-*` | Flutter Example | |
+| `kotlin-*` | Kotlin Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
 
 **Repo Overview**
 
