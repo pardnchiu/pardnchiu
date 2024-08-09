@@ -2,7 +2,7 @@
 
 | Prefix | Description |
 | :- | :- |
-| `PD*` | NPM Module (Published or Ready to Publish) |
+| `PD*` | NPM Module |
 | `ios-*` | iOS Example |
 | `swift-*` | Swift Feature Showcase |
 | `web-*` | Web Frontend Example |
