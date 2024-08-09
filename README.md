@@ -1,13 +1,16 @@
 **Repo Naming Conventions**
-- `PD*`: NPM Module (Published or Ready to Publish)
-- `ios-*`: Complete iOS Example
-- `swift-*`: Swift Feature Showcase
-- `web-*`: Complete HTML/CSS/JS Example
-- `css-*`: CSS Example
-- `php-*`: PHP Example
-- `vscode-*`: VSCode Extension
-- `flutter-*`: Complete Flutter Example
-- `kotlin-*`: Kotlin Feature Showcase
+
+| Prefix | Description |
+| :- | :- |
+| `PD*` | NPM Module (Published or Ready to Publish) |
+| `ios-*` | iOS Example |
+| `swift-*` | Swift Feature Showcase |
+| `web-*` | Web Frontend Example |
+| `css-*` | CSS Example |
+| `php-*` | PHP Example |
+| `vscode-*` | VSCode Extension |
+| `flutter-*` | Flutter Example |
+| `kotlin-*` | Kotlin Feature Showcase |
   
 ***
 
