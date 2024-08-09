@@ -11,14 +11,28 @@
 | `vscode-*` | VSCode Extension |
 | `flutter-*` | Flutter Example |
 | `kotlin-*` | Kotlin Feature Showcase |
-  
+
+**Repo**
+
+| Category          | Description                                | |
+| ----------------- | ------------------------------------------ | - |
+| JS Library | Lightweight Frontend Framework | [Here](https://github.com/pardnchiu/PDRenderKit) |
+| JS Library | Markdown Editor and Viewer Module | [Here](https://github.com/pardnchiu/PDMarkdownKit) |
+| JS Library | HTML5 / Youtube Player Module | [Here](https://github.com/pardnchiu/PDPlayerKit) |
+| JS Library | Frontend Utility | [Here](https://github.com/pardnchiu/PDUtils) |
+| Web | Website Builder | [Here](https://github.com/pardnchiu/website-builder) |
+| Web | Window Manager | [Here](https://github.com/pardnchiu/pane-desk) |
+| Web | Over 30 website examples | [Here](https://github.com/pardnchiu?q=web&sort=&tab=repositories) |
+| iOS | Firebase Realtime Messaging | [Here](https://github.com/pardnchiu/ios-firebase-messaging) |
+| iOS | Moneybook Accounting | [Here](https://github.com/pardnchiu/ios-moneybook) |
+| CSS | Pokemon Quest | [Here](https://github.com/pardnchiu/css-pokemon-quest) |
+
 ***
 
 # Passionate Self-Learner and Developer
 
-I am **Pardn Chiu**, the founder of [JOBALL](https://joball.tw) and **Pardn Ltd**.<br>
-Specialized in **native iOS** and **full-stack web** development.<br>
-Experienced in hardware management and proficient in various versions of Linux operations, including RHEL and Debian.<br>
+I am **邱敬幃 Pardn Chiu**, the founder of "[**JOBALL**](https://joball.tw)" and "**Pardn Ltd**".<br>
+Specialized in "**Native iOS**" and "**Full-stack Web**" development.<br>
 Proficient in self-learning new technologies and conducting in-depth research on required projects.<br>
 Independently developed and released multiple websites and apps.
 
@@ -54,16 +68,3 @@ Independently developed and released multiple websites and apps.
 ![](https://skillicons.dev/icons?i=swift,nodejs,express,typescript,pug,html,css,sass,javascript,nginx)
 ![](https://skillicons.dev/icons?i=php,laravel,python,mysql,mongodb,redis,gcp,firebase,git,github)
 ![](https://skillicons.dev/icons?i=linux,raspberrypi,bash,markdown,regex,docker,postman,vscode,figma,cloudflare)
-
-
-### Repos
-- (JavaScript Lib) Lightweight Frontend Framework: [PDRenderKit](https://github.com/pardnchiu/PDRenderKit)
-- (JavaScript Lib) Markdown Editor: [PDMarkdownKit](https://github.com/pardnchiu/PDMarkdownKit)
-- (JavaScript Lib) HTML5 / Youtube Player: [PDPlayerKit](https://github.com/pardnchiu/PDPlayerKit)
-- (JavaScript Lib) Frontend Utility: [PDUtils](https://github.com/pardnchiu/PDUtils)
-- (Web) Website Builder: [Website Builder](https://github.com/pardnchiu/website-builder)
-- (Web) Window Manager: [PaneDesk](https://github.com/pardnchiu/pane-desk)
-- (iOS) Firebase Realtime Messaging: [ios-firebase-messaging](https://github.com/pardnchiu/ios-firebase-messaging)
-- (iOS) Moneybook Accounting: [ios-moneybook](https://github.com/pardnchiu/ios-moneybook)
-- CSS Drawing: [css-pokemon-quest](https://github.com/pardnchiu/css-pokemon-quest)
-- ... and over 30 website examples [Here](https://github.com/pardnchiu?q=web&sort=&tab=repositories)
