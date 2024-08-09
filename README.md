@@ -14,8 +14,8 @@
 
 **Repo Overview**
 
-| Category          | Description                                | |
-| ----------------- | ------------------------------------------ | - |
+| Category | Description | Link |
+| :- | :- | :- |
 | JS Library | Lightweight Frontend Framework | [Here](https://github.com/pardnchiu/PDRenderKit) |
 | JS Library | Markdown Editor and Viewer Module | [Here](https://github.com/pardnchiu/PDMarkdownKit) |
 | JS Library | HTML5 / Youtube Player Module | [Here](https://github.com/pardnchiu/PDPlayerKit) |
