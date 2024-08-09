@@ -1,13 +1,13 @@
-- (JavaScript Lib) Lightweight Frontend Framework: [PDRenderKit](https://github.com/pardnchiu/PDRenderKit)
-- (JavaScript Lib) Markdown Editor: [PDMarkdownKit](https://github.com/pardnchiu/PDMarkdownKit)
-- (JavaScript Lib) HTML5 / Youtube Player: [PDPlayerKit](https://github.com/pardnchiu/PDPlayerKit)
-- (JavaScript Lib) Frontend Utility: [PDUtils](https://github.com/pardnchiu/PDUtils)
-- (Web) Website Builder: [Website Builder](https://github.com/pardnchiu/website-builder)
-- (Web) Window Manager: [PaneDesk](https://github.com/pardnchiu/pane-desk)
-- (iOS) Firebase Realtime Messaging: [ios-firebase-messaging](https://github.com/pardnchiu/ios-firebase-messaging)
-- (iOS) Moneybook Accounting: [ios-moneybook](https://github.com/pardnchiu/ios-moneybook)
-- CSS Drawing: [css-pokemon-quest](https://github.com/pardnchiu/css-pokemon-quest)
-- ... and over 30 website examples [Here](https://github.com/pardnchiu?q=web&sort=&tab=repositories)
+**Repo Naming Conventions**
+- `PD*`: NPM Module (Published or Ready to Publish)
+- `ios-*`: Complete iOS Example
+- `swift-*`: Swift Feature Showcase
+- `web-*`: Complete HTML/CSS/JS Example
+- `css-*`: CSS Example
+- `php-*`: PHP Example
+- `vscode-*`: VSCode Extension
+- `flutter-*`: Complete Flutter Example
+- `kotlin-*`: Kotlin Feature Showcase
   
 ***
 
@@ -52,14 +52,15 @@ Independently developed and released multiple websites and apps.
 ![](https://skillicons.dev/icons?i=php,laravel,python,mysql,mongodb,redis,gcp,firebase,git,github)
 ![](https://skillicons.dev/icons?i=linux,raspberrypi,bash,markdown,regex,docker,postman,vscode,figma,cloudflare)
 
-### Naming Conventions
 
-- `PD*`: NPM Module (Published or Ready to Publish)
-- `ios-*`: Complete iOS Example
-- `swift-*`: Swift Feature Showcase
-- `web-*`: Complete HTML/CSS/JS Example
-- `css-*`: CSS Example
-- `php-*`: PHP Example
-- `vscode-*`: VSCode Extension
-- `flutter-*`: Complete Flutter Example
-- `kotlin-*`: Kotlin Feature Showcase
+### Repos
+- (JavaScript Lib) Lightweight Frontend Framework: [PDRenderKit](https://github.com/pardnchiu/PDRenderKit)
+- (JavaScript Lib) Markdown Editor: [PDMarkdownKit](https://github.com/pardnchiu/PDMarkdownKit)
+- (JavaScript Lib) HTML5 / Youtube Player: [PDPlayerKit](https://github.com/pardnchiu/PDPlayerKit)
+- (JavaScript Lib) Frontend Utility: [PDUtils](https://github.com/pardnchiu/PDUtils)
+- (Web) Website Builder: [Website Builder](https://github.com/pardnchiu/website-builder)
+- (Web) Window Manager: [PaneDesk](https://github.com/pardnchiu/pane-desk)
+- (iOS) Firebase Realtime Messaging: [ios-firebase-messaging](https://github.com/pardnchiu/ios-firebase-messaging)
+- (iOS) Moneybook Accounting: [ios-moneybook](https://github.com/pardnchiu/ios-moneybook)
+- CSS Drawing: [css-pokemon-quest](https://github.com/pardnchiu/css-pokemon-quest)
+- ... and over 30 website examples [Here](https://github.com/pardnchiu?q=web&sort=&tab=repositories)
