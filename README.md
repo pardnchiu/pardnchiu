@@ -1,4 +1,4 @@
-[中文版本](https://github.com/pardnchiu/pardnchiu/blob/main/README-zh.md)
+[中文版本](https://github.com/pardnchiu/pardnchiu/blob/main/README.zh.md)
 
 **Repo Naming Conventions**
 
