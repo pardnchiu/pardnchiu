@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/點擊查看-報價-00ff0)](https://github.com/pardnchiu/pardnchiu/blob/main/pricing.zh.md) [![](https://img.shields.io/badge/read-English%20Version-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.md)
+[![](https://img.shields.io/badge/點擊查看-報價-0000ff)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/read-English%20Version-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.md)
 
 **命名習慣**
 
