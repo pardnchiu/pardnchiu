@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/read-pricing-0000ff)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/點擊查看-中文版本-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.zh.md) 
+[![](https://img.shields.io/badge/read-pricing-00ff00)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/點擊查看-中文版本-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.zh.md) 
 
 **Repo Naming Conventions**
 

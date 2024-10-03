@@ -1,4 +1,6 @@
-*最後更新於2024/10/03*
+[![](https://img.shields.io/badge/點擊查看-介紹-00ff00)](https://github.com/pardnchiu/pardnchiu/blob/main/README.zh.md)
+
+*最後更新於2024/10/04*
 
 # 報價介紹  
 
