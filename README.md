@@ -1,35 +1,4 @@
-[![](https://img.shields.io/badge/read-pricing-00ff00)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/點擊查看-中文版本-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.zh.md) 
-
-**Repo Naming Conventions**
-
-| Prefix | Description | Link |
-| :- | :- | :- |
-| `PD*` | Module | [Here](https://github.com/pardnchiu?tab=repositories&q=PD) |
-| `ios-*` | iOS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=ios-) |
-| `swift-*` | Swift Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=swift-) |
-| `web-*` | Web Frontend Example | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
-| `css-*` | CSS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=css-) |
-| `php-*` | PHP Example | [Here](https://github.com/pardnchiu?tab=repositories&q=php-) |
-| `nodejs-*` | Node.js Example | [Here](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
-| `vscode-*` | VSCode Extension | [Here](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
-| `flutter-*` | Flutter Example | [Here](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
-| `kotlin-*` | Kotlin Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
-
-**Repo Overview**
-
-| Category | Description | Link |
-| :- | :- | :- |
-| JS Library | Lightweight Frontend Framework | [Here](https://github.com/pardnchiu/PDRenderKit) |
-| JS Library | Markdown Editor and Viewer Module | [Here](https://github.com/pardnchiu/PDMarkdownKit) |
-| JS Library | HTML5 / Youtube Player Module | [Here](https://github.com/pardnchiu/PDPlayerKit) |
-| Web | Website Builder | [Here](https://github.com/pardnchiu/website-builder) |
-| Web | Window Manager | [Here](https://github.com/pardnchiu/pane-desk) |
-| Web | Over 30 website examples | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
-| iOS | Firebase Realtime Messaging | [Here](https://github.com/pardnchiu/ios-firebase-messaging) |
-| iOS | Moneybook Accounting | [Here](https://github.com/pardnchiu/ios-moneybook) |
-| CSS | Pokemon Quest | [Here](https://github.com/pardnchiu/css-pokemon-quest) |
-
-***
+[![](https://img.shields.io/badge/read-pricing-44dd44)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/點擊查看-中文版本-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.zh.md) 
 
 # Passionate Self-Learner and Developer
 
@@ -62,3 +31,32 @@ Github is only used to showcase personal side projects.
    - Knowledgeable in various Linux distributions, including RHEL and Ubuntu / Debian.
    - Extensive hardware management experience and own a variety of hardware, including HPE, Dell, Supermicro, and ASRockRack.
    - Proficient in configuring Proxmox and establishing high-availability server clusters.
+ 
+
+## Repo 
+
+- **Naming Conventions**
+  | Prefix | Description | Link |
+  | :- | :- | :- |
+  | `PD*` | Module | [Here](https://github.com/pardnchiu?tab=repositories&q=PD) |
+  | `ios-*` | iOS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=ios-) |
+  | `swift-*` | Swift Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=swift-) |
+  | `web-*` | Web Frontend Example | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
+  | `css-*` | CSS Example | [Here](https://github.com/pardnchiu?tab=repositories&q=css-) |
+  | `php-*` | PHP Example | [Here](https://github.com/pardnchiu?tab=repositories&q=php-) |
+  | `nodejs-*` | Node.js Example | [Here](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
+  | `vscode-*` | VSCode Extension | [Here](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
+  | `flutter-*` | Flutter Example | [Here](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
+  | `kotlin-*` | Kotlin Feature Showcase | [Here](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
+- **Overview**
+  | Category | Description | Link |
+  | :- | :- | :- |
+  | JS Library | Lightweight Frontend Framework | [Here](https://github.com/pardnchiu/PDRenderKit) |
+  | JS Library | Markdown Editor and Viewer Module | [Here](https://github.com/pardnchiu/PDMarkdownKit) |
+  | JS Library | HTML5 / Youtube Player Module | [Here](https://github.com/pardnchiu/PDPlayerKit) |
+  | Web | Website Builder | [Here](https://github.com/pardnchiu/website-builder) |
+  | Web | Window Manager | [Here](https://github.com/pardnchiu/pane-desk) |
+  | Web | Over 30 website examples | [Here](https://github.com/pardnchiu?tab=repositories&q=web-) |
+  | iOS | Firebase Realtime Messaging | [Here](https://github.com/pardnchiu/ios-firebase-messaging) |
+  | iOS | Moneybook Accounting | [Here](https://github.com/pardnchiu/ios-moneybook) |
+  | CSS | Pokemon Quest | [Here](https://github.com/pardnchiu/css-pokemon-quest) |
