@@ -1,20 +1,5 @@
 [![](https://img.shields.io/badge/read-pricing-44dd44)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/點擊查看-中文版本-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.zh.md) 
 
-# Passionate Self-Learner and Developer
-
-I am [邱敬幃 Pardn Chiu](https://linkedin.com/in/pardnchiu), founder of "[JOBALL](https://joball.tw)" and "[Pardn Ltd](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502)".<br>
-
-Specialized in Native iOS and Website development.<br>
-Proficient in self-learning new technologies and conducting in-depth research on required projects.<br>
-
-Independently developed and released multiple websites and applications.<br>
-Github is only used to showcase personal side projects.
-
-## Personal Projects
-
-- A professional experts matching platform "[JOBALL](https://joball.tw)" with over 10 thousands of registered users.
-- 2 iOS apps including the social app "[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)" and the e-commerce app "[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)".
-
 ## Technical Expertise
 
 - **Native iOS**<br>
@@ -31,7 +16,11 @@ Github is only used to showcase personal side projects.
    - Knowledgeable in various Linux distributions, including RHEL and Ubuntu / Debian.
    - Extensive hardware management experience and own a variety of hardware, including HPE, Dell, Supermicro, and ASRockRack.
    - Proficient in configuring Proxmox and establishing high-availability server clusters.
- 
+
+## Personal Projects
+
+- A professional experts matching platform "[JOBALL](https://joball.tw)" with over 10 thousands of registered users.
+- 2 iOS apps including the social app "[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)" and the e-commerce app "[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)".
 
 ## Repo 
 
