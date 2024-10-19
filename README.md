@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/點擊查看-報價-44dd44)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/read-English%20Version-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.en.md)
 
-## 個人技術介紹
+## 使用技術
 
 - **原生iOS**<br>
   專精於使用 Swift 搭配 UIKit 進行純代碼開發，不依賴 Storyboard 和 SwiftUI
@@ -17,7 +17,7 @@
    - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack
    - 擅長配置 Proxmox 並建立高可用性伺服器集群
 
-## 個人開發專案
+## 我的專案
 
 - 萬人註冊的專業人才媒合平台 [**JOBALL**](https://joball.tw)
 - 社群 [**JOBALL**](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) 與電商 [**NEEDS**](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) 2 款 iOS APP
