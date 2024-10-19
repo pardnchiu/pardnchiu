@@ -4,6 +4,8 @@
 
 - **原生iOS**<br>
   專精於使用 Swift 搭配 UIKit 進行純代碼開發，不依賴 Storyboard 和 SwiftUI
+- **跨平台APP**<br>
+  使用 Flutter 進行跨平台移動應用開發
 - **網站前端**<br>
   專精於使用純 HTML、CSS / SASS 和原生 JavaScript 進行切版
 - **後端**<br>
