@@ -19,7 +19,7 @@
    - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack
    - 擅長配置 Proxmox 並建立高可用性伺服器集群
 
-## 我的專案
+## 個人專案
 
 - 萬人註冊的專業人才媒合平台 [**JOBALL**](https://joball.tw)
 - 社群 [**JOBALL**](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) 與電商 [**NEEDS**](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) 2 款 iOS APP
