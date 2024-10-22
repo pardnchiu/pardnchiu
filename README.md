@@ -41,12 +41,14 @@
   | `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
 - **概覽**
   - **函式庫**
-    1. PDRenderKit<br>
+    1. PDRenderKit (JavaScript)<br>
       [輕量化前端框架](https://github.com/pardnchiu/PDRenderKit)
-    2. PDMarkdownKit<br>
+    2. PDMarkdownKit (JavaScript)<br>
       [編輯器與檢視器模組](https://github.com/pardnchiu/PDMarkdownKit)
-    3. PDPlayerKit<br>
+    3. PDPlayerKit (JavaScript)<br>
       [HTML5 / Youtube 播放器模組](https://github.com/pardnchiu/PDPlayerKit)
+    4. PDPHP-Async (PHP)<br>
+      [非同步執行任務的依賴排序](https://github.com/pardnchiu/PDPHP-Async)
   - **線上工具**
     1. Website Builder<br>
       [網頁版架站工具](https://github.com/pardnchiu/website-builder)
