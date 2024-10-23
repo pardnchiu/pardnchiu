@@ -6,16 +6,16 @@
 | :- | :- | :- |
 | `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
 | `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
-| `swift-*` | Swift 功能展示 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
+| `swift-*` | Swift 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
 | `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
 | `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
-| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
 | `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
-| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
+| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
 | `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
 | `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
+| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
 
-## Repo 概覽
+## 部分項目介紹
 
 <details>
 <summary><strong>函式庫</strong></summary>
