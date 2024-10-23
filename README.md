@@ -42,13 +42,13 @@
 - **概覽**
   - **函式庫**
     1. PDRenderKit (JavaScript)<br>
-      [輕量化前端框架](https://github.com/pardnchiu/PDRenderKit)
+      [易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
     2. PDMarkdownKit (JavaScript)<br>
-      [編輯器與檢視器模組](https://github.com/pardnchiu/PDMarkdownKit)
+      [輕量且模組化的Markdown編輯器](https://github.com/pardnchiu/PDMarkdownKit)
     3. PDPlayerKit (JavaScript)<br>
-      [HTML5 / Youtube 播放器模組](https://github.com/pardnchiu/PDPlayerKit)
+      [便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
     4. PDPHP-Async (PHP)<br>
-      [非同步執行任務的依賴排序](https://github.com/pardnchiu/PDPHP-Async)
+      [支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
   - **線上工具**
     1. Website Builder<br>
       [網頁版架站工具](https://github.com/pardnchiu/website-builder)
