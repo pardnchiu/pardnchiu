@@ -52,7 +52,7 @@
 <details>
 <summary><strong>PHP 函式庫</strong></summary>
 
-1. PDPHP-Async (PHP)<br>
+1. PDPHP-Async<br>
 [支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
 
 </details>
