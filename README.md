@@ -17,28 +17,47 @@
 
 ## Repo 概覽
 
-- **函式庫**
-  1. PDRenderKit (JavaScript)<br>
-    [易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
-  2. PDMarkdownKit (JavaScript)<br>
-    [輕量且模組化的Markdown編輯器](https://github.com/pardnchiu/PDMarkdownKit)
-  3. PDPlayerKit (JavaScript)<br>
-    [便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
-  4. PDPHP-Async (PHP)<br>
-    [支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
-- **線上工具**
-  1. Website Builder<br>
-    [網頁版架站工具](https://github.com/pardnchiu/website-builder)
-- **網站前端**
-  1. Web Template<br>
-    [網站純前端範例合輯](https://github.com/pardnchiu/web-template)
-  2. CSS Pokemon Quest<br>
-    [寶可夢探險頭像 (CSS繪圖)](https://github.com/pardnchiu/css-pokemon-quest)
-- **iOS範例**
-  1. Firebase Messaging<br>
-    [Firebase 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
-  2. Moneybook<br>
-    [記帳軟體](https://github.com/pardnchiu/ios-moneybook)
+<details>
+<summary><strong>函式庫</strong></summary>
+
+1. PDRenderKit (JavaScript)<br>
+[易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
+2. PDMarkdownKit (JavaScript)<br>
+[輕量且模組化的MD編輯器](https://github.com/pardnchiu/PDMarkdownKit)
+3. PDPlayerKit (JavaScript)<br>
+[便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
+4. PDPHP-Async (PHP)<br>
+[支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
+
+</details>
+
+<details>
+<summary><strong>線上工具</strong></summary>
+
+1. Website Builder<br>
+[網頁版架站工具](https://github.com/pardnchiu/website-builder)
+
+</details>
+
+<details>
+<summary><strong>網站前端</strong></summary>
+
+1. Web Template<br>
+[網站純前端範例合輯](https://github.com/pardnchiu/web-template)
+2. CSS Pokemon Quest<br>
+[寶可夢探險頭像 (CSS繪圖)](https://github.com/pardnchiu/css-pokemon-quest)
+
+</details>
+
+<details>
+<summary><strong>iOS範例</strong></summary>
+
+1. Firebase Messaging<br>
+[Firebase 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
+2. Moneybook<br>
+[記帳軟體](https://github.com/pardnchiu/ios-moneybook)
+
+</details>
 
 ## 使用技術
 
