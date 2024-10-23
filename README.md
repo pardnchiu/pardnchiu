@@ -15,27 +15,45 @@
 | `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
 | `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
 
-## 部分項目介紹
+## 推薦項目
 
 <details>
-<summary><strong>函式庫</strong></summary>
+<summary><strong>個人專案</strong></summary>
 
-1. PDRenderKit (JavaScript)<br>
-[易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
-2. PDMarkdownKit (JavaScript)<br>
-[輕量且模組化的MD編輯器](https://github.com/pardnchiu/PDMarkdownKit)
-3. PDPlayerKit (JavaScript)<br>
-[便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
-4. PDPHP-Async (PHP)<br>
-[支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
+1. JOBALL找專家<br>
+[萬人註冊的專業人才媒合平台](https://joball.tw)
+2. Website Builder<br>
+[網頁版架站工具](https://github.com/pardnchiu/website-builder)
 
 </details>
 
 <details>
-<summary><strong>線上工具</strong></summary>
+<summary><strong>iOS 上架</strong></summary>
 
-1. Website Builder<br>
-[網頁版架站工具](https://github.com/pardnchiu/website-builder)
+1. JOBALL接洽<br>
+[專業人才媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)
+2. NEEDS開箱<br>
+[電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)
+
+</details>
+
+<details>
+<summary><strong>JavaScript 函式庫</strong></summary>
+
+1. PDRenderKit<br>
+[易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
+2. PDMarkdownKit<br>
+[輕量且模組化的MD編輯器](https://github.com/pardnchiu/PDMarkdownKit)
+3. PDPlayerKit<br>
+[便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
+
+</details>
+
+<details>
+<summary><strong>PHP 函式庫</strong></summary>
+
+1. PDPHP-Async (PHP)<br>
+[支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
 
 </details>
 
@@ -50,7 +68,7 @@
 </details>
 
 <details>
-<summary><strong>iOS範例</strong></summary>
+<summary><strong>iOS 範例</strong></summary>
 
 1. Firebase Messaging<br>
 [Firebase 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
@@ -77,8 +95,3 @@
    - 熟悉多種 Linux 發行版，包括 RHEL 和 Ubuntu / Debian
    - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack
    - 擅長配置 Proxmox 並建立高可用性伺服器集群
-
-## 個人專案
-
-- 萬人註冊的專業人才媒合平台 [**JOBALL**](https://joball.tw)
-- 社群 [**JOBALL**](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) 與電商 [**NEEDS**](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) 2 款 iOS APP
