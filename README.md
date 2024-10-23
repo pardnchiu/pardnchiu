@@ -1,5 +1,45 @@
 [![](https://img.shields.io/badge/點擊查看-報價-44dd44)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/read-English%20Version-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.en.md)
 
+## Repo 命名習慣
+
+| 前綴 | 描述 | 連結 |
+| :- | :- | :- |
+| `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
+| `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
+| `swift-*` | Swift 功能展示 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
+| `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
+| `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
+| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
+| `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
+| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
+| `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
+| `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
+
+## Repo 概覽
+
+- **函式庫**
+  1. PDRenderKit (JavaScript)<br>
+    [易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
+  2. PDMarkdownKit (JavaScript)<br>
+    [輕量且模組化的Markdown編輯器](https://github.com/pardnchiu/PDMarkdownKit)
+  3. PDPlayerKit (JavaScript)<br>
+    [便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
+  4. PDPHP-Async (PHP)<br>
+    [支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
+- **線上工具**
+  1. Website Builder<br>
+    [網頁版架站工具](https://github.com/pardnchiu/website-builder)
+- **網站前端**
+  1. Web Template<br>
+    [網站純前端範例合輯](https://github.com/pardnchiu/web-template)
+  2. CSS Pokemon Quest<br>
+    [寶可夢探險頭像 (CSS繪圖)](https://github.com/pardnchiu/css-pokemon-quest)
+- **iOS範例**
+  1. Firebase Messaging<br>
+    [Firebase 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
+  2. Moneybook<br>
+    [記帳軟體](https://github.com/pardnchiu/ios-moneybook)
+
 ## 使用技術
 
 - **原生 iOS**<br>
@@ -23,42 +63,3 @@
 
 - 萬人註冊的專業人才媒合平台 [**JOBALL**](https://joball.tw)
 - 社群 [**JOBALL**](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) 與電商 [**NEEDS**](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) 2 款 iOS APP
-
-## Repo 
-
-- **命名習慣**
-  | 前綴 | 描述 | 連結 |
-  | :- | :- | :- |
-  | `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
-  | `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
-  | `swift-*` | Swift 功能展示 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
-  | `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
-  | `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
-  | `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
-  | `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
-  | `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
-  | `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
-  | `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
-- **概覽**
-  - **函式庫**
-    1. PDRenderKit (JavaScript)<br>
-      [易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
-    2. PDMarkdownKit (JavaScript)<br>
-      [輕量且模組化的Markdown編輯器](https://github.com/pardnchiu/PDMarkdownKit)
-    3. PDPlayerKit (JavaScript)<br>
-      [便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
-    4. PDPHP-Async (PHP)<br>
-      [支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
-  - **線上工具**
-    1. Website Builder<br>
-      [網頁版架站工具](https://github.com/pardnchiu/website-builder)
-  - **網站前端**
-    1. Web Template<br>
-      [網站純前端範例合輯](https://github.com/pardnchiu/web-template)
-    2. CSS Pokemon Quest<br>
-      [寶可夢探險頭像 (CSS繪圖)](https://github.com/pardnchiu/css-pokemon-quest)
-  - **iOS範例**
-    1. Firebase Messaging<br>
-      [Firebase 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
-    2. Moneybook<br>
-      [記帳軟體](https://github.com/pardnchiu/ios-moneybook)
