@@ -13,65 +13,47 @@
 </details>
 
 <details>
-<summary><strong>iOS 上架</strong></summary>
+<summary><strong>APP 上架</strong></summary>
 
-| 名稱 | 描述 | 連結 |
-| :- | :- | :- |
-| JOBALL 接洽 | 媒合平台 | [前往](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
-| NEEDS 開箱 | 電商社群 | [前往](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) |
-
-</details>
-
-<details>
-<summary><strong>JavaScript 函式庫</strong></summary>
-
-1. PDRenderKit<br>
-[易於導入使用的前端框架](https://github.com/pardnchiu/PDRenderKit)
-2. PDMarkdownKit<br>
-[輕量且模組化的MD編輯器](https://github.com/pardnchiu/PDMarkdownKit)
-3. PDPlayerKit<br>
-[便於插入HTML5/YT影片的播放器](https://github.com/pardnchiu/PDPlayerKit)
+| 名稱 | 類型 | 描述 | 連結 |
+| :- | :- | :- | :- |
+| JOBALL 接洽 | iOS | 媒合平台 | [前往](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
+| NEEDS 開箱 | iOS | 電商社群 | [前往](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) |
 
 </details>
 
 <details>
-<summary><strong>Swift 函式庫</strong></summary>
+<summary><strong>函式庫</strong></summary>
 
-1. PDExtension<br>
-[Swift 擴展](https://github.com/pardnchiu/swift-PDExtension)
-2. PDAttributed<br>
-[NSAttributedString 快速設置](https://github.com/pardnchiu/swift-PDAttributed)
-3. PDLayout<br>
-[AutoLayout 快速設置](https://github.com/pardnchiu/swift-PDLayout)
-
-</details>
-
-
-<details>
-<summary><strong>PHP 函式庫</strong></summary>
-
-1. PDPHP-Async<br>
-[支持依賴排序的非同步任務函式庫](https://github.com/pardnchiu/PDPHP-Async)
+| 名稱 | 類型 | 描述 | 連結 |
+| :- | :- | :- | :- |
+| PDRenderKit | JavaScript | 易於導入使用的前端框架 | [前往](https://github.com/pardnchiu/PDRenderKit) |
+| PDMarkdownKit | JavaScript | 輕量且模組化的MD編輯器 | [前往](https://github.com/pardnchiu/PDMarkdownKit) |
+| PDPlayerKit | JavaScript | 便於插入HTML5/YT影片的播放器 | [前往](https://github.com/pardnchiu/PDPlayerKit) |
+| PDExtension | Swift | Swift擴展 | [前往](https://github.com/pardnchiu/swift-PDExtension) |
+| PDAttributed | Swift | NSAttributedString快速設置 | [前往](https://github.com/pardnchiu/swift-PDAttributed) |
+| PDLayout | Swift | AutoLayout快速設置 | [前往](https://github.com/pardnchiu/swift-PDLayout) |
+| PDPHP-Async | PHP | 支持依賴排序的非同步任務函式庫 | [前往](https://github.com/pardnchiu/PDPHP-Async) |
 
 </details>
 
 <details>
 <summary><strong>網站前端</strong></summary>
 
-1. Web Template<br>
-[網站純前端範例合輯](https://github.com/pardnchiu/web-template)
-2. CSS Pokemon Quest<br>
-[寶可夢探險頭像 (CSS繪圖)](https://github.com/pardnchiu/css-pokemon-quest)
+| 名稱 | 描述 | 連結 |
+| :- | :- | :- | 
+| Web Template | 網站純前端範例合輯 | [前往](https://github.com/pardnchiu/web-template) |
+| CSS Pokemon Quest | 寶可夢探險頭像 (CSS繪圖) | [前往](https://github.com/pardnchiu/css-pokemon-quest) |
 
 </details>
 
 <details>
 <summary><strong>iOS 範例</strong></summary>
 
-1. Firebase Messaging<br>
-[Firebase 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
-2. Moneybook<br>
-[記帳軟體](https://github.com/pardnchiu/ios-moneybook)
+| 名稱 | 描述 | 連結 |
+| :- | :- | :- | 
+| Firebase Messaging | Firebase 即時訊息 | [前往](https://github.com/pardnchiu/ios-firebase-messaging) |
+| Moneybook | 記帳軟體 | [前往](https://github.com/pardnchiu/ios-moneybook) |
 
 </details>
 
