@@ -50,6 +50,19 @@
 </details>
 
 <details>
+<summary><strong>Swift 函式庫</strong></summary>
+
+1. PDExtension<br>
+[Swift 擴展](https://github.com/pardnchiu/swift-PDExtension)
+2. PDAttributed<br>
+[NSAttributedString 快速設置](https://github.com/pardnchiu/swift-PDAttributed)
+3. PDLayout<br>
+[AutoLayout 快速設置](https://github.com/pardnchiu/swift-PDLayout)
+
+</details>
+
+
+<details>
 <summary><strong>PHP 函式庫</strong></summary>
 
 1. PDPHP-Async<br>
