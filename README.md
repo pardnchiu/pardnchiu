@@ -1,39 +1,24 @@
 [![](https://img.shields.io/badge/點擊查看-報價-44dd44)](https://github.com/pardnchiu/pardnchiu/blob/main/price.zh.md) [![](https://img.shields.io/badge/read-English%20Version-ffffff)](https://github.com/pardnchiu/pardnchiu/blob/main/README.en.md)
 
-## Repo 命名習慣
-
-| 前綴 | 描述 | 連結 |
-| :- | :- | :- |
-| `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
-| `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
-| `swift-*` | Swift 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
-| `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
-| `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
-| `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
-| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
-| `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
-| `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
-| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
-
 ## 推薦項目
 
 <details>
 <summary><strong>個人專案</strong></summary>
 
-1. JOBALL找專家<br>
-[萬人註冊的專業人才媒合平台](https://joball.tw)
-2. Website Builder<br>
-[網頁版架站工具](https://github.com/pardnchiu/website-builder)
+| 名稱 | 描述 | 連結 |
+| :- | :- | :- |
+| JOBALL 找專家 | 媒合平台 | [前往](https://joball.tw) |
+| Website Builder | 網頁工具 | [前往](https://github.com/pardnchiu/website-builder) |
 
 </details>
 
 <details>
 <summary><strong>iOS 上架</strong></summary>
 
-1. JOBALL接洽<br>
-[專業人才媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)
-2. NEEDS開箱<br>
-[電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)
+| 名稱 | 描述 | 連結 |
+| :- | :- | :- |
+| JOBALL 接洽 | 媒合平台 | [前往](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
+| NEEDS 開箱 | 電商社群 | [前往](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) |
 
 </details>
 
@@ -87,6 +72,24 @@
 [Firebase 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
 2. Moneybook<br>
 [記帳軟體](https://github.com/pardnchiu/ios-moneybook)
+
+</details>
+
+<details>
+<summary><strong>REPO 命名習慣</strong></summary>
+
+| 前綴 | 描述 | 連結 |
+| :- | :- | :- |
+| `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
+| `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
+| `swift-*` | Swift 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
+| `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
+| `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
+| `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
+| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
+| `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
+| `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
+| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
 
 </details>
 
