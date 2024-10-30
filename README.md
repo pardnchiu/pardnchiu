@@ -28,7 +28,7 @@
 | 名稱 | 類型 | 描述 | 連結 |
 | :- | :- | :- | :- |
 | PDRenderKit<br>易於導入使用的前端框架 | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hd/pdrenderkit%0A) | [前往](https://github.com/pardnchiu/PDRenderKit) |
-| PDMarkdownKit | JavaScript | 輕量且模組化的MD編輯器 | [前往](https://github.com/pardnchiu/PDMarkdownKit) |
+| PDMarkdownKit<br>輕量且模組化的MD編輯器 | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hd/pdmarkdownkit%0A) | [前往](https://github.com/pardnchiu/PDMarkdownKit) |
 | PDPlayerKit | JavaScript | 便於插入HTML5/YT影片的播放器 | [前往](https://github.com/pardnchiu/PDPlayerKit) |
 | PDExtension | Swift | Swift擴展 | [前往](https://github.com/pardnchiu/swift-PDExtension) |
 | PDAttributed | Swift | NSAttributedString快速設置 | [前往](https://github.com/pardnchiu/swift-PDAttributed) |
