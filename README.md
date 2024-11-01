@@ -26,7 +26,7 @@
 <summary><strong>JavaScript 函式庫</strong></summary>
 
 | 名稱 | 下載 | 連結 |
-| :- | :- | :- | :- |
+| :- | :- | :- |
 | PDQuickUI<br>前端框架 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickuikit) | [前往](https://github.com/pardnchiu/PDQuickUIKit) |
 | PDRenderKit<br>渲染工具 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | [前往](https://github.com/pardnchiu/PDRenderKit) |
 | PDMarkdownKit<br>MD編輯器 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) | [前往](https://github.com/pardnchiu/PDMarkdownKit) |
