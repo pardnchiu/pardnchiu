@@ -23,16 +23,33 @@
 </details>
 
 <details>
-<summary><strong>函式庫</strong></summary>
+<summary><strong>JavaScript 函式庫</strong></summary>
+
+| 名稱 | 下載 | 連結 |
+| :- | :- | :- | :- |
+| PDQuickUI<br>前端框架 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickuikit) | [前往](https://github.com/pardnchiu/PDQuickUIKit) |
+| PDRenderKit<br>渲染工具 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | [前往](https://github.com/pardnchiu/PDRenderKit) |
+| PDMarkdownKit<br>MD編輯器 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) | [前往](https://github.com/pardnchiu/PDMarkdownKit) |
+| PDPlayerKit<br>HTML5/YT播放器 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) | [前往](https://github.com/pardnchiu/PDPlayerKit) |
+
+</details>
+
+<details>
+<summary><strong>Swift 函式庫</strong></summary>
 
 | 名稱 | 類型 | 描述 | 連結 |
 | :- | :- | :- | :- |
-| PDRenderKit<br>易於導入使用的前端框架 | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hd/pdrenderkit%0A) | [前往](https://github.com/pardnchiu/PDRenderKit) |
-| PDMarkdownKit<br>輕量且模組化的MD編輯器 | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hd/pdmarkdownkit%0A) | [前往](https://github.com/pardnchiu/PDMarkdownKit) |
-| PDPlayerKit | JavaScript | 便於插入HTML5/YT影片的播放器 | [前往](https://github.com/pardnchiu/PDPlayerKit) |
 | PDExtension | Swift | Swift擴展 | [前往](https://github.com/pardnchiu/swift-PDExtension) |
 | PDAttributed | Swift | NSAttributedString快速設置 | [前往](https://github.com/pardnchiu/swift-PDAttributed) |
 | PDLayout | Swift | AutoLayout快速設置 | [前往](https://github.com/pardnchiu/swift-PDLayout) |
+
+</details>
+
+<details>
+<summary><strong>PHP 函式庫</strong></summary>
+
+| 名稱 | 類型 | 描述 | 連結 |
+| :- | :- | :- | :- |
 | PDPHP-Async | PHP | 支持依賴排序的非同步任務函式庫 | [前往](https://github.com/pardnchiu/PDPHP-Async) |
 
 </details>
