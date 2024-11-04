@@ -6,7 +6,7 @@
 
 | 名稱 | 類型 | 項目 |
 | :- | :- | :- |
-| PDQuickUI<br>輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickuikit) | JavaScript |  [前往](https://github.com/pardnchiu/PDQuickUIKit) |
+| [PDQuickUI 輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickuikit)](https://github.com/pardnchiu/PDQuickUIKit)| JavaScript |  |
 | PDRenderKit<br>網站渲染工具<br>![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | JavaScript |  [前往](https://github.com/pardnchiu/PDRenderKit) |
 | PDMarkdownKit<br>模組化 MD 編輯器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) | JavaScript |  [前往](https://github.com/pardnchiu/PDMarkdownKit) |
 | PDPlayerKit<br>HTML5/YT播放器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) | JavaScript |   [前往](https://github.com/pardnchiu/PDPlayerKit) |
