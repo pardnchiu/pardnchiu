@@ -4,16 +4,16 @@
 
 ### 函式庫
 
-| 名稱 | 類型 | 項目 |
-| :- | :- | :- |
-| [PDQuickUI 輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickui)](https://github.com/pardnchiu/PDQuickUI)| JavaScript |  |
-| PDRenderKit<br>網站渲染工具<br>![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | JavaScript |  [前往](https://github.com/pardnchiu/PDRenderKit) |
-| PDMarkdownKit<br>模組化 MD 編輯器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) | JavaScript |  [前往](https://github.com/pardnchiu/PDMarkdownKit) |
-| PDPlayerKit<br>HTML5/YT播放器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) | JavaScript |   [前往](https://github.com/pardnchiu/PDPlayerKit) |
-| PDExtension<br>功能擴展 | Swift |  [前往](https://github.com/pardnchiu/swift-PDExtension) |
-| PDAttributed<br>NSAttributedString 快速設置 | Swift |  [前往](https://github.com/pardnchiu/swift-PDAttributed) |
-| PDLayout<br>AutoLayout 快速設置 | Swift |  [前往](https://github.com/pardnchiu/swift-PDLayout) |
-| PDPHP-Async<br>支持依賴排序的非同步任務函式庫 | PHP |  [前往](https://github.com/pardnchiu/PDPHP-Async) |
+| 名稱 | 類型 |
+| :- | :- |
+| [PDQuickUI 輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickui)](https://github.com/pardnchiu/PDQuickUI) | JavaScript |
+| [PDRenderKit 前端渲染工具<br>![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit)](https://github.com/pardnchiu/PDRenderKit) | JavaScript |
+| [PDMarkdownKit 模組化 MD 編輯器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit)](https://github.com/pardnchiu/PDMarkdownKit) | JavaScript |
+| [PDPlayerKit HTML5 / YT播放器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit)](https://github.com/pardnchiu/PDPlayerKit) | JavaScript |
+| [PDExtension 功能擴展](https://github.com/pardnchiu/swift-PDExtension) | Swift |
+| [PDAttributed NSAttributedString 擴展](https://github.com/pardnchiu/swift-PDAttributed) | Swift |
+| [PDLayout AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | Swift |
+| [PDPHP-Async 支持依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP |
 
 ### 網站
 
