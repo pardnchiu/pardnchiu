@@ -4,9 +4,6 @@
 
 ### 函式庫
 
-<details open>
-<summary></summary>
-
 | 名稱 | 類型 | 項目 |
 | :- | :- | :- |
 | PDQuickUI<br>輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickuikit) | JavaScript |  [前往](https://github.com/pardnchiu/PDQuickUIKit) |
@@ -18,10 +15,10 @@
 | PDLayout<br>AutoLayout 快速設置 | Swift |  [前往](https://github.com/pardnchiu/swift-PDLayout) |
 | PDPHP-Async<br>支持依賴排序的非同步任務函式庫 | PHP |  [前往](https://github.com/pardnchiu/PDPHP-Async) |
 
-</details>
+### 網站
 
 <details>
-<summary><h3>網站</h3></summary>
+<summary>展開項目</summary>
 
 | 名稱 | 描述 | 項目 |
 | :- | :- | :- | 
@@ -32,20 +29,24 @@
 
 </details>
 
+### APP
+
 <details>
-<summary><h3>iOS</h3></summary>
+<summary>展開項目</summary>
 
 | 名稱 | 狀態 | 類型 | 項目 |
 | :- | :- | :- | :- |
-| JOBALL 接洽 | 已下架 | 媒合平台 | [前往](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
-| NEEDS 開箱 | 已下架 | 電商社群 | [前往](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) |
-| Firebase Messaging | 範例 | Firebase 即時訊息 | [前往](https://github.com/pardnchiu/ios-firebase-messaging) |
-| Moneybook | 範例 | 記帳軟體 | [前往](https://github.com/pardnchiu/ios-moneybook) |
+| JOBALL 接洽 | 已下架 | iOS | [前往](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
+| NEEDS 開箱 | 已下架 | iOS | [前往](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) |
+| Firebase Messaging | 範例 | iOS | [前往](https://github.com/pardnchiu/ios-firebase-messaging) |
+| Moneybook | 範例 | iOS | [前往](https://github.com/pardnchiu/ios-moneybook) |
 
 </details>
 
+### REPO 命名習慣
+
 <details>
-<summary><h3>REPO 命名習慣</h3></summary>
+<summary>展開項目</summary>
 
 | 前綴 | 描述 | 連結 |
 | :- | :- | :- |
