@@ -3,23 +3,23 @@
 ## 推薦項目
 
 <details open>
-<summary><strong>函式庫</strong></summary>
+<summary><h3>函式庫</h3></summary>
 
-| 名稱 | 類型 | 使用人數 | 項目 |
-| :- | :- | :- | :- |
-| PDQuickUI<br>輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickuikit) | JavaScript |  | [前往](https://github.com/pardnchiu/PDQuickUIKit) |
-| PDRenderKit<br>網站渲染工具<br>![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | JavaScript |  | [前往](https://github.com/pardnchiu/PDRenderKit) |
-| PDMarkdownKit<br>模組化 MD 編輯器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) | JavaScript | | [前往](https://github.com/pardnchiu/PDMarkdownKit) |
-| PDPlayerKit<br>HTML5/YT播放器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) | JavaScript |  | [前往](https://github.com/pardnchiu/PDPlayerKit) |
-| PDExtension<br>功能擴展 | Swift |  | [前往](https://github.com/pardnchiu/swift-PDExtension) |
-| PDAttributed<br>NSAttributedString 快速設置 | Swift |  | [前往](https://github.com/pardnchiu/swift-PDAttributed) |
-| PDLayout<br>AutoLayout 快速設置 | Swift |  | [前往](https://github.com/pardnchiu/swift-PDLayout) |
-| PDPHP-Async<br>支持依賴排序的非同步任務函式庫 | PHP |  | [前往](https://github.com/pardnchiu/PDPHP-Async) |
+| 名稱 | 類型 | 項目 |
+| :- | :- | :- |
+| PDQuickUI<br>輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickuikit) | JavaScript |  [前往](https://github.com/pardnchiu/PDQuickUIKit) |
+| PDRenderKit<br>網站渲染工具<br>![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | JavaScript |  [前往](https://github.com/pardnchiu/PDRenderKit) |
+| PDMarkdownKit<br>模組化 MD 編輯器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) | JavaScript |  [前往](https://github.com/pardnchiu/PDMarkdownKit) |
+| PDPlayerKit<br>HTML5/YT播放器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) | JavaScript |   [前往](https://github.com/pardnchiu/PDPlayerKit) |
+| PDExtension<br>功能擴展 | Swift |  [前往](https://github.com/pardnchiu/swift-PDExtension) |
+| PDAttributed<br>NSAttributedString 快速設置 | Swift |  [前往](https://github.com/pardnchiu/swift-PDAttributed) |
+| PDLayout<br>AutoLayout 快速設置 | Swift |  [前往](https://github.com/pardnchiu/swift-PDLayout) |
+| PDPHP-Async<br>支持依賴排序的非同步任務函式庫 | PHP |  [前往](https://github.com/pardnchiu/PDPHP-Async) |
 
 </details>
 
 <details>
-<summary><strong>網站</strong></summary>
+<summary><h3>網站</h3></summary>
 
 | 名稱 | 描述 | 項目 |
 | :- | :- | :- | 
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary><strong>iOS</strong></summary>
+<summary><h3>iOS</h3></summary>
 
 | 名稱 | 狀態 | 類型 | 項目 |
 | :- | :- | :- | :- |
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-<summary><strong>REPO 命名習慣</strong></summary>
+<summary><h3>REPO 命名習慣</h3></summary>
 
 | 前綴 | 描述 | 連結 |
 | :- | :- | :- |
