@@ -2,8 +2,10 @@
 
 ## 推薦項目
 
+### 函式庫
+
 <details open>
-<summary><h3>函式庫</h3></summary>
+<summary></summary>
 
 | 名稱 | 類型 | 項目 |
 | :- | :- | :- |
