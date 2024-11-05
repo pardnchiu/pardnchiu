@@ -20,12 +20,12 @@
 <details>
 <summary>展開項目</summary>
 
-| 名稱 | 描述 | 項目 |
-| :- | :- | :- | 
-| JOBALL 找專家 | 媒合平台 | [前往](https://joball.tw) |
-| Website Builder | 網頁工具 | [前往](https://github.com/pardnchiu/website-builder) |
-| Web Template | 網站純前端範例合輯 | [前往](https://github.com/pardnchiu/web-template) |
-| CSS Pokemon Quest | 寶可夢探險頭像 (CSS繪圖) | [前往](https://github.com/pardnchiu/css-pokemon-quest) |
+| 名稱 | 描述 |
+| :- | :- |
+| [JOBALL 找專家](https://joball.tw) | 專業人才媒合平台 |
+| [Website Builder](https://github.com/pardnchiu/website-builder) | 網頁版架站工具 |
+| [Web Template](https://github.com/pardnchiu/web-template) | 網站純前端範例合輯 |  |
+| [CSS 繪圖](https://github.com/pardnchiu/css-pokemon-quest) | 寶可夢探險頭像 |
 
 </details>
 
@@ -34,12 +34,12 @@
 <details>
 <summary>展開項目</summary>
 
-| 名稱 | 狀態 | 類型 | 項目 |
-| :- | :- | :- | :- |
-| JOBALL 接洽 | 已下架 | iOS | [前往](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
-| NEEDS 開箱 | 已下架 | iOS | [前往](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) |
-| Firebase Messaging | 範例 | iOS | [前往](https://github.com/pardnchiu/ios-firebase-messaging) |
-| Moneybook | 範例 | iOS | [前往](https://github.com/pardnchiu/ios-moneybook) |
+| 名稱 | 類型 | 狀態 |
+| :- | :- | :- |
+| [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | iOS | 已下架 |
+| [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | iOS | 已下架 | 
+| [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) | iOS | 範例 | 
+| [Moneybook](https://github.com/pardnchiu/ios-moneybook) | iOS | 範例 |
 
 </details>
 
