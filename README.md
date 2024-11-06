@@ -77,7 +77,10 @@
    - 精通 Firebase / Firestore 等 NoSQL 雲端服務。
    - 熟悉整合第三方金流，如綠界和藍新。
 - **跨平台 APP**<br>
-  使用 Flutter 進行跨平台 APP 開發。
+  - 使用 Flutter 進行跨平台 APP 開發。
+  - 僅針以下情況使用
+    - 同時開發跨平台 APP。
+    - 有 Android 開發需求。
 - **系統 / OS**
    - 熟悉多種 Linux 發行版，包括 RHEL 和 Ubuntu / Debian。
    - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
