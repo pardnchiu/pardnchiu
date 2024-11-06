@@ -4,12 +4,12 @@
 
 ### 函式庫
 
-| 名稱 | 類型 |
-| :- | :- |
-| [PDQuickUI 輕量化前端框架<br>![](https://img.shields.io/jsdelivr/npm/hw/pdquickui)](https://github.com/pardnchiu/PDQuickUI) | JavaScript |
-| [PDRenderKit 前端渲染工具<br>![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit)](https://github.com/pardnchiu/PDRenderKit) | JavaScript |
-| [PDMarkdownKit 模組化 MD 編輯器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit)](https://github.com/pardnchiu/PDMarkdownKit) | JavaScript |
-| [PDPlayerKit HTML5 / YT播放器<br>![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit)](https://github.com/pardnchiu/PDPlayerKit) | JavaScript |
+| 名稱 | 類型 | 使用人數 |
+| :- | :- | :- |
+| [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
+| [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) |
+| [PDMarkdownKit 模組化 MD 編輯器](https://github.com/pardnchiu/PDMarkdownKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [PDPlayerKit HTML5 / YT播放器](https://github.com/pardnchiu/PDPlayerKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
 | [PDExtension 功能擴展](https://github.com/pardnchiu/swift-PDExtension) | Swift |
 | [PDAttributed NSAttributedString 擴展](https://github.com/pardnchiu/swift-PDAttributed) | Swift |
 | [PDLayout AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | Swift |
