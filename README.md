@@ -29,10 +29,21 @@
 <summary>網站切版能力</summary>
 <br>
 
-| 名稱 | 描述 |
-| :- | :- |
+| 名稱 |
+| :- |
 | [Website Builder 網頁版架站工具](https://github.com/pardnchiu/website-builder) |
 | [Web Template 純前端範例合輯](https://github.com/pardnchiu/web-template) |
+
+</details>
+
+<details>
+<summary>PHP 能力</summary>
+<br>
+
+| 名稱 |
+| :- |
+| [PDPHP Async 支持依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) |
+| [PHP Blog 部落格範例](https://github.com/pardnchiu/php-blog) |
 
 </details>
 
@@ -40,10 +51,10 @@
 <summary>原生 iOS 能力</summary>
 <br>
 
-| 名稱 | 類型 | 狀態 |
-| :- | :- | :- |
-| [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) | iOS | 範例 | 
-| [Moneybook](https://github.com/pardnchiu/ios-moneybook) | iOS | 範例 |
+| 名稱 |
+| :- |
+| [Firebase Messaging 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) |
+| [Moneybook 記帳軟體](https://github.com/pardnchiu/ios-moneybook) |
 
 </details>
 
