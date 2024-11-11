@@ -33,6 +33,7 @@
 | :- |
 | [Website Builder 網頁版架站工具](https://github.com/pardnchiu/website-builder) |
 | [Web Template 純前端範例合輯](https://github.com/pardnchiu/web-template) |
+| [Pane Desk 窗口管理](https://github.com/pardnchiu/pane-desk) |
 
 </details>
 
