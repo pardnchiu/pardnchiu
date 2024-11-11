@@ -6,12 +6,12 @@
 <summary>JavaScript 能力</summary>
 <br> 
 
-| 名稱 | 類型 | 使用人數 |
-| :- | :- | :- |
-| [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
-| [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) |
-| [PDMarkdownKit 模組化 MD 編輯器](https://github.com/pardnchiu/PDMarkdownKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
-| [PDPlayerKit HTML5 / YT播放器](https://github.com/pardnchiu/PDPlayerKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
+| 名稱 | 使用人數 |
+| :- | :- |
+| [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
+| [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) |
+| [PDMarkdownKit 模組化 MD 編輯器](https://github.com/pardnchiu/PDMarkdownKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [PDPlayerKit HTML5 / YT播放器](https://github.com/pardnchiu/PDPlayerKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
 
 </details>
 
@@ -31,8 +31,8 @@
 
 | 名稱 | 描述 |
 | :- | :- |
-| [Website Builder](https://github.com/pardnchiu/website-builder) | 網頁版架站工具 |
-| [Web Template](https://github.com/pardnchiu/web-template) | 網站純前端範例合輯 |  |
+| [Website Builder 網頁版架站工具](https://github.com/pardnchiu/website-builder) |
+| [Web Template 純前端範例合輯](https://github.com/pardnchiu/web-template) |
 
 </details>
 
