@@ -51,10 +51,13 @@
 <summary>原生 iOS 能力</summary>
 <br>
 
-| 名稱 |
-| :- |
-| [Firebase Messaging 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) |
-| [Moneybook 記帳軟體](https://github.com/pardnchiu/ios-moneybook) |
+| 名稱 | 類型 |
+| :- | :- |
+| [Firebase Messaging 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) | 完整範例 |
+| [Moneybook 記帳軟體](https://github.com/pardnchiu/ios-moneybook) | 完整範例 |
+| [PDPieVuew 圓餅圖](https://github.com/pardnchiu/swift-PDPieView) | 函式庫 |
+| [PDAttributed 文字擴展](https://github.com/pardnchiu/swift-PDAttributed) | 函式庫 |
+| [PDLayout AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | 函式庫 |
 
 </details>
 
