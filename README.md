@@ -74,27 +74,6 @@
 
 </details>
 
-### REPO 命名習慣
-
-<details>
-<summary>展開項目</summary>
-<br>
-
-| 前綴 | 描述 | 連結 |
-| :- | :- | :- |
-| `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
-| `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
-| `swift-*` | Swift 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
-| `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
-| `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
-| `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
-| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
-| `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
-| `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
-| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
-
-</details>
-
 ## 使用技術
 
 - **原生 iOS**<br>
@@ -118,3 +97,24 @@
    - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
    - 擅長配置 Proxmox 並建立高可用性伺服器集群。
    - 自營機房，提供專業伺服器集群做網站部署與代管。
+
+### REPO 命名習慣
+
+<details>
+<summary>展開項目</summary>
+<br>
+
+| 前綴 | 描述 | 連結 |
+| :- | :- | :- |
+| `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
+| `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
+| `swift-*` | Swift 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
+| `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
+| `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
+| `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
+| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
+| `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
+| `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
+| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
+
+</details>
