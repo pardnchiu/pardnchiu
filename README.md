@@ -2,7 +2,9 @@
 
 ## 推薦項目
 
-### 函式庫
+<details>
+<summary>JavaScript 能力</summary>
+<br> 
 
 | 名稱 | 類型 | 使用人數 |
 | :- | :- | :- |
@@ -10,38 +12,48 @@
 | [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) |
 | [PDMarkdownKit 模組化 MD 編輯器](https://github.com/pardnchiu/PDMarkdownKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
 | [PDPlayerKit HTML5 / YT播放器](https://github.com/pardnchiu/PDPlayerKit) | JavaScript | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
-| [PDExtension 功能擴展](https://github.com/pardnchiu/swift-PDExtension) | Swift |
-| [PDAttributed NSAttributedString 擴展](https://github.com/pardnchiu/swift-PDAttributed) | Swift |
-| [PDLayout AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | Swift |
-| [PDPHP-Async 支持依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP |
 
-### 網站
+</details>
 
 <details>
-<summary>展開項目</summary>
+<summary>CSS / SASS 能力</summary>
+<br>
+  
+| 名稱 |
+| :- |
+| [寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) |
+
+</details>
+
+<details>
+<summary>網站切版能力</summary>
 <br>
 
 | 名稱 | 描述 |
 | :- | :- |
-| [JOBALL 找專家](https://joball.tw) | 專業人才媒合平台 |
 | [Website Builder](https://github.com/pardnchiu/website-builder) | 網頁版架站工具 |
 | [Web Template](https://github.com/pardnchiu/web-template) | 網站純前端範例合輯 |  |
-| [CSS 繪圖](https://github.com/pardnchiu/css-pokemon-quest) | 寶可夢探險頭像 |
 
 </details>
 
-### APP
-
 <details>
-<summary>展開項目</summary>
+<summary>原生 iOS 能力</summary>
 <br>
 
 | 名稱 | 類型 | 狀態 |
 | :- | :- | :- |
-| [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | iOS | 已下架 |
-| [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | iOS | 已下架 | 
 | [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) | iOS | 範例 | 
 | [Moneybook](https://github.com/pardnchiu/ios-moneybook) | iOS | 範例 |
+
+</details>
+
+<details>
+<summary>全端整合能力</summary>
+<br>
+
+| [JOBALL 找專家](https://joball.tw) | 專業人才媒合平台 |
+| [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | iOS | 已下架 |
+| [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | iOS | 已下架 | 
 
 </details>
 
