@@ -41,10 +41,10 @@
 <summary>PHP 能力</summary>
 <br>
 
-| 名稱 |
-| :- |
-| [PDPHP Async 支持依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) |
-| [PHP Blog 部落格範例](https://github.com/pardnchiu/php-blog) |
+| 名稱 | 類型 |
+| :- | :- |
+| [PDPHP Async 依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | 函式庫 |
+| [PHP Blog 部落格範例](https://github.com/pardnchiu/php-blog) | 完整範例 |
 
 </details>
 
