@@ -51,6 +51,8 @@
 <summary>全端整合能力</summary>
 <br>
 
+| 名稱 | 類型 |
+| :- | :- |
 | [JOBALL 找專家](https://joball.tw) | 專業人才媒合平台 |
 | [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | iOS | 已下架 |
 | [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | iOS | 已下架 | 
