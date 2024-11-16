@@ -10,8 +10,8 @@
 | :- | :- |
 | [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
 | [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) |
-| [PDMarkdownKit 模組化 MD 編輯器](https://github.com/pardnchiu/PDMarkdownKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
-| [PDPlayerKit 多風格播放器](https://github.com/pardnchiu/PDPlayerKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
+| [PDMarkdownKit 模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [PDPlayerKit 多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
 
 </details>
 
