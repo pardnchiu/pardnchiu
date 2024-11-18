@@ -1,30 +1,5 @@
-## 使用技術
-
-- **原生 iOS**<br>
-  專精於使用 Swift 搭配 UIKit 進行純代碼開發，不依賴 Storyboard 和 SwiftUI。
-- **網站前端**<br>
-   - 專精於使用純 HTML、CSS / SASS 進行切版。
-   - 專注使用原生 JavaScript 進行模組開發，已開發前端框架、文字編輯器、架站工具等多項實用項目。
-- **後端**<br>
-   - 擅長使用 Node.js 搭配 TypeScript 及原生 PHP 進行後端開發。
-   - 熟練使用 Python 和 Node.js 進行網路爬蟲開發。
-   - 熟悉使用MySQL / MariaDB、MongoDB、Redis 及 ElasticSearch 的資料操作。
-   - 精通 Firebase / Firestore 等 NoSQL 雲端服務。
-   - 熟悉整合第三方金流，如綠界和藍新。
-- **跨平台 APP**<br>
-  - 使用 Flutter 進行跨平台 APP 開發。
-  - 僅針以下情況使用
-    - 同時開發跨平台 APP。
-    - 有 Android 開發需求。
-- **系統 / OS**
-   - 熟悉多種 Linux 發行版，包括 RHEL 和 Ubuntu / Debian。
-   - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
-   - 擅長配置 Proxmox 並建立高可用性伺服器集群。
-   - 自營機房，提供專業伺服器集群做網站部署與代管。
-
-<br> 
-
 ## 推薦項目
+> 只分享個人獨立開發的項目
 
 <details>
 <summary>JavaScript 能力</summary>
@@ -119,6 +94,32 @@
 </details>
 
 <br>
+
+## 使用技術
+
+- **原生 iOS**<br>
+  專精於使用 Swift 搭配 UIKit 進行純代碼開發，不依賴 Storyboard 和 SwiftUI。
+- **網站前端**<br>
+   - 專精於使用純 HTML、CSS / SASS 進行切版。
+   - 專注使用原生 JavaScript 進行模組開發，已開發前端框架、文字編輯器、架站工具等多項實用項目。
+- **後端**<br>
+   - 擅長使用 Node.js 搭配 TypeScript 及原生 PHP 進行後端開發。
+   - 熟練使用 Python 和 Node.js 進行網路爬蟲開發。
+   - 熟悉使用MySQL / MariaDB、MongoDB、Redis 及 ElasticSearch 的資料操作。
+   - 精通 Firebase / Firestore 等 NoSQL 雲端服務。
+   - 熟悉整合第三方金流，如綠界和藍新。
+- **跨平台 APP**<br>
+  - 使用 Flutter 進行跨平台 APP 開發。
+  - 僅針以下情況使用
+    - 同時開發跨平台 APP。
+    - 有 Android 開發需求。
+- **系統 / OS**
+   - 熟悉多種 Linux 發行版，包括 RHEL 和 Ubuntu / Debian。
+   - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
+   - 擅長配置 Proxmox 並建立高可用性伺服器集群。
+   - 自營機房，提供專業伺服器集群做網站部署與代管。
+
+<br> 
 
 ## 開發時程
 
