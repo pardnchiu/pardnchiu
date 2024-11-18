@@ -60,11 +60,6 @@
    - 熟悉使用MySQL / MariaDB、MongoDB、Redis 及 ElasticSearch 的資料操作。
    - 精通 Firebase / Firestore 等 NoSQL 雲端服務。
    - 熟悉整合第三方金流，如綠界和藍新。
-- **跨平台 APP**<br>
-  - 使用 Flutter 進行跨平台 APP 開發。
-  - 僅針以下情況使用
-    - 同時開發跨平台 APP。
-    - 有 Android 開發需求。
 - **系統 / OS**
    - 熟悉多種 Linux 發行版，包括 RHEL 和 Ubuntu / Debian。
    - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
@@ -256,8 +251,6 @@
   提供針對 iOS 平台的高效能原生功能開發。
 - 網站全端開發<br>
   涵蓋前端與後端的功能開發與系統整合。
-- Flutter 跨平台開發<br>
-  一次開發，支援 iOS 與 Android 的高效跨平台應用程式。
 
 </details>
 
@@ -323,11 +316,11 @@
 </details>
 
 <details>
-<summary><b>iOS / Flutter</b>：6 萬 / 年 (適合需要長期支援的 行動應用程式專案)</summary> 
+<summary><b>iOS</b>：6 萬 / 年 (適合需要長期支援的 行動應用程式專案)</summary> 
 <br>
 
 - Bug 修復：不限次數（如應用程式崩潰、功能錯誤）。
-- 相容性更新：針對 iOS / Android 新系統版本適配，更新 API 與功能模組。
+- 相容性更新：針對 iOS 新系統版本適配，更新 API 與功能模組。
 - 新增功能：每年最多 3 項（如新增按鈕或簡易列表功能）。
 - 性能優化：年度進行啟動速度、資源使用分析與調整。
 
