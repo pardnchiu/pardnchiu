@@ -12,9 +12,9 @@
 | [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
 | [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
 | [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS | |
-| [Website Builder<br>網頁版架站工具](https://github.com/pardnchiu/website-builder) | 網站前端 | |
+| [Website Builder<br>網頁版架站工具](https://pardnchiu.github.io/website-builder) | 網站前端 | |
 | [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 | |
-| [Pane Desk<br>窗口管理](https://github.com/pardnchiu/pane-desk) | 網站前端 | |
+| [Pane Desk<br>窗口管理](https://pardnchiu.github.io/pane-desk) | 網站前端 | |
 | [PDPHP Async<br>依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP 函式庫 | |
 | [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 全端範例 | |
 | [JOBALL 找專家](https://joball.tw) | 個人項目 | |
