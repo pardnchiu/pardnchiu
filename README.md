@@ -7,7 +7,7 @@
     
 | 名稱 | 類型 | 下載量 |
 | - | - | - |
-| [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
+| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
 
 - **JavaScript**
     - [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI)<br>
