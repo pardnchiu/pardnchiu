@@ -338,7 +338,7 @@
 </details>
 
 <details>
-<summary><b>進階 iOS / Flutter</b>：10 萬 / 年</summary> 
+<summary><b>進階 iOS</b>：10 萬 / 年</summary> 
 <br>
 
 - 新增功能：每年最多 6 項（如新增模組或頁面）。
