@@ -5,7 +5,7 @@
 <summary>網站相關</summary>
 <br> 
     
-| 名稱 | 類型 | 下載量 |
+| 名稱 | 類型 | 網站使用 |
 | :- | :- | :- |
 | [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
 | [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
