@@ -22,19 +22,19 @@
 </details>
 
 <details>
-<summary>APP 相關</summary>
+<summary>iOS 相關</summary>
 <br> 
-
-- **iOS**
-    - [Firebase Messaging 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
-    - [Moneybook 記帳軟體](https://github.com/pardnchiu/ios-moneybook)
-    - [PDPieVuew 圓餅圖](https://github.com/pardnchiu/swift-PDPieView)
-    - [PDAttributed 文字擴展](https://github.com/pardnchiu/swift-PDAttributed) 
-    - [PDLayout AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) 
-- **全端**
-    - [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)
-    - [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)
-    - [Sakupin 釘選你的作品](https://joball.tw/photo/eaa32c96f620053cf442ad32258076b93ym)
+    
+| 名稱 | 類型 |
+| :- | :- |
+| [Firebase Messaging<br>即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) | 範例 |
+| [Moneybook<br>記帳軟體](https://github.com/pardnchiu/ios-moneybook) | 範例 |
+| [PDPieVuew<br>圓餅圖](https://github.com/pardnchiu/swift-PDPieView) | Swift 函式庫 |
+| [PDAttributed<br>文字擴展](https://github.com/pardnchiu/swift-PDAttributed) | Swift 函式庫 |
+| [PDLayout<br>AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | Swift 函式庫 |
+| [Sakupin 釘選你的作品](https://joball.tw/photo/eaa32c96f620053cf442ad32258076b93ym) | 未發佈 |
+| [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | 已發布 |
+| [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | 已發佈 |
 
 </details>
 
