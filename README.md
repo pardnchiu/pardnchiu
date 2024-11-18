@@ -2,94 +2,46 @@
 > 只分享個人獨立開發的項目
 
 <details>
-<summary>JavaScript 能力</summary>
+<summary>網站相關</summary>
 <br> 
 
-| 名稱 | 使用人數 |
-| :- | :- |
-| [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
-| [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) |
-| [PDMarkdownKit 模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
-| [PDPlayerKit 多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
+- **JavaScript**
+    - [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI)<br>
+        ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui)
+    - [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit)<br>
+        ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit)
+    - [PDMarkdownKit 模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit)<br>
+        ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit)
+    - [PDPlayerKit 多風格播放器](https://pardnchiu.github.io/PDPlayerKit)<br>
+        ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit)
+- **CSS / SASS**
+    - [寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest)
+- **網站前端**
+    - [Website Builder 網頁版架站工具](https://github.com/pardnchiu/website-builder)
+    - [Web Template 純前端範例合輯](https://github.com/pardnchiu/web-template)
+    - [Pane Desk 窗口管理](https://github.com/pardnchiu/pane-desk)
+- **PHP**
+    - [PDPHP Async 依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async)
+- **全端**
+    - [JOBALL 找專家](https://joball.tw)
+    - [PHP Blog 部落格範例](https://github.com/pardnchiu/php-blog)
 
 </details>
 
 <details>
-<summary>CSS / SASS 能力</summary>
-<br>
-  
-| 名稱 |
-| :- |
-| [寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) |
+<summary>APP 相關</summary>
+<br> 
 
-</details>
-
-<details>
-<summary>網站切版能力</summary>
-<br>
-
-| 名稱 |
-| :- |
-| [Website Builder 網頁版架站工具](https://github.com/pardnchiu/website-builder) |
-| [Web Template 純前端範例合輯](https://github.com/pardnchiu/web-template) |
-| [Pane Desk 窗口管理](https://github.com/pardnchiu/pane-desk) |
-
-</details>
-
-<details>
-<summary>PHP 能力</summary>
-<br>
-
-| 名稱 | 類型 |
-| :- | :- |
-| [PDPHP Async 依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | 函式庫 |
-| [PHP Blog 部落格範例](https://github.com/pardnchiu/php-blog) | 完整範例 |
-
-</details>
-
-<details>
-<summary>原生 iOS 能力</summary>
-<br>
-
-| 名稱 | 類型 |
-| :- | :- |
-| [Firebase Messaging 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) | 完整範例 |
-| [Moneybook 記帳軟體](https://github.com/pardnchiu/ios-moneybook) | 完整範例 |
-| [PDPieVuew 圓餅圖](https://github.com/pardnchiu/swift-PDPieView) | 函式庫 |
-| [PDAttributed 文字擴展](https://github.com/pardnchiu/swift-PDAttributed) | 函式庫 |
-| [PDLayout AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | 函式庫 |
-
-</details>
-
-<details>
-<summary>全端整合能力</summary>
-<br>
-
-| 名稱 | 類型 | 類別 | 狀態 |
-| :- | :- | :- | :- |
-| [JOBALL 找專家](https://joball.tw) | 網站 | 社群 | 
-| [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | iOS | 電商 | 下架 |
-| [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | iOS | 電商 | 下架 |
-| [Sakupin 釘選你的作品](https://joball.tw/photo/eaa32c96f620053cf442ad32258076b93ym) | iOS | 社群 | 未發布 |
-
-</details>
-
-<details>
-<summary>REPO 命名習慣</summary>
-<br>
-
-| 前綴 | 描述 | 連結 |
-| :- | :- | :- |
-| `PD*` | 模組 | [前往](https://github.com/pardnchiu?tab=repositories&q=PD) |
-| `ios-*` | iOS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=ios-) |
-| `swift-*` | Swift 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=swift-) |
-| `web-*` | Web 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=web-) |
-| `css-*` | CSS 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=css-) |
-| `nodejs-*` | Node.js 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=nodejs-) |
-| `php-*` | PHP 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=php-) |
-| `flutter-*` | Flutter 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=flutter-) |
-| `kotlin-*` | Kotlin 範例 | [前往](https://github.com/pardnchiu?tab=repositories&q=kotlin-) |
-| `vscode-*` | VSCode 擴展 | [前往](https://github.com/pardnchiu?tab=repositories&q=vscode-) |
+- **iOS**
+    - [Firebase Messaging 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
+    - [Moneybook 記帳軟體](https://github.com/pardnchiu/ios-moneybook)
+    - [PDPieVuew 圓餅圖](https://github.com/pardnchiu/swift-PDPieView)
+    - [PDAttributed 文字擴展](https://github.com/pardnchiu/swift-PDAttributed) 
+    - [PDLayout AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) 
+- **全端**
+    - [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)
+    - [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)
+    - [Sakupin 釘選你的作品](https://joball.tw/photo/eaa32c96f620053cf442ad32258076b93ym)
 
 </details>
 
