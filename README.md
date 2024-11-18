@@ -6,32 +6,18 @@
 <br> 
     
 | 名稱 | 類型 | 下載量 |
-| - | - | - |
+| :- | :- | :- |
 | [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
 | [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
-| [PDMarkdownKit<br<模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
 | [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
-
-- **JavaScript**
-    - [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI)<br>
-        ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui)
-    - [PDRenderKit 前端渲染工具](https://github.com/pardnchiu/PDRenderKit)<br>
-        ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit)
-    - [PDMarkdownKit 模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit)<br>
-        ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit)
-    - [PDPlayerKit 多風格播放器](https://pardnchiu.github.io/PDPlayerKit)<br>
-        ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit)
-- **CSS / SASS**
-    - [寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest)
-- **網站前端**
-    - [Website Builder 網頁版架站工具](https://github.com/pardnchiu/website-builder)
-    - [Web Template 純前端範例合輯](https://github.com/pardnchiu/web-template)
-    - [Pane Desk 窗口管理](https://github.com/pardnchiu/pane-desk)
-- **PHP**
-    - [PDPHP Async 依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async)
-- **全端**
-    - [JOBALL 找專家](https://joball.tw)
-    - [PHP Blog 部落格範例](https://github.com/pardnchiu/php-blog)
+| [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS | |
+| [Website Builder<br>網頁版架站工具](https://github.com/pardnchiu/website-builder) | 網站前端 | |
+| [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 | |
+| [Pane Desk<br>窗口管理](https://github.com/pardnchiu/pane-desk) | 網站前端 | |
+| [PDPHP Async<br>依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP 函式庫 | |
+| [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 全端範例 | |
+| [JOBALL 找專家](https://joball.tw) | 個人項目 | |
 
 </details>
 
