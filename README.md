@@ -8,6 +8,9 @@
 | 名稱 | 類型 | 下載量 |
 | - | - | - |
 | [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
+| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
+| [PDMarkdownKit<br<模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
 
 - **JavaScript**
     - [PDQuickUI 輕量化前端框架](https://github.com/pardnchiu/PDQuickUI)<br>
