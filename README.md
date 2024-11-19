@@ -1,45 +1,3 @@
-## 推薦項目
-僅分享個人獨立開發的項目
-
-<details>
-<summary>網站相關</summary>
-<br> 
-    
-| 名稱 | 類型 | 使用統計 |
-| :- | :- | :- |
-| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
-| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
-| [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
-| [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
-| [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS / SASS | |
-| [Website Builder<br>網頁版架站工具](https://pardnchiu.github.io/website-builder) | 網站前端 | |
-| [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 | |
-| [Pane Desk<br>窗口管理](https://pardnchiu.github.io/pane-desk) | 網站前端 | |
-| [PDPHP Async<br>依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP 函式庫 | |
-| [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 網站全端 | |
-| [JOBALL 找專家](https://joball.tw) | 個人項目 | |
-
-</details>
-
-<details>
-<summary>iOS 相關</summary>
-<br> 
-    
-| 名稱 | 類型 |
-| :- | :- |
-| [Firebase Messaging<br>即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) | 範例 |
-| [Moneybook<br>記帳軟體](https://github.com/pardnchiu/ios-moneybook) | 範例 |
-| [PDPieVuew<br>圓餅圖](https://github.com/pardnchiu/swift-PDPieView) | Swift 函式庫 |
-| [PDAttributed<br>文字擴展](https://github.com/pardnchiu/swift-PDAttributed) | Swift 函式庫 |
-| [PDLayout<br>AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | Swift 函式庫 |
-| [Sakupin 釘選你的作品](https://joball.tw/photo/eaa32c96f620053cf442ad32258076b93ym) | 未發佈 |
-| [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | 已發布 |
-| [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | 已發佈 |
-
-</details>
-
-<br>
-
 ## 使用技術
 
 - **原生 iOS**<br>
@@ -59,6 +17,48 @@
     - 熟悉多種 Linux 發行版，擅長 高可用性集群設計，包括 Proxmox 集群配置與伺服器快速部署。
     - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
     - 提供穩定的主機代管與健康監控服務，保障網站或應用長期穩定運營。
+
+<br> 
+
+## 專案概覽
+僅分享個人獨立開發的項目
+
+<details>
+<summary>網站相關</summary>
+<br> 
+    
+| 名稱 | 類型 | 使用統計 |
+| :- | :- | :- |
+| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
+| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
+| [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
+| [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS / SASS | |
+| [Website Builder<br>網頁版架站工具](https://pardnchiu.github.io/website-builder) | 網站前端 | |
+| [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 | |
+| [Pane Desk<br>窗口管理](https://pardnchiu.github.io/pane-desk) | 網站前端 | |
+| [PDPHP Async<br>依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP 函式庫 | |
+| [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 網站全端 | |
+| [JOBALL 找專家](https://joball.tw) | 媒合平台 | |
+
+</details>
+
+<details>
+<summary>iOS 相關</summary>
+<br> 
+    
+| 名稱 | 類型 |
+| :- | :- |
+| [Firebase Messaging<br>即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) | 範例 |
+| [Moneybook<br>記帳軟體](https://github.com/pardnchiu/ios-moneybook) | 範例 |
+| [PDPieVuew<br>圓餅圖](https://github.com/pardnchiu/swift-PDPieView) | Swift 函式庫 |
+| [PDAttributed<br>文字擴展](https://github.com/pardnchiu/swift-PDAttributed) | Swift 函式庫 |
+| [PDLayout<br>AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | Swift 函式庫 |
+| [Sakupin 釘選你的作品](https://joball.tw/photo/eaa32c96f620053cf442ad32258076b93ym) | 未發佈 |
+| [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | 已發布 |
+| [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | 已發佈 |
+
+</details>
 
 <br> 
 
