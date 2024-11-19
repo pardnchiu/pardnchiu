@@ -5,18 +5,18 @@
 <summary>網站相關</summary>
 <br> 
     
-| 名稱 | 類型 | 網站使用 |
+| 名稱 | 類型 | 使用統計 |
 | :- | :- | :- |
-| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
-| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
-| [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
-| [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JS 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
-| [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS | |
+| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
+| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
+| [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
+| [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS / SASS | |
 | [Website Builder<br>網頁版架站工具](https://pardnchiu.github.io/website-builder) | 網站前端 | |
 | [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 | |
 | [Pane Desk<br>窗口管理](https://pardnchiu.github.io/pane-desk) | 網站前端 | |
 | [PDPHP Async<br>依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP 函式庫 | |
-| [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 全端範例 | |
+| [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 網站全端 | |
 | [JOBALL 找專家](https://joball.tw) | 個人項目 | |
 
 </details>
@@ -43,21 +43,22 @@
 ## 使用技術
 
 - **原生 iOS**<br>
-  專精於使用 Swift 搭配 UIKit 進行純代碼開發，不依賴 Storyboard 和 SwiftUI。
+    - Swift 純代碼開發，專注於 **UIKit**，不依賴 Storyboard，適合高性能與高度客製化需求。
+    - 擅長處理多任務並行、自定義動畫與複雜介面設計。
 - **網站前端**<br>
-   - 專精於使用純 HTML、CSS / SASS 進行切版。
-   - 專注使用原生 JavaScript 進行模組開發，已開發前端框架、文字編輯器、架站工具等多項實用項目。
+   - 專精於使用原生 **HTML**、**CSS/SASS** 與 **JavaScript**，開發模組化功能，並專注於 **響應式設計** 與效能優化。
+   - 自主開發工具 (如開發[前端框架](https://github.com/pardnchiu/PDQuickUI)、[文字編輯器](https://pardnchiu.github.io/PDMarkdownKit)、[媒體播放器](https://pardnchiu.github.io/PDPlayerKit)、[架站工具](https://pardnchiu.github.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 - **後端**<br>
-   - 擅長使用 Node.js 搭配 TypeScript 及原生 PHP 進行後端開發。
-   - 熟練使用 Python 和 Node.js 進行網路爬蟲開發。
-   - 熟悉使用MySQL / MariaDB、MongoDB、Redis 及 ElasticSearch 的資料操作。
-   - 精通 Firebase / Firestore 等 NoSQL 雲端服務。
-   - 熟悉整合第三方金流，如綠界和藍新。
+    - 精通 **Node.js**（搭配 TypeScript）與 **PHP**，專注於開發高效能 API 與伺服器端應用。
+    - 熟練使用 Python 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
+    - 熟悉 MySQL / MariaDB 的結構化數據操作，並擅長使用 MongoDB 和 Redis 進行快取與分布式數據處理。
+    - 熟練應用 ElasticSearch 提供的全文本檢索與數據分析功能，優化查詢性能。
+    - 精通 Firebase / Firestore 等 NoSQL 雲端服務，實現即時資料同步與無伺服器架構應用。
+    - 熟悉與第三方服務的整合，特別是金流系統，如 **綠界** 和 **藍新**，能有效完成支付系統的串接與安全加密處理。
 - **系統 / OS**
-   - 熟悉多種 Linux 發行版，包括 RHEL 和 Ubuntu / Debian。
-   - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
-   - 擅長配置 Proxmox 並建立高可用性伺服器集群。
-   - 自營機房，提供專業伺服器集群做網站部署與代管。
+    - 熟悉多種 Linux 發行版，擅長 高可用性集群設計，包括 Proxmox 集群配置與伺服器快速部署。
+    - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
+    - 提供穩定的主機代管與健康監控服務，保障網站或應用長期穩定運營。
 
 <br> 
 
