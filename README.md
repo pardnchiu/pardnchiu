@@ -26,13 +26,14 @@
 <details>
 <summary>網站相關</summary>
 
-### 模組化工具
+### 已發佈套件
 | 名稱 | 類型 | 使用統計 |
 | :- | :- | :- |
 | [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
 | [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
 | [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
 | [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
+| [QuickComments<br>AI生成附註](https://marketplace.visualstudio.com/items?itemName=pardnchiu.quickcomments) | VSCode 擴展 | |
 
 | 名稱 | 類型 |
 | :- | :- |
