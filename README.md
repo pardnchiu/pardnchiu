@@ -1,11 +1,12 @@
 ## 使用技術
 
 - **原生 iOS**<br>
-    - Swift 純代碼開發，專注於 **UIKit**，不依賴 Storyboard，適合高性能與高度客製化需求。
-    - 擅長處理多任務並行、自定義動畫與複雜介面設計。
+    - 專精於使用 **UIKit** 純代碼開發，捨棄 Storyboard，精通動態佈局、多層次 ViewController 管理及自定義動畫設計。
+    - 熟悉 **SwiftUI** 的聲明式語法與特性，關注其應用場景與優化方向，靈活選擇技術方案滿足不同需求。
+    - 上架多款涵蓋人才媒合、社群互動與電商功能的應用，全面參與需求分析、技術實現與性能優化。
 - **網站前端**<br>
-   - 專精於使用原生 **HTML**、**CSS/SASS** 與 **JavaScript**，開發模組化功能，並專注於 **響應式設計** 與效能優化。
-   - 自主開發工具 (如開發[前端框架](https://github.com/pardnchiu/PDQuickUI)、[Markdown 編輯器](https://pardnchiu.github.io/PDMarkdownKit)、[媒體播放器](https://pardnchiu.github.io/PDPlayerKit)、[網頁版架站工具](https://pardnchiu.github.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
+    - 專精於使用原生 **HTML**、**CSS/SASS** 與 **JavaScript**，開發模組化功能，並專注於 **響應式設計** 與效能優化。
+    - 自主開發工具 (如開發[前端框架](https://github.com/pardnchiu/PDQuickUI)、[Markdown 編輯器](https://pardnchiu.github.io/PDMarkdownKit)、[媒體播放器](https://pardnchiu.github.io/PDPlayerKit)、[網頁版架站工具](https://pardnchiu.github.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 - **後端**<br>
     - 精通 **Node.js**（搭配 TypeScript)與 **PHP**，專注於開發高效能 API 與伺服器端應用。
     - 熟練使用 Python 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
