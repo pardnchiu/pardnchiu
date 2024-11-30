@@ -32,7 +32,7 @@
 | :- | :- | :- |
 | [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
 | [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
-| [PDMarkdownKit<br>模組化 MD 編輯器](https://pardnchiu.github.io/PDMarkdownKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
+| [NanoMD<br>模組化 MD 編輯器](https://pardn.ltd/NanoMD) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
 | [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
 | [QuickComments<br>AI生成附註](https://marketplace.visualstudio.com/items?itemName=pardnchiu.quickcomments) | VSCode 擴展 | |
 
