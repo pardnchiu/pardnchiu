@@ -1,9 +1,7 @@
 | 網頁前端框架 | 模組化 MD 編輯器 |
 | :-: | :-: |
-| ![](https://img.shields.io/jsdelivr/npm/hm/pdquickui) ![](https://img.shields.io/npm/dm/pdquickui) | `1.8.0` ↑: ![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd) ![](https://img.shields.io/npm/dm/@pardnchiu/nanomd)<br>`1.7.1` ↓: ![](https://img.shields.io/jsdelivr/npm/hm/pdmarkdownkit) ![](https://img.shields.io/npm/dm/pdmarkdownkit) |  ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
 | [![](./image/QuickUI.png)](https://github.com/pardnchiu/PDQuickUI) | [![](./image/NanoMD.png)](https://github.com/pardnchiu/NanoMD) |
 | **多風格編輯器** | |
-| ![](https://img.shields.io/jsdelivr/npm/hm/pdplayerkit) ![](https://img.shields.io/npm/dm/pdplayerkit) | |
 | [![](./image/PDPlayerKit.png)](https://github.com/pardnchiu/PDPlayerKit) |
 
 ## 使用技術
