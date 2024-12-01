@@ -1,3 +1,8 @@
+| 網頁前端框架 | 模組化 MD 編輯器 | 多風格播放器 |
+| - | - | - |
+| ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) | `1.8.0` ↑: ![](https://img.shields.io/jsdelivr/npm/hw/@pardnchiu/nanomd)<br>`1.7.1` ↓: ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |  ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
+| [![](./image/QuickUI.png)](https://github.com/pardnchiu/PDQuickUI) | [![](./image/NanoMD.png)](https://github.com/pardnchiu/NanoMD) | [![](./image/PDPlayerKit.png)](https://github.com/pardnchiu/PDPlayerKit) |
+
 ## 使用技術
 
 - **原生 iOS**<br>
@@ -27,17 +32,13 @@
 <details>
 <summary>網站相關</summary>
 
-### 已發佈套件
-| 名稱 | 類型 | 使用統計 |
-| :- | :- | :- |
-| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdquickui) |
-| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdrenderkit) | 
-| [NanoMD<br>模組化 MD 編輯器](https://pardn.ltd/NanoMD) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdmarkdownkit) |
-| [PDPlayerKit<br>多風格播放器](https://pardnchiu.github.io/PDPlayerKit) | JavaScript 函式庫 | ![](https://img.shields.io/jsdelivr/npm/hw/pdplayerkit) |
-| [QuickComments<br>AI生成附註](https://marketplace.visualstudio.com/items?itemName=pardnchiu.quickcomments) | VSCode 擴展 | |
-
 | 名稱 | 類型 |
 | :- | :- |
+| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | 
+| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 |
+| [NanoMD<br>模組化 MD 編輯器](https://pardn.ltd/NanoMD) | JavaScript 函式庫 |
+| [PDPlayerKit<br>多風格播放器](https://pardn.ltd/PDPlayerKit) | JavaScript 函式庫 |
+| [QuickComments<br>AI生成附註](https://marketplace.visualstudio.com/items?itemName=pardnchiu.quickcomments) | 
 | [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS / SASS |
 | [Website Builder<br>網頁版架站工具](https://pardnchiu.github.io/website-builder) | 網站前端 |
 | [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 |
