@@ -2,7 +2,7 @@
 | :-: | :-: |
 | [![](./image/QuickUI.png)](https://github.com/pardnchiu/PDQuickUI) | [![](./image/NanoMD.png)](https://github.com/pardnchiu/NanoMD) |
 | **多風格編輯器** | **網頁版架站工具** |
-| [![](./image/PDPlayerKit.png)](https://github.com/pardnchiu/PDPlayerKit) | [![](./image/WebsiteBuilder.png)](https://github.com/pardnchiu/website-builder) |
+| [![](./image/FlexPlyr.png)](https://github.com/pardnchiu/FlexPlyr) | [![](./image/WebsiteBuilder.png)](https://github.com/pardnchiu/website-builder) |
 
 ## 使用技術
 
@@ -12,7 +12,7 @@
     - 上架多款涵蓋人才媒合、社群互動與電商功能的應用，全面參與需求分析、技術實現與性能優化。
 - **網站前端**<br>
     - 專精於使用原生 **HTML**、**CSS/SASS** 與 **JavaScript**，開發模組化功能，並專注於 **響應式設計** 與效能優化。
-    - 自主開發工具 (如開發[前端框架](https://github.com/pardnchiu/PDQuickUI)、[Markdown 編輯器](https://pardnchiu.github.io/PDMarkdownKit)、[媒體播放器](https://pardnchiu.github.io/PDPlayerKit)、[網頁版架站工具](https://pardnchiu.github.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
+    - 自主開發工具 (如開發[前端框架](https://github.com/pardnchiu/PDQuickUI)、[Markdown 編輯器](https://padn.ltd/PDMarkdownKit)、[媒體播放器](https://padn.ltd/FlexPlyr)、[網頁版架站工具](https://padn.ltd/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 - **後端**<br>
     - 精通 **Node.js**（搭配 TypeScript)與 **PHP**，專注於開發高效能 API 與伺服器端應用。
     - 熟練使用 Python 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
@@ -38,12 +38,12 @@
 | [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | 
 | [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 |
 | [NanoMD<br>模組化 MD 編輯器](https://pardn.ltd/NanoMD) | JavaScript 函式庫 |
-| [PDPlayerKit<br>多風格播放器](https://pardn.ltd/PDPlayerKit) | JavaScript 函式庫 |
+| [FlexPlyr<br>多風格播放器](https://pardn.ltd/FlexPlyr) | JavaScript 函式庫 |
 | [QuickComments<br>AI生成附註](https://marketplace.visualstudio.com/items?itemName=pardnchiu.quickcomments) | 
 | [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS / SASS |
-| [Website Builder<br>網頁版架站工具](https://pardnchiu.github.io/website-builder) | 網站前端 |
+| [Website Builder<br>網頁版架站工具](https://padn.ltd/website-builder) | 網站前端 |
 | [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 |
-| [Pane Desk<br>窗口管理](https://pardnchiu.github.io/pane-desk) | 網站前端 |
+| [Pane Desk<br>窗口管理](https://padn.ltd/pane-desk) | 網站前端 |
 | [PDPHP Async<br>依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP 函式庫 |
 | [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 網站全端 |
 | [JOBALL 找專家](https://joball.tw) | 媒合平台 |
