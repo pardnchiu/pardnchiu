@@ -1,8 +1,8 @@
 | 網頁前端框架 | 模組化 MD 編輯器 |
 | :-: | :-: |
-| [![](./image/QuickUI.png)](https://github.com/pardnchiu/PDQuickUI) | [![](./image/NanoMD.png)](https://github.com/pardnchiu/NanoMD) |
+| [![](./image/QuickUI.png)](https://pardn.ltd/QuickUI) | [![](./image/NanoMD.png)](https://pardn.ltd/NanoMD) |
 | **多風格編輯器** | **網頁版架站工具** |
-| [![](./image/FlexPlyr.png)](https://github.com/pardnchiu/FlexPlyr) | [![](./image/WebsiteBuilder.png)](https://github.com/pardnchiu/website-builder) |
+| [![](./image/FlexPlyr.png)](https://pardn.ltd/FlexPlyr) | [![](./image/WebsiteBuilder.png)](https://pardn.ltd/website-builder) |
 
 ## 使用技術
 
@@ -35,15 +35,15 @@
 
 | 名稱 | 類型 |
 | :- | :- |
-| [PDQuickUI<br>輕量化前端框架](https://github.com/pardnchiu/PDQuickUI) | JavaScript 函式庫 | 
-| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 |
+| [QuickUI<br>輕量化網站前端框架](https://pardn.ltd/QuickUI) | JavaScript 函式庫 | 
 | [NanoMD<br>模組化 MD 編輯器](https://pardn.ltd/NanoMD) | JavaScript 函式庫 |
 | [FlexPlyr<br>多風格播放器](https://pardn.ltd/FlexPlyr) | JavaScript 函式庫 |
+| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 |
 | [QuickComments<br>AI生成附註](https://marketplace.visualstudio.com/items?itemName=pardnchiu.quickcomments) | 
-| [Pokemon Quest<br>寶可夢探險圖鑑](https://github.com/pardnchiu/css-pokemon-quest) | CSS / SASS |
+| [Pokemon Quest<br>寶可夢探險圖鑑](https://pardn.ltd/css-pokemon-quest) | CSS / SASS |
 | [Website Builder<br>網頁版架站工具](https://padn.ltd/website-builder) | 網站前端 |
-| [Web Template<br>純前端範例合輯](https://github.com/pardnchiu/web-template) | 網站前端 |
-| [Pane Desk<br>窗口管理](https://padn.ltd/pane-desk) | 網站前端 |
+| [Web Template<br>純前端範例合輯](https://pardn.ltd/web-template) | 網站前端 |
+| [Pane Desk<br>窗口管理](https://pardn.ltd/pane-desk) | 網站前端 |
 | [PDPHP Async<br>依賴排序的非同步任務](https://github.com/pardnchiu/PDPHP-Async) | PHP 函式庫 |
 | [PHP Blog<br>部落格範例](https://github.com/pardnchiu/php-blog) | 網站全端 |
 | [JOBALL 找專家](https://joball.tw) | 媒合平台 |
