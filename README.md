@@ -1,8 +1,8 @@
-| 網頁前端框架 | 模組化 MD 編輯器 |
-| :-: | :-: |
-| [![](./image/QuickUI.png)](https://pardn.ltd/QuickUI) | [![](./image/NanoMD.png)](https://pardn.ltd/NanoMD) |
-| **多風格編輯器** | **網頁版架站工具** |
-| [![](./image/FlexPlyr.png)](https://pardn.ltd/FlexPlyr) | [![](./image/WebsiteBuilder.png)](https://pardn.ltd/website-builder) |
+**你可能會喜歡的 JavaScript 庫**
+
+| 網頁前端框架 | 模組化 MD 編輯器 | 多風格編輯器 |
+| :-: | :-: | :-: |
+| [![](./image/QuickUI.png)](https://pardn.ltd/QuickUI) | [![](./image/NanoMD.png)](https://pardn.ltd/NanoMD) | [![](./image/FlexPlyr.png)](https://pardn.ltd/FlexPlyr) |
 
 ## 使用技術
 
