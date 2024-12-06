@@ -1,9 +1,9 @@
 **你可能會喜歡的 JavaScript 庫**
 
-| 網頁前端框架 | 模組化 MD 編輯器 |
+| 輕量化前端框架 | 模組化 MD 編輯器 |
 | :-: | :-: |
 | [![](./image/QuickUI.png)](https://pardn.ltd/QuickUI) | [![](./image/NanoMD.png)](https://pardn.ltd/NanoMD) |
-| **多風格編輯器** | **網站前端擴展** |
+| **多風格編輯器** | **前端渲染擴展** |
 | [![](./image/FlexPlyr.png)](https://pardn.ltd/FlexPlyr) |  [![](./image/RenderJS.png)](https://pardn.ltd/RenderJS) |
 
 ## 使用技術
