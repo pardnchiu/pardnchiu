@@ -40,7 +40,7 @@
 | [QuickUI<br>輕量化網站前端框架](https://pardn.ltd/QuickUI) | JavaScript 函式庫 | 
 | [NanoMD<br>模組化 MD 編輯器](https://pardn.ltd/NanoMD) | JavaScript 函式庫 |
 | [FlexPlyr<br>多風格播放器](https://pardn.ltd/FlexPlyr) | JavaScript 函式庫 |
-| [PDRenderKit<br>前端渲染工具](https://github.com/pardnchiu/PDRenderKit) | JavaScript 函式庫 |
+| [RenderJS<br>前端渲染工具](https://github.com/RenderJS) | JavaScript 函式庫 |
 | [QuickComments<br>AI生成附註](https://marketplace.visualstudio.com/items?itemName=pardnchiu.quickcomments) | 
 | [Pokemon Quest<br>寶可夢探險圖鑑](https://pardn.ltd/css-pokemon-quest) | CSS / SASS |
 | [Website Builder<br>網頁版架站工具](https://padn.ltd/website-builder) | 網站前端 |
@@ -61,9 +61,6 @@
 | [UI Reality<br>UI 設計實現合輯](https://github.com/pardnchiu/swift-UI-reality) | 範例 |
 | [Firebase Messaging<br>即時訊息](https://github.com/pardnchiu/ios-firebase-messaging) | 範例 |
 | [Moneybook<br>記帳軟體](https://github.com/pardnchiu/ios-moneybook) | 範例 |
-| [PDPieVuew<br>圓餅圖](https://github.com/pardnchiu/swift-PDPieView) | Swift 函式庫 |
-| [PDAttributed<br>文字擴展](https://github.com/pardnchiu/swift-PDAttributed) | Swift 函式庫 |
-| [PDLayout<br>AutoLayout 擴展](https://github.com/pardnchiu/swift-PDLayout) | Swift 函式庫 |
 | [Sakupin 釘選你的作品](https://joball.tw/photo/eaa32c96f620053cf442ad32258076b93ym) | 未發佈 |
 | [JOBALL 接洽](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | 已發布 |
 | [NEEDS 開箱](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | 已發佈 |
