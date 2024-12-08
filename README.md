@@ -1,11 +1,3 @@
-**你可能會喜歡的 JavaScript 庫**
-
-| 輕量化前端框架 | 模組化 MD 編輯器 |
-| :-: | :-: |
-| [![](./image/QuickUI.png)](https://pardn.ltd/QuickUI) | [![](./image/NanoMD.png)](https://pardn.ltd/NanoMD) |
-| **多風格編輯器** | **前端渲染擴展** |
-| [![](./image/FlexPlyr.png)](https://pardn.ltd/FlexPlyr) |  [![](./image/RenderJS.png)](https://pardn.ltd/RenderJS) |
-
 ## 使用技術
 
 - **原生 iOS**<br>
@@ -14,7 +6,7 @@
     - 上架多款涵蓋人才媒合、社群互動與電商功能的應用，全面參與需求分析、技術實現與性能優化。
 - **網站前端**<br>
     - 專精於使用原生 **HTML**、**CSS/SASS** 與 **JavaScript**，開發模組化功能，並專注於 **響應式設計** 與效能優化。
-    - 自主開發工具 (如開發[前端框架](https://github.com/pardnchiu/PDQuickUI)、[Markdown 編輯器](https://padn.ltd/PDMarkdownKit)、[媒體播放器](https://padn.ltd/FlexPlyr)、[網頁版架站工具](https://padn.ltd/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
+    - 自主開發工具 (如開發[前端框架](https://pardn.ltd/QuickUI)、[前端擴展](https://pardn.ltd/RenderJS)、[Markdown 編輯器](https://pardn.ltd/NanoMD)、[媒體播放器](https://pardn.ltd/FlexPlyr)、[網頁版架站](https://pardn.ltd/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 - **後端**<br>
     - 精通 **Node.js**（搭配 TypeScript)與 **PHP**，專注於開發高效能 API 與伺服器端應用。
     - 熟練使用 Python 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
@@ -27,10 +19,11 @@
     - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
     - 提供穩定的主機代管與健康監控服務，保障網站或應用長期穩定運營。
 
-<br> 
+<br>
 
 ## 專案概覽
-僅分享個人獨立開發的項目
+> [!NOTE]
+> 僅分享個人獨立開發的項目
 
 <details>
 <summary>網站相關</summary>
@@ -67,8 +60,6 @@
 
 </details>
 
-<br> 
-
 ## 開發時程
 
 - 時程計算以工作日 (週一至週五)為主，不含週末與國定假日。
@@ -76,8 +67,6 @@
 - 若專案時程超過 15 個工作日，則不接受急件申請。
 - 分階段進行的專案中，急件加成僅適用於特定需要急件的階段。
 - 急件申請需於簽約前詢問，開發中不接受急件申請。
-
-<br>
 
 ## 收費模式
 
@@ -127,8 +116,6 @@
 
 - 專案完成後，如合約內功能未達到預期，將提供免費調整，直至符合需求。
 - 若調整後仍無法達成合約標準，經雙方確認後將安排部分退款。退款金額將根據未完成的功能比例進行合理計算，以保障您的權益。
-
-<br>
 
 <h2 id="plan">報價介紹</h2>
 
@@ -237,8 +224,6 @@
 
 </details> 
 
-<br>
-
 ## 多人開發與協作模式
 
 根據專案需求與時程，提供合適的開發模式，確保高效協作與專案成功交付。
@@ -268,10 +253,6 @@
   當專案需要同時進行 iOS、Android 與網站全端開發時，組建專業團隊協作，確保高品質交付並按時完成。
 
 </details>
-
-<br>
-
-<br>
 
 ## 專案維護與後續支援
 
