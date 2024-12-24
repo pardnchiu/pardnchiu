@@ -3,16 +3,17 @@
 > [!NOTE]
 > 精通網站開發的 iOS 工程師，擁有**從需求分析到產品上線**的完整開發經驗<br>
 > 致力於幫助**企業主**、**小商家**與**新創團隊**快速實現商業目標<br>
-> [個人介紹](https://pardn.io/)｜[收費模式](https://pardn.io/?folder=about&target=pricing_model)｜[報價介紹](https://pardn.io/?folder=about&target=pricing_details)｜[專案維護](https://pardn.io/?folder=about&target=project_maintenance)｜[常見問題](https://pardn.io/?folder=about&target=faq)
+> [個人網站](https://pardn.io/)｜[收費模式](https://pardn.io/?folder=about&target=pricing_model)｜[報價介紹](https://pardn.io/?folder=about&target=pricing_details)｜[專案維護](https://pardn.io/?folder=about&target=project_maintenance)｜[常見問題](https://pardn.io/?folder=about&target=faq)
 
 ## 原生 iOS
 - 專精於使用 **UIKit** 純代碼開發，捨棄 Storyboard，精通動態佈局、多層次 ViewController 管理及自定義動畫設計。
 - 熟悉 **SwiftUI** 的聲明式語法與特性，關注其應用場景與優化方向，靈活選擇技術方案滿足不同需求。
 - 上架多款涵蓋人才媒合、社群互動與電商功能的應用，全面參與需求分析、技術實現與性能優化。
+- 開發擴展工具 (如[UIKit 聲明式語法擴展](https://github.com/pardnchiu/ExSwift)) 實用項目，與多款實際範例。
 
 ## 網站前端
 - 專精於使用原生 **HTML**、**CSS/SASS** 與 **JavaScript**，開發模組化功能，並專注於**響應式設計**與效能優化。
-- 自主開發工具 (如開發[前端框架](https://pardn.ltd/QuickUI)、[前端擴展](https://pardn.ltd/RenderJS)、[Markdown 編輯器](https://pardn.ltd/NanoMD)、[媒體播放器](https://pardn.ltd/FlexPlyr)、[網頁版架站](https://pardn.ltd/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
+- 開發擴展工具 (如[前端框架](https://pardn.io/QuickUI)、[前端擴展](https://pardn.io/RenderJS)、[Markdown 編輯器](https://pardn.io/NanoMD)、[媒體播放器](https://pardn.io/FlexPlyr)、[網頁版架站](https://pardn.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 
 ## 後端
 - 精通 **Node.js**（搭配 TypeScript)與 **PHP**，專注於開發高效能 API 與伺服器端應用。
