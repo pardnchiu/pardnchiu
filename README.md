@@ -3,7 +3,7 @@
 > [!NOTE]
 > 精通網站開發的 iOS 工程師，擁有**從需求分析到產品上線**的完整開發經驗<br>
 > 致力於幫助**企業主**、**小商家**與**新創團隊**快速實現商業目標<br>
-> [個人網站](https://pardn.io/)｜[收費模式](https://pardn.io/?folder=about&target=pricing_model)｜[報價介紹](https://pardn.io/?folder=about&target=pricing_details)｜[專案維護](https://pardn.io/?folder=about&target=project_maintenance)｜[常見問題](https://pardn.io/?folder=about&target=faq)
+> [個人網站](https://pardn.io/)｜[報價介紹](https://pardn.io/?folder=about&target=pricing_details)｜[收費與退款](https://pardn.io/?folder=about&target=pricing_model)｜[開發模式](https://pardn.io/?folder=about&target=development)｜[專案維護](https://pardn.io/?folder=about&target=project_maintenance)｜[常見問題](https://pardn.io/?folder=about&target=faq)
 
 ## 原生 iOS
 - 專精於使用 **UIKit** 純代碼開發，捨棄 Storyboard，精通動態佈局、多層次 ViewController 管理及自定義動畫設計。
