@@ -12,8 +12,8 @@
 - 開發擴展工具 (如[UIKit 聲明式語法擴展](https://github.com/pardnchiu/ExSwift)) 實用項目，與多款實際範例。
 
 ## 網站前端
-- 專精於使用原生 **HTML**、**CSS/SASS** 與 **JavaScript**，開發模組化功能，並專注於**響應式設計**與效能優化。
-- 開發擴展工具 (如[前端框架](https://pardn.io/QuickUI)、[前端擴展](https://pardn.io/RenderJS)、[Markdown 編輯器](https://pardn.io/NanoMD)、[媒體播放器](https://pardn.io/FlexPlyr)、[網頁版架站](https://pardn.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
+- 專精於使用 **HTML**、**CSS/SASS** 與 **純 JavaScript**，開發模組化功能，並專注於**響應式設計**與效能優化。
+- 使用純 JS 與原生 API 開發 (如[前端框架](https://quickui.pardn.io)、[Markdown 編輯器](https://nanomd.pardn.io)、、[前端擴展](https://renderjs.pardn.io)、[網頁版架站](https://pardn.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 
 ## 後端
 - 精通 **Node.js**（搭配 TypeScript) 與 **PHP**，專注於開發高效能 API 與伺服器端應用。
