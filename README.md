@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true&theme=default)
 
 > [!NOTE]
-> 精通網站開發的 iOS 工程師，擁有**從需求分析到產品上線**的完整開發經驗<br>
+> 精通網站前後端開發的 iOS 工程師，擁有**從需求分析到產品上線**的完整開發經驗<br>
 > 致力於幫助**企業主**、**小商家**與**新創團隊**快速實現商業目標<br>
 > [個人網站](https://pardn.io/)｜[報價介紹](https://pardn.io/?folder=about&target=pricing_details)｜[收費與退款](https://pardn.io/?folder=about&target=pricing_model)｜[開發模式](https://pardn.io/?folder=about&target=development)｜[專案維護](https://pardn.io/?folder=about&target=project_maintenance)｜[常見問題](https://pardn.io/?folder=about&target=faq)
 
@@ -17,7 +17,7 @@
 
 ## 後端
 - 精通 **Node.js**（搭配 TypeScript)與 **PHP**，專注於開發高效能 API 與伺服器端應用。
-- 熟練使用 Python 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
+- 熟練使用 **Python** 與 **Node.js** 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
 - 熟悉 MySQL / MariaDB 的結構化數據操作，並擅長使用 MongoDB 和 Redis 進行快取與分布式數據處理。
 - 熟練應用 ElasticSearch 提供的全文本檢索與數據分析功能，優化查詢性能。
 - 精通 Firebase / Firestore 等 NoSQL 雲端服務，實現即時資料同步與無伺服器架構應用。
@@ -26,4 +26,4 @@
 ## 系統 / OS
 - 熟悉多種 Linux 發行版，擅長 高可用性集群設計，包括 Proxmox 集群配置與伺服器快速部署。
 - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
-- 提供穩定的主機代管與健康監控服務，保障網站或應用長期穩定運營。
+- 自營微型機房，提供穩定的主機代管與健康監控服務，保障網站或應用長期穩定運營。
