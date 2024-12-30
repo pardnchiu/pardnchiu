@@ -16,7 +16,7 @@
 - 開發擴展工具 (如[前端框架](https://pardn.io/QuickUI)、[前端擴展](https://pardn.io/RenderJS)、[Markdown 編輯器](https://pardn.io/NanoMD)、[媒體播放器](https://pardn.io/FlexPlyr)、[網頁版架站](https://pardn.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 
 ## 後端
-- 精通 **Node.js**（搭配 TypeScript)與 **PHP**，專注於開發高效能 API 與伺服器端應用。
+- 精通 **Node.js**（搭配 TypeScript) 與 **PHP**，專注於開發高效能 API 與伺服器端應用。
 - 熟練使用 **Python** 與 **Node.js** 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
 - 熟悉 MySQL / MariaDB 的結構化數據操作，並擅長使用 MongoDB 和 Redis 進行快取與分布式數據處理。
 - 熟練應用 ElasticSearch 提供的全文本檢索與數據分析功能，優化查詢性能。
