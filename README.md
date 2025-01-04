@@ -18,7 +18,7 @@
 - 使用純 JS 與原生 API 開發 (如[前端框架](https://quickui.pardn.io)、[Markdown 編輯器](https://nanomd.pardn.io)、、[前端擴展](https://renderjs.pardn.io)、[網頁版架站](https://pardn.io/website-builder)等) 多項實用項目，大幅提升開發效率與功能靈活性。
 
 ## 後端
-> ![](https://skillicons.dev/icons?i=nodejs,php,py,express,ts,mysql) ![](https://skillicons.dev/icons?i=sqlite,mongodb,redis,elasticsearch,firebase,nginx)
+> ![](https://skillicons.dev/icons?i=nodejs,php,py,express,ts) ![](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,elasticsearch) ![](https://skillicons.dev/icons?i=firebase,nginx)
 - 精通 **Node.js**（搭配 TypeScript) 與 **PHP**，專注於開發高效能 API 與伺服器端應用。
 - 熟練使用 **Python** 與 **Node.js** 進行數據分析與網路爬蟲開發，快速抓取和處理大規模數據。
 - 熟悉 MySQL / MariaDB 的結構化數據操作，並擅長使用 MongoDB 和 Redis 進行快取與分布式數據處理。
@@ -27,7 +27,7 @@
 - 熟悉與第三方服務的整合，特別是金流系統，如 **綠界** 和 **藍新**，能有效完成支付系統的串接與安全加密處理。
 
 ## 系統 / OS
-> ![](https://skillicons.dev/icons?i=linux,redhat,debian,docker,gcp,cloudflare)
+> ![](https://skillicons.dev/icons?i=linux,redhat,debian,docker,gcp) ![](https://skillicons.dev/icons?i=cloudflare)
 - 熟悉多種 Linux 發行版，擅長 高可用性集群設計，包括 Proxmox 集群配置與伺服器快速部署。
 - 擁有豐富的機架式硬體以及管理經驗，包含 HPE、Dell、Supermicro 與 ASRockRack。
 - 自營微型機房，提供穩定的主機代管與健康監控服務，保障網站或應用長期穩定運營。
