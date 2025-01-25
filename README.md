@@ -15,5 +15,5 @@
 - [RenderJS：前端擴展（JavaScript 庫）](https://renderjs.pardn.io)
 - [Website Builder：架站工具（網頁工具）](https://pardn.io/website-builder)
 - [Demo Admin：基本後台範例](https://demo-admin.pardn.io)
-- [Web Template：38個網站範例合輯](https://pardn.io/web-template)
+- [Web Template：38 個網站範例合輯](https://pardn.io/web-template)
 - [JOBALL 找專家：媒合平台](https://joball.tw)
