@@ -4,7 +4,7 @@
 | 名稱 | 類型 |
 | :- | :- |
 | [QuickUI<br>網頁前端框架](https://quickui.pardn.io) | JavaScript 庫 | 
-| [NanoMD<br>Markdown 編輯器](https://nanomd.pardn.io) | JavaScript 庫 |
+| [NanoMD<br>Markdown 編輯器](https://nanomd.pardn.io) | JavaScript 庫<br>macOS App (Beta) |
 | [NanoJSON<br>JSON 編輯器](https://nanojson.pardn.io) | JavaScript 庫 |
 | [FlexPlyr<br>模組化播放器](https://flexplyr.pardn.io) | JavaScript 庫 |
 | [RenderJS<br>網頁前端擴展](https://renderjs.pardn.io) | JavaScript 庫 |
@@ -15,7 +15,7 @@
 | [ExSwift<br>聲明式語法擴展](https://github.com/pardnchiu/ExSwift) | Swift 庫 |
 | [MarkdownKit<br>Markdown 語法擴展](https://github.com/pardnchiu/MarkdownKit) | Swift 庫 |
 | [UI Reality<br>pintrest 設計實現](https://github.com/pardnchiu/swift-UI-reality) | iOS 範例 |
-| [WorklyticsTracker<br>鍵盤滑鼠點擊紀錄](https://github.com/pardnchiu/WorklyticsTracker) | macOS App |
+| [WorklyticsTracker<br>鍵盤滑鼠點擊紀錄](https://github.com/pardnchiu/WorklyticsTracker) | macOS App (Beta) |
 | [JOBALL 找專家<br>媒合平台](https://joball.tw) | 媒合平台（在線） |
 
 ## 相關連結
