@@ -12,8 +12,11 @@
 | [Website Builder<br>架站工具](https://pardn.io/website-builder) | 網頁工具 |
 | [Demo Admin<br>基本後台範例](https://demo-admin.pardn.io) | 網頁範例 |
 | [Web Template<br>38 個網站範例合輯](https://pardn.io/web-template) | 網頁範例 |
-| [ExSwift<br>聲明式語法擴展](https://github.com/pardnchiu/ExSwift) |
-| [JOBALL 找專家<br>媒合平台](https://joball.tw) | 媒合平台 |
+| [ExSwift<br>聲明式語法擴展](https://github.com/pardnchiu/ExSwift) | Swift 庫 |
+| [MarkdownKit<br>Markdown 語法擴展](https://github.com/pardnchiu/MarkdownKit) | Swift 庫 |
+| [UI Reality<br>pintrest 設計實現](https://github.com/pardnchiu/swift-UI-reality) | iOS 範例 |
+| [WorklyticsTracker<br>鍵盤滑鼠點擊紀錄](https://github.com/pardnchiu/WorklyticsTracker) | macOS App |
+| [JOBALL 找專家<br>媒合平台](https://joball.tw) | 媒合平台（在線） |
 
 ## 相關連結
 
