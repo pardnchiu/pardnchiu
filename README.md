@@ -22,7 +22,7 @@
 ### Website
 
 - #### AdminUI：後台管理模板（基本款後台）
-  [![](https://img.shields.io/badge/go-Website-bb4444)](https://demo-admin.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/adminui)](https://www.npmjs.com/package/@pardnchiu/adminui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/adminui)](https://www.jsdelivr.com/package/npm/@pardnchiu/adminui)
+  [![](https://img.shields.io/badge/go-Website-bb4444)](https://demo-admin.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/adminui)](https://www.npmjs.com/package/@pardnchiu/adminui)
 - #### [Website Builder：架站工具](https://pardn.io/website-builder)（改版中）
 - #### [Web Template：38 個網站範例合輯](https://pardn.io/web-template)
 
