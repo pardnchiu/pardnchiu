@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true&hide_border=true)
 
 ## 項目概覽
 > 僅分享個人項目
