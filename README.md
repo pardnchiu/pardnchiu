@@ -6,17 +6,17 @@
 ### JavaScript Library
 
 - #### QuickUI：網頁前端框架
-  [![](https://img.shields.io/badge/go-Website-bb4444)](https://quickui.pardn.io) ![](https://img.shields.io/npm/v/@pardnchiu/quickui) ![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui)
+  [![](https://img.shields.io/badge/go-Website-bb4444)](https://quickui.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/quickui)](https://www.npmjs.com/package/@pardnchiu/quickui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui)](https://www.jsdelivr.com/package/npm/@pardnchiu/quickui)
 - #### NanoMD：Markdown 編輯器
-  [![](https://img.shields.io/badge/go-Website-bb4444)](https://nanomd.pardn.io) ![](https://img.shields.io/npm/v/@pardnchiu/nanomd) ![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd)
+  [![](https://img.shields.io/badge/go-Website-bb4444)](https://nanomd.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/nanomd)](https://www.npmjs.com/package/@pardnchiu/nanomd) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd)](https://www.jsdelivr.com/package/npm/@pardnchiu/nanomd)
 - #### NanoJSON：JSON 編輯器
-  [![](https://img.shields.io/badge/go-Website-bb4444)](https://nanojson.pardn.io) ![](https://img.shields.io/npm/v/@pardnchiu/nanojson) ![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson)
+  [![](https://img.shields.io/badge/go-Website-bb4444)](https://nanojson.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/nanojson)](https://www.npmjs.com/package/@pardnchiu/nanojson) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson)](https://www.jsdelivr.com/package/npm/@pardnchiu/nanojson)
 - #### FlexPlyr：模組化播放器
-  [![](https://img.shields.io/badge/go-Website-bb4444)](https://flexplyr.pardn.io) ![](https://img.shields.io/npm/v/@pardnchiu/flexplyr) ![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr)
+  [![](https://img.shields.io/badge/go-Website-bb4444)](https://flexplyr.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/flexplyr)](https://www.npmjs.com/package/@pardnchiu/flexplyr) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr)](https://www.jsdelivr.com/package/npm/@pardnchiu/flexplyr)
 - #### RenderJS：網頁前端擴展
-  [![](https://img.shields.io/badge/go-Website-bb4444)](https://renderjs.pardn.io) ![](https://img.shields.io/npm/v/@pardnchiu/renderjs) ![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs)
+  [![](https://img.shields.io/badge/go-Website-bb4444)](https://renderjs.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/renderjs)](https://www.npmjs.com/package/@pardnchiu/renderjs) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs)](https://www.jsdelivr.com/package/npm/@pardnchiu/renderjs)
 - #### pdf2image：PDF 轉換工具
-  [![](https://img.shields.io/badge/go-Website-bb4444)](https://pardn.io/pdf2image) ![](https://img.shields.io/npm/v/@pardnchiu/pdf2image) ![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)
+  [![](https://img.shields.io/badge/go-Website-bb4444)](https://pardn.io/pdf2image) [![](https://img.shields.io/npm/v/@pardnchiu/pdf2image)](https://www.npmjs.com/package/@pardnchiu/pdf2image) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)](https://www.jsdelivr.com/package/npm/@pardnchiu/pdf2image)
 
 ### Website
 
