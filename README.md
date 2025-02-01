@@ -31,7 +31,7 @@
 - #### [UI Reality：Pintrest 設計實現](https://github.com/pardnchiu/swift-UI-reality)
 - #### [WorklyticsTracker：鍵盤滑鼠點擊紀錄（Beta）](https://github.com/pardnchiu/WorklyticsTracker)
 
-### Discontinued & Live
+### Live / Discontinued
 
 - #### [（網站）JOBALL 找專家：媒合平台](https://joball.tw)
 - #### [（iOS）NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)（已下架）
