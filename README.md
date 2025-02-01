@@ -21,7 +21,7 @@
 
 ### Website
 
-- #### [AdminUI：基本後台範例](https://demo-admin.pardn.io)
+- #### [AdminUI：後台模板](https://demo-admin.pardn.io)（基本款後台）
 - #### [Website Builder：架站工具](https://pardn.io/website-builder)（改版中）
 - #### [Web Template：38 個網站範例合輯](https://pardn.io/web-template)
 
