@@ -21,7 +21,7 @@
 ### Website
 
 - #### [Demo Admin：基本後台範例](https://demo-admin.pardn.io)
-- #### [Website Builder：架站工具（改版中）](https://pardn.io/website-builder)
+- #### [Website Builder：架站工具](https://pardn.io/website-builder)（改版中）
 - #### [Web Template：38 個網站範例合輯](https://pardn.io/web-template)
 
 ### iOS / macOS
@@ -29,7 +29,7 @@
 - #### [ExSwift：聲明式語法擴展](https://github.com/pardnchiu/ExSwift)
 - #### [MarkdownKit：Markdown 語法擴展](https://github.com/pardnchiu/MarkdownKit)
 - #### [UI Reality：Pintrest 設計實現](https://github.com/pardnchiu/swift-UI-reality)
-- #### [WorklyticsTracker：鍵盤滑鼠點擊紀錄（Beta）](https://github.com/pardnchiu/WorklyticsTracker)
+- #### [WorklyticsTracker：鍵盤滑鼠點擊紀錄](https://github.com/pardnchiu/WorklyticsTracker)（Beta）
 
 ### Live / Discontinued
 
