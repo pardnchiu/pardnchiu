@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true)
 
 ## 項目概覽
 | | 名稱 | 類型 |
