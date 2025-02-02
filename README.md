@@ -14,7 +14,7 @@
   [![](https://img.shields.io/badge/介紹-5C5C5C)](https://nanojson.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/nanojson)](https://www.npmjs.com/package/@pardnchiu/nanojson) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson)](https://www.jsdelivr.com/package/npm/@pardnchiu/nanojson)
 - #### [FlexPlyr：模組化播放器](https://github.com/pardnchiu/FlexPlyr)
   [![](https://img.shields.io/badge/介紹-5C5C5C)](https://flexplyr.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/flexplyr)](https://www.npmjs.com/package/@pardnchiu/flexplyr) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr)](https://www.jsdelivr.com/package/npm/@pardnchiu/flexplyr)
-- #### [RenderJS：網頁前端擴展](https://github.com/pardnchiu/RenderJS)
+- #### [RenderJS：網頁前端擴展](https://github.com/pardnchiu/RenderJS)（包含簡易框架）
   [![](https://img.shields.io/badge/介紹-5C5C5C)](https://renderjs.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/renderjs)](https://www.npmjs.com/package/@pardnchiu/renderjs) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs)](https://www.jsdelivr.com/package/npm/@pardnchiu/renderjs)
 - #### [pdf2image：PDF 轉換工具](https://github.com/pardnchiu/pdf2image)
   [![](https://img.shields.io/badge/介紹-5C5C5C)](https://pardn.io/pdf2image) ![](https://img.shields.io/github/license/pardnchiu/pdf2image) [![](https://img.shields.io/npm/v/@pardnchiu/pdf2image)](https://www.npmjs.com/package/@pardnchiu/pdf2image) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)](https://www.jsdelivr.com/package/npm/@pardnchiu/pdf2image)
