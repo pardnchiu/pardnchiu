@@ -6,7 +6,7 @@
 
 ### Website
 
-- #### [QuickUI：前端框架](https://github.com/pardnchiu/QuickUI)（vDOM + 差異渲染）
+- #### [QuickUI：前端框架](https://github.com/pardnchiu/QuickUI)（虛擬 DOM + 差異渲染）
   [![](https://img.shields.io/badge/介紹-5C5C5C)](https://quickui.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/quickui)](https://www.npmjs.com/package/@pardnchiu/quickui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui)](https://www.jsdelivr.com/package/npm/@pardnchiu/quickui)
 - #### [RenderJS：前端擴展](https://github.com/pardnchiu/RenderJS)（擴展 + 簡易框架）
   [![](https://img.shields.io/badge/介紹-5C5C5C)](https://renderjs.pardn.io) [![](https://img.shields.io/npm/v/@pardnchiu/renderjs)](https://www.npmjs.com/package/@pardnchiu/renderjs) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs)](https://www.jsdelivr.com/package/npm/@pardnchiu/renderjs)
