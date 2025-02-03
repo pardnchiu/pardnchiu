@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true&v=1738558882)
+![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true&v=1738612332)
 
 ## 項目概覽
 > [!NOTE]
