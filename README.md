@@ -22,7 +22,9 @@
   [![](https://img.shields.io/badge/展示-5C5C5C)](https://demo-admin.pardn.io) ![](https://img.shields.io/github/license/pardnchiu/AdminUI) [![](https://img.shields.io/npm/v/@pardnchiu/adminui)](https://www.npmjs.com/package/@pardnchiu/adminui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/adminui)](https://www.jsdelivr.com/package/npm/@pardnchiu/adminui)
 - #### [Web Template：38 個網站範例合輯](https://github.com/pardnchiu/web-template)
   [![](https://img.shields.io/badge/展示-5C5C5C)](https://pardn.io/web-template) ![](https://img.shields.io/github/license/pardnchiu/web-template)
-- #### [Website Builder：架站工具](https://github.com/pardnchiu/website-builder)（改版中）
+- #### [DeskUI：圖像管理模板](https://github.com/pardnchiu/DeskUI)（製作 PHP 範例中）
+  [![](https://img.shields.io/badge/展示-5C5C5C)](https://pardnchiu.github.io/DeskUI)
+- #### [Website Builder：架站工具](https://github.com/pardnchiu/website-builder)（改版為 JS 庫中）
   [![](https://img.shields.io/badge/展示-5C5C5C)](https://pardn.io/website-builder)
 
 ### iOS / macOS
