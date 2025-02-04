@@ -19,7 +19,7 @@
 - #### [pdf2image：PDF 轉換工具](https://github.com/pardnchiu/pdf2image)
   [![](https://img.shields.io/badge/介紹-5C5C5C)](https://pardn.io/pdf2image) ![](https://img.shields.io/github/license/pardnchiu/pdf2image) [![](https://img.shields.io/npm/v/@pardnchiu/pdf2image)](https://www.npmjs.com/package/@pardnchiu/pdf2image) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)](https://www.jsdelivr.com/package/npm/@pardnchiu/pdf2image)
 - #### [AdminUI：後台管理模板](https://github.com/pardnchiu/AdminUI)（基本款後台）
-  [![](https://img.shields.io/badge/展示-5C5C5C)](https://demo-admin.pardn.io) ![](https://img.shields.io/github/license/pardnchiu/AdminUI) [![](https://img.shields.io/npm/v/@pardnchiu/adminui)](https://www.npmjs.com/package/@pardnchiu/adminui)
+  [![](https://img.shields.io/badge/展示-5C5C5C)](https://demo-admin.pardn.io) ![](https://img.shields.io/github/license/pardnchiu/AdminUI) [![](https://img.shields.io/npm/v/@pardnchiu/adminui)](https://www.npmjs.com/package/@pardnchiu/adminui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/adminui)](https://www.jsdelivr.com/package/npm/@pardnchiu/adminui)
 - #### [Web Template：38 個網站範例合輯](https://github.com/pardnchiu/web-template)
   [![](https://img.shields.io/badge/展示-5C5C5C)](https://pardn.io/web-template) ![](https://img.shields.io/github/license/pardnchiu/web-template)
 - #### [Website Builder：架站工具](https://github.com/pardnchiu/website-builder)（改版中）
