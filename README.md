@@ -7,7 +7,7 @@
 ### 進行中
 
 - #### [DeskUI：圖像管理模板](https://github.com/pardnchiu/DeskUI)
-  改版為方便引用的 JavaSctipt 庫，與製作 PHP 範例中。
+  調整代碼，並製作 PHP 範例。
 - #### [Website Builder：架站工具](https://github.com/pardnchiu/website-builder)
   改版為方便引用的 JavaSctipt 庫。
 
