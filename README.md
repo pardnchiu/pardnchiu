@@ -4,7 +4,7 @@
 > [!NOTE]
 > 僅分享自己開發的免費工具與範例
 
-### 進行中
+### 改版中
 
 - #### [DeskUI：圖像管理模板](https://github.com/pardnchiu/DeskUI)
   調整代碼，並製作 PHP 範例。
