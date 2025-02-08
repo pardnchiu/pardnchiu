@@ -10,7 +10,7 @@
   調整代碼，並製作 PHP 範例。
 - #### [Website Builder：架站工具](https://github.com/pardnchiu/website-builder)
   改版為方便引用的 JavaSctipt 庫。
-- #### [（macOS）NinLog：鍵盤滑鼠追蹤](https://github.com/pardnchiu/WorklyticsTracker)
+- #### [（macOS）NinLog：鍵盤滑鼠追蹤](https://github.com/pardnchiu/NinLog)
   完善功能發布至 App Store
 
 ### Website
