@@ -4,12 +4,14 @@
 > [!NOTE]
 > 僅分享自己開發的免費工具與範例
 
-### 改版中
+### 進行中
 
 - #### [DeskUI：圖像管理模板](https://github.com/pardnchiu/DeskUI)
   調整代碼，並製作 PHP 範例。
 - #### [Website Builder：架站工具](https://github.com/pardnchiu/website-builder)
   改版為方便引用的 JavaSctipt 庫。
+- #### [（macOS）NinLog：鍵盤滑鼠追蹤](https://github.com/pardnchiu/WorklyticsTracker)
+  完善功能發布至 App Store
 
 ### Website
 
@@ -35,7 +37,6 @@
 - #### [ExSwift：聲明式語法擴展](https://github.com/pardnchiu/ExSwift)
 - #### [MarkdownKit：Markdown 語法擴展](https://github.com/pardnchiu/MarkdownKit)
 - #### [UI Reality：Pintrest 設計實現](https://github.com/pardnchiu/swift-UI-reality)
-- #### [WorklyticsTracker：鍵盤滑鼠點擊紀錄](https://github.com/pardnchiu/WorklyticsTracker)（Beta）
 
 ### Live / Discontinued
 
