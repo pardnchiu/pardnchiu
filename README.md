@@ -40,6 +40,7 @@
 ### Live / Discontinued
 
 - #### [（網站）JOBALL 找專家：媒合平台](https://joball.tw)
+- #### [（macOS）NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
 - #### [（iOS）NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)（已下架）
 - #### [（iOS）JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)（已下架）
 
