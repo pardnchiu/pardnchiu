@@ -10,8 +10,6 @@
   調整代碼，並製作 PHP 範例。
 - #### [Website Builder：架站工具](https://github.com/pardnchiu/website-builder)
   改版為方便引用的 JavaSctipt 庫。
-- #### [（macOS）NinLog：鍵盤滑鼠追蹤](https://github.com/pardnchiu/NinLog)
-  完善功能發布至 App Store
 
 ### Website
 
@@ -42,6 +40,7 @@
 
 - #### [（網站）JOBALL 找專家：媒合平台](https://joball.tw)
 - #### [（macOS）NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
+- #### [（macOS）NinLog：鍵盤滑鼠追蹤](https://github.com/pardnchiu/NinLog)
 - #### [（iOS）NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)（已下架）
 - #### [（iOS）JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)（已下架）
 
