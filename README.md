@@ -35,6 +35,8 @@
 - #### [ExSwift：聲明式語法擴展](https://github.com/pardnchiu/ExSwift)
 - #### [MarkdownKit：Markdown 語法擴展](https://github.com/pardnchiu/MarkdownKit)
 - #### [UI Reality：Pintrest 設計實現](https://github.com/pardnchiu/swift-UI-reality)
+- #### [Firebase Messaging 即時訊息](https://github.com/pardnchiu/ios-firebase-messaging)
+- #### [Moneybook 記帳範例](https://github.com/pardnchiu/ios-moneybook)
 
 ### Live / Discontinued
 
