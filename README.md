@@ -33,8 +33,8 @@
 | [ExSwift：聲明式語法擴展](https://github.com/pardnchiu/ExSwift) | Framework |
 | [MarkdownKit：Markdown 語法擴展](https://github.com/pardnchiu/MarkdownKit) | Framework |
 | [UI Reality：Pintrest 設計實現](https://github.com/pardnchiu/swift-UI-reality) | iOS Demo |
-| [Firebase Messaging 即時訊息範例](https://github.com/pardnchiu/ios-firebase-messaging) | iOS Demo |
-| [Moneybook 記帳範例](https://github.com/pardnchiu/ios-moneybook) | iOS Demo |
+| [Firebase Messaging：即時訊息範例](https://github.com/pardnchiu/ios-firebase-messaging) | iOS Demo |
+| [Moneybook：記帳範例](https://github.com/pardnchiu/ios-moneybook) | iOS Demo |
 
 ### Live / Discontinued
 
