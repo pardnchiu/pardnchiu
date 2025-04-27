@@ -7,8 +7,8 @@
 
 ### Tool
 
-![](https://skillicons.dev/icons?i=swift,flutter,html,css,sass,js) ![](https://skillicons.dev/icons?i=react,nodejs,ts,php,go)
-![](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch) ![](https://skillicons.dev/icons?i=firebase,gcp,cloudflare,docker,debian,redhat)
+![](https://skillicons.dev/icons?i=swift,flutter,html,css,sass,js,react,nodejs,ts,php,go)
+![](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,firebase,gcp,cloudflare,docker,debian,redhat)
 
 ### Implementation Reference
 
