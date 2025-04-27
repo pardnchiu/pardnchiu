@@ -5,14 +5,7 @@
 > 僅分享自己開發的免費工具、範例與平台<br>
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 合作過，負責專案（Axonews）中的 iOS 開發
 
-### 進行中
-
-| 名稱 | 動作 |
-| - | - | 
-| [DeskUI：圖像管理模板](https://github.com/pardnchiu/DeskUI) |  調整代碼，並製作 PHP 範例 |
-| [Website Builder：架站工具](https://github.com/pardnchiu/website-builder) | 改版為方便引用的 JavaSctipt 庫 |
-
-### Website
+### Webtools
 
 | 名稱 | 連結／統計 | 開源 |
 | - | - | :-: |
@@ -24,6 +17,8 @@
 | [pdf2image：PDF 轉換工具](https://pardn.io/pdf2image) | [![](https://img.shields.io/npm/v/@pardnchiu/pdf2image)](https://www.npmjs.com/package/@pardnchiu/pdf2image) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)](https://www.jsdelivr.com/package/npm/@pardnchiu/pdf2image) [![](https://img.shields.io/github/stars/pardnchiu/pdf2image)](https://github.com/pardnchiu/pdf2image) | ✅ |
 | [AdminUI：後台管理模板](https://demo-admin.pardn.io) | [![](https://img.shields.io/npm/v/@pardnchiu/adminui)](https://www.npmjs.com/package/@pardnchiu/adminui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/adminui)](https://www.jsdelivr.com/package/npm/@pardnchiu/adminui) [![](https://img.shields.io/github/stars/pardnchiu/AdminUI)](https://github.com/pardnchiu/AdminUI) | ✅ |
 | [Web Template：38 個網站範例合輯](https://pardn.io/web-template) | [![](https://img.shields.io/github/stars/pardnchiu/web-template)](https://github.com/pardnchiu/web-template) | ✅ |
+| [DeskUI：圖像管理模板](https://github.com/pardnchiu/DeskUI) |  |
+| [Website Builder：架站工具](https://github.com/pardnchiu/website-builder) |  |
 
 ### iOS / macOS
 
