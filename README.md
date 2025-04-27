@@ -5,6 +5,11 @@
 > Only sharing my own projects<br>
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 合作過，負責專案（Axonews）中的 iOS 開發
 
+### Tool
+
+![](https://skillicons.dev/icons?i=swift,flutter,html,css,sass,js) ![](https://skillicons.dev/icons?i=react,nodejs,ts,php,go)
+![](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch) ![](https://skillicons.dev/icons?i=firebase,gcp,cloudflare,docker,debian,redhat)
+
 ### Implementation Reference
 
 | Name | Total |
