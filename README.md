@@ -4,7 +4,7 @@
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 合作過，負責專案（Axonews）中的 iOS 開發
 
 ## Live / Discontinued
-> ✅ : Live
+> ✅ : In Operation
 
 - ✅ [JOBALL 找專家：媒合平台](https://joball.tw)
 - ✅ [NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
