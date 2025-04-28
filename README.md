@@ -14,8 +14,8 @@
 
 | Name | Total |
 | :- | :- |
-| [Image Caching Server (ver. Golang)](https://github.com/pardnchiu/golang-image-server) | [![](https://img.shields.io/github/stars/pardnchiu/golang-image-server)](https://github.com/pardnchiu/nodejs-image-server) |
-| [Image Caching Server (ver. Nodejs)](https://github.com/pardnchiu/nodejs-image-server) | [![](https://img.shields.io/github/stars/pardnchiu/nodejs-image-server)](https://github.com/pardnchiu/nodejs-image-server) |
+| [Image Caching Server (ver. Golang)](https://github.com/pardnchiu/golang-image-caching-server) | [![](https://img.shields.io/github/stars/pardnchiu/golang-image-caching-server)](https://github.com/pardnchiu/nodejs-image-server) |
+| [Image Caching Server (ver. Nodejs)](https://github.com/pardnchiu/nodejs-image-caching-server) | [![](https://img.shields.io/github/stars/pardnchiu/nodejs-image-caching-server)](https://github.com/pardnchiu/nodejs-image-server) |
 
 ### Webtool
 
