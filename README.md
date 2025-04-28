@@ -20,16 +20,16 @@
 
 | Name | Total | Opensource |
 | :- | :- | :-: |
-| [QuickUI: Frontend Framework](https://quickui.pardn.io) | [![](https://img.shields.io/npm/v/@pardnchiu/quickui)](https://www.npmjs.com/package/@pardnchiu/quickui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui)](https://www.jsdelivr.com/package/npm/@pardnchiu/quickui) [![](https://img.shields.io/github/stars/pardnchiu/QuickUI)](https://github.com/pardnchiu/QuickUI) |
-| [RenderJS: JavaScript Library](https://renderjs.pardn.io) | [![](https://img.shields.io/npm/v/@pardnchiu/renderjs)](https://www.npmjs.com/package/@pardnchiu/renderjs) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs)](https://www.jsdelivr.com/package/npm/@pardnchiu/renderjs) [![](https://img.shields.io/github/stars/pardnchiu/RenderJS)](https://github.com/pardnchiu/RenderJS) |
-| [NanoMD: Markdown Editor with Live Render](https://nanomd.pardn.io) | [![](https://img.shields.io/npm/v/@pardnchiu/nanomd)](https://www.npmjs.com/package/@pardnchiu/nanomd) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd)](https://www.jsdelivr.com/package/npm/@pardnchiu/nanomd) [![](https://img.shields.io/github/stars/pardnchiu/NanoMD)](https://github.com/pardnchiu/NanoMD) |
-| [NanoJSON: JSON Editor](https://nanojson.pardn.io) | [![](https://img.shields.io/npm/v/@pardnchiu/nanojson)](https://www.npmjs.com/package/@pardnchiu/nanojson) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson)](https://www.jsdelivr.com/package/npm/@pardnchiu/nanojson) [![](https://img.shields.io/github/stars/pardnchiu/NanoJSON)](https://github.com/pardnchiu/NanoJSON) |
-| [FlexPlyr: Module Media Player](https://flexplyr.pardn.io) | [![](https://img.shields.io/npm/v/@pardnchiu/flexplyr)](https://www.npmjs.com/package/@pardnchiu/flexplyr) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr)](https://www.jsdelivr.com/package/npm/@pardnchiu/flexplyr) [![](https://img.shields.io/github/stars/pardnchiu/FlexPlyr)](https://github.com/pardnchiu/FlexPlyr) | ✅ |
-| [pdf2image: PDF to Image](https://pardn.io/pdf2image) | [![](https://img.shields.io/npm/v/@pardnchiu/pdf2image)](https://www.npmjs.com/package/@pardnchiu/pdf2image) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)](https://www.jsdelivr.com/package/npm/@pardnchiu/pdf2image) [![](https://img.shields.io/github/stars/pardnchiu/pdf2image)](https://github.com/pardnchiu/pdf2image) | ✅ |
-| [AdminUI: Dashboard Template](https://demo-admin.pardn.io) | [![](https://img.shields.io/npm/v/@pardnchiu/adminui)](https://www.npmjs.com/package/@pardnchiu/adminui) [![](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/adminui)](https://www.jsdelivr.com/package/npm/@pardnchiu/adminui) [![](https://img.shields.io/github/stars/pardnchiu/AdminUI)](https://github.com/pardnchiu/AdminUI) | ✅ |
+| [QuickUI: Frontend Framework](https://quickui.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/QuickUI)](https://github.com/pardnchiu/QuickUI) |
+| [RenderJS: JavaScript Library](https://renderjs.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/RenderJS)](https://github.com/pardnchiu/RenderJS) |
+| [NanoMD: Markdown Editor with Live Render](https://nanomd.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/NanoMD)](https://github.com/pardnchiu/NanoMD) |
+| [NanoJSON: JSON Editor](https://nanojson.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/NanoJSON)](https://github.com/pardnchiu/NanoJSON) |
+| [FlexPlyr: Module Media Player](https://flexplyr.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/FlexPlyr)](https://github.com/pardnchiu/FlexPlyr) | ✅ |
+| [pdf2image: PDF to Image](https://pardn.io/pdf2image) | [![](https://img.shields.io/github/stars/pardnchiu/pdf2image)](https://github.com/pardnchiu/pdf2image) | ✅ |
+| [AdminUI: Dashboard Template](https://demo-admin.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/AdminUI)](https://github.com/pardnchiu/AdminUI) | ✅ |
 | [Web Template: 38 Examples Compilation](https://pardn.io/web-template) | [![](https://img.shields.io/github/stars/pardnchiu/web-template)](https://github.com/pardnchiu/web-template) | ✅ |
-| [DeskUI: Desktop GUI](https://github.com/pardnchiu/DeskUI) |  |
-| [Website Builder](https://github.com/pardnchiu/website-builder) |  |
+| [DeskUI: Desktop GUI](https://github.com/pardnchiu/DeskUI) | [![](https://img.shields.io/github/stars/pardnchiu/DeskUI)](https://github.com/pardnchiu/DeskUI) |
+| [Website Builder](https://github.com/pardnchiu/website-builder) | [![](https://img.shields.io/github/stars/pardnchiu/website-builder)](https://github.com/pardnchiu/website-builder) |
 
 ### iOS / macOS
 
