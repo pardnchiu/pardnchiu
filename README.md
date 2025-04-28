@@ -1,19 +1,16 @@
-![](https://github-readme-stats.vercel.app/api?username=pardnchiu&show_icons=true&v=1738612332)
-
 ## Overview
 > [!NOTE]
 > Only sharing my own projects<br>
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 合作過，負責專案（Axonews）中的 iOS 開發
 
-### Live / Discontinued
+## Live / Discontinued
+> ✅ : Live
 
-| 名稱 | 類型 |
-| - | - |
-| [JOBALL 找專家：媒合平台](https://joball.tw) | Website |
-| [NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) | macOS App |
-| [NinLog：鍵盤滑鼠追蹤](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) | macOS App |
-| [NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) | iOS App |
-| [JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | iOS App |
+- ✅ [JOBALL 找專家：媒合平台](https://joball.tw)
+- ✅ [NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
+- ✅ [NinLog：鍵盤滑鼠追蹤](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)
+- [NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)
+- [JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)
 
 ### Web
 > ✅ : Opensource
