@@ -13,20 +13,18 @@
 - [JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)
 
 ### Web
-> ✅ : Opensource
+> ✅ : Is Opensource
 
-| Name | Total |
-| :- | :- |
-| [QuickUI: Frontend Framework](https://quickui.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/QuickUI)](https://github.com/pardnchiu/QuickUI) |
-| [RenderJS: JavaScript Library](https://renderjs.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/RenderJS)](https://github.com/pardnchiu/RenderJS) |
-| [NanoMD: Markdown Editor with Live Render](https://nanomd.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/NanoMD)](https://github.com/pardnchiu/NanoMD) |
-| [NanoJSON: JSON Editor](https://nanojson.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/NanoJSON)](https://github.com/pardnchiu/NanoJSON) |
-| ✅ [FlexPlyr: Module Media Player](https://flexplyr.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/FlexPlyr)](https://github.com/pardnchiu/FlexPlyr) |
-| ✅ [pdf2image: PDF to Image](https://pardn.io/pdf2image) | [![](https://img.shields.io/github/stars/pardnchiu/pdf2image)](https://github.com/pardnchiu/pdf2image) |
-| ✅ [AdminUI: Dashboard Template](https://demo-admin.pardn.io) | [![](https://img.shields.io/github/stars/pardnchiu/AdminUI)](https://github.com/pardnchiu/AdminUI) |
-| ✅ [Web Template: 38 Examples Compilation](https://pardn.io/web-template) | [![](https://img.shields.io/github/stars/pardnchiu/web-template)](https://github.com/pardnchiu/web-template) |  |
-| [DeskUI: Desktop GUI](https://github.com/pardnchiu/DeskUI) | [![](https://img.shields.io/github/stars/pardnchiu/DeskUI)](https://github.com/pardnchiu/DeskUI) |
-| [Website Builder](https://github.com/pardnchiu/website-builder) | [![](https://img.shields.io/github/stars/pardnchiu/website-builder)](https://github.com/pardnchiu/website-builder) |
+- [QuickUI: Frontend Framework](https://quickui.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/QuickUI)](https://github.com/pardnchiu/QuickUI)
+- [RenderJS: JavaScript Library](https://renderjs.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/RenderJS)](https://github.com/pardnchiu/RenderJS)
+- [NanoMD: Markdown Editor with Live Render](https://nanomd.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/NanoMD)](https://github.com/pardnchiu/NanoMD)
+- [NanoJSON: JSON Editor](https://nanojson.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/NanoJSON)](https://github.com/pardnchiu/NanoJSON)
+- ✅ [FlexPlyr: Module Media Player](https://flexplyr.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/FlexPlyr)](https://github.com/pardnchiu/FlexPlyr)
+- ✅ [pdf2image: PDF to Image](https://pardn.io/pdf2image) [![](https://img.shields.io/github/stars/pardnchiu/pdf2image)](https://github.com/pardnchiu/pdf2image)
+- ✅ [AdminUI: Dashboard Template](https://demo-admin.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/AdminUI)](https://github.com/pardnchiu/AdminUI)
+- ✅ [Web Template: 38 Examples Compilation](https://pardn.io/web-template) [![](https://img.shields.io/github/stars/pardnchiu/web-template)](https://github.com/pardnchiu/web-template)
+- [DeskUI: Desktop GUI](https://github.com/pardnchiu/DeskUI) [![](https://img.shields.io/github/stars/pardnchiu/DeskUI)](https://github.com/pardnchiu/DeskUI)
+- [Website Builder](https://github.com/pardnchiu/website-builder) [![](https://img.shields.io/github/stars/pardnchiu/website-builder)](https://github.com/pardnchiu/website-builder)
 
 ### iOS / macOS
 
