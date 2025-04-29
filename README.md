@@ -14,7 +14,7 @@
 - [NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)
 - [JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)
 
-### Web Development
+### Web
 > ✅ : Is Opensource
 
 - [NanoMD](https://nanomd.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/NanoMD)](https://github.com/pardnchiu/NanoMD)<br>
