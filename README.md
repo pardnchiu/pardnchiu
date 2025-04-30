@@ -30,7 +30,7 @@
 - [RenderJS](https://renderjs.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/RenderJS)](https://github.com/pardnchiu/RenderJS)<br>
   High-Performance JavaScript Library
 - [QuickUI](https://quickui.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/QuickUI)](https://github.com/pardnchiu/QuickUI)<br>
-  Lightweight Frontend Development Framework
+  Lightweight Frontend Rendering Framework
 - [DeskUI](https://github.com/pardnchiu/DeskUI) [![](https://img.shields.io/github/stars/pardnchiu/DeskUI)](https://github.com/pardnchiu/DeskUI)<br>
   HTML/CSS Framework for Web UI Controllers with macOS Design
 - [NanoJSON](https://nanojson.pardn.io) [![](https://img.shields.io/github/stars/pardnchiu/NanoJSON)](https://github.com/pardnchiu/NanoJSON)<br>
