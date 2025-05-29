@@ -1,7 +1,5 @@
-## Overview
+## Only sharing my own projects
 > [!NOTE]
-> iOS / Web Developer<br>
-> Only sharing my own projects
 > - [Full Projects](https://github.com/pardnltd)
 
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 合作過，且僅負責專案（Axonews）中的 iOS 開發
