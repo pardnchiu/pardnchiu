@@ -7,12 +7,12 @@ More projects in [Pardn Co., Ltd](https://github.com/pardnltd)
 ## Live / Discontinued
 
 - ### Live
-  - #### [JOBALL 找專家：媒合平台](https://joball.tw)
-  - #### [NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
-  - #### [NinLog：鍵盤滑鼠追蹤](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)
+  - [JOBALL 找專家：媒合平台](https://joball.tw)
+  - [NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
+  - [NinLog：鍵盤滑鼠追蹤](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)
 - ### Discontinued
-  - #### <s>[NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)</s>
-  - #### <s>[JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)</s>
+  - <s>[NEEDS 開箱：電商社群](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp)</s>
+  - <s>[JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)</s>
 
 ## Own Projects on GitHub
 
