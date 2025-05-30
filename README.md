@@ -14,7 +14,7 @@
 ## Own Projects on GitHub
 - ### Backend
   - #### DEMO
-    - [Image Server](https://github.com/pardnchiu/image-caching-server): Image caching server with multi-format (Nodejs/Golang) processing
+    - [Image Server](https://github.com/pardnchiu/image-caching-server) - Image caching server with multi-format (Nodejs/Golang) processing
   - #### Golang Mod
     - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication mod
   - #### Nodejs Package
@@ -36,15 +36,15 @@
     - [Moneybook](https://github.com/pardnchiu/ios-moneybook) - iOS expense tracking app example using Swift/Uikit
     - [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) - Firebase messaging app example using Swift/Uikit
   - #### JavaScript Library
-    - [QuickUI](https://quickui.pardn.io): Lightweight frontend framework
-    - [NanoMD](https://nanomd.pardn.io): Modular Markdown Editor
-    - [NanoJSON](https://nanojson.pardn.io): Modular JSON Editor
-    - [FlexPlyr](https://flexplyr.pardn.io): Modular Media Player
-    - [RenderJS](https://renderjs.pardn.io): Rendering extension library
-    - [pdf2image](https://pardn.io/pdf2image): PDF to image converter
+    - [QuickUI](https://quickui.pardn.io) - Lightweight frontend framework
+    - [NanoMD](https://nanomd.pardn.io) - Modular Markdown Editor
+    - [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
+    - [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
+    - [RenderJS](https://renderjs.pardn.io) - Rendering extension library
+    - [pdf2image](https://pardn.io/pdf2image) - PDF to image converter
   - #### Swift Package
-    - [ExSwift](https://github.com/pardnchiu/ExSwift): Swift extension utilities
+    - [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
   - #### Other
-    - [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest): CSS Drawing
+    - [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing
 - ### Other
-  - [VIM Config](https://github.com/pardnchiu/vim-config): VIM editor configuration
+  - [VIM Config](https://github.com/pardnchiu/vim-config) - VIM editor configuration
