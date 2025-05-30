@@ -48,3 +48,4 @@
     - [ExSwift](https://github.com/pardnchiu/ExSwift)
   - #### Other
     - [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest): CSS Drawing
+    - [VIM Config](https://github.com/pardnchiu/vim-config)
