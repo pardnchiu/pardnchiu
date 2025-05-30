@@ -3,7 +3,6 @@
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 合作過，僅負責專案（Axonews）中的 iOS 開發
 
 ## Live / Discontinued
-
 - ### Live
   - [JOBALL 找專家：媒合平台](https://joball.tw)
   - [NanoMD：Markdown 編輯器](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
@@ -13,39 +12,39 @@
   - <s>[JOBALL 接洽：媒合社群](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp)</s>
 
 ## Own Projects on GitHub
-
 - ### Backend
   - #### DEMO
-    - [Image Caching Server](https://github.com/pardnchiu/image-caching-server)
+    - [Image Server](https://github.com/pardnchiu/image-caching-server): Image caching server with multi-format (Nodejs/Golang) processing
   - #### Golang Mod
-    - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth)
+    - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication mod
   - #### Nodejs Package
-    - [@pardnchiu/jwt-auth](https://github.com/pardnchiu/nodejs-jwt-auth)
-    - [@pardnchiu/mysql-pool](https://github.com/pardnchiu/nodejs-mysql-pool)
+    - [@pardnchiu/jwt-auth](https://github.com/pardnchiu/nodejs-jwt-auth) - JWT authentication package
+    - [@pardnchiu/mysql-pool](https://github.com/pardnchiu/nodejs-mysql-pool) - MySQL connection pool manager
   - #### PHP Package
-    - [pardnchiu/mysql-pool](https://github.com/pardnchiu/php-mysql-pool)
-    - [PD\Async](https://github.com/pardnchiu/php-async)
-    - [PD\Redis](https://github.com/pardnchiu/php-redis)
-    - [PD\Cache](https://github.com/pardnchiu/php-cache)
-    - [PD\Session](https://github.com/pardnchiu/php-session)
+    - [pardnchiu/mysql-pool](https://github.com/pardnchiu/php-mysql-pool) - MySQL connection pool manager
+    - [PD\Async](https://github.com/pardnchiu/php-async) - Asynchronous processing utility
+    - [PD\Redis](https://github.com/pardnchiu/php-redis) - Redis operation wrapper
+    - [PD\Cache](https://github.com/pardnchiu/php-cache) - Cache management system
+    - [PD\Session](https://github.com/pardnchiu/php-session) - Session management tool
 - ### Frontend
   - #### DEMO
-    - [DeskUI](https://github.com/pardnchiu/DeskUI)
-    - [Web Template](https://pardn.io/web-template)
-    - [Website Builder](https://github.com/pardnchiu/website-builder)
-    - [AdminUI](https://demo-admin.pardn.io)
-    - [UI Reality](https://github.com/pardnchiu/swift-UI-reality)
-    - [Moneybook](https://github.com/pardnchiu/ios-moneybook)
-    - [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging)
+    - [DeskUI](https://github.com/pardnchiu/DeskUI) - Desktop-style UI interface
+    - [Web Template](https://pardn.io/web-template) - up to 40 Web template collection
+    - [Website Builder](https://github.com/pardnchiu/website-builder) - Visual website builder tool
+    - [AdminUI](https://demo-admin.pardn.io) - Admin dashboard template
+    - [UI Reality](https://github.com/pardnchiu/swift-UI-reality) - Component showcase using SwiftUI
+    - [Moneybook](https://github.com/pardnchiu/ios-moneybook) - iOS expense tracking app example using Swift/Uikit
+    - [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) - Firebase messaging app example using Swift/Uikit
   - #### JavaScript Library
-    - [QuickUI](https://quickui.pardn.io): Lightweight Framework
-    - [NanoMD](https://nanomd.pardn.io): Markdown Edior
-    - [NanoJSON](https://nanojson.pardn.io): JSON Editor
-    - [FlexPlyr](https://flexplyr.pardn.io): Media Player
-    - [RenderJS](https://renderjs.pardn.io): Render Extension
-    - [pdf2image](https://pardn.io/pdf2image): PDF to Image
+    - [QuickUI](https://quickui.pardn.io): Lightweight frontend framework
+    - [NanoMD](https://nanomd.pardn.io): Modular Markdown Editor
+    - [NanoJSON](https://nanojson.pardn.io): Modular JSON Editor
+    - [FlexPlyr](https://flexplyr.pardn.io): Modular Media Player
+    - [RenderJS](https://renderjs.pardn.io): Rendering extension library
+    - [pdf2image](https://pardn.io/pdf2image): PDF to image converter
   - #### Swift Package
-    - [ExSwift](https://github.com/pardnchiu/ExSwift)
+    - [ExSwift](https://github.com/pardnchiu/ExSwift): Swift extension utilities
   - #### Other
     - [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest): CSS Drawing
-    - [VIM Config](https://github.com/pardnchiu/vim-config)
+- ### Other
+  - [VIM Config](https://github.com/pardnchiu/vim-config): VIM editor configuration
