@@ -10,7 +10,7 @@
   - <s>[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) - Social E-commerce App with Blockchain</s>
   - <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App</s>
 
-## Own Projects on GitHub
+## Personal Projects on GitHub
 - ### Backend
   - #### DEMO
     - [Image Server](https://github.com/pardnchiu/image-caching-server) - Image caching server with multi-format (Nodejs/Golang) processing
