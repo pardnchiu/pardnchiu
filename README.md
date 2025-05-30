@@ -1,4 +1,4 @@
-# Only sharing my own projects
+# Only sharing my personal projects
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 合作過，僅負責專案（Axonews）中的 iOS 開發 
 
 ## Live / Discontinued
