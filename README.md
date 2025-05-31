@@ -17,11 +17,12 @@
     - [Image Server](https://github.com/pardnchiu/image-caching-server) - Image caching server with multi-format (Nodejs/Golang) processing
   - #### Golang Mod
     - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication mod
+    - [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection pool manager
   - #### Nodejs Package
     - [@pardnchiu/jwt-auth](https://github.com/pardnchiu/nodejs-jwt-auth) - JWT authentication package
-    - [@pardnchiu/mysql-pool](https://github.com/pardnchiu/nodejs-mysql-pool) - MySQL connection pool manager
+    - [@pardnchiu/mysql-pool](https://github.com/pardnchiu/nodejs-mysql-pool) - Chainable MySQL connection pool manager
   - #### PHP Package
-    - [pardnchiu/mysql-pool](https://github.com/pardnchiu/php-mysql-pool) - MySQL connection pool manager
+    - [pardnchiu/mysql-pool](https://github.com/pardnchiu/php-mysql-pool) - Chainable MySQL connection pool manager
     - [PD\Async](https://github.com/pardnchiu/php-async) - Asynchronous processing utility
     - [PD\Redis](https://github.com/pardnchiu/php-redis) - Redis operation wrapper
     - [PD\Cache](https://github.com/pardnchiu/php-cache) - Cache management system
