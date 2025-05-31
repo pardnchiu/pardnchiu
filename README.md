@@ -31,6 +31,7 @@
     - [Web Template](https://pardn.io/web-template) - up to 40 Web template collection
     - [Website Builder](https://github.com/pardnchiu/website-builder) - Visual website builder tool
     - [AdminUI](https://demo-admin.pardn.io) - Admin dashboard template
+    - [Skill Icons Picker](https://github.com/pardnchiu/skill-icons-picker) - Picker of Skill Icons
     - [SwiftUI Demo](https://github.com/pardnchiu/swiftui-demo) - Component showcase using SwiftUI
     - [Moneybook](https://github.com/pardnchiu/ios-moneybook) - iOS expense tracking app example using Swift/UIKit
     - [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) - Firebase messaging app example using Swift/Uikit
