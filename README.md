@@ -2,15 +2,6 @@
 > 非自身公司簽約的部分僅與 **鍵深坊有限公司** 一間合作過一次，僅負責專案（Axonews）中的 iOS 開發<br>
 > 其餘皆以自身公司名稱簽約並開發。
 
-## Live / Discontinued
-- ### Live
-  - [JOBALL](https://joball.tw) - Experts Matching Platform in Taiwan
-  - [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) - Markdown editor App for Mac
-  - [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) - Keyboard/Mouse tracking for Mac
-- ### Discontinued
-  - <s>[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) - Social E-commerce App with Blockchain</s>
-  - <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App</s>
-
 ## Personal Projects on GitHub
 - ### Backend
   - #### DEMO
@@ -51,3 +42,13 @@
     - [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing
 - ### Other
   - [VIM Config](https://github.com/pardnchiu/vim-config) - VIM editor configuration
+
+## Live / Discontinued
+- ### Live
+  - [JOBALL](https://joball.tw) - Experts Matching Platform in Taiwan
+  - [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) - Markdown editor App for Mac
+  - [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) - Keyboard/Mouse tracking for Mac
+- ### Discontinued
+  - <s>[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) - Social E-commerce App with Blockchain</s>
+  - <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App</s>
+
