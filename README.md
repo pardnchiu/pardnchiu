@@ -1,5 +1,5 @@
 # Only sharing my personal projects
-> 1. GitHub 僅會分享自己的 Side Projects 或是開發工具
+> 1. GitHub 僅會分享自己的 Side Projects 與開發來加速自身開發的模組
 > 2. 非自身公司簽約的部分僅與 **鍵深坊有限公司** 一間合作過一次，僅負責專案（Axonews）中的 iOS 開發<br>
 >   其餘皆以自身公司名稱簽約並開發。
 
