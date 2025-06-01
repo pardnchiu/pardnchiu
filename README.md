@@ -13,12 +13,12 @@
 #### Golang Mod
 - pardnchiu/golang-ip-guardian - IP Assessment and Scoring Engine
 - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication mod
-- [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection pool manager
+- [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection mod
 #### Nodejs Package
 - [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
-- [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection pool manager
+- [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection package
 #### PHP Package
-- [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection pool manager
+- [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection package
 - [PD\Async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility
 - [PD\Redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
 - [PD\Cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
