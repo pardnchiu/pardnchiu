@@ -15,14 +15,14 @@
 - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication mod
 - [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection pool manager
 #### Nodejs Package
-- [@pardnchiu/jwt-auth](https://github.com/pardnchiu/nodejs-jwt-auth) - JWT authentication package
-- [@pardnchiu/mysql-pool](https://github.com/pardnchiu/nodejs-mysql-pool) - Chainable MySQL connection pool manager
+- [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
+- [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection pool manager
 #### PHP Package
-- [pardnchiu/mysql-pool](https://github.com/pardnchiu/php-mysql-pool) - Chainable MySQL connection pool manager
-- [PD\Async](https://github.com/pardnchiu/php-async) - Asynchronous processing utility
-- [PD\Redis](https://github.com/pardnchiu/php-redis) - Redis operation wrapper
-- [PD\Cache](https://github.com/pardnchiu/php-cache) - Cache management system
-- [PD\Session](https://github.com/pardnchiu/php-session) - Session management tool
+- [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection pool manager
+- [PD\Async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility
+- [PD\Redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
+- [PD\Cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
+- [PD\Session](https://packagist.org/packages/pardnchiu/session) - Session management tool
 
 ### Frontend
 
