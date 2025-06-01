@@ -4,8 +4,8 @@
 > 2. Projects without a LICENSE are considered MIT by default.
 > 3. Packages for different languages (such as `{golang/nodejs/php}-mysql-pool`）will align their functionality as much as possible.
 > 4. Employed at ITRD, unavailable for external projects
-> 5. 臺灣地區 - 非自身公司簽約的部分僅與[**鍵深坊有限公司**]()一間協同開發過一次，僅負責專案（Axonews）中的 iOS 開發<br>
->   其餘皆以自身公司[**帕登國際有限公司**]()簽約並獨立開發，無任何外部協作。
+> 5. 臺灣地區 - 非自身公司簽約的部分僅與[**鍵深坊有限公司**]()協同開發過一次，僅負責專案（Axonews）中的 iOS 開發<br>
+>   其餘皆以自身公司[**帕登國際有限公司**]()簽約且獨立開發，無任何外部協作。
 
 ## Personal Projects on GitHub
 
