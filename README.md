@@ -28,10 +28,10 @@
   - [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection package
 - ##### PHP
   - [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection package
-  - [PD\Async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility
-  - [PD\Redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
-  - [PD\Cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
-  - [PD\Session](https://packagist.org/packages/pardnchiu/session) - Session management tool
+  - [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility
+  - [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
+  - [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
+  - [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session management tool
 
 ### Frontend
 
