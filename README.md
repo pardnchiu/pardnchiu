@@ -20,7 +20,7 @@
 
 #### Package
 - ##### Golang
-  - [pardnchiu/golang-ip-guardian](https://github.com/pardnchiu/golang-ip-guardian) - (ING) IP Assessment and Scoring Engine
+  - [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
   - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
   - [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection package
 - ##### Nodejs 
