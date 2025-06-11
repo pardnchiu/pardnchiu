@@ -20,6 +20,7 @@
 
 #### Package
 - ##### Golang
+  - [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - (ING) Redis fallback connection package
   - [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
   - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
   - [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection package
