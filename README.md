@@ -10,80 +10,78 @@
 ## Personal Projects on GitHub
 
 ### Infrastructure
-
-#### Database
-- ##### Rust
-  - [ ] [JicQ](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed Cache with Query
-  - [ ] [PicS](https://github.com/pardnchiu/pics) - (BACKLOG) Picture Indexed Cache with blob Store
+- **Database**
+  - Rust
+    - [ ] [JicQ](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed Cache with Query
+    - [ ] [PicS](https://github.com/pardnchiu/pics) - (BACKLOG) Picture Indexed Cache with blob Store
 
 ### Backend
-
-#### Demo
-- ##### Golang
-  - [ ] [Single Sign-on](https://github.com/pardnchiu/demo-golang-sso) - (WIP) SSO server 
-  - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) - Image caching server
-- ##### Nodejs
-  - [ ] E2EE Chat - (BACKLOG) End-to-End Encryption Chat
-  - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) - Image caching server
-  - [ ] <s>[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - Personal Blog</s> refactor
-- ##### PHP
-  - [ ] <s>[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - Personal Blog</s> refactor
-
-#### Package
-- ##### Golang
-  - [ ] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - (WIP) Redis fallback connection package
-  - [x] [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
-  - [x] [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
-  - [x] [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection package
-- ##### Nodejs 
-  - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
-  - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection package
-- ##### PHP
-  - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection package
-  - [x] [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility
-  - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
-  - [x] [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
-  - [x] [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session management tool
+- **Demo**
+  - Golang
+    - [ ] [Single Sign-on](https://github.com/pardnchiu/demo-golang-sso) - (WIP) SSO server 
+    - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) - Image caching server
+  - Nodejs
+    - [ ] E2EE Chat - (BACKLOG) End-to-End Encryption Chat
+    - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) - Image caching server
+    - [ ] <s>[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - Personal Blog</s> refactor
+  - PHP
+    - [ ] <s>[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - Personal Blog</s> refactor
+- **Package**
+  - Golang
+    - [ ] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - (WIP) Redis fallback connection package
+    - [x] [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
+    - [x] [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
+    - [x] [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection package
+  - Nodejs 
+    - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
+    - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection package
+  - PHP
+    - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection package
+    - [x] [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility
+    - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
+    - [x] [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
+    - [x] [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session management tool
 
 ### Frontend
-
-#### Demo
-- ##### Web
-  - [x] [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
-  - [x] [Web Template](https://pardn.io/web-template) - up to 40 Web template collection
-  - [x] [Website Builder](https://github.com/pardnltd/website-builder) - Visual website builder tool
-  - [x] [AdminUI](https://github.com/pardnltd/adminui) - Admin dashboard template
-  - [x] [Skill Icons Picker](https://pardnchiu.github.io/skill-icons-picker/) - Picker of Skill Icons
-- ##### iOS
-  - [x] [SwiftUI Demo](https://github.com/pardnchiu/swiftui-demo) - Component showcase using SwiftUI
-  - [x] [Moneybook](https://github.com/pardnchiu/ios-moneybook) - iOS expense tracking app example using Swift/UIKit
-  - [x] [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) - Firebase messaging app example using Swift/Uikit
-#### Library
-- ##### JavaScript
-  - [x] [QuickUI](https://quickui.pardn.io) - Lightweight frontend framework
-  - [x] [NanoMD](https://nanomd.pardn.io) - Modular Markdown Editor
-  - [x] [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
-  - [x] [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
-  - [x] [RenderJS](https://renderjs.pardn.io) - Rendering extension library
-  - [x] [pdf2image](https://pardn.io/pdf2image) - PDF to image converter
-- ##### Swift
-  - [x] [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
-#### Other
-- [x] [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing
+- **Demo**
+  - Web
+    - [x] [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
+    - [x] [Web Template](https://pardn.io/web-template) - up to 40 Web template collection
+    - [x] [Website Builder](https://github.com/pardnltd/website-builder) - Visual website builder tool
+    - [x] [AdminUI](https://github.com/pardnltd/adminui) - Admin dashboard template
+    - [x] [Skill Icons Picker](https://pardnchiu.github.io/skill-icons-picker/) - Picker of Skill Icons
+  - iOS
+    - [x] [SwiftUI Demo](https://github.com/pardnchiu/swiftui-demo) - Component showcase using SwiftUI
+    - [x] [Moneybook](https://github.com/pardnchiu/ios-moneybook) - iOS expense tracking app example using Swift/UIKit
+    - [x] [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) - Firebase messaging app example using Swift/Uikit
+- **Library**
+  - JavaScript
+    - [x] [QuickUI](https://quickui.pardn.io) - Lightweight frontend framework
+    - [x] [NanoMD](https://nanomd.pardn.io) - Modular Markdown Editor
+    - [x] [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
+    - [x] [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
+    - [x] [RenderJS](https://renderjs.pardn.io) - Rendering extension library
+    - [x] [pdf2image](https://pardn.io/pdf2image) - PDF to image converter
+  - Swift
+    - [x] [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
+- **Other**
+  - [x] [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing
 
 ### More
 - [x] [VIM Config](https://github.com/pardnchiu/vim-config) - VIM editor configuration
 
+<br>
+
 ## Live / Discontinued
 
 ### Live
-- #### Web
+- **Web**
   - [x] [JOBALL](https://joball.tw) - Experts Matching Platform in Taiwan
-- #### macOS
+- **macOS**
   - [x] [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) - Markdown editor
   - [x] [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) - Keyboard/Mouse tracking
 ### Discontinued
-- #### iOS
+- **iOS**
   - [ ] <s>[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) - Social E-commerce App with Blockchain</s>
   - [ ] <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App</s>
 
