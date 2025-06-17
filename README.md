@@ -25,9 +25,9 @@
 - ##### Nodejs
   - [ ] E2EE Chat - (BACKLOG) End-to-End Encryption Chat
   - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) - Image caching server
-  - [x] [Blog](https://github.com/pardnchiu/demo-nodejs-blog) - Personal Blog
+  - [ ] <s>[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - Personal Blog</s> refactor
 - ##### PHP
-  - [x] [Blog](https://github.com/pardnchiu/demo-php-blog) - Personal Blog
+  - [ ] <s>[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - Personal Blog</s> refactor
 
 #### Package
 - ##### Golang
