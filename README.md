@@ -1,6 +1,6 @@
 # Only sharing my personal projects
 > [!Note]
-> 1. GitHub is only used for sharing independently developed projects. Including repo in [Pardn Co., Ltd](https://github.com/pardnltd)
+> 1. GitHub is only used for sharing independently developed projects.
 > 2. Projects without a LICENSE are considered MIT by default.
 > 3. Packages for different languages (such as `{golang/nodejs/php}-mysql-pool`）will align their functionality as much as possible.
 > 4. Employed at ITRD, unavailable for external projects.
