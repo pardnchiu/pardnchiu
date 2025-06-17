@@ -13,22 +13,22 @@
 
 #### Database
 - ##### Rust
-  - JicQ - (On Task) JSON Indexed Cache with Query
-  - PicS - (On Task) Picture Indexed Cache with blob Store
+  - [JicQ](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed Cache with Query
+  - [PicS](https://github.com/pardnchiu/pics) - (BACKLOG) Picture Indexed Cache with blob Store
 
 ### Backend
 
 #### Demo
 - ##### Golang
-  - [Single Sign-on](https://github.com/pardnchiu/golang-sso) - (ING) SSO server 
+  - [Single Sign-on](https://github.com/pardnchiu/golang-sso) - (WIP) SSO server 
   - [Image Server](https://github.com/pardnchiu/golang-image-server) - Image caching server
 - ##### Nodejs
-  - E2EE Chat - (On Task) End-to-End Encryption Chat
+  - E2EE Chat - (BACKLOG) End-to-End Encryption Chat
   - [Image Server](https://github.com/pardnchiu/nodejs-image-server) - Image caching server
 
 #### Package
 - ##### Golang
-  - [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - (ING) Redis fallback connection package
+  - [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - (WIP) Redis fallback connection package
   - [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
   - [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
   - [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection package
