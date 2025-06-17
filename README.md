@@ -9,6 +9,13 @@
 
 ## Personal Projects on GitHub
 
+### Infrastructure
+
+#### Database
+- ##### Rust
+  - JicQ - (On Task) JSON Indexed Cache with Query
+  - PicS - (On Task) Picture Indexed Cache with blob Store
+
 ### Backend
 
 #### Demo
@@ -16,7 +23,7 @@
   - [Single Sign-on](https://github.com/pardnchiu/golang-sso) - (ING) SSO server 
   - [Image Server](https://github.com/pardnchiu/golang-image-server) - Image caching server
 - ##### Nodejs
-  - E2EE Chat - End-to-End Encryption Chat
+  - E2EE Chat - (On Task) End-to-End Encryption Chat
   - [Image Server](https://github.com/pardnchiu/nodejs-image-server) - Image caching server
 
 #### Package
