@@ -28,7 +28,7 @@
     - [ ] <s>[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - Personal Blog</s> refactor
 - **Package**
   - Golang
-    - [ ] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - (WIP) Redis fallback connection package
+    - [x] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - Redis fallback connection package
     - [x] [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
     - [x] [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
     - [x] [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection package
