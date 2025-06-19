@@ -18,27 +18,27 @@
 ### Backend
 - **Demo**
   - Golang
-    - [ ] **[Single Sign-on](https://github.com/pardnchiu/demo-golang-sso) - (WIP) SSO server**
-    - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) - Image caching server
-  - Nodejs
-    - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (BACKLOG) End-to-End Encryption Chat*
-    - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) - Image caching server
-    - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - (Refactoring) Personal Blog*
+    - [ ] **[SSO Server](https://github.com/pardnchiu/demo-golang-sso-server) - (WIP) Single sign-on server with OAuth2**
+    - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) -  Image processing and caching server
+  - Node.js
+    - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (BACKLOG) E2E encrypted messaging*
+    - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) -  Image processing and caching server
+    - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - (Refactoring) Personal Blog with markdown editor*
   - PHP
-    - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog*
+    - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 - **Package**
   - Golang
-    - [ ] **[pardnchiu/golang-cron](https://github.com/pardnchiu/golang-cron) - (WIP) Redis cron package**
-    - [x] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - Redis fallback connection package
-    - [x] [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
-    - [x] [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
-    - [x] [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection package
-  - Nodejs 
+    - [ ] **[pardnchiu/golang-cron](https://github.com/pardnchiu/golang-cron) - (WIP) Cron job with flexible timing expressions**
+    - [x] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - Redis connect with automatic failover
+    - [x] [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection and geolocation analysis
+    - [x] [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication with automatic refresh
+    - [x] [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection wrapper
+  - Node.js 
     - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
-    - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection package
+    - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection wrapper
   - PHP
-    - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection package
-    - [x] [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility
+    - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection pool
+    - [x] [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility wrapper
     - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
     - [x] [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
     - [x] [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session management tool
