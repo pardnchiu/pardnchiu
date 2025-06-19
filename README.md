@@ -12,22 +12,23 @@
 ### Infrastructure
 - **Database**
   - Rust
-    - [ ] [JicQ](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed Cache with Query
-    - [ ] [PicS](https://github.com/pardnchiu/pics) - (BACKLOG) Picture Indexed Cache with blob Store
+    - [ ] *[JicQ](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed Cache with Query*
+    - [ ] *[PicS](https://github.com/pardnchiu/pics) - (BACKLOG) Picture Indexed Cache with blob Store*
 
 ### Backend
 - **Demo**
   - Golang
-    - [ ] [Single Sign-on](https://github.com/pardnchiu/demo-golang-sso) - (WIP) SSO server 
+    - [ ] **[Single Sign-on](https://github.com/pardnchiu/demo-golang-sso) - (WIP) SSO server**
     - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) - Image caching server
   - Nodejs
-    - [ ] E2EE Chat - (BACKLOG) End-to-End Encryption Chat
+    - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (BACKLOG) End-to-End Encryption Chat*
     - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) - Image caching server
-    - [ ] <s>[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - Personal Blog</s> refactor
+    - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - (Refactoring) Personal Blog*
   - PHP
-    - [ ] <s>[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - Personal Blog</s> refactor
+    - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog*
 - **Package**
   - Golang
+    - [ ] **[pardnchiu/golang-cron](https://github.com/pardnchiu/golang-cron) - (WIP) Redis cron package**
     - [x] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - Redis fallback connection package
     - [x] [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection package
     - [x] [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication package
