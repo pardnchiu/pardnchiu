@@ -16,16 +16,6 @@
     - [ ] *[PicS](https://github.com/pardnchiu/pics) - (BACKLOG) Picture Indexed Cache with blob Store*
 
 ### Backend
-- **Demo**
-  - Golang
-    - [ ] **[SSO Server](https://github.com/pardnchiu/demo-golang-sso-server) - (WIP) Single sign-on server with OAuth2**
-    - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) -  Image processing and caching server
-  - Node.js
-    - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (BACKLOG) E2E encrypted messaging*
-    - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) -  Image processing and caching server
-    - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - (Refactoring) Personal Blog with markdown editor*
-  - PHP
-    - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 - **Package**
   - Golang
     - [ ] **[pardnchiu/golang-cron](https://github.com/pardnchiu/golang-cron) - (WIP) Cron job with flexible timing expressions**
@@ -42,8 +32,28 @@
     - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
     - [x] [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
     - [x] [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session management tool
+- **Demo**
+  - Golang
+    - [ ] **[SSO Server](https://github.com/pardnchiu/demo-golang-sso-server) - (WIP) Single sign-on server with OAuth2**
+    - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) -  Image processing and caching server
+  - Node.js
+    - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (BACKLOG) E2E encrypted messaging*
+    - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) -  Image processing and caching server
+    - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - (Refactoring) Personal Blog with markdown editor*
+  - PHP
+    - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 
 ### Frontend
+- **Library**
+  - JavaScript
+    - [x] [QuickUI](https://quickui.pardn.io) - Lightweight frontend framework
+    - [x] [NanoMD](https://nanomd.pardn.io) - Modular Markdown Editor
+    - [x] [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
+    - [x] [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
+    - [x] [RenderJS](https://renderjs.pardn.io) - Rendering extension library
+    - [x] [pdf2image](https://pardn.io/pdf2image) - PDF to image converter
+  - Swift
+    - [x] [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
 - **Demo**
   - Web
     - [x] [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
@@ -55,16 +65,6 @@
     - [x] [SwiftUI Demo](https://github.com/pardnchiu/swiftui-demo) - Component showcase using SwiftUI
     - [x] [Moneybook](https://github.com/pardnchiu/ios-moneybook) - iOS expense tracking app example using Swift/UIKit
     - [x] [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) - Firebase messaging app example using Swift/Uikit
-- **Library**
-  - JavaScript
-    - [x] [QuickUI](https://quickui.pardn.io) - Lightweight frontend framework
-    - [x] [NanoMD](https://nanomd.pardn.io) - Modular Markdown Editor
-    - [x] [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
-    - [x] [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
-    - [x] [RenderJS](https://renderjs.pardn.io) - Rendering extension library
-    - [x] [pdf2image](https://pardn.io/pdf2image) - PDF to image converter
-  - Swift
-    - [x] [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
 - **Other**
   - [x] [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing
 
