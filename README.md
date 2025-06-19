@@ -18,8 +18,8 @@
 ### Infrastructure
 - **Database**
   - Rust
-    - [ ] *[JicQ](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed Cache with Query*
-    - [ ] *[PicS](https://github.com/pardnchiu/pics) - (BACKLOG) Picture Indexed Cache with blob Store*
+    - [ ] *[JsonDB](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed with Query*
+    - [ ] *[BlobDB](https://github.com/pardnchiu/blobdb) - (BACKLOG) Picture Indexed with blob Store*
 
 ### Backend
 - **Package**
