@@ -7,6 +7,12 @@
 > 5. 臺灣地區 - 非自身公司簽約的部分僅與[**鍵深坊有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=00248098)協同開發過一次，僅負責專案（Axonews）中的 iOS 開發<br>
 >   其餘皆以自身公司[**帕登國際有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502)簽約且獨立開發，無任何外部協作。
 
+> [!Tip]
+> Repository Naming Convention
+> - **PascalCase**: Independent projects and standalone applications
+> - **demo-{language}-{service}**: Complete demonstration projects
+> - **{language}-{service}**: Language-specific modules and packages
+
 ## Personal Projects on GitHub
 
 ### Infrastructure
