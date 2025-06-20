@@ -24,11 +24,11 @@
 ## Backend
 ### Package
 - Golang
-  - [ ] **[pardnchiu/golang-cron](https://github.com/pardnchiu/golang-cron) - (WIP) Cron job with flexible timing expressions**
-  - [x] [pardnchiu/golang-redis-fallback](https://github.com/pardnchiu/golang-redis-fallback) - Redis connect with automatic failover
-  - [x] [pardnchiu/golang-ip-sentry](https://github.com/pardnchiu/golang-ip-sentry) - IP threat detection and geolocation analysis
-  - [x] [pardnchiu/golang-jwt-auth](https://github.com/pardnchiu/golang-jwt-auth) - JWT authentication with automatic refresh
-  - [x] [pardnchiu/golang-mysql-pool](https://github.com/pardnchiu/golang-mysql-pool) - Chainable MySQL connection wrapper
+  - [ ] **[pardnchiu/go-cron](https://github.com/pardnchiu/go-cron) - (WIP) Cron job with flexible timing expressions**
+  - [x] [pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) - Redis connect with automatic failover
+  - [x] [pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) - IP threat detection and geolocation analysis
+  - [x] [pardnchiu/go-jwt-auth](https://github.com/pardnchiu/go-jwt-auth) - JWT authentication with automatic refresh
+  - [x] [pardnchiu/go-mysql-pool](https://github.com/pardnchiu/go-mysql-pool) - Chainable MySQL connection wrapper
 - Node.js 
   - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
   - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection wrapper
