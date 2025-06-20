@@ -86,13 +86,13 @@
 ## Live / Discontinued
 
 ### Live
-- **Web**
+- Web
   - [x] [JOBALL](https://joball.tw) - Experts Matching Platform in Taiwan
-- **macOS**
+- macOS
   - [x] [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) - Markdown editor
   - [x] [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) - Keyboard/Mouse tracking
 ### Discontinued
-- **iOS**
+- iOS
   - [ ] <s>[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) - Social E-commerce App with Blockchain</s>
   - [ ] <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App</s>
 
