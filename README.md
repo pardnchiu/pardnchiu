@@ -25,6 +25,7 @@
 ### Package
 - Golang
   - [ ] **[pardnchiu/go-cron-job](https://github.com/pardnchiu/go-cron-job) - (WIP) Cron job with flexible timing expressions**
+  - [ ] **[pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) - (WIP) Logger with file rotation, multi-level support**
   - [x] [pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) - Redis connect with automatic failover
   - [x] [pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) - IP threat detection and geolocation analysis
   - [x] [pardnchiu/go-jwt-auth](https://github.com/pardnchiu/go-jwt-auth) - JWT authentication with automatic refresh
