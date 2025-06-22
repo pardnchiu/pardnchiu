@@ -9,8 +9,8 @@
 ## Infrastructure
 ### Database
 - #### Rust
-  - [ ] *[JsonDB](https://github.com/pardnchiu/jsondb) - (BACKLOG) JSON Indexed with Query*
-  - [ ] *[BlobDB](https://github.com/pardnchiu/blobdb) - (BACKLOG) Picture Indexed with blob Store*
+  - [ ] *[JsonDB](https://github.com/pardnchiu/jsondb) - (Backlog) JSON Indexed with Query*
+  - [ ] *[BlobDB](https://github.com/pardnchiu/blobdb) - (Backlog) Picture Indexed with blob Store*
 
 <br>
 
@@ -37,7 +37,7 @@
   - [ ] **[SSO Server](https://github.com/pardnchiu/demo-golang-sso-server) - (WIP) Single sign-on server with OAuth2**
   - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) -  Image processing and caching server
 - #### Node.js
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (BACKLOG) E2E encrypted messaging*
+  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (Backlog) E2E encrypted messaging*
   - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) -  Image processing and caching server
   - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - (Refactoring) Personal Blog with markdown editor*
 - #### PHP
@@ -59,16 +59,16 @@
 ### Demo
 - #### Web
   - [x] [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
-  - [x] [Web Template](https://pardn.io/web-template) - up to 40 Web template collection
   - [x] [Website Builder](https://github.com/pardnltd/website-builder) - Visual website builder tool
   - [x] [AdminUI](https://github.com/pardnltd/adminui) - Admin dashboard template
-  - [x] [Skill Icons Picker](https://pardnchiu.github.io/skill-icons-picker/) - Picker of Skill Icons
+  - [x] *[Web Template](https://pardn.io/web-template) - (Archieve) up to 40 Web template collection*
+  - [x] *[Skill Icons Picker](https://pardnchiu.github.io/skill-icons-picker/) - (Archieve) Picker of Skill Icons*
 - #### iOS
-  - [x] [SwiftUI Demo](https://github.com/pardnchiu/swiftui-demo) - Component showcase using SwiftUI
-  - [x] [Moneybook](https://github.com/pardnchiu/ios-moneybook) - iOS expense tracking app example using Swift/UIKit
-  - [x] [Firebase Messaging](https://github.com/pardnchiu/ios-firebase-messaging) - Firebase messaging app example using Swift/Uikit
+  - [x] *[SwiftUI Demo](https://github.com/archieve-pardn/swiftui-demo) - (Archieve) Component showcase using SwiftUI*
+  - [x] *[Moneybook](https://github.com/archieve-pardn/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
+  - [x] *[Firebase Messaging](https://github.com/archieve-pardn/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
 ### More
-- [x] [Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing
+- [x] *[Pokemon Quest](https://github.com/archieve-pardn/css-pokemon-quest) - (Archieve) CSS Drawing*
 
 <br>
 
