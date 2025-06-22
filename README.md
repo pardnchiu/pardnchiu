@@ -30,8 +30,8 @@
   - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection pool
   - [x] [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility wrapper
   - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
-  - [x] [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache management system
-  - [x] [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session management tool
+  - [x] [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback) - Cache management with automatic failover
+  - [x] [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback) - Session management with automatic failover
 ### Demo
 - #### Golang
   - [ ] **[SSO Server](https://github.com/pardnchiu/demo-golang-sso-server) - (WIP) Single sign-on server with OAuth2**
