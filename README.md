@@ -64,11 +64,11 @@
   - [x] *[Web Template](https://pardn.io/web-template) - (Archieve) up to 40 Web template collection*
   - [x] *[Skill Icons Picker](https://pardnchiu.github.io/skill-icons-picker/) - (Archieve) Picker of Skill Icons*
 - #### iOS
-  - [x] *[SwiftUI Demo](https://github.com/archieve-pardn/swiftui-demo) - (Archieve) Component showcase using SwiftUI*
-  - [x] *[Moneybook](https://github.com/archieve-pardn/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
-  - [x] *[Firebase Messaging](https://github.com/archieve-pardn/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
+  - [x] *[SwiftUI Demo](https://github.com/archive-pardn/swiftui-demo) - (Archieve) Component showcase using SwiftUI*
+  - [x] *[Moneybook](https://github.com/archive-pardn/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
+  - [x] *[Firebase Messaging](https://github.com/archive-pardn/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
 ### More
-- [x] *[Pokemon Quest](https://github.com/archieve-pardn/css-pokemon-quest) - (Archieve) CSS Drawing*
+- [x] *[Pokemon Quest](https://github.com/archive-pardn/css-pokemon-quest) - (Archieve) CSS Drawing*
 
 <br>
 
