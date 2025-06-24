@@ -62,10 +62,10 @@
   - [x] [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
   - [x] [Website Builder](https://github.com/pardnltd/website-builder) - Visual website builder tool
   - [x] [AdminUI](https://github.com/pardnltd/adminui) - Admin dashboard template
-  - [x] *[Web Template](https://pardn.io/web-template) - (Archieve) up to 40 Web template collection*
-  - [x] *[Skill Icons Picker](https://pardnchiu.github.io/skill-icons-picker/) - (Archieve) Picker of Skill Icons*
+  - [x] *[Web Demo](https://pardn.io/demo-web) - (Archieve) up to 40 Web template collection*
+  - [x] *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - (Archieve) Picker of Skill Icons*
 - #### iOS
-  - [x] *[SwiftUI Demo](https://github.com/pardnchiu/swiftui-demo) - (Archieve) Component showcase using SwiftUI*
+  - [x] *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - (Archieve) Component showcase using SwiftUI*
   - [x] *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
   - [x] *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
 ### More
