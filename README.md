@@ -64,12 +64,11 @@
   - [x] [AdminUI](https://github.com/pardnltd/adminui) - Admin dashboard template
   - [x] *[Web Demo](https://pardn.io/web-template) - (Archieve) up to 40 Web template collection*
   - [x] *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - (Archieve) Picker of Skill Icons*
+  - [x] *[Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - (Archieve) CSS Drawing*
 - #### iOS
   - [x] *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - (Archieve) Component showcase using SwiftUI*
   - [x] *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
   - [x] *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
-### More
-- [x] *[Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - (Archieve) CSS Drawing*
 
 <br>
 
