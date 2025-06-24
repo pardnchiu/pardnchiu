@@ -17,6 +17,7 @@
 ## Backend
 ### Package
 - #### Golang
+  - [ ] [pardnchiu/go-load-balance](https://github.com/pardnchiu/go-load-balance)
   - [x] [pardnchiu/go-cron-job](https://github.com/pardnchiu/go-cron-job) - Cron job with flexible timing expressions
   - [x] [pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) - Logger with file rotation, multi-level support
   - [x] [pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) - Redis connect with automatic failover
