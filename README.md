@@ -34,12 +34,13 @@
   - [x] [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback) - Session management with automatic failover
 ### Demo
 - #### Golang
-  - [ ] **[SSO Server](https://github.com/pardnchiu/demo-golang-sso-server) - (WIP) Single sign-on server with OAuth2**
-  - [x] [Image Server](https://github.com/pardnchiu/demo-golang-image-server) -  Image processing and caching server
+  - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
+  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-go-e2ee-chat) - (Backlog) E2E encrypted messaging*
+  - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
 - #### Node.js
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-nodejs-e2ee-chat) - (Backlog) E2E encrypted messaging*
-  - [x] [Image Server](https://github.com/pardnchiu/demo-nodejs-image-server) -  Image processing and caching server
-  - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-nodejs-blog) - (Refactoring) Personal Blog with markdown editor*
+  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
+  - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
+  - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-node-blog) - (Refactoring) Personal Blog with markdown editor*
 - #### PHP
   - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 
@@ -64,11 +65,11 @@
   - [x] *[Web Template](https://pardn.io/web-template) - (Archieve) up to 40 Web template collection*
   - [x] *[Skill Icons Picker](https://pardnchiu.github.io/skill-icons-picker/) - (Archieve) Picker of Skill Icons*
 - #### iOS
-  - [x] *[SwiftUI Demo](https://github.com/archive-pardn/swiftui-demo) - (Archieve) Component showcase using SwiftUI*
-  - [x] *[Moneybook](https://github.com/archive-pardn/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
-  - [x] *[Firebase Messaging](https://github.com/archive-pardn/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
+  - [x] *[SwiftUI Demo](https://github.com/pardnchiu/swiftui-demo) - (Archieve) Component showcase using SwiftUI*
+  - [x] *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
+  - [x] *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
 ### More
-- [x] *[Pokemon Quest](https://github.com/archive-pardn/css-pokemon-quest) - (Archieve) CSS Drawing*
+- [x] *[Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - (Archieve) CSS Drawing*
 
 <br>
 
