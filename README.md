@@ -13,7 +13,7 @@
   - [ ] *[JsonDB](https://github.com/pardnchiu/jsondb) - (Backlog) JSON Indexed with Query*
   - [ ] *[BlobDB](https://github.com/pardnchiu/blobdb) - (Backlog) Picture Indexed with blob Store*
 - #### Golang
-  - [ ] [pardnchiu/go-load-balance](https://github.com/pardnchiu/go-load-balance)
+  - [ ] [go-load-balance](https://github.com/pardnchiu/go-load-balance)
 <br>
 
 ## Backend
