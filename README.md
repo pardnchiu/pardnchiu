@@ -8,17 +8,17 @@
 >   其餘皆以自身公司[**帕登國際有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502)簽約且獨立開發，無任何外部協作。
 
 ## Infrastructure
-### Database
+### Service
 - #### Rust
   - [ ] *[JsonDB](https://github.com/pardnchiu/jsondb) - (Backlog) JSON Indexed with Query*
   - [ ] *[BlobDB](https://github.com/pardnchiu/blobdb) - (Backlog) Picture Indexed with blob Store*
-
+- #### Golang
+  - [ ] [pardnchiu/go-load-balance](https://github.com/pardnchiu/go-load-balance)
 <br>
 
 ## Backend
 ### Package
 - #### Golang
-  - [ ] [pardnchiu/go-load-balance](https://github.com/pardnchiu/go-load-balance)
   - [x] [pardnchiu/go-cron-job](https://github.com/pardnchiu/go-cron-job) - Cron job with flexible timing expressions
   - [x] [pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) - Logger with file rotation, multi-level support
   - [x] [pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) - Redis connect with automatic failover
