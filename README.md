@@ -10,7 +10,7 @@
 ## Infrastructure
 ### Service
 - #### Rust
-  - [ ] *[JsonDB](https://github.com/pardnchiu/jsondb) - (Backlog) JSON Indexed with Query*
+  - [ ] *[JICQS](https://github.com/pardnchiu/jsondb) - (Backlog) JICQS - JSON Indexed Cache with Query System*
   - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
 - #### Golang
   - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
