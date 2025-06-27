@@ -11,7 +11,7 @@
 ### Service
 - #### Rust
   - [ ] *[JsonDB](https://github.com/pardnchiu/jsondb) - (Backlog) JSON Indexed with Query*
-  - [ ] *[BlobDB](https://github.com/pardnchiu/blobdb) - (Backlog) Picture Indexed with blob Store*
+  - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
 - #### Golang
   - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
 <br>
