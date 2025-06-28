@@ -19,7 +19,7 @@
 ## Backend
 ### CLI
 - #### Golang
-  - [x] [LLM Dialogue Simulation](https://github.com/pardnchiu/llm-dialogue-simulation) - LLM conversation enhance through human-like dialogue simulation
+  - [x] [LLM Human-like Dialogue Simulation](https://github.com/pardnchiu/llm-dialogue-simulation) - LLM conversation enhance through human-like dialogue simulation
 ### Package
 - #### Golang
   - [x] [pardnchiu/go-cron-job](https://github.com/pardnchiu/go-cron-job) - Cron job with flexible timing expressions
