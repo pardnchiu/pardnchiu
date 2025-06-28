@@ -38,6 +38,7 @@
 - #### Golang
   - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
   - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-go-e2ee-chat) - (Backlog) E2E encrypted messaging*
+  - [x] [LLM Dialogue Simulation](https://github.com/pardnchiu/llm-dialogue-simulation) - LLM conversation enhance through human-like dialogue simulation
   - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
 - #### Node.js
   - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
