@@ -19,7 +19,7 @@
 ## Backend
 ### CLI
 - #### Golang
-  - [x] [LLM Human-like Dialogue Simulation](https://github.com/pardnchiu/llm-dialogue-simulation) - LLM conversation enhance through human-like dialogue simulation
+  - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
 ### Package
 - #### Golang
   - [x] [pardnchiu/go-cron-job](https://github.com/pardnchiu/go-cron-job) - Cron job with flexible timing expressions
