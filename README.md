@@ -22,12 +22,12 @@
   - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
 ### Package
 - #### Golang
-  - [x] [pardnchiu/go-cron-job](https://github.com/pardnchiu/go-cron-job) - Cron job with flexible timing expressions
+  - [x] [pardnchiu/go-cron](https://github.com/pardnchiu/go-cron) - Cron job with flexible timing expressions
   - [x] [pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) - Logger with file rotation, multi-level support
   - [x] [pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) - Redis connect with automatic failover
   - [x] [pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) - IP threat detection and geolocation analysis
-  - [x] [pardnchiu/go-jwt-auth](https://github.com/pardnchiu/go-jwt-auth) - JWT authentication with automatic refresh
-  - [x] [pardnchiu/go-mysql-pool](https://github.com/pardnchiu/go-mysql-pool) - Chainable MySQL connection wrapper
+  - [x] [pardnchiu/go-jwt](https://github.com/pardnchiu/go-jwt) - JWT authentication with automatic refresh
+  - [x] [pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) - Chainable MySQL connection wrapper
 - #### Node.js 
   - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
   - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection wrapper
