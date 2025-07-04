@@ -17,8 +17,9 @@
 <br>
 
 ## Backend
-### CLI
+### CLI/TUI
 - #### Golang
+  - [] [RSS Reader](https://github,com/pardnchiu/rss-reader)
   - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
 ### Package
 - #### Golang
