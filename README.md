@@ -12,14 +12,13 @@
 - #### Rust
   - [ ] *[JICQ](https://github.com/pardnchiu/JUCQ) - (Backlog) JICQS - JSON Indexed Cache with Query*
   - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
-- #### Golang
-  - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
 <br>
 
 ## Backend
 ### CLI/TUI
 - #### Golang
-  - [ ] [RSS Reader](https://github,com/pardnchiu/rss-reader)
+  - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
+  - [ ] **[RSS Reader](https://github,com/pardnchiu/rss-reader)**
   - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
 ### Package
 - #### Golang
