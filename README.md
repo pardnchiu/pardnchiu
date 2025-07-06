@@ -20,6 +20,17 @@
   - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
   - [x] [RSS Reader](https://github.com/pardnchiu/rss-reader) - Terminal-based RSS news aggregator with multi-source support
   - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
+### Service
+- #### Golang
+  - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
+  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-go-e2ee-chat) - (Backlog) E2E encrypted messaging*
+  - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
+- #### Node.js
+  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
+  - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
+  - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-node-blog) - (Refactoring) Personal Blog with markdown editor*
+- #### PHP
+  - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 ### Package
 - #### Golang
   - [x] [pardnchiu/go-cron](https://github.com/pardnchiu/go-cron) - Cron job with flexible timing expressions
@@ -37,17 +48,6 @@
   - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
   - [x] [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback) - Cache management with automatic failover
   - [x] [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback) - Session management with automatic failover
-### Demo
-- #### Golang
-  - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-go-e2ee-chat) - (Backlog) E2E encrypted messaging*
-  - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
-- #### Node.js
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
-  - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
-  - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-node-blog) - (Refactoring) Personal Blog with markdown editor*
-- #### PHP
-  - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 
 <br>
 
