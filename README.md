@@ -1,9 +1,13 @@
 # Only sharing my personal projects
 > [!Note]
-> 1. GitHub is only used for sharing independently developed projects.
-> 2. Projects without a LICENSE are considered MIT by default.
-> 3. The sole goal of coding is to create a MetroUI-style mobile system core.
-> 4. Employed at ITRD, unavailable for external projects.
+> 1. GitHub 只用來分享獨立開發的專案<br>
+>   GitHub is only used for sharing independently developed projects.
+> 2. 我的項目若無提供 LICENSE，可一律視為 MIT<br>
+>   Projects without a LICENSE are considered MIT by default.
+> 3. 專研的唯一目標就是打造出屬於自己的 MetroUI 風格手機系統<br>
+>   The sole goal of coding is to create a MetroUI-style mobile system core.
+> 4. 在 ITRD 任職中，不接案<br>
+>   Employed at ITRD, unavailable for external projects.
 > 5. 臺灣地區 - 非自身公司簽約的部分僅與[**鍵深坊有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=00248098)協同開發過一次，僅負責專案（Axonews）中的 iOS 開發<br>
 >   其餘皆以自身公司[**帕登國際有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502)簽約且獨立開發，無任何外部協作。
 
@@ -33,17 +37,17 @@
   - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 ### Package
 - #### Golang
-  - [x] [pardnchiu/go-cron](https://github.com/pardnchiu/go-cron) - Cron job with flexible timing expressions
-  - [x] [pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) - Logger with file rotation, multi-level support
-  - [x] [pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) - Redis connect with automatic failover
+  - [x] [pardnchiu/go-cron](https://github.com/pardnchiu/go-cron) - Lightweight scheduler with standard library
+  - [x] [pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) - Logging package with automatic rotation
+  - [x] [pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) - Redis fallback solution by automatically downgrades
   - [x] [pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) - IP threat detection and geolocation analysis
   - [x] [pardnchiu/go-jwt](https://github.com/pardnchiu/go-jwt) - JWT authentication with automatic refresh
-  - [x] [pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) - Chainable MySQL connection wrapper
+  - [x] [pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) - MySQL wrapper with chainable calls
 - #### Node.js 
-  - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication package
-  - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chainable MySQL connection wrapper
+  - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication with automatic refresh
+  - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - MySQL wrapper with chainable calls
 - #### PHP
-  - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chainable MySQL connection pool
+  - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - MySQL wrapper with chainable calls
   - [x] [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility wrapper
   - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
   - [x] [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback) - Cache management with automatic failover
