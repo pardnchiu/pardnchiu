@@ -4,7 +4,7 @@
 >   GitHub is only used for sharing independently developed projects.
 > 2. 我的項目若無提供 LICENSE，可一律視為 MIT<br>
 >   Projects without a LICENSE are considered MIT by default.
-> 3. 專研的唯一目標就是打造出屬於自己的 MetroUI 風格手機系統<br>
+> 3. 專研的唯一目標就是打造出一款 MetroUI 的手機系統<br>
 >   The sole goal of coding is to create a MetroUI-style mobile system core.
 > 4. 在 ITRD 任職中，不接案<br>
 >   Employed at ITRD, unavailable for external projects.
