@@ -1,9 +1,9 @@
 # Only sharing my personal projects
 > [!Note]
-> 1. GitHub 只用來分享獨立開發的專案<br>
+> 1. GitHub 只用來分享我獨立開發的專案<br>
 >   GitHub is only used for sharing independently developed projects.
 >
-> 2. 我的項目若無提供 LICENSE，可一律視為 MIT<br>
+> 2. 項目若無提供 LICENSE，可一律視為 MIT<br>
 >   Projects without a LICENSE are considered MIT by default.
 >
 > 3. 專研的唯一目標就是打造出一款 MetroUI 的手機系統<br>
