@@ -36,9 +36,6 @@
 - #### Node.js
   - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
   - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
-  - [ ] *[Presonal Blog](https://github.com/pardnchiu/demo-node-blog) - (Refactoring) Personal Blog with markdown editor*
-- #### PHP
-  - [ ] *[Personal Blog](https://github.com/pardnchiu/demo-php-blog) - (Refactoring) Personal Blog with markdown editor*
 ### Package
 - #### Golang
   - [x] [pardnchiu/go-cron](https://github.com/pardnchiu/go-cron) - Lightweight scheduler with standard library
