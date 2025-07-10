@@ -20,6 +20,7 @@
 - #### Rust
   - [ ] *[JICQ](https://github.com/pardnchiu/JUCQ) - (Backlog) JICQS - JSON Indexed Cache with Query*
   - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
+
 <br>
 
 ## Backend
