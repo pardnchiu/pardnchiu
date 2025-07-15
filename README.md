@@ -19,6 +19,7 @@
 ### CLI/TUI
 - #### Golang
   - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
+  - [x] [H2Check](https://github.com/pardnchiu/H2Check) - Website Health Monitor with Email Notification
   - [x] [RSS Reader](https://github.com/pardnchiu/rss-reader) - Terminal-based RSS news aggregator with multi-source support
   - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
 ### Service
