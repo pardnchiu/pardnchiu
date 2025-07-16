@@ -10,7 +10,7 @@
 ## Infrastructure
 ### Service
 - #### Rust
-  - [ ] *[JICQ](https://github.com/pardnchiu/JUCQ) - (Backlog) JICQS - JSON Indexed Cache with Query*
+  - [ ] **[JsonDB](https://github.com/pardnchiu/JsonDB) - (WIP) JsonDB - JSON Indexed Cache with Query**
   - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
 
 <br>
