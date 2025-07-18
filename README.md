@@ -7,29 +7,7 @@
 > 5. 臺灣地區 - 非自身公司簽約的部分僅與[**鍵深坊有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=00248098)協同開發過一次，僅負責專案（Axonews）中的 iOS 開發<br>
 >   其餘皆以自身公司[**帕登國際有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502)簽約且獨立開發，無任何外部協作。
 
-## Infrastructure
-### Service
-- #### Rust
-  - [ ] **[JsonDB](https://github.com/pardnchiu/JsonDB) - (WIP) JsonDB - JSON Indexed Cache with Query**
-  - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
-
-<br>
-
 ## Backend
-### CLI/TUI
-- #### Golang
-  - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
-  - [x] [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website Health Monitor with Email Notification
-  - [x] [RSS Reader](https://github.com/pardnchiu/rss-reader) - Terminal-based RSS news aggregator with multi-source support
-  - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
-### Service
-- #### Golang
-  - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-go-e2ee-chat) - (Backlog) E2E encrypted messaging*
-  - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
-- #### Node.js
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
-  - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
 ### Package
 - #### Golang
   - [ ] **[pardnchiu/go-task](https://github.com/pardnchiu/go-task) - High-concurrency task scheduling**
@@ -48,6 +26,20 @@
   - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
   - [x] [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback) - Cache management with automatic failover
   - [x] [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback) - Session management with automatic failover
+### Service
+- #### Golang
+  - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
+  - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
+  - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
+  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-go-e2ee-chat) - (Backlog) E2E encrypted messaging*
+  - [x] [JsonDB](https://github.com/pardnchiu/JsonDB) - JsonDB - JSON Indexed Cache with Query
+  - [x] [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website Health Monitor with Email Notification
+  - [x] [RSS Reader](https://github.com/pardnchiu/rss-reader) - Terminal-based RSS news aggregator with multi-source support
+  - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
+  - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
+- #### Node.js
+  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
+  - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
 
 <br>
 
