@@ -27,6 +27,8 @@
   - [x] [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback) - Cache management with automatic failover
   - [x] [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback) - Session management with automatic failover
 ### Service
+- #### Cloudflare Worker
+  - [x] [c2hat-relay-backend](https://github.com/pardnchiu/c2hat-relay-backend) - WebSocket relay for end-to-end encrypted messaging
 - #### Golang
   - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
   - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
@@ -38,7 +40,6 @@
   - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
   - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
 - #### Node.js
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-node-e2ee-chat) - (Backlog) E2E encrypted messaging*
   - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
 
 <br>
