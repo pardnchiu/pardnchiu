@@ -33,7 +33,6 @@
   - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
   - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
   - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
-  - [ ] *[E2EE Chat](https://github.com/pardnchiu/demo-go-e2ee-chat) - (Backlog) E2E encrypted messaging*
   - [x] [JsonDB](https://github.com/pardnchiu/JsonDB) - JsonDB - JSON Indexed Cache with Query
   - [x] [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website Health Monitor with Email Notification
   - [x] [RSS Reader](https://github.com/pardnchiu/rss-reader) - Terminal-based RSS news aggregator with multi-source support
