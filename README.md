@@ -18,14 +18,14 @@
   - [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt)
   - [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql)
 - #### Node.js 
-  - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication with automatic refresh
-  - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - MySQL wrapper with chainable calls
+  - [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth)
+  - [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool)
 - #### PHP
-  - [x] [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - MySQL wrapper with chainable calls
-  - [x] [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous processing utility wrapper
-  - [x] [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis operation wrapper
-  - [x] [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback) - Cache management with automatic failover
-  - [x] [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback) - Session management with automatic failover
+  - [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool)
+  - [pardnchiu/async](https://packagist.org/packages/pardnchiu/async)
+  - [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis)
+  - [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback)
+  - [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback)
 ### Service
 - #### Cloudflare Worker
   - [x] [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
