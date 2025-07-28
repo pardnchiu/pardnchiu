@@ -10,13 +10,13 @@
 ## Backend
 ### Package
 - #### Golang
-  - (WIP) **[github.com/pardnchiu/go-task](https://github.com/pardnchiu/go-task) - High-concurrency task scheduling**
-  - [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron) - Lightweight scheduler with standard library
-  - [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) - Logging package with automatic rotation
-  - [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) - Redis fallback solution by automatically downgrades
-  - [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/go-ip-sentry) - IP threat detection and geolocation analysis
-  - [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt) - JWT authentication with automatic refresh
-  - [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql) - MySQL wrapper with chainable calls
+  - (WIP) **[github.com/pardnchiu/go-task](https://github.com/pardnchiu/go-task)**
+  - [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron)
+  - [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger)
+  - [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback)
+  - [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/go-ip-sentry)
+  - [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt)
+  - [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql)
 - #### Node.js 
   - [x] [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - JWT authentication with automatic refresh
   - [x] [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - MySQL wrapper with chainable calls
