@@ -24,8 +24,8 @@
   - [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool)
   - [pardnchiu/async](https://packagist.org/packages/pardnchiu/async)
   - [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis)
-  - [pardnchiu/cache-fallback](https://packagist.org/packages/pardnchiu/cache-fallback)
-  - [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback)
+  - [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache)
+  - [pardnchiu/session](https://packagist.org/packages/pardnchiu/session)
 ### Service
 - #### Cloudflare Worker
   - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
