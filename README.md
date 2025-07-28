@@ -28,18 +28,18 @@
   - [pardnchiu/session-fallback](https://packagist.org/packages/pardnchiu/session-fallback)
 ### Service
 - #### Cloudflare Worker
-  - [x] [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
+  - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
 - #### Golang
-  - [ ] **[LBARS](https://github.com/pardnchiu/go-load-balance) - (WIP) Load Balancer with Adaptive Recovery Sentry**
-  - [ ] *[PICS](https://github.com/pardnchiu/PICS) - (Backlog) Picture Indexed Collection with blob store System*
-  - [ ] *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server) - (Backlog) Single sign-on server with OAuth2*
-  - [x] [JsonDB](https://github.com/pardnchiu/JsonDB) - JsonDB - JSON Indexed Cache with Query
-  - [x] [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website Health Monitor with Email Notification
-  - [x] [RSS Reader](https://github.com/pardnchiu/rss-reader) - Terminal-based RSS news aggregator with multi-source support
-  - [x] [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
-  - [x] [Image Server](https://github.com/pardnchiu/demo-go-image-server) -  Image processing and caching server
+  - (WIP) **[LBARS](https://github.com/pardnchiu/go-load-balance) - Load Balancer with Adaptive Recovery Sentry**
+  - (Backlog) *[PICS](https://github.com/pardnchiu/PICS) - Picture Indexed Collection with blob store System*
+  - (Backlog) *[SSO Server](https://github.com/pardnchiu/demo-go-sso-server)*
+  - [JsonDB](https://github.com/pardnchiu/JsonDB)
+  - [Web Monitor](https://github.com/pardnchiu/web-monitor)
+  - [RSS Reader](https://github.com/pardnchiu/rss-reader)
+  - [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
+  - [Image Server](https://github.com/pardnchiu/demo-go-image-server)
 - #### Node.js
-  - [x] [Image Server](https://github.com/pardnchiu/demo-node-image-server) -  Image processing and caching server
+  - [Image Server](https://github.com/pardnchiu/demo-node-image-server)
 
 <br>
 
