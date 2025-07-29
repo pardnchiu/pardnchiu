@@ -1,3 +1,5 @@
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pardnchiu&show_icons=true&count_private=true)
+
 # Only sharing my personal projects
 > [!Note]
 > 1. GitHub is only used for sharing independently developed projects.
