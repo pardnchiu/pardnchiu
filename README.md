@@ -10,7 +10,6 @@
 >   其餘皆以自身公司[**帕登國際有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502)簽約且獨立開發，無任何外部協作。
 
 <br>
-<br>
 
 ## Backend
 ### Package
@@ -48,7 +47,6 @@
 - [Image Server](https://github.com/pardnchiu/demo-node-image-server)
 
 <br>
-<br>
 
 ## Frontend
 ### Library
@@ -79,13 +77,6 @@
   - *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - iOS expense tracking app example using Swift/UIKit*
   - *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - Firebase messaging app example using Swift/Uikit*
 
-<br>
-<br>
-
-## Tools
-- [VIM Config](https://github.com/pardnchiu/vim-config) - VIM editor configuration
-
-<br>
 <br>
 
 ## Live / Discontinued
