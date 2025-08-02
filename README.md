@@ -69,14 +69,15 @@
 - [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
 - [Website Builder](https://github.com/pardnltd/website-builder) - Visual website builder tool
 - [AdminUI](https://github.com/pardnltd/adminui) - Admin dashboard template
-- *[Web Demo](https://pardn.io/web-template) - (Archieve) up to 40 Web template collection*
-- *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - (Archieve) Picker of Skill Icons*
-- *[Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - (Archieve) CSS Drawing*
+- **Archieve**
+  - *[Web Demo](https://pardn.io/web-template) - up to 40 Web template collection*
+  - *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - Picker of Skill Icons*
+  - *[Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing*
 
-#### iOS
-- *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - (Archieve) Component showcase using SwiftUI*
-- *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - (Archieve) iOS expense tracking app example using Swift/UIKit*
-- *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - (Archieve) Firebase messaging app example using Swift/Uikit*
+#### iOS (Archieve)
+- *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - Component showcase using SwiftUI*
+- *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - iOS expense tracking app example using Swift/UIKit*
+- *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - Firebase messaging app example using Swift/Uikit*
 
 <br>
 <br>
