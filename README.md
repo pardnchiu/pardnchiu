@@ -14,37 +14,37 @@
 ## Backend
 ### Package
 #### Golang
-- [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron)
-- [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger)
-- [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback)
-- [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/go-ip-sentry)
-- [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt)
-- [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql)
+- [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron) - Lightweight scheduling
+- [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) - Log management
+- [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) - Redis graceful fallback
+- [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/go-ip-sentry) - Threat detection and blacklisting
+- [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt) - Provides JWT auto-renewal
+- [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql) - Chained syntax calls
 
 #### Node.js 
-- [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth)
-- [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool)
+- [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - Provides JWT auto-renewal
+- [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chained syntax calls
 
 #### PHP
-- [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool)
-- [pardnchiu/async](https://packagist.org/packages/pardnchiu/async)
-- [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis)
-- [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache)
-- [pardnchiu/session](https://packagist.org/packages/pardnchiu/session)
+- [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chained syntax calls
+- [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous task dependencies
+- [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis wrapper
+- [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache graceful fallback
+- [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session graceful fallback
 
 ### Service
 #### Cloudflare Worker
 - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
 
 #### Golang
-- [JsonDB](https://github.com/pardnchiu/JsonDB)
-- [Web Monitor](https://github.com/pardnchiu/web-monitor)
-- [RSS Reader](https://github.com/pardnchiu/rss-reader)
+- [JsonDB](https://github.com/pardnchiu/JsonDB) - High-performance JSON database
+- [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website health monitoring
+- [RSS Reader](https://github.com/pardnchiu/rss-reader) - Automated RSS collection
 - [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
-- [Image Server](https://github.com/pardnchiu/demo-go-image-server)
+- [Image Server](https://github.com/pardnchiu/demo-go-image-server) - Image upload and caching server
 
 #### Node.js
-- [Image Server](https://github.com/pardnchiu/demo-node-image-server)
+- [Image Server](https://github.com/pardnchiu/demo-node-image-server) - Image upload and caching server
 
 <br>
 
