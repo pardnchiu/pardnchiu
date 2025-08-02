@@ -73,10 +73,11 @@
   - *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - Picker of Skill Icons*
   - *[Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing*
 
-#### iOS (Archieve)
-- *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - Component showcase using SwiftUI*
-- *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - iOS expense tracking app example using Swift/UIKit*
-- *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - Firebase messaging app example using Swift/Uikit*
+#### iOS 
+- **Archieve**
+  - *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - Component showcase using SwiftUI*
+  - *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - iOS expense tracking app example using Swift/UIKit*
+  - *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - Firebase messaging app example using Swift/Uikit*
 
 <br>
 <br>
@@ -89,17 +90,16 @@
 
 ## Live / Discontinued
 
-### Live
-#### Web
+### Web
 - [JOBALL](https://joball.tw) - Experts Matching Platform in Taiwan
 - [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) - Cross-Domain Chat
 
-#### macOS
+### macOS
 - [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) - Markdown editor
 - [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) - Keyboard/Mouse tracking
-
-### Discontinued
-#### iOS
-- <s>[NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) - Social E-commerce App with Blockchain</s>
-- <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App</s>
+ 
+### iOS
+- **Discontinued**
+  - [NEEDS](https://appadvice.com/app/e9-96-8b-e7-ae-b1/1460355322.amp) - Social E-commerce App with Blockchain
+  - [JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App
 
