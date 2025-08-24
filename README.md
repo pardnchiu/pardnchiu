@@ -26,7 +26,7 @@
 - [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chained syntax calls
 
 #### PHP
-- [pardnchiu/mysql-pool](https://packagist.org/packages/pardnchiu/mysql-pool) - Chained syntax calls
+- [pardnchiu/mysql-cli](https://packagist.org/packages/pardnchiu/mysql-cli) - Chained syntax calls
 - [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous task dependencies
 - [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis wrapper
 - [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache graceful fallback
