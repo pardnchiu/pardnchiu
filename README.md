@@ -27,8 +27,9 @@
 
 #### PHP
 - [pardnchiu/mysql-cli](https://packagist.org/packages/pardnchiu/mysql-cli) - Chained syntax calls
+- [pardnchiu/redis-cli](https://packagist.org/packages/pardnchiu/redis-cli) - Redis wrapper
+- [pardnchiu/mailer](https://packagist.org/packages/pardnchiu/mailer) - PHPMailer wrapper
 - [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous task dependencies
-- [pardnchiu/redis](https://packagist.org/packages/pardnchiu/redis) - Redis wrapper
 - [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache graceful fallback
 - [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session graceful fallback
 
