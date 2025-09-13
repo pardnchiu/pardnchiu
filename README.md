@@ -57,7 +57,7 @@
 - [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
 - [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
 - [RenderJS](https://renderjs.pardn.io) - Rendering extension library
-- [pdf2image](https://pardn.io/pdf2image) - PDF to image converter
+- [pdf2image](https://pdf2image.pardn.io/) - PDF to image converter
 
 #### Swift
 - [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
@@ -65,12 +65,12 @@
 ### Demo
 #### Web
 - [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
-- [Website Builder](https://github.com/pardnltd/website-builder) - Visual website builder tool
-- [AdminUI](https://github.com/pardnltd/adminui) - Admin dashboard template
+- [Website Builder](https://webui.pardn.io) - Visual website builder tool
+- [AdminUI](https://adminui.pardn.io) - Admin dashboard template
 - **Archieve**
-  - *[Web Demo](https://pardn.io/web-template) - up to 40 Web template collection*
+  - *[Web Demo](https://pardnchiu.github.io/web-template) - up to 40 Web template collection*
   - *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - Picker of Skill Icons*
-  - *[Pokemon Quest](https://github.com/pardnchiu/css-pokemon-quest) - CSS Drawing*
+  - *[Pokemon Quest](https://pardnchiu.github.io/css-pokemon-quest) - CSS Drawing*
 
 #### iOS 
 - **Archieve**
