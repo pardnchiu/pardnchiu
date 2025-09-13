@@ -68,7 +68,7 @@
 - [Website Builder](https://webui.pardn.io) - Visual website builder tool
 - [AdminUI](https://adminui.pardn.io) - Admin dashboard template
 - **Archieve**
-  - *[Web Demo](https://pardnchiu.github.io/web-template) - up to 40 Web template collection*
+  - *[Web Demo](https://pardnchiu.github.io/demo-web) - up to 40 Web template collection*
   - *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - Picker of Skill Icons*
   - *[Pokemon Quest](https://pardnchiu.github.io/css-pokemon-quest) - CSS Drawing*
 
