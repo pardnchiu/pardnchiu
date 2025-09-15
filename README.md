@@ -13,6 +13,9 @@
 
 ## Backend
 ### Service
+#### SHELL
+- [pdpve](https://github.com/pardnchiu/pdpve) - Proxmox VE scripts
+
 #### Cloudflare Worker
 - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
 
