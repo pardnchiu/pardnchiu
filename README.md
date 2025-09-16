@@ -66,7 +66,7 @@
 - [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
 
 ### Demo
-#### Web
+#### Web (HTML/CSS/Sass/JavaScript)
 - [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
 - [Website Builder](https://webui.pardn.io) - Visual website builder tool
 - [AdminUI](https://adminui.pardn.io) - Admin dashboard template
@@ -75,7 +75,7 @@
   - *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - Picker of Skill Icons*
   - *[Pokemon Quest](https://pardnchiu.github.io/css-pokemon-quest) - CSS Drawing*
 
-#### iOS 
+#### iOS (Swift)
 - **Archieve**
   - *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - Component showcase using SwiftUI*
   - *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - iOS expense tracking app example using Swift/UIKit*
