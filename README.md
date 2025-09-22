@@ -20,6 +20,7 @@
 - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
 
 #### Golang
+- [PVE Qemu API](https://github.com/pardnchiu/go-qemu) - PVE Qemu API
 - [JsonDB](https://github.com/pardnchiu/JsonDB) - High-performance JSON database
 - [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website health monitoring
 - [RSS Reader](https://github.com/pardnchiu/rss-reader) - Automated RSS collection
