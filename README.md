@@ -38,6 +38,7 @@
 - [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) - Redis graceful fallback
 - [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/golang-ip-sentry) - Threat detection and blacklisting
 - [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt) - Provides JWT auto-renewal
+- [github.com/pardnchiu/go-pg](https://pkg.go.dev/github.com/pardnchiu/go-pg) - Chained syntax calls
 - [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql) - Chained syntax calls
 
 #### Node.js 
