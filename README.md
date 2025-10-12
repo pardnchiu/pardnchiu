@@ -12,91 +12,79 @@
 <br>
 
 ## Backend
-### Service
-#### SHELL
-- [pdpve](https://github.com/pardnchiu/pdpve) - Proxmox VE scripts
-
-#### Cloudflare Worker
-- [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
-
-#### Golang
-- [FaaS](https://github.com/pardnchiu/go-faas) - FaaS Platform
-- [PVE Qemu API](https://github.com/pardnchiu/go-qemu) - PVE Qemu API
-- [JsonDB](https://github.com/pardnchiu/JsonDB) - High-performance JSON database
-- [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website health monitoring
-- [RSS Reader](https://github.com/pardnchiu/rss-reader) - Automated RSS collection
-- [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
-- [Image Server](https://github.com/pardnchiu/demo-go-image-server) - Image upload and caching server
-
-#### Node.js
-- [Image Server](https://github.com/pardnchiu/demo-node-image-server) - Image upload and caching server
-
-### Package
-#### Golang
-- [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron) - Lightweight scheduling
-- [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) - Log management
-- [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) - Redis graceful fallback
-- [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/golang-ip-sentry) - Threat detection and blacklisting
-- [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt) - Provides JWT auto-renewal
-- [github.com/pardnchiu/go-pg](https://pkg.go.dev/github.com/pardnchiu/go-pg) - Chained syntax calls
-- [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql) - Chained syntax calls
-
-#### Node.js 
-- [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - Provides JWT auto-renewal
-- [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chained syntax calls
-
-#### PHP
-- [pardnchiu/mysql-cli](https://packagist.org/packages/pardnchiu/mysql-cli) - PD0 wrapper for mysql with Chained syntax calls
-- [pardnchiu/redis-cli](https://packagist.org/packages/pardnchiu/redis-cli) - PHP Redis wrapper
-- [pardnchiu/mailer](https://packagist.org/packages/pardnchiu/mailer) - PHPMailer wrapper
-- [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous task dependencies
-- [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache graceful fallback
-- [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session graceful fallback
+- ### Service
+  - #### Bash
+    - [pdpve](https://github.com/pardnchiu/pdpve) - Proxmox VE scripts
+  - #### Cloudflare Worker
+    - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) - WebSocket relay for end-to-end encrypted messaging
+  - #### Golang
+    - [FaaS](https://github.com/pardnchiu/go-faas) - Function as a Service
+    - [PVE Qemu](https://github.com/pardnchiu/go-qemu) - Proxmox Qemu Wrapper
+    - [JsonDB](https://github.com/pardnchiu/JsonDB) - High-performance JSON database
+    - [Web Monitor](https://github.com/pardnchiu/web-monitor) - Website health monitoring
+    - [RSS Reader](https://github.com/pardnchiu/rss-reader) - Automated RSS collection
+    - [CIM Prototype](https://github.com/pardnchiu/cim-prototype) - Cognitive Imperfect Memory system Prototype
+    - [Image Server](https://github.com/pardnchiu/demo-go-image-server) - Image upload and caching server
+  - #### Node.js
+    - [Image Server](https://github.com/pardnchiu/demo-node-image-server) - Image upload and caching server
+- ### Package
+  - #### Golang
+    - [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron) - Lightweight scheduling
+    - [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) - Log management
+    - [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) - Redis graceful fallback
+    - [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/golang-ip-sentry) - Threat detection and blacklisting
+    - [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt) - Provides JWT auto-renewal
+    - [github.com/pardnchiu/go-pg](https://pkg.go.dev/github.com/pardnchiu/go-pg) - Chained syntax calls
+    - [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql) - Chained syntax calls
+  - #### Node.js 
+    - [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) - Provides JWT auto-renewal
+    - [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) - Chained syntax calls
+  - #### PHP
+    - [pardnchiu/mysql-cli](https://packagist.org/packages/pardnchiu/mysql-cli) - PD0 wrapper for mysql with Chained syntax calls
+    - [pardnchiu/redis-cli](https://packagist.org/packages/pardnchiu/redis-cli) - PHP Redis wrapper
+    - [pardnchiu/mailer](https://packagist.org/packages/pardnchiu/mailer) - PHPMailer wrapper
+    - [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) - Asynchronous task dependencies
+    - [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) - Cache graceful fallback
+    - [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) - Session graceful fallback
 
 <br>
 
 ## Frontend
-### Library
-#### JavaScript
-- [QuickUI](https://quickui.pardn.io) - Lightweight frontend framework
-- [NanoMD](https://nanomd.pardn.io) - Modular Markdown Editor
-- [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
-- [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
-- [RenderJS](https://renderjs.pardn.io) - Rendering extension library
-- [pdf2image](https://pdf2image.pardn.io/) - PDF to image converter
-
-#### Swift
-- [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
-
-### Demo
-#### Web (HTML/CSS/Sass/JavaScript)
-- [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
-- [Website Builder](https://webui.pardn.io) - Visual website builder tool
-- [AdminUI](https://adminui.pardn.io) - Admin dashboard template
-- **Archieve**
-  - *[Web Demo](https://pardnchiu.github.io/demo-web) - up to 40 Web template collection*
-  - *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - Picker of Skill Icons*
-  - *[Pokemon Quest](https://pardnchiu.github.io/css-pokemon-quest) - CSS Drawing*
-
-#### iOS (Swift)
-- **Archieve**
-  - *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - Component showcase using SwiftUI*
-  - *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - iOS expense tracking app example using Swift/UIKit*
-  - *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - Firebase messaging app example using Swift/Uikit*
+  - ### Library
+    - #### JavaScript
+      - [QuickUI](https://quickui.pardn.io) - Lightweight frontend framework
+      - [NanoMD](https://nanomd.pardn.io) - Modular Markdown Editor
+      - [NanoJSON](https://nanojson.pardn.io) - Modular JSON Editor
+      - [FlexPlyr](https://flexplyr.pardn.io) - Modular Media Player
+      - [RenderJS](https://renderjs.pardn.io) - Rendering extension library
+      - [pdf2image](https://pdf2image.pardn.io/) - PDF to image converter
+    - #### Swift
+      - [ExSwift](https://github.com/pardnchiu/ExSwift) - Swift extension utilities
+  - ### Demo
+    - #### Web (HTML/CSS/Sass/JavaScript)
+      - [DeskUI](https://github.com/pardnltd/DeskUI) - Desktop-style UI interface
+      - [Website Builder](https://webui.pardn.io) - Visual website builder tool
+      - [AdminUI](https://adminui.pardn.io) - Admin dashboard template
+      - **Archieve**
+        - *[Web Demo](https://pardnchiu.github.io/demo-web) - up to 40 Web template collection*
+        - *[Skill Icons Picker](https://pardnchiu.github.io/SkilliconsPicker/) - Picker of Skill Icons*
+        - *[Pokemon Quest](https://pardnchiu.github.io/css-pokemon-quest) - CSS Drawing*
+    - #### iOS (Swift)
+      - **Archieve**
+        - *[SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) - Component showcase using SwiftUI*
+        - *[Moneybook](https://github.com/pardnchiu/swift-moneybook) - iOS expense tracking app example using Swift/UIKit*
+        - *[Firebase Messaging](https://github.com/pardnchiu/swift-firebase-messaging) - Firebase messaging app example using Swift/Uikit*
 
 <br>
 
 ## Live / Discontinued
-
-### Web
-- [JOBALL](https://joball.tw) - Experts Matching Platform in Taiwan
-- [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) - Cross-Domain Chat
-
-### macOS
-- [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) - Markdown editor
-- [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) - Keyboard/Mouse tracking
- 
-### iOS
-- **Discontinued**
-  - [JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App
+  - ### Web
+    - [JOBALL](https://joball.tw) - Experts Matching Platform in Taiwan
+    - [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) - Cross-Domain Chat
+  - ### macOS
+    - [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) - Markdown editor
+    - [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) - Keyboard/Mouse tracking
+  - ### iOS
+    - **Discontinued**
+      - [JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) - Experts Matching Platform App
 
