@@ -16,16 +16,16 @@
 
 | Language | Type | Project | Description |
 |-|-|-|-|
-| Bash | Sctipt | [pdpve](https://github.com/pardnchiu/pdpve) | Proxmox VE scripts |
-| Cloudflare Worker | Backend | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | WebSocket relay for end-to-end encrypted messaging |
-| Golang | FaaS | [FaaS](https://github.com/pardnchiu/go-faas) | Function as a Service |
-| Golang | API | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | Proxmox Qemu Wrapper |
-| Golang | Database | [JsonDB](https://github.com/pardnchiu/JsonDB) | High-performance JSON database |
-| Golang | TUI | [Web Monitor](https://github.com/pardnchiu/web-monitor) | Website health monitoring |
-| Golang | TUI | [RSS Reader](https://github.com/pardnchiu/rss-reader) | Automated RSS collection |
-| Golang | TUI | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | Cognitive Imperfect Memory system Prototype |
-| Golang |  API | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Image upload and caching server |
-| Node.js | API | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Image upload and caching server |
+| Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Sctipt | Proxmox VE scripts |
+| Cloudflare Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
+| Golang | [FaaS](https://github.com/pardnchiu/go-faas) | FaaS | Function as a Service |
+| Golang | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | API | Proxmox Qemu Wrapper |
+| Golang | [JsonDB](https://github.com/pardnchiu/JsonDB) | Database | High-performance JSON database |
+| Golang | [Web Monitor](https://github.com/pardnchiu/web-monitor) | TUI | Website health monitoring |
+| Golang | [RSS Reader](https://github.com/pardnchiu/rss-reader) | TUI | Automated RSS collection |
+| Golang | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | TUI | Cognitive Imperfect Memory system Prototype |
+| Golang | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | API | Image upload and caching server |
+| Node.js | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | API | Image upload and caching server |
 
 ### Package
 
@@ -72,7 +72,7 @@
 ## Live / Discontinued
 
 | Platform | Product | Status | Description |
-|-|-|-|
+|-|-|-|-|
 | Web | [JOBALL](https://joball.tw) | Live | Experts Matching Platform in Taiwan |
 | Web | [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) | Live | Cross-Domain Chat |
 | macOS | [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) | Live | Markdown editor |
