@@ -14,23 +14,23 @@
 
 ### Service
 
-| Platform | Project | Description |
-|----------|---------|-------------|
-| Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Proxmox VE scripts |
-| Cloudflare Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | WebSocket relay for end-to-end encrypted messaging |
-| Golang | [FaaS](https://github.com/pardnchiu/go-faas) | Function as a Service |
-| Golang | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | Proxmox Qemu Wrapper |
-| Golang | [JsonDB](https://github.com/pardnchiu/JsonDB) | High-performance JSON database |
-| Golang | [Web Monitor](https://github.com/pardnchiu/web-monitor) | Website health monitoring |
-| Golang | [RSS Reader](https://github.com/pardnchiu/rss-reader) | Automated RSS collection |
-| Golang | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | Cognitive Imperfect Memory system Prototype |
-| Golang | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Image upload and caching server |
-| Node.js | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Image upload and caching server |
+| Language | Type | Project | Description |
+|-|-|-|-|
+| Bash | Sctipt | [pdpve](https://github.com/pardnchiu/pdpve) | Proxmox VE scripts |
+| Cloudflare Worker | Backend | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | WebSocket relay for end-to-end encrypted messaging |
+| Golang | FaaS | [FaaS](https://github.com/pardnchiu/go-faas) | Function as a Service |
+| Golang | API | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | Proxmox Qemu Wrapper |
+| Golang | Database | [JsonDB](https://github.com/pardnchiu/JsonDB) | High-performance JSON database |
+| Golang | TUI | [Web Monitor](https://github.com/pardnchiu/web-monitor) | Website health monitoring |
+| Golang | TUI | [RSS Reader](https://github.com/pardnchiu/rss-reader) | Automated RSS collection |
+| Golang | TUI | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | Cognitive Imperfect Memory system Prototype |
+| Golang |  API | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Image upload and caching server |
+| Node.js | API | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Image upload and caching server |
 
 ### Package
 
-| Platform | Package | Description |
-|----------|---------|-------------|
+| Language | Package | Description |
+|-|-|-|
 | Golang | [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron) | Lightweight scheduling |
 | Golang | [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) | Log management |
 | Golang | [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) | Redis graceful fallback |
@@ -51,8 +51,8 @@
 
 ### Library
 
-| Platform | Library | Description |
-|----------|---------|-------------|
+| Language | Library | Description |
+|-|-|-|
 | JavaScript | [QuickUI](https://quickui.pardn.io) | Lightweight frontend framework |
 | JavaScript | [NanoMD](https://nanomd.pardn.io) | Modular Markdown Editor |
 | JavaScript | [NanoJSON](https://nanojson.pardn.io) | Modular JSON Editor |
@@ -64,7 +64,7 @@
 ### Demo
 
 | Platform | Project | Description |
-|----------|---------|-------------|
+|-|-|-|
 | Web | [DeskUI](https://github.com/pardnltd/DeskUI) | Desktop-style UI interface |
 | Web | [Website Builder](https://webui.pardn.io) | Visual website builder tool |
 | Web | [AdminUI](https://adminui.pardn.io) | Admin dashboard template |
@@ -72,7 +72,7 @@
 ## Live / Discontinued
 
 | Platform | Product | Status | Description |
-|----------|---------|--------|-------------|
+|-|-|-|
 | Web | [JOBALL](https://joball.tw) | Live | Experts Matching Platform in Taiwan |
 | Web | [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) | Live | Cross-Domain Chat |
 | macOS | [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) | Live | Markdown editor |
