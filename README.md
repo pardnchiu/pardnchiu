@@ -14,7 +14,7 @@
 
 ### Service
 
-| Language | Type | Project | Description |
+| Language | Name | Type | Description |
 |-|-|-|-|
 | Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Sctipt | Proxmox VE scripts |
 | Cloudflare Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
@@ -29,7 +29,7 @@
 
 ### Package
 
-| Language | Package | Description |
+| Language | Name | Description |
 |-|-|-|
 | Golang | [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron) | Lightweight scheduling |
 | Golang | [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) | Log management |
@@ -51,7 +51,7 @@
 
 ### Library
 
-| Language | Library | Description |
+| Language | Name | Description |
 |-|-|-|
 | JavaScript | [QuickUI](https://quickui.pardn.io) | Lightweight frontend framework |
 | JavaScript | [NanoMD](https://nanomd.pardn.io) | Modular Markdown Editor |
@@ -63,7 +63,7 @@
 
 ### Demo
 
-| Platform | Project | Description |
+| Platform | Name | Description |
 |-|-|-|
 | Web | [DeskUI](https://github.com/pardnltd/DeskUI) | Desktop-style UI interface |
 | Web | [Website Builder](https://webui.pardn.io) | Visual website builder tool |
@@ -71,7 +71,7 @@
 
 ## Live / Discontinued
 
-| Platform | Product | Status | Description |
+| Platform | Name | Status | Description |
 |-|-|-|-|
 | Web | [JOBALL](https://joball.tw) | Live | Experts Matching Platform in Taiwan |
 | Web | [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) | Live | Cross-Domain Chat |
