@@ -17,7 +17,7 @@
 | Language | Name | Type | Description |
 |-|-|-|-|
 | Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Sctipt | Proxmox VE scripts |
-| Cloudflare Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
+| Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
 | Golang | [FaaS](https://github.com/pardnchiu/go-faas) | FaaS | Function as a Service |
 | Golang | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | API | Proxmox Qemu Wrapper |
 | Golang | [JsonDB](https://github.com/pardnchiu/JsonDB) | Database | High-performance JSON database |
