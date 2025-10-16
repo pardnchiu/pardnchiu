@@ -18,8 +18,8 @@
 |-|-|-|-|
 | Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Sctipt | Proxmox VE scripts |
 | Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
-| Golang | [Kvmesh](https://github.com/pardnchiu/go-kvmesh) | Service | Debian Cluster and KVM management |
-| Golang | [FaaS](https://github.com/pardnchiu/go-faas) | Service | Function as a Service |
+| Golang | [Kvmesh](https://github.com/pardnchiu/go-kvmesh) | Service | (WIP) Debian Cluster and KVM management |
+| Golang | [FaaS](https://github.com/pardnchiu/go-faas) | Service | (WIP) Function as a Service |
 | Golang | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | API | Proxmox Qemu Wrapper |
 | Golang | [JsonDB](https://github.com/pardnchiu/JsonDB) | Database | High-performance JSON database |
 | Golang | [Web Monitor](https://github.com/pardnchiu/web-monitor) | TUI | Website health monitoring |
