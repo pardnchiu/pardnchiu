@@ -18,14 +18,15 @@
 |-|-|-|-|
 | Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Sctipt | Proxmox VE scripts |
 | Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
-| Golang | [FaaS](https://github.com/pardnchiu/go-faas) | FaaS | Function as a Service |
+| Golang | [Kvmesh](https://github.com/pardnchiu/go-kvmesh) | Service | Debian Cluster and KVM management |
+| Golang | [FaaS](https://github.com/pardnchiu/go-faas) | Service | Function as a Service |
 | Golang | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | API | Proxmox Qemu Wrapper |
 | Golang | [JsonDB](https://github.com/pardnchiu/JsonDB) | Database | High-performance JSON database |
 | Golang | [Web Monitor](https://github.com/pardnchiu/web-monitor) | TUI | Website health monitoring |
 | Golang | [RSS Reader](https://github.com/pardnchiu/rss-reader) | TUI | Automated RSS collection |
 | Golang | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | TUI | Cognitive Imperfect Memory system Prototype |
-| Golang | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | API | Image upload and caching server |
-| Node.js | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | API | Image upload and caching server |
+| Golang | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Service | Image upload and caching server |
+| Node.js | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Service | Image upload and caching server |
 
 ### Package
 
