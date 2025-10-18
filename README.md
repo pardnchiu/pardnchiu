@@ -32,7 +32,7 @@
 
 | Language | Name | Description |
 |-|-|-|
-| Golang | [github.com/pardnchiu/go-cron](https://pkg.go.dev/github.com/pardnchiu/go-cron) | Lightweight scheduling |
+| Golang | [github.com/pardnchiu/go-scheduler](https://pkg.go.dev/github.com/pardnchiu/go-scheduler) | Lightweight scheduling |
 | Golang | [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) | Log management |
 | Golang | [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) | Redis graceful fallback |
 | Golang | [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/golang-ip-sentry) | Threat detection and blacklisting |
