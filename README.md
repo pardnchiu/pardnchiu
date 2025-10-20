@@ -45,9 +45,9 @@
 | <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [RenderJS](https://renderjs.pardn.io) | Library | Rendering extension library |
 | <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [pdf2image](https://pdf2image.pardn.io/) | Library | PDF to image converter |
 | <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/ExSwift) | Library | Swift extension utilities |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/demo-swiftui) | Demo | SwiftUI Demo |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/demo-swift-firebase-messaging) | Demo | Firebase Messaging |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/demo-swift-moneybook) | Demo | Moneybook |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) | Demo | SwiftUI Demo |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [Firebase Messaging](https://github.com/pardnchiu/demo-swift-firebase-messaging) | Demo | Demo Firebase Messaging |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [Moneybook](https://github.com/pardnchiu/demo-swift-moneybook) | Demo | Demo Moneybook |
 | | [DeskUI](https://github.com/pardnltd/DeskUI) | Demo | Desktop-style UI interface |
 | | [Website Builder](https://webui.pardn.io) | Demo | Visual website builder tool |
 | | [AdminUI](https://adminui.pardn.io) | Demo | Admin dashboard template |
