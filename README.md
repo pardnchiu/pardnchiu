@@ -6,7 +6,7 @@
 
 ## Backend
 
-| | Name | Type | Description |
+| Icon | Name | Type | Description |
 |-|-|-|-|
 | <img src="https://skillicons.dev/icons?i=bash" width=24 height=24>  | [pdpve](https://github.com/pardnchiu/pdpve) | Script | Proxmox VE scripts |
 | <img src="https://skillicons.dev/icons?i=cloudflare" width=24 height=24> | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
@@ -37,7 +37,7 @@
 
 ## Frontend
 
-| | Name | Type | Description |
+| Icon | Name | Type | Description |
 |-|-|-|-|
 | <img src="https://skillicons.dev/icons?i=ts" width=24 height=24> | [QuickUI](https://quickui.pardn.io) | Library | Lightweight frontend framework |
 | <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [NanoMD](https://nanomd.pardn.io) | Library | Modular Markdown Editor |
