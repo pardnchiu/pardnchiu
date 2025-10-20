@@ -1,4 +1,4 @@
-# Only sharing my personal projects
+# Only sharing my independently developed projects
 > [!Note]
 > 1. GitHub is only used for sharing independently developed projects.
 > 2. Projects without a LICENSE are considered MIT by default.
@@ -6,49 +6,52 @@
 
 ## Backend
 
-| Language | Name | Type | Description |
+| | Name | Type | Description |
 |-|-|-|-|
-| Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Script | Proxmox VE scripts |
-| Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
-| Golang | [Kvmesh](https://github.com/pardnchiu/go-kvmesh) | Service | (WIP) Debian Cluster and KVM management |
-| Golang | [FaaS](https://github.com/pardnchiu/go-faas) | Service | (WIP) Function as a Service |
-| Golang | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | API | Proxmox Qemu Wrapper |
-| Golang | [JsonDB](https://github.com/pardnchiu/JsonDB) | Database | High-performance JSON database |
-| Golang | [Web Monitor](https://github.com/pardnchiu/web-monitor) | TUI | Website health monitoring |
-| Golang | [RSS Reader](https://github.com/pardnchiu/rss-reader) | TUI | Automated RSS collection |
-| Golang | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | TUI | Cognitive Imperfect Memory system Prototype |
-| Golang | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Service | Image upload and caching server |
-| Golang | [github.com/pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | Package | Lightweight scheduling |
-| Golang | [github.com/pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) | Package | Log management |
-| Golang | [github.com/pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) | Package | Redis graceful fallback |
-| Golang | [github.com/pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) | Package | Threat detection and blacklisting |
-| Golang | [github.com/pardnchiu/go-jwt](https://github.com/pardnchiu/go-jwt) | Package | Provides JWT auto-renewal |
-| Golang | [github.com/pardnchiu/go-pg](https://github.com/pardnchiu/go-pg) | Package | Chained syntax calls |
-| Golang | [github.com/pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) | Package | Chained syntax calls |
-| Node.js | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Service | Image upload and caching server |
-| Node.js | [@pardnchiu/jwt-auth](https://github.com/pardnchiu/jwt-auth) | Package | Provides JWT auto-renewal |
-| Node.js | [@pardnchiu/mysql-pool](https://github.com/pardnchiu/mysql-pool) | Package | Chained syntax calls |
-| PHP | [pardnchiu/mysql-cli](https://github.com/pardnchiu/mysql-cli) | Package | PDO wrapper for mysql with Chained syntax calls |
-| PHP | [pardnchiu/redis-cli](https://github.com/pardnchiu/redis-cli) | Package | PHP Redis wrapper |
-| PHP | [pardnchiu/mailer](https://github.com/pardnchiu/mailer) | Package | PHPMailer wrapper |
-| PHP | [pardnchiu/async](https://github.com/pardnchiu/async) | Package | Asynchronous task dependencies |
-| PHP | [pardnchiu/cache](https://github.com/pardnchiu/cache) | Package | Cache graceful fallback |
-| PHP | [pardnchiu/session](https://github.com/pardnchiu/session) | Package | Session graceful fallback |
+| <img src="https://skillicons.dev/icons?i=bash" width=24 height=24>  | [pdpve](https://github.com/pardnchiu/pdpve) | Script | Proxmox VE scripts |
+| <img src="https://skillicons.dev/icons?i=cloudflare" width=24 height=24> | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [Kvmesh](https://github.com/pardnchiu/go-kvmesh) | Service | (WIP) Debian Cluster and KVM management |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [FaaS](https://github.com/pardnchiu/go-faas) | Service | (WIP) Function as a Service |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | API | Proxmox Qemu Wrapper |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [JsonDB](https://github.com/pardnchiu/JsonDB) | Database | High-performance JSON database |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [Web Monitor](https://github.com/pardnchiu/web-monitor) | TUI | Website health monitoring |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [RSS Reader](https://github.com/pardnchiu/rss-reader) | TUI | Automated RSS collection |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | TUI | Cognitive Imperfect Memory system Prototype |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Service | Image upload and caching server |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | Package | Lightweight scheduling |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) | Package | Log management |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) | Package | Redis graceful fallback |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) | Package | Threat detection and blacklisting |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-jwt](https://github.com/pardnchiu/go-jwt) | Package | Provides JWT auto-renewal |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-pg](https://github.com/pardnchiu/go-pg) | Package | Chained syntax calls |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) | Package | Chained syntax calls |
+| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Service | Image upload and caching server |
+| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [@pardnchiu/jwt-auth](https://github.com/pardnchiu/jwt-auth) | Package | JWT with auto-renewal |
+| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [@pardnchiu/mysql-pool](https://github.com/pardnchiu/mysql-pool) | Package | MySQL with Chained method calls |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/mysql-cli](https://github.com/pardnchiu/mysql-cli) | Package | PDO wrapper for MySQL with Chained method calls |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/redis-cli](https://github.com/pardnchiu/redis-cli) | Package | PHP Redis wrapper |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/mailer](https://github.com/pardnchiu/mailer) | Package | PHPMailer wrapper |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/async](https://github.com/pardnchiu/async) | Package | Asynchronous task dependencies |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/cache](https://github.com/pardnchiu/cache) | Package | Cache graceful fallback |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/session](https://github.com/pardnchiu/session) | Package | Session graceful fallback |
 
 ## Frontend
 
-| Platform | Name | Type | Description |
+| | Name | Type | Description |
 |-|-|-|-|
-| JavaScript | [QuickUI](https://quickui.pardn.io) | Library | Lightweight frontend framework |
-| JavaScript | [NanoMD](https://nanomd.pardn.io) | Library | Modular Markdown Editor |
-| JavaScript | [NanoJSON](https://nanojson.pardn.io) | Library | Modular JSON Editor |
-| JavaScript | [FlexPlyr](https://flexplyr.pardn.io) | Library | Modular Media Player |
-| JavaScript | [RenderJS](https://renderjs.pardn.io) | Library | Rendering extension library |
-| JavaScript | [pdf2image](https://pdf2image.pardn.io/) | Library | PDF to image converter |
-| Swift | [ExSwift](https://github.com/pardnchiu/ExSwift) | Library | Swift extension utilities |
-| Web | [DeskUI](https://github.com/pardnltd/DeskUI) | Demo | Desktop-style UI interface |
-| Web | [Website Builder](https://webui.pardn.io) | Demo | Visual website builder tool |
-| Web | [AdminUI](https://adminui.pardn.io) | Demo | Admin dashboard template |
+| <img src="https://skillicons.dev/icons?i=ts" width=24 height=24> | [QuickUI](https://quickui.pardn.io) | Library | Lightweight frontend framework |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [NanoMD](https://nanomd.pardn.io) | Library | Modular Markdown Editor |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [NanoJSON](https://nanojson.pardn.io) | Library | Modular JSON Editor |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [FlexPlyr](https://flexplyr.pardn.io) | Library | Modular Media Player |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [RenderJS](https://renderjs.pardn.io) | Library | Rendering extension library |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [pdf2image](https://pdf2image.pardn.io/) | Library | PDF to image converter |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/ExSwift) | Library | Swift extension utilities |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/demo-swiftui) | Demo | SwiftUI Demo |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/demo-swift-firebase-messaging) | Demo | Firebase Messaging |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/demo-swift-moneybook) | Demo | Moneybook |
+| | [DeskUI](https://github.com/pardnltd/DeskUI) | Demo | Desktop-style UI interface |
+| | [Website Builder](https://webui.pardn.io) | Demo | Visual website builder tool |
+| | [AdminUI](https://adminui.pardn.io) | Demo | Admin dashboard template |
 
 ## Live / Discontinued
 
