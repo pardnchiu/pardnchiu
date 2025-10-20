@@ -12,11 +12,9 @@
 
 ## Backend
 
-### Service
-
 | Language | Name | Type | Description |
 |-|-|-|-|
-| Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Sctipt | Proxmox VE scripts |
+| Bash | [pdpve](https://github.com/pardnchiu/pdpve) | Script | Proxmox VE scripts |
 | Worker | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
 | Golang | [Kvmesh](https://github.com/pardnchiu/go-kvmesh) | Service | (WIP) Debian Cluster and KVM management |
 | Golang | [FaaS](https://github.com/pardnchiu/go-faas) | Service | (WIP) Function as a Service |
@@ -26,49 +24,37 @@
 | Golang | [RSS Reader](https://github.com/pardnchiu/rss-reader) | TUI | Automated RSS collection |
 | Golang | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | TUI | Cognitive Imperfect Memory system Prototype |
 | Golang | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Service | Image upload and caching server |
+| Golang | [github.com/pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | Package | Lightweight scheduling |
+| Golang | [github.com/pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) | Package | Log management |
+| Golang | [github.com/pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) | Package | Redis graceful fallback |
+| Golang | [github.com/pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) | Package | Threat detection and blacklisting |
+| Golang | [github.com/pardnchiu/go-jwt](https://github.com/pardnchiu/go-jwt) | Package | Provides JWT auto-renewal |
+| Golang | [github.com/pardnchiu/go-pg](https://github.com/pardnchiu/go-pg) | Package | Chained syntax calls |
+| Golang | [github.com/pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) | Package | Chained syntax calls |
 | Node.js | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Service | Image upload and caching server |
-
-### Package
-
-| Language | Name | Description |
-|-|-|-|
-| Golang | [github.com/pardnchiu/go-scheduler](https://pkg.go.dev/github.com/pardnchiu/go-scheduler) | Lightweight scheduling |
-| Golang | [github.com/pardnchiu/go-logger](https://pkg.go.dev/github.com/pardnchiu/go-logger) | Log management |
-| Golang | [github.com/pardnchiu/go-redis-fallback](https://pkg.go.dev/github.com/pardnchiu/go-redis-fallback) | Redis graceful fallback |
-| Golang | [github.com/pardnchiu/go-ip-sentry](https://pkg.go.dev/github.com/pardnchiu/golang-ip-sentry) | Threat detection and blacklisting |
-| Golang | [github.com/pardnchiu/go-jwt](https://pkg.go.dev/github.com/pardnchiu/go-jwt) | Provides JWT auto-renewal |
-| Golang | [github.com/pardnchiu/go-pg](https://pkg.go.dev/github.com/pardnchiu/go-pg) | Chained syntax calls |
-| Golang | [github.com/pardnchiu/go-mysql](https://pkg.go.dev/github.com/pardnchiu/go-mysql) | Chained syntax calls |
-| Node.js | [@pardnchiu/jwt-auth](https://www.npmjs.com/package/@pardnchiu/jwt-auth) | Provides JWT auto-renewal |
-| Node.js | [@pardnchiu/mysql-pool](https://www.npmjs.com/package/@pardnchiu/mysql-pool) | Chained syntax calls |
-| PHP | [pardnchiu/mysql-cli](https://packagist.org/packages/pardnchiu/mysql-cli) | PD0 wrapper for mysql with Chained syntax calls |
-| PHP | [pardnchiu/redis-cli](https://packagist.org/packages/pardnchiu/redis-cli) | PHP Redis wrapper |
-| PHP | [pardnchiu/mailer](https://packagist.org/packages/pardnchiu/mailer) | PHPMailer wrapper |
-| PHP | [pardnchiu/async](https://packagist.org/packages/pardnchiu/async) | Asynchronous task dependencies |
-| PHP | [pardnchiu/cache](https://packagist.org/packages/pardnchiu/cache) | Cache graceful fallback |
-| PHP | [pardnchiu/session](https://packagist.org/packages/pardnchiu/session) | Session graceful fallback |
+| Node.js | [@pardnchiu/jwt-auth](https://github.com/pardnchiu/jwt-auth) | Package | Provides JWT auto-renewal |
+| Node.js | [@pardnchiu/mysql-pool](https://github.com/pardnchiu/mysql-pool) | Package | Chained syntax calls |
+| PHP | [pardnchiu/mysql-cli](https://github.com/pardnchiu/mysql-cli) | Package | PDO wrapper for mysql with Chained syntax calls |
+| PHP | [pardnchiu/redis-cli](https://github.com/pardnchiu/redis-cli) | Package | PHP Redis wrapper |
+| PHP | [pardnchiu/mailer](https://github.com/pardnchiu/mailer) | Package | PHPMailer wrapper |
+| PHP | [pardnchiu/async](https://github.com/pardnchiu/async) | Package | Asynchronous task dependencies |
+| PHP | [pardnchiu/cache](https://github.com/pardnchiu/cache) | Package | Cache graceful fallback |
+| PHP | [pardnchiu/session](https://github.com/pardnchiu/session) | Package | Session graceful fallback |
 
 ## Frontend
 
-### Library
-
-| Language | Name | Description |
-|-|-|-|
-| JavaScript | [QuickUI](https://quickui.pardn.io) | Lightweight frontend framework |
-| JavaScript | [NanoMD](https://nanomd.pardn.io) | Modular Markdown Editor |
-| JavaScript | [NanoJSON](https://nanojson.pardn.io) | Modular JSON Editor |
-| JavaScript | [FlexPlyr](https://flexplyr.pardn.io) | Modular Media Player |
-| JavaScript | [RenderJS](https://renderjs.pardn.io) | Rendering extension library |
-| JavaScript | [pdf2image](https://pdf2image.pardn.io/) | PDF to image converter |
-| Swift | [ExSwift](https://github.com/pardnchiu/ExSwift) | Swift extension utilities |
-
-### Demo
-
-| Platform | Name | Description |
-|-|-|-|
-| Web | [DeskUI](https://github.com/pardnltd/DeskUI) | Desktop-style UI interface |
-| Web | [Website Builder](https://webui.pardn.io) | Visual website builder tool |
-| Web | [AdminUI](https://adminui.pardn.io) | Admin dashboard template |
+| Platform | Name | Type | Description |
+|-|-|-|-|
+| JavaScript | [QuickUI](https://quickui.pardn.io) | Library | Lightweight frontend framework |
+| JavaScript | [NanoMD](https://nanomd.pardn.io) | Library | Modular Markdown Editor |
+| JavaScript | [NanoJSON](https://nanojson.pardn.io) | Library | Modular JSON Editor |
+| JavaScript | [FlexPlyr](https://flexplyr.pardn.io) | Library | Modular Media Player |
+| JavaScript | [RenderJS](https://renderjs.pardn.io) | Library | Rendering extension library |
+| JavaScript | [pdf2image](https://pdf2image.pardn.io/) | Library | PDF to image converter |
+| Swift | [ExSwift](https://github.com/pardnchiu/ExSwift) | Library | Swift extension utilities |
+| Web | [DeskUI](https://github.com/pardnltd/DeskUI) | Demo | Desktop-style UI interface |
+| Web | [Website Builder](https://webui.pardn.io) | Demo | Visual website builder tool |
+| Web | [AdminUI](https://adminui.pardn.io) | Demo | Admin dashboard template |
 
 ## Live / Discontinued
 
