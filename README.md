@@ -1,14 +1,8 @@
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pardnchiu&show_icons=true&count_private=true)
-
 # Only sharing my personal projects
 > [!Note]
 > 1. GitHub is only used for sharing independently developed projects.
 > 2. Projects without a LICENSE are considered MIT by default.
 > 3. Employed at ITRD, unavailable for external projects.
-> 4. 臺灣地區 - 非自身公司簽約的部分僅與[**鍵深坊有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=00248098)協同開發過一次，僅負責專案（Axonews）中的 iOS 開發<br>
->   其餘皆以自身公司[**帕登國際有限公司**](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?banNo=24924502) / [邱敬幃](https://linkedin.com/in/pardnchiu)簽約且獨立開發，無任何外部協作。
-
-<br>
 
 ## Backend
 
