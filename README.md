@@ -1,8 +1,7 @@
 # Only sharing my independently developed projects
 > [!Note]
-> 1. GitHub is only used for sharing independently developed projects.
-> 2. Projects without a LICENSE are considered MIT by default.
-> 3. Employed at ITRD, unavailable for external projects.
+> 1. Projects without a LICENSE are considered MIT by default.
+> 2. Employed at ITRD, unavailable for external projects.
 
 ## Backend
 
