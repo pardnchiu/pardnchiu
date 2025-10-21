@@ -22,8 +22,8 @@
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) | Package | Redis graceful fallback |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) | Package | Threat detection and blacklisting |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-jwt](https://github.com/pardnchiu/go-jwt) | Package | Provides JWT auto-renewal |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-pg](https://github.com/pardnchiu/go-pg) | Package | Chained syntax calls |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) | Package | Chained syntax calls |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-pg](https://github.com/pardnchiu/go-pg) | Package | PostgreSQL with Chained method calls |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) | Package | MySQL with Chained method calls |
 | <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Service | Image upload and caching server |
 | <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [@pardnchiu/jwt-auth](https://github.com/pardnchiu/jwt-auth) | Package | JWT with auto-renewal |
 | <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [@pardnchiu/mysql-pool](https://github.com/pardnchiu/mysql-pool) | Package | MySQL with Chained method calls |
