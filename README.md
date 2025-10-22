@@ -36,29 +36,29 @@
 
 ## Frontend
 
-| Icon | Name | Type | Description |
-|-|-|-|-|
-| <img src="https://skillicons.dev/icons?i=ts" width=24 height=24> | [QuickUI](https://quickui.pardn.io) | Library | Lightweight frontend framework |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [NanoMD](https://nanomd.pardn.io) | Library | Modular Markdown Editor |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [NanoJSON](https://nanojson.pardn.io) | Library | Modular JSON Editor |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [FlexPlyr](https://flexplyr.pardn.io) | Library | Modular Media Player |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [RenderJS](https://renderjs.pardn.io) | Library | Rendering extension library |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | [pdf2image](https://pdf2image.pardn.io/) | Library | PDF to image converter |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [ExSwift](https://github.com/pardnchiu/ExSwift) | Library | Swift extension utilities |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [SwiftUI Demo](https://github.com/pardnchiu/demo-swiftui) | Demo | SwiftUI Demo |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [Firebase Messaging](https://github.com/pardnchiu/demo-swift-firebase-messaging) | Demo | Demo Firebase Messaging |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | [Moneybook](https://github.com/pardnchiu/demo-swift-moneybook) | Demo | Demo Moneybook |
-| | [DeskUI](https://github.com/pardnltd/DeskUI) | Demo | Desktop-style UI interface |
-| | [Website Builder](https://webui.pardn.io) | Demo | Visual website builder tool |
-| | [AdminUI](https://adminui.pardn.io) | Demo | Admin dashboard template |
+| Icon | Type | Description |
+|-|-|-|
+| <img src="https://skillicons.dev/icons?i=ts" width=24 height=24> | Library | [Lightweight frontend framework](https://quickui.pardn.io) |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [Markdown editor with real-time preview](https://nanomd.pardn.io) |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [Firebase-like JSON editor](https://nanojson.pardn.io) |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [Media player with multiple styles](https://flexplyr.pardn.io) |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [DOM rendering library](https://renderjs.pardn.io) |
+| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [PDF-to-image converter](https://pdf2image.pardn.io/) |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Library | [Swift extension utilities](https://github.com/pardnchiu/ExSwift) |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Demo | [SwiftUI demo](https://github.com/pardnchiu/demo-swiftui) |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Demo | [Messaging demo with Firebase](https://github.com/pardnchiu/demo-swift-firebase-messaging) |
+| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Demo | [Moneybook UI demo](https://github.com/pardnchiu/demo-swift-moneybook) |
+| | Demo | [Desktop-style web UI](https://github.com/pardnltd/DeskUI) |
+| | Demo | [Visual website builder](https://webui.pardn.io) |
+| | Demo | [Admin dashboard template](https://adminui.pardn.io) |
 
 ## Live / Discontinued
 
-| Platform | Name | Status | Description |
-|-|-|-|-|
-| Web | [JOBALL](https://joball.tw) | Live | Experts Matching Platform in Taiwan |
-| Web | [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) | Live | Cross-Domain Chat |
-| macOS | [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) | Live | Markdown editor |
-| macOS | [NinLog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) | Live | Keyboard/Mouse tracking |
-| iOS | [JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | Discontinued | Experts Matching Platform App |
+| Platform | Description | Status |
+|-|-|-|
+| Web | [Expert matching platform in Taiwan](https://joball.tw) | Live |
+| Chrome | [Cross-domain chat extension](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) | Live |
+| macOS | [Markdown editor](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) | Live |
+| macOS | [Keyboard and mouse activity tracker](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) | Live |
+| iOS | [Expert matching platform](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | Discontinued |
 
