@@ -5,34 +5,34 @@
 
 ## Backend
 
-| Icon | Name | Type | Description |
-|-|-|-|-|
-| <img src="https://skillicons.dev/icons?i=bash" width=24 height=24>  | [pdpve](https://github.com/pardnchiu/pdpve) | Script | Proxmox VE scripts |
-| <img src="https://skillicons.dev/icons?i=cloudflare" width=24 height=24> | [c2hat-relay](https://github.com/pardnchiu/c2hat-relay) | Backend | WebSocket relay for end-to-end encrypted messaging |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [Kvmesh](https://github.com/pardnchiu/go-kvmesh) | Service | (WIP) Debian Cluster and KVM management |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [FaaS](https://github.com/pardnchiu/go-faas) | Service | (WIP) Function as a Service |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [PVE Qemu](https://github.com/pardnchiu/go-qemu) | API | Proxmox Qemu Wrapper |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [JsonDB](https://github.com/pardnchiu/JsonDB) | Database | High-performance JSON database |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [Web Monitor](https://github.com/pardnchiu/web-monitor) | TUI | Website health monitoring |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [RSS Reader](https://github.com/pardnchiu/rss-reader) | TUI | Automated RSS collection |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [CIM Prototype](https://github.com/pardnchiu/cim-prototype) | TUI | Cognitive Imperfect Memory system Prototype |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [Image Server](https://github.com/pardnchiu/demo-go-image-server) | Service | Image upload and caching server |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | Package | Lightweight scheduling |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-logger](https://github.com/pardnchiu/go-logger) | Package | Log management |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) | Package | Redis graceful fallback |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) | Package | Threat detection and blacklisting |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-jwt](https://github.com/pardnchiu/go-jwt) | Package | Provides JWT auto-renewal |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-pg](https://github.com/pardnchiu/go-pg) | Package | PostgreSQL with Chained method calls |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | [github.com/pardnchiu/go-mysql](https://github.com/pardnchiu/go-mysql) | Package | MySQL with Chained method calls |
-| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [Image Server](https://github.com/pardnchiu/demo-node-image-server) | Service | Image upload and caching server |
-| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [@pardnchiu/jwt-auth](https://github.com/pardnchiu/jwt-auth) | Package | JWT with auto-renewal |
-| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | [@pardnchiu/mysql-pool](https://github.com/pardnchiu/mysql-pool) | Package | MySQL with Chained method calls |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/mysql-cli](https://github.com/pardnchiu/mysql-cli) | Package | PDO wrapper for MySQL with Chained method calls |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/redis-cli](https://github.com/pardnchiu/redis-cli) | Package | PHP Redis wrapper |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/mailer](https://github.com/pardnchiu/mailer) | Package | PHPMailer wrapper |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/async](https://github.com/pardnchiu/async) | Package | Asynchronous task dependencies |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/cache](https://github.com/pardnchiu/cache) | Package | Cache graceful fallback |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | [pardnchiu/session](https://github.com/pardnchiu/session) | Package | Session graceful fallback |
+| Icon | Type | Description |
+|-|-|-|
+| <img src="https://skillicons.dev/icons?i=bash" width=24 height=24>  | Script | [Proxmox VE scripts](https://github.com/pardnchiu/pdpve) |
+| <img src="https://skillicons.dev/icons?i=cloudflare" width=24 height=24> | Worker | [WebSocket relay for E2EE messaging](https://github.com/pardnchiu/c2hat-relay) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Debian cluster and KVM management](https://github.com/pardnchiu/go-kvmesh) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Function as a Service](https://github.com/pardnchiu/go-faas) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Proxmox QEMU API with Cloud-Init auto-provisioning](https://github.com/pardnchiu/go-qemu) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-go-image-server) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Database | [High-performance JSON-based database](https://github.com/pardnchiu/JsonDB) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [Website health monitor](https://github.com/pardnchiu/web-monitor) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [RSS reader with LLM summarization](https://github.com/pardnchiu/rss-reader) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [LLM with Cognitive Imperfect Memory system](https://github.com/pardnchiu/cim-prototype) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Lightweight task scheduler](https://github.com/pardnchiu/go-scheduler) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Structured logging client](https://github.com/pardnchiu/go-logger) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Redis client with graceful fallback](https://github.com/pardnchiu/go-redis-fallback) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [IP threat detection with automatic blacklisting](https://github.com/pardnchiu/go-ip-sentry) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [JWT system with auto-renewal](https://github.com/pardnchiu/go-jwt) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [PostgreSQL client with chained method calls](https://github.com/pardnchiu/go-pg) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [MySQL client with chained method calls](https://github.com/pardnchiu/go-mysql) |
+| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-node-image-server) |
+| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | Package |  [JWT system with auto-renewal](https://github.com/pardnchiu/jwt-auth) |
+| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | Package |  [MySQL client with chained method calls](https://github.com/pardnchiu/mysql-pool) |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [PDO wrapper for MySQL with chained method calls](https://github.com/pardnchiu/mysql-cli) |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Redis client wrapper](https://github.com/pardnchiu/redis-cli) |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [PHPMailer wrapper](https://github.com/pardnchiu/mailer) |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Async task dependency manager](https://github.com/pardnchiu/async) |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Cache manager with graceful fallback](https://github.com/pardnchiu/cache) |
+| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Session manager with graceful fallback](https://github.com/pardnchiu/session) |
 
 ## Frontend
 
