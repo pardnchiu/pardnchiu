@@ -13,7 +13,7 @@
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Function as a Service](https://github.com/pardnchiu/go-faas) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Proxmox QEMU API with Cloud-Init auto-provisioning](https://github.com/pardnchiu/go-qemu) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-go-image-server) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Database | [High-performance JSON-based database](https://github.com/pardnchiu/JsonDB) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Database | [JSON database with queries and caching](https://github.com/pardnchiu/JsonDB) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [Website health monitor](https://github.com/pardnchiu/web-monitor) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [RSS reader with LLM summarization](https://github.com/pardnchiu/rss-reader) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [LLM with Cognitive Imperfect Memory system](https://github.com/pardnchiu/cim-prototype) |
