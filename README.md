@@ -54,11 +54,11 @@
 
 ## Live / Discontinued
 
-| Platform | Description | Status |
+| | Platform | Description |
 |-|-|-|
-| Web | [Expert matching platform in Taiwan](https://joball.tw) | Live |
-| Chrome | [Cross-domain chat extension](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) | Live |
-| macOS | [Markdown editor](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) | Live |
-| macOS | [Keyboard and mouse activity tracker](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) | Live |
-| iOS | [Expert matching platform](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) | Discontinued |
+| 🟢 | Web | [Expert matching platform in Taiwan](https://joball.tw) |
+| 🟢 | Chrome | [Cross-domain chat extension](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) |
+| 🟢 | macOS | [Markdown editor](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) |
+| 🟢 | macOS | [Keyboard and mouse activity tracker](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) |
+| 🔴 | iOS | [Expert matching platform](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
 
