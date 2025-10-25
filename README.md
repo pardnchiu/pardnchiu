@@ -54,7 +54,7 @@
 
 ## Live / Discontinued
 
-| | Platform | Description |
+| ⚪️ | Platform | Description |
 |-|-|-|
 | 🟢 | Web | [Expert matching platform in Taiwan](https://joball.tw) |
 | 🟢 | Chrome | [Cross-domain chat extension](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) |
