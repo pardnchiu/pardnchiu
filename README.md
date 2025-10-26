@@ -13,7 +13,7 @@
 | <img src="https://skillicons.dev/icons?i=cloudflare" width=24 height=24> | Worker | [WebSocket relay for E2EE messaging](https://github.com/pardnchiu/c2hat-relay) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Debian cluster and KVM management](https://github.com/pardnchiu/go-kvmesh) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Function as a Service](https://github.com/pardnchiu/go-faas) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Proxmox QEMU API with Cloud-Init auto-provisioning](https://github.com/pardnchiu/go-qemu) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [PVE QEMU-based API with Cloud-Init auto-provisioning](https://github.com/pardnchiu/go-qemu) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-go-image-server) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Database | [JSON database with queries and caching](https://github.com/pardnchiu/JsonDB) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [Website monitor with Email notification](https://github.com/pardnchiu/web-monitor) |
