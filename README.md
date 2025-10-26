@@ -23,7 +23,7 @@
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Structured logging client](https://github.com/pardnchiu/go-logger) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Redis client with graceful fallback](https://github.com/pardnchiu/go-redis-fallback) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [IP threat detection with automatic blacklisting](https://github.com/pardnchiu/go-ip-sentry) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [JWT system with auto-renewal](https://github.com/pardnchiu/go-jwt) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [JWT authentication with auto-renewal](https://github.com/pardnchiu/go-jwt) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [PostgreSQL client with chained method calls](https://github.com/pardnchiu/go-pg) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [MySQL client with chained method calls](https://github.com/pardnchiu/go-mysql) |
 | <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-node-image-server) |
