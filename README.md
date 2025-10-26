@@ -1,4 +1,4 @@
-# IMPORTANT
+# README
 > [!Note]
 > 1. Only sharing my independently developed projects.
 > 2. Projects without a LICENSE are considered MIT by default.
