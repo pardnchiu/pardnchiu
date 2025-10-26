@@ -19,7 +19,7 @@
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [Website health monitor](https://github.com/pardnchiu/web-monitor) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [RSS reader with LLM summarization](https://github.com/pardnchiu/rss-reader) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [LLM with Cognitive Imperfect Memory system](https://github.com/pardnchiu/cim-prototype) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Lightweight task scheduler](https://github.com/pardnchiu/go-scheduler) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Task scheduler with standard cron expressions](https://github.com/pardnchiu/go-scheduler) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Structured logging client](https://github.com/pardnchiu/go-logger) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Redis client with graceful fallback](https://github.com/pardnchiu/go-redis-fallback) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [IP threat detection with automatic blacklisting](https://github.com/pardnchiu/go-ip-sentry) |
