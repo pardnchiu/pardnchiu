@@ -2,7 +2,7 @@
 > [!Note]
 > 1. Only sharing my independently developed projects.
 > 2. Projects without a LICENSE are considered MIT by default.
-> 3. If these are not enough and you need more to judge my ability, then it means I’m not the one you need.
+> 3. If these are not enough and you need more to assess my ability, then it means I’m not the one you need.
 > 4. Employed at ITRD, unavailable for external projects.
 
 ## Backend
