@@ -11,7 +11,7 @@
 |-|-|-|
 | <img src="https://skillicons.dev/icons?i=bash" width=24 height=24>  | Script | [Proxmox VE scripts](https://github.com/pardnchiu/pdpve) |
 | <img src="https://skillicons.dev/icons?i=cloudflare" width=24 height=24> | Worker | [WebSocket relay for E2EE messaging](https://github.com/pardnchiu/c2hat-relay) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Debian cluster and KVM management](https://github.com/pardnchiu/go-kvmesh) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Debian-based virtualization platform](https://github.com/pardnchiu/go-kvmesh) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Function as a Service](https://github.com/pardnchiu/go-faas) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [PVE QEMU-based API with Cloud-Init auto-provisioning](https://github.com/pardnchiu/go-qemu) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-go-image-server) |
@@ -19,6 +19,7 @@
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [Website monitor with Email notification](https://github.com/pardnchiu/web-monitor) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [RSS reader with LLM summarization](https://github.com/pardnchiu/rss-reader) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [LLM with Cognitive Imperfect Memory system](https://github.com/pardnchiu/cim-prototype) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | (WIP) [QEMU management via TUI and RESTful API](https://github.com/pardnchiu/go-qemu) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Task scheduler with standard cron expressions](https://github.com/pardnchiu/go-scheduler) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Logging client with automatic rotation](https://github.com/pardnchiu/go-logger) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Redis client with graceful fallback](https://github.com/pardnchiu/go-redis-fallback) |
