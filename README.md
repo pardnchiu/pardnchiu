@@ -6,62 +6,69 @@
 > 4. Employed at ITRD, unavailable for external projects.
 
 ## Backend
-
-| Icon | Type | Description |
-|-|-|-|
-| <img src="https://skillicons.dev/icons?i=bash" width=24 height=24>  | Script | [Proxmox VE scripts](https://github.com/pardnchiu/pdpve) |
-| <img src="https://skillicons.dev/icons?i=cloudflare" width=24 height=24> | Worker | [WebSocket relay for E2EE messaging](https://github.com/pardnchiu/c2hat-relay) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Debian-based virtualization platform](https://github.com/pardnchiu/go-kvmesh) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | (WIP) [Function as a Service](https://github.com/pardnchiu/go-faas) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [PVE QEMU-based API with Cloud-Init auto-provisioning](https://github.com/pardnchiu/go-qemu) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-go-image-server) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Database | [JSON database with queries and caching](https://github.com/pardnchiu/JsonDB) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [Website monitor with Email notification](https://github.com/pardnchiu/web-monitor) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [RSS reader with LLM summarization](https://github.com/pardnchiu/rss-reader) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [LLM with Cognitive Imperfect Memory system](https://github.com/pardnchiu/cim-prototype) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | (WIP) [QEMU command management](https://github.com/pardnchiu/go-qemu) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Task scheduler with standard cron expressions](https://github.com/pardnchiu/go-scheduler) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Logging client with automatic rotation](https://github.com/pardnchiu/go-logger) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Redis client with graceful fallback](https://github.com/pardnchiu/go-redis-fallback) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [IP threat detection with automatic blacklisting](https://github.com/pardnchiu/go-ip-sentry) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [JWT authentication with auto-renewal](https://github.com/pardnchiu/go-jwt) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [PostgreSQL client with chained method calls](https://github.com/pardnchiu/go-pg) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [MySQL client with chained method calls](https://github.com/pardnchiu/go-mysql) |
-| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | Service | [Image upload and caching server](https://github.com/pardnchiu/demo-node-image-server) |
-| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | Package |  [JWT system with auto-renewal](https://github.com/pardnchiu/jwt-auth) |
-| <img src="https://skillicons.dev/icons?i=nodejs" width=24 height=24> | Package |  [MySQL client with chained method calls](https://github.com/pardnchiu/mysql-pool) |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [PDO wrapper for MySQL with chained method calls](https://github.com/pardnchiu/mysql-cli) |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Redis client wrapper](https://github.com/pardnchiu/redis-cli) |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [PHPMailer wrapper](https://github.com/pardnchiu/mailer) |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Async task dependency manager](https://github.com/pardnchiu/async) |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Cache manager with graceful fallback](https://github.com/pardnchiu/cache) |
-| <img src="https://skillicons.dev/icons?i=php" width=24 height=24> | Package | [Session manager with graceful fallback](https://github.com/pardnchiu/session) |
+- Database
+  - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
+- Service
+  - [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform
+  - [go-faas](https://github.com/pardnchiu/go-faas): Function as a Service
+  - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): PVE qm-based API with Cloud-Init auto-provisioning
+  - [web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
+  - [rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
+  - [cim-prototype](https://github.com/pardnchiu/cim-prototype): LLM with Cognitive Imperfect Memory system
+  - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
+  - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
+- Package
+  - [go-qemu](https://github.com/pardnchiu/go-qemu): QEMU management with Cloud-Init auto-provisioning
+  - [go-scheduler](https://github.com/pardnchiu/go-scheduler): Task scheduler with standard cron expressions
+  - [go-logger](https://github.com/pardnchiu/go-logger): Logging client with automatic rotation
+  - [go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback): Redis client with graceful fallback
+  - [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry): IP threat detection with automatic blacklisting
+  - [go-jwt](https://github.com/pardnchiu/go-jwt): JWT authentication with auto-renewal
+  - [go-pg](https://github.com/pardnchiu/go-pg): PostgreSQL client with chained method calls
+  - [go-mysql](https://github.com/pardnchiu/go-mysql): MySQL client with chained method calls
+  - [node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth): JWT system with auto-renewal
+  - [node-mysql-pool](https://github.com/pardnchiu/node-mysql-pool): MySQL client with chained method calls
+  - [php-mysql-cli](https://github.com/pardnchiu/php-mysql-cli): PDO wrapper for MySQL with chained method calls
+  - [php-redis-cli](https://github.com/pardnchiu/php-redis-cli): Redis client wrapper
+  - [php-mailer](https://github.com/pardnchiu/php-mailer): PHPMailer wrapper
+  - [php-async](https://github.com/pardnchiu/php-async): Async task dependency manager
+  - [php-cache-fallback](https://github.com/pardnchiu/php-cache-fallback): Cache manager with graceful fallback
+  - [php-session-fallback](https://github.com/pardnchiu/php-session-fallback): Session manager with graceful fallback
+- Script
+  - [pdpve](https://github.com/pardnchiu/pdpve): Proxmox VE scripts
+- Worker (Cloudflare)
+  - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay): WebSocket relay for E2EE messaging
 
 ## Frontend
 
-| Icon | Type | Description |
-|-|-|-|
-| <img src="https://skillicons.dev/icons?i=ts" width=24 height=24> | Library | [Lightweight frontend framework](https://quickui.pardn.io) |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [Markdown editor with real-time preview](https://nanomd.pardn.io) |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [Firebase-like JSON editor](https://nanojson.pardn.io) |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [Media player with multiple styles](https://flexplyr.pardn.io) |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [DOM rendering library](https://renderjs.pardn.io) |
-| <img src="https://skillicons.dev/icons?i=js" width=24 height=24> | Library | [PDF-to-image converter](https://pdf2image.pardn.io/) |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Library | [Swift extension utilities](https://github.com/pardnchiu/ExSwift) |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Demo | [SwiftUI demo](https://github.com/pardnchiu/demo-swiftui) |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Demo | [Messaging demo with Firebase](https://github.com/pardnchiu/demo-swift-firebase-messaging) |
-| <img src="https://skillicons.dev/icons?i=swift" width=24 height=24> | Demo | [Moneybook UI demo](https://github.com/pardnchiu/demo-swift-moneybook) |
-| | Demo | [Desktop-style web UI](https://github.com/pardnltd/DeskUI) |
-| | Demo | [Visual website builder](https://webui.pardn.io) |
-| | Demo | [Admin dashboard template](https://adminui.pardn.io) |
+- Library
+  - JavaScript / TypeScript
+    - [QuickUI](https://quickui.pardn.io): Lightweight frontend framework
+    - [NanoMD](https://nanomd.pardn.io): Markdown editor with real-time preview
+    - [NanoJSON](https://nanojson.pardn.io): Firebase-like JSON editor
+    - [FlexPlyr](https://flexplyr.pardn.io): Media player with multiple styles
+    - [RenderJS](https://renderjs.pardn.io): DOM rendering library
+    - [pdf2image](https://pdf2image.pardn.io/): PDF-to-image converter
+  - Swift
+    - [ExSwift](https://github.com/pardnchiu/ExSwift): Swift extension utilities
+- Demo
+  - Website
+    - [demo-web](https://github.com/pardnchiu/demo-web): Explore over 30 frontend examples
+    - [DeskUI](https://github.com/pardnltd/DeskUI): Desktop-style web UI
+    - [WebUI](https://webui.pardn.io): Visual website builder
+    - [AdminUI](https://adminui.pardn.io): Admin dashboard template
+  - iOS
+    - [demo-swiftui](https://github.com/pardnchiu/demo-swiftui): Demo with SwiftUI
+    - [demo-swift-firebase-messaging](https://github.com/pardnchiu/demo-swift-firebase-messaging): Messaging demo with Firebase and UIKit
+    - [demo-swift-moneybook](https://github.com/pardnchiu/demo-swift-moneybook): Moneybook UI demo with UIKit
 
 ## Live / Discontinued
-
-| ⚪️ | Platform | Description |
-|-|-|-|
-| 🟢 | Web | [Expert matching platform in Taiwan](https://joball.tw) |
-| 🟢 | Chrome | [Cross-domain chat extension](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn) |
-| 🟢 | macOS | [Markdown editor](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920) |
-| 🟢 | macOS | [Keyboard and mouse activity tracker](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238) |
-| 🔴 | iOS | [Expert matching platform](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp) |
-
+- Website
+  - [JOBALL](https://joball.tw): Expert matching platform in Taiwan
+- macOS
+  - [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920): Markdown editor
+  - [Ninlog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238): Keyboard and mouse activity tracker
+- iOS
+  - <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp): Expert matching platform (Discontinued)</s>
+- Chrome Extension
+  - [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn): Cross-domain chat extension
