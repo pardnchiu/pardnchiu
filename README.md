@@ -19,7 +19,7 @@
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [Website monitor with Email notification](https://github.com/pardnchiu/web-monitor) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [RSS reader with LLM summarization](https://github.com/pardnchiu/rss-reader) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | TUI | [LLM with Cognitive Imperfect Memory system](https://github.com/pardnchiu/cim-prototype) |
-| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | (WIP) [QEMU management via TUI and RESTful API](https://github.com/pardnchiu/go-qemu) |
+| <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | (WIP) [QEMU command management](https://github.com/pardnchiu/go-qemu) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Task scheduler with standard cron expressions](https://github.com/pardnchiu/go-scheduler) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Logging client with automatic rotation](https://github.com/pardnchiu/go-logger) |
 | <img src="https://skillicons.dev/icons?i=go" width=24 height=24> | Package | [Redis client with graceful fallback](https://github.com/pardnchiu/go-redis-fallback) |
