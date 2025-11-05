@@ -6,12 +6,14 @@
 > 4. Employed at ITRD, unavailable for external projects.
 
 ## Backend
+- Infrastructure
+  - (wip) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform
+  - (wip) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
+  - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
+  - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): PVE qm-based API with Cloud-Init auto-provisioning
 - Database
   - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
 - Service
-  - [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform
-  - [go-faas](https://github.com/pardnchiu/go-faas): Function as a Service
-  - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): PVE qm-based API with Cloud-Init auto-provisioning
   - [web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
   - [rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
   - [cim-prototype](https://github.com/pardnchiu/cim-prototype): LLM with Cognitive Imperfect Memory system
