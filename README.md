@@ -10,7 +10,7 @@
   - (WIP) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
   - (WIP) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
   - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
-  - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): PVE qm-based API with Cloud-Init auto-provisioning
+  - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): RESTful API for VM management built on PVE qm and Cloud-Init
 - **Database**
   - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
 - **Service**
