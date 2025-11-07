@@ -6,7 +6,7 @@
 > 4. Employed at ITRD, unavailable for external projects.
 
 ## Backend
-- Infrastructure
+- Infrastructure & Virtualization
   - (wip) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
   - (wip) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
   - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
@@ -20,22 +20,27 @@
   - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
   - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
 - Package
-  - [go-qemu](https://github.com/pardnchiu/go-qemu): QEMU management with Cloud-Init auto-provisioning
-  - [go-scheduler](https://github.com/pardnchiu/go-scheduler): Task scheduler with standard cron expressions
-  - [go-logger](https://github.com/pardnchiu/go-logger): Logging client with automatic rotation
-  - [go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback): Redis client with graceful fallback
-  - [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry): IP threat detection with automatic blacklisting
-  - [go-jwt](https://github.com/pardnchiu/go-jwt): JWT authentication with auto-renewal
-  - [go-pg](https://github.com/pardnchiu/go-pg): PostgreSQL client with chained method calls
-  - [go-mysql](https://github.com/pardnchiu/go-mysql): MySQL client with chained method calls
-  - [node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth): JWT system with auto-renewal
-  - [node-mysql-pool](https://github.com/pardnchiu/node-mysql-pool): MySQL client with chained method calls
-  - [php-mysql-cli](https://github.com/pardnchiu/php-mysql-cli): PDO wrapper for MySQL with chained method calls
-  - [php-redis-cli](https://github.com/pardnchiu/php-redis-cli): Redis client wrapper
-  - [php-mailer](https://github.com/pardnchiu/php-mailer): PHPMailer wrapper
-  - [php-async](https://github.com/pardnchiu/php-async): Async task dependency manager
-  - [php-cache-fallback](https://github.com/pardnchiu/php-cache-fallback): Cache manager with graceful fallback
-  - [php-session-fallback](https://github.com/pardnchiu/php-session-fallback): Session manager with graceful fallback
+  - Virtualization
+    - [go-qemu](https://github.com/pardnchiu/go-qemu): QEMU management with Cloud-Init auto-provisioning
+  - Database Client
+    - [go-pg](https://github.com/pardnchiu/go-pg): PostgreSQL client with chained method calls
+    - [go-mysql](https://github.com/pardnchiu/go-mysql): MySQL client with chained method calls
+    - [node-mysql-pool](https://github.com/pardnchiu/node-mysql-pool): MySQL client with chained method calls
+    - [php-mysql-cli](https://github.com/pardnchiu/php-mysql-cli): PDO wrapper for MySQL with chained method calls
+  - Cache & Session
+    - [go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback): Redis client with graceful fallback
+    - [php-redis-cli](https://github.com/pardnchiu/php-redis-cli): Redis client wrapper
+    - [php-cache-fallback](https://github.com/pardnchiu/php-cache-fallback): Cache manager with graceful fallback
+    - [php-session-fallback](https://github.com/pardnchiu/php-session-fallback): Session manager with graceful fallback
+  - Authentication & Security
+    - [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry): IP threat detection with automatic blacklisting
+    - [go-jwt](https://github.com/pardnchiu/go-jwt): JWT authentication with auto-renewal
+    - [node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth): JWT system with auto-renewal
+  - Utilities
+    - [go-scheduler](https://github.com/pardnchiu/go-scheduler): Task scheduler with standard cron expressions
+    - [go-logger](https://github.com/pardnchiu/go-logger): Logging client with automatic rotation
+    - [php-mailer](https://github.com/pardnchiu/php-mailer): PHPMailer wrapper
+    - [php-async](https://github.com/pardnchiu/php-async): Async task dependency manager
 - Script
   - [pdpve](https://github.com/pardnchiu/pdpve): Proxmox VE scripts
 - Worker (Cloudflare)
