@@ -21,7 +21,7 @@
   - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
 - **Package**
   - Virtualization
-    - (WIP) [go-qemu](https://github.com/pardnchiu/go-qemu): QEMU management with Cloud-Init auto-provisioning
+    - (WIP) [go-qemu](https://github.com/pardnchiu/go-qemu): Library offering VM operations built on native QEMU and Cloud-Init
   - Database Client
     - [go-pg](https://github.com/pardnchiu/go-pg): PostgreSQL client with chained method calls
     - [go-mysql](https://github.com/pardnchiu/go-mysql): MySQL client with chained method calls
