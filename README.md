@@ -69,13 +69,15 @@
     - [demo-swift-firebase-messaging](https://github.com/pardnchiu/demo-swift-firebase-messaging): Messaging demo with Firebase and UIKit
     - [demo-swift-moneybook](https://github.com/pardnchiu/demo-swift-moneybook): Moneybook UI demo with UIKit
 
-## Live / Discontinued
+## Production
 - Website
   - [JOBALL](https://joball.tw): Expert matching platform in Taiwan
 - macOS
   - [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920): Markdown editor
   - [Ninlog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238): Keyboard and mouse activity tracker
-- iOS
-  - <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp): Expert matching platform (Discontinued)</s>
 - Chrome Extension
   - [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn): Cross-domain chat extension
+ 
+## Discontinued
+- iOS
+  - <s>[JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp): Expert matching platform (Discontinued)</s>
