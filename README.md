@@ -6,7 +6,7 @@
 > 4. Employed at ITRD, unavailable for external projects.
 
 ## Backend
-- **Infrastructure & Virtualization**
+- **Virtualization**
   - (WIP) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
   - (WIP) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
   - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
