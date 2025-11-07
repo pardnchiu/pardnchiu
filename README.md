@@ -7,8 +7,8 @@
 
 ## Backend
 - **Infrastructure & Virtualization**
-  - (wip) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
-  - (wip) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
+  - (WIP) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
+  - (WIP) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
   - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
   - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): PVE qm-based API with Cloud-Init auto-provisioning
 - **Database**
@@ -21,7 +21,7 @@
   - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
 - **Package**
   - Virtualization
-    - [go-qemu](https://github.com/pardnchiu/go-qemu): QEMU management with Cloud-Init auto-provisioning
+    - (WIP) [go-qemu](https://github.com/pardnchiu/go-qemu): QEMU management with Cloud-Init auto-provisioning
   - Database Client
     - [go-pg](https://github.com/pardnchiu/go-pg): PostgreSQL client with chained method calls
     - [go-mysql](https://github.com/pardnchiu/go-mysql): MySQL client with chained method calls
