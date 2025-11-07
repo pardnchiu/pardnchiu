@@ -6,20 +6,20 @@
 > 4. Employed at ITRD, unavailable for external projects.
 
 ## Backend
-- Infrastructure & Virtualization
+- **Infrastructure & Virtualization**
   - (wip) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
   - (wip) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
   - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
   - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): PVE qm-based API with Cloud-Init auto-provisioning
-- Database
+- **Database**
   - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
-- Service
+- **Service**
   - [web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
   - [rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
   - [cim-prototype](https://github.com/pardnchiu/cim-prototype): LLM with Cognitive Imperfect Memory system
   - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
   - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
-- Package
+- **Package**
   - Virtualization
     - [go-qemu](https://github.com/pardnchiu/go-qemu): QEMU management with Cloud-Init auto-provisioning
   - Database Client
@@ -41,14 +41,14 @@
     - [go-logger](https://github.com/pardnchiu/go-logger): Logging client with automatic rotation
     - [php-mailer](https://github.com/pardnchiu/php-mailer): PHPMailer wrapper
     - [php-async](https://github.com/pardnchiu/php-async): Async task dependency manager
-- Script
+- **Script**
   - [pdpve](https://github.com/pardnchiu/pdpve): Proxmox VE scripts
-- Worker (Cloudflare)
+- **Cloudflare Worker / Cloud Function**
   - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay): WebSocket relay for E2EE messaging
 
 ## Frontend
 
-- Library
+- **Library**
   - JavaScript / TypeScript
     - [QuickUI](https://quickui.pardn.io): Lightweight frontend framework
     - [NanoMD](https://nanomd.pardn.io): Markdown editor with real-time preview
@@ -58,7 +58,7 @@
     - [pdf2image](https://pdf2image.pardn.io/): PDF-to-image converter
   - Swift
     - [ExSwift](https://github.com/pardnchiu/ExSwift): Swift extension utilities
-- Demo
+- **Demo**
   - Website
     - [demo-web](https://github.com/pardnchiu/demo-web): Explore over 30 frontend examples
     - [DeskUI](https://github.com/pardnltd/DeskUI): Desktop-style web UI
@@ -70,14 +70,14 @@
     - [demo-swift-moneybook](https://github.com/pardnchiu/demo-swift-moneybook): Moneybook UI demo with UIKit
 
 ## Production
-- Website
+- **Website**
   - [JOBALL](https://joball.tw): Expert matching platform in Taiwan
-- macOS
+- **macOS**
   - [NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920): Markdown editor
   - [Ninlog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238): Keyboard and mouse activity tracker
-- Chrome Extension
+- **Chrome Extension**
   - [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn): Cross-domain chat extension
  
 ## Discontinued
-- iOS
+- **iOS**
   - [JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp): Expert matching platform (Discontinued)
