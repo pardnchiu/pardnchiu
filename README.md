@@ -6,20 +6,23 @@
 > 4. Employed at ITRD, unavailable for external projects.
 
 ## Backend
-- **Virtualization**
-  - (WIP) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
-  - (WIP) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
-  - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
-  - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): RESTful API for VM management built on PVE qm and Cloud-Init
-- **Database**
-  - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
-- **Service**
-  - [web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
-  - [rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
-  - [cim-prototype](https://github.com/pardnchiu/cim-prototype): LLM with Cognitive Imperfect Memory system
-  - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
-  - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
-- **Package**
+
+- **Services**
+  - Virtualization
+    - (WIP) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
+    - (WIP) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
+    - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): RESTful API for VM management built on PVE qm and Cloud-Init
+  - Serviceless
+    - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
+  - Database
+    - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
+  - Others
+    - [web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
+    - [rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
+    - [cim-prototype](https://github.com/pardnchiu/cim-prototype): LLM with Cognitive Imperfect Memory system
+    - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
+    - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
+- **Packages**
   - Virtualization
     - (WIP) [go-qemu](https://github.com/pardnchiu/go-qemu): Library offering VM operations built on native QEMU and Cloud-Init
   - Database Client
@@ -41,9 +44,9 @@
     - [go-logger](https://github.com/pardnchiu/go-logger): Logging client with automatic rotation
     - [php-mailer](https://github.com/pardnchiu/php-mailer): PHPMailer wrapper
     - [php-async](https://github.com/pardnchiu/php-async): Async task dependency manager
-- **Script**
+- **Scripts**
   - [pdpve](https://github.com/pardnchiu/pdpve): Proxmox VE scripts
-- **Cloudflare Worker / Cloud Function**
+- **Edge Functions**
   - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay): WebSocket relay for E2EE messaging
 
 ## Frontend
