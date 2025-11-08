@@ -1,16 +1,20 @@
 # README
 > [!Note]
+> Show code, not just words. All I want to say are in repos
 > 1. Only sharing my independently developed projects.
 > 2. Projects without a LICENSE are considered MIT by default.
 > 3. If this is insufficient to assess my ability, we are not a good fit.
 > 4. Employed at ITRD, unavailable for external projects.
 
+## WIP
+- [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
+- [go-qemu](https://github.com/pardnchiu/go-qemu): Library offering VM operations built on native QEMU and Cloud-Init
+- [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
+
 ## Backend
 
 - **Services**
   - Virtualization
-    - (WIP) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
-    - (WIP) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
     - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): RESTful API for VM management built on PVE qm and Cloud-Init
   - Serviceless
     - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
@@ -23,8 +27,6 @@
     - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
     - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
 - **Packages**
-  - Virtualization
-    - (WIP) [go-qemu](https://github.com/pardnchiu/go-qemu): Library offering VM operations built on native QEMU and Cloud-Init
   - Database Client
     - [go-pg](https://github.com/pardnchiu/go-pg): PostgreSQL client with chained method calls
     - [go-mysql](https://github.com/pardnchiu/go-mysql): MySQL client with chained method calls
