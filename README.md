@@ -73,6 +73,9 @@
     - [demo-swiftui](https://github.com/pardnchiu/demo-swiftui): Demo with SwiftUI
     - [demo-swift-firebase-messaging](https://github.com/pardnchiu/demo-swift-firebase-messaging): Messaging demo with Firebase and UIKit
     - [demo-swift-moneybook](https://github.com/pardnchiu/demo-swift-moneybook): Moneybook UI demo with UIKit
+- **Others**
+  - Website
+    - [SkilliconsPicker](https://pardnchiu.github.io/SkilliconsPicker/): Easy way to choose icons from [skillicons.dev](https://skillicons.dev/)
 
 ## Production
 - **Website**
