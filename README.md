@@ -76,6 +76,8 @@
 - **Others**
   - Website
     - [SkilliconsPicker](https://pardnchiu.github.io/SkilliconsPicker/): Easy way to choose icons from [skillicons.dev](https://skillicons.dev/)
+  - CSS
+    - [css-pokemon-quest](https://pardnchiu.github.io/css-pokemon-quest/): Pokemon Quest
 
 ## Production
 - **Website**
