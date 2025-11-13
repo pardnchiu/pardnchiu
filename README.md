@@ -6,9 +6,9 @@
 > 3. Employed at ITRD, unavailable for external projects.
 
 ## WIP
-- [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
-- [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
-- [go-qemu](https://github.com/pardnchiu/go-qemu): Library offering VM operations built on native QEMU and Cloud-Init
+- (Services) [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
+- (Services) [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
+- (Packages) [go-qemu](https://github.com/pardnchiu/go-qemu): Library offering VM operations built on native QEMU and Cloud-Init
 
 ## Backend
 
