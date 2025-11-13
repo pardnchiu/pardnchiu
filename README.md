@@ -1,10 +1,9 @@
 # README
 > [!Note]
-> Show code, not just words. All I want to say are in repos
+> Show code, not just words. All I want to say is in repos
 > 1. Only sharing my independently developed projects.
-> 2. Projects without a LICENSE are considered MIT by default.
-> 3. If this is insufficient to assess my ability, we are not a good fit.
-> 4. Employed at ITRD, unavailable for external projects.
+> 2. If this is insufficient to assess my ability, we are not a good fit.
+> 3. Employed at ITRD, unavailable for external projects.
 
 ## WIP
 - [go-k8s](https://github.com/pardnchiu/go-k8s): K8s deployment with Docker Compose translation
