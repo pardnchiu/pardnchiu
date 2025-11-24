@@ -86,6 +86,8 @@
   - [Ninlog](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238): Keyboard and mouse activity tracker
 - **Chrome Extension**
   - [C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn): Cross-domain chat extension
+- **VSCode Extension**
+  - [NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)
  
 ## Discontinued
 - **iOS**
