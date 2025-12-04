@@ -47,8 +47,6 @@
     - [php-async](https://github.com/pardnchiu/php-async): Async task dependency manager
 - **Scripts**
   - [pdpve](https://github.com/pardnchiu/pdpve): Proxmox VE scripts
-- **Edge Functions**
-  - [c2hat-relay](https://github.com/pardnchiu/c2hat-relay): WebSocket relay for E2EE messaging
 
 ## Frontend
 
