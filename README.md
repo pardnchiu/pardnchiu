@@ -41,7 +41,7 @@
     - [go-jwt](https://github.com/pardnchiu/go-jwt): JWT authentication with auto-renewal
     - [node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth): JWT system with auto-renewal
   - Utilities
-    - [go-scheduler](https://github.com/pardnchiu/go-scheduler): Scheduler with standard cron expressions and task dependencies
+    - [go-scheduler](https://github.com/pardnchiu/go-scheduler): Scheduler with standard cron and task dependencies
     - [go-logger](https://github.com/pardnchiu/go-logger): Logging client with automatic rotation
     - [php-mailer](https://github.com/pardnchiu/php-mailer): PHPMailer wrapper
     - [php-async](https://github.com/pardnchiu/php-async): Async task dependency manager
