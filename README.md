@@ -14,7 +14,7 @@
 
 - **Services**
   - Virtualization
-    - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): RESTful API for VM management built on PVE qm and Cloud-Init
+    - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): VM management built on PVE qm and Cloud-Init
   - Serviceless
     - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
   - Database
