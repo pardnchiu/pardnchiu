@@ -20,9 +20,9 @@
   - Database
     - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
   - Others
-    - [web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
-    - [rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
-    - [cim-prototype](https://github.com/pardnchiu/cim-prototype): LLM with Cognitive Imperfect Memory system
+    - [go-web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
+    - [go-rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
+    - [go-cim-prototype](https://github.com/pardnchiu/cim-prototype): LLM with Cognitive Imperfect Memory system
     - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
     - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
 - **Packages**
