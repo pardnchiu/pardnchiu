@@ -1,5 +1,6 @@
 # README
 > [!Note]
+> Specializing in IT room design, virtualization platforms, full-stack web development, and native iOS development<br>
 > Show code, not just words. All I want to say is in repos
 > 1. Only sharing my independently developed projects.
 > 2. If this is insufficient to assess my ability, we are not a good fit.
@@ -14,7 +15,7 @@
 - **Services**
   - Virtualization
     - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): VM management built on PVE qm and Cloud-Init
-  - Serviceless
+  - Serverless
     - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
   - Database
     - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
