@@ -25,6 +25,14 @@
     - [go-image-server](https://github.com/pardnchiu/demo-go-image-server): Image upload and caching server
     - [node-image-server](https://github.com/pardnchiu/demo-node-image-server): Image upload and caching server
 - **Packages**
+  - Scheduling / Task
+    - [go-queue](https://github.com/pardnchiu/go-queue) — Priority-based task queue with automatic timeout promotion
+    - [go-scheduler](https://github.com/pardnchiu/go-scheduler) — Scheduler with standard cron and task dependencies
+    - [php-async](https://github.com/pardnchiu/php-async) — Async task dependency manager
+  - Authentication & Security
+    - [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry): IP threat detection with automatic blacklisting
+    - [go-jwt](https://github.com/pardnchiu/go-jwt): JWT authentication with auto-renewal
+    - [node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth): JWT system with auto-renewal
   - Database Client
     - [go-pg](https://github.com/pardnchiu/go-pg): PostgreSQL client with chained method calls
     - [go-mysql](https://github.com/pardnchiu/go-mysql): MySQL client with chained method calls
@@ -35,14 +43,6 @@
     - [php-redis-cli](https://github.com/pardnchiu/php-redis-cli): Redis client wrapper
     - [php-cache-fallback](https://github.com/pardnchiu/php-cache-fallback): Cache manager with graceful fallback
     - [php-session-fallback](https://github.com/pardnchiu/php-session-fallback): Session manager with graceful fallback
-  - Authentication & Security
-    - [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry): IP threat detection with automatic blacklisting
-    - [go-jwt](https://github.com/pardnchiu/go-jwt): JWT authentication with auto-renewal
-    - [node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth): JWT system with auto-renewal
-  - Scheduling / Task
-    - [go-queue](https://github.com/pardnchiu/go-queue) — Priority-based task queue with automatic timeout promotion
-    - [go-scheduler](https://github.com/pardnchiu/go-scheduler) — Scheduler with standard cron and task dependencies
-    - [php-async](https://github.com/pardnchiu/php-async) — Async task dependency manager
   - Utilities
     - [go-logger](https://github.com/pardnchiu/go-logger): Logging client with automatic rotation
     - [php-mailer](https://github.com/pardnchiu/php-mailer): PHPMailer wrapper
