@@ -73,9 +73,9 @@
     - [demo-swift-moneybook](https://github.com/pardnchiu/demo-swift-moneybook): Moneybook UI demo with UIKit
 - **Others**
   - Website
-    - [SkilliconsPicker](https://pardnchiu.github.io/SkilliconsPicker/): Easy way to choose icons from [skillicons.dev](https://skillicons.dev/)
+    - [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/): Easy way to choose icons from [skillicons.dev](https://skillicons.dev/)
   - CSS
-    - [css-pokemon-quest](https://pardnchiu.github.io/css-pokemon-quest/): Pokemon Quest
+    - [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/): Pokemon Quest
 
 ## Production
 - **Website**
