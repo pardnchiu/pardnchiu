@@ -1,6 +1,5 @@
 # README
 > [!Note]
-> Specializing in IT room design, virtualization platforms, full-stack web development, and native iOS development<br>
 > Show code, not just words. All I want to say is in repos
 > 1. Only sharing my independently developed projects.
 > 2. If this is insufficient to assess my ability, we are not a good fit.
