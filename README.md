@@ -1,8 +1,8 @@
 # README
 > [!Note]
-> Show code, not just words. All I want to say is in repos
+> Show code, not just words. All I want to say are in repos
 > 1. Only sharing my independently developed projects.
-> 2. If this is insufficient to assess my ability, we are not a good fit.
+> 2. My code is my pitch - if it doesn't resonate, no worries.
 > 3. Employed at ITRD, unavailable for external projects.
 
 ## WIP
