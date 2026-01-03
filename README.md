@@ -7,7 +7,7 @@
 
 ## WIP
 - **Services**
-  - go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
+  - [go-kvmesh](https://github.com/pardnchiu/go-kvmesh): Debian-based virtualization platform with cluster management
 - **Packages**
   - [go-qemu](https://github.com/pardnchiu/go-qemu): Library offering VM operations built on native QEMU and Cloud-Init
 
