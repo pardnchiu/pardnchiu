@@ -1,6 +1,5 @@
 # README
 > [!Note]
-> Show code, not just words.
 > 1. Sharing only my independently developed projects.
 > 2. My code is my pitch - if it doesn't resonate, no worries.
 > 3. Employed at ITRD, unavailable for external projects.
