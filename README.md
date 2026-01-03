@@ -1,5 +1,6 @@
 # README
 > [!Note]
+> No 10K+ users yet — here are some of my packages.
 > 1. Sharing only my independently developed projects.
 > 2. My code is my pitch - if it doesn't resonate, no worries.
 > 3. Employed at ITRD, unavailable for external projects.
