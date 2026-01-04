@@ -17,7 +17,7 @@
 
 - **Services**
   - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): VM management built on PVE qm and Cloud-Init
-  - [go-faas](https://github.com/pardnchiu/go-faas): Serverless function runtime
+  - [go-faas](https://github.com/pardnchiu/go-faas): Run Py/JS/TS functions as serverless endpoints
   - [JsonDB](https://github.com/pardnchiu/JsonDB): JSON database with queries and caching
   - [go-web-monitor](https://github.com/pardnchiu/web-monitor): Website monitor with Email notification
   - [go-rss-reader](https://github.com/pardnchiu/rss-reader): RSS reader with LLM summarization
