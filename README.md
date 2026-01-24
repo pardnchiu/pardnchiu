@@ -96,4 +96,4 @@
 ## Discontinued
 
 - **iOS**
-  - [JOBALL](https://appadvice.com/app/joball-e6-8e-a5-e6-b4-bd/1272878907.amp): Expert matching platform (Discontinued)
+  - [JOBALL](https://apps.apple.com/us/app/joball-接洽/id1272878907): Expert matching platform (Discontinued)
