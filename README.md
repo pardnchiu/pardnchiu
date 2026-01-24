@@ -1,6 +1,6 @@
 # README
 > [!Note]
-> No 10K+ users yet — here are some of my packages.
+> here are some of my packages.
 > 1. Sharing only my independently developed projects.
 > 2. My code is my pitch - if it doesn't resonate, no worries.
 > 3. Employed at ITRD, unavailable for external projects.
@@ -16,7 +16,7 @@
 ### Golang
 
 - **Services**
-  - [go-notify-hub](https://github.com/pardnchiu/go-podrun): Unified notification gateway for Slack, Discord, LINE, and Email
+  - [go-notify-hub](https://github.com/pardnchiu/go-notify-hub): Unified notification gateway for Slack, Discord, LINE, and Email
   - [go-podrun](https://github.com/pardnchiu/go-podrun): Deploy containers to remote with one command
   - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu): VM management built on PVE qm and Cloud-Init
   - [go-faas](https://github.com/pardnchiu/go-faas): Run Py/JS/TS functions as serverless endpoints
