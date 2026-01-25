@@ -31,6 +31,7 @@
   - [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) — IP threat detection with automatic blacklisting 
   - [go-jwt](https://github.com/pardnchiu/go-jwt) — JWT authentication with auto-renewal <img src ="https://awesome.re/mentioned-badge.svg" height="16px">
   - [go-pg](https://github.com/pardnchiu/go-pg) — PostgreSQL client with chained method calls
+  - [go-sqlite](https://github.com/pardnchiu/go-sqlite) —SQLite client with chained method calls
   - [go-mysql](https://github.com/pardnchiu/go-mysql) — MySQL client with chained method calls
   - [go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) — Redis client with graceful fallback
   - [go-logger](https://github.com/pardnchiu/go-logger) — Logging client with automatic rotation
