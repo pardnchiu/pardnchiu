@@ -16,6 +16,7 @@
 ### Golang
 
 - **Services**
+  - [go-rest-client](https://github.com/pardnchiu/go-rest-client) — REST API tester with .http file support    
   - [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — Unified notification gateway for Slack, Discord, LINE, and Email
   - [go-podrun](https://github.com/pardnchiu/go-podrun) — Deploy containers to remote with one command
   - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu) — VM management built on PVE qm and Cloud-Init
