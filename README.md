@@ -22,7 +22,7 @@
 ### Go
 
 #### Services
-- [go-agent-skills](https://github.com/pardnchiu/go-agent-skills) — Skill executor with multi-agent (GitHub Copilot first) and tool support
+- [go-agent-skills](https://github.com/pardnchiu/go-agent-skills) — Skill executor with multi-agent and tool support
 - [go-rest-client](https://github.com/pardnchiu/go-rest-client) — TUI-based REST API tester with .http file compatibility
 - [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — Unified notification gateway for Slack, Discord, LINE, and Email
 - [go-podrun](https://github.com/pardnchiu/go-podrun) — Deploy containers to remote with one command
