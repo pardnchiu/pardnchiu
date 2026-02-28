@@ -18,7 +18,7 @@
 ### Go
 
 #### Services
-- [go-agent](https://github.com/pardnchiu/go-agent) — Agent with skill auto-matching and pluggable tool ecosystem<br>
+- [Agenvoy](https://github.com/pardnchiu/agenvoy) — Intelligent skill and agent selection, cross-turn summary memory<br>
   - Integrated schematic memory based on [go-cim-prototype](https://github.com/pardnchiu/cim-prototype) — *LLM with Cognitive Imperfect Memory system* 
   - Integrated Discord bot based on [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — *Unified notification gateway for Slack, Discord, LINE, and Email*
 - [go-rest-client](https://github.com/pardnchiu/go-rest-client) — TUI-based REST API tester with .http file compatibility
