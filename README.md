@@ -19,9 +19,9 @@
 
 #### Services
 - [go-agent](https://github.com/pardnchiu/go-agent) — Agent with skill auto-matching and pluggable tool ecosystem<br>
-  - Integrated schematic memory based on [go-cim-prototype](https://github.com/pardnchiu/cim-prototype)
+  - Integrated schematic memory based on [go-cim-prototype](https://github.com/pardnchiu/cim-prototype) — *LLM with Cognitive Imperfect Memory system* 
+  - Integrated Discord bot based on [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — *Unified notification gateway for Slack, Discord, LINE, and Email*
 - [go-rest-client](https://github.com/pardnchiu/go-rest-client) — TUI-based REST API tester with .http file compatibility
-- [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — Unified notification gateway for Slack, Discord, LINE, and Email
 - [go-podrun](https://github.com/pardnchiu/go-podrun) — Deploy containers to remote with one command
 - [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu) — VM management built on PVE qm and Cloud-Init
 - [go-faas](https://github.com/pardnchiu/go-faas) — Run Py/JS/TS functions as serverless endpoints
