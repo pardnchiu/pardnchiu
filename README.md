@@ -18,13 +18,13 @@
 ### Go
 
 #### Services
-- [Agenvoy](https://github.com/pardnchiu/agenvoy) — Intelligent skill and agent selection, cross-turn summary memory<br>
+- [Agenvoy](https://github.com/pardnchiu/agenvoy) — Intelligent skill and agent selection, cross-turn summary memory ![license](https://img.shields.io/github/license/pardnchiu/agenvoy)<br>
   - Integrated schematic memory based on [go-cim-prototype](https://github.com/pardnchiu/cim-prototype) — *LLM with Cognitive Imperfect Memory system* 
   - Integrated Discord bot based on [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — *Unified notification gateway for Slack, Discord, LINE, and Email*
 - [go-rest-client](https://github.com/pardnchiu/go-rest-client) — TUI-based REST API tester with .http file compatibility
-- [go-podrun](https://github.com/pardnchiu/go-podrun) — Deploy containers to remote with one command
-- [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu) — VM management built on PVE qm and Cloud-Init
-- [go-faas](https://github.com/pardnchiu/go-faas) — Run Py/JS/TS functions as serverless endpoints
+- [go-podrun](https://github.com/pardnchiu/go-podrun) — Deploy containers to remote with one command ![license](https://img.shields.io/github/license/pardnchiu/go-podrun)
+- [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu) — VM management built on PVE qm and Cloud-Init ![license](https://img.shields.io/github/license/pardnchiu/go-pve-qemu)
+- [go-faas](https://github.com/pardnchiu/go-faas) — Run Py/JS/TS functions as serverless endpoints ![license](https://img.shields.io/github/license/pardnchiu/go-faas)
 - [JsonDB](https://github.com/pardnchiu/JsonDB) — JSON database with queries and caching
 - [go-web-monitor](https://github.com/pardnchiu/web-monitor) — Website monitor with Email notification
 - [go-rss-reader](https://github.com/pardnchiu/rss-reader) — RSS reader with LLM summarization
