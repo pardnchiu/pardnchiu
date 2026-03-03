@@ -17,18 +17,18 @@
 
 ### Go
 
-#### Services
-- [Agenvoy](https://github.com/pardnchiu/agenvoy) — Intelligent skill and agent selection, cross-turn summary memory ![license](https://img.shields.io/github/license/pardnchiu/agenvoy)<br>
-  - Integrated schematic memory based on [go-cim-prototype](https://github.com/pardnchiu/cim-prototype) — *LLM with Cognitive Imperfect Memory system* 
-  - Integrated Discord bot based on [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — *Unified notification gateway for Slack, Discord, LINE, and Email*
-- [go-rest-client](https://github.com/pardnchiu/go-rest-client) — TUI-based REST API tester with .http file compatibility
-- [go-podrun](https://github.com/pardnchiu/go-podrun) — Deploy containers to remote with one command ![license](https://img.shields.io/github/license/pardnchiu/go-podrun)
-- [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu) — VM management built on PVE qm and Cloud-Init ![license](https://img.shields.io/github/license/pardnchiu/go-pve-qemu)
-- [go-faas](https://github.com/pardnchiu/go-faas) — Run Py/JS/TS functions as serverless endpoints ![license](https://img.shields.io/github/license/pardnchiu/go-faas)
-- [JsonDB](https://github.com/pardnchiu/JsonDB) — JSON database with queries and caching
-- [go-web-monitor](https://github.com/pardnchiu/web-monitor) — Website monitor with Email notification
-- [go-rss-reader](https://github.com/pardnchiu/rss-reader) — RSS reader with LLM summarization
-- [go-image-server](https://github.com/pardnchiu/demo-go-image-server) — Image upload and caching server
+| Description | Link |
+| - | - |
+| A Go-based agentic AI platform with intent-to-skill routing, multi-provider LLM dispatch, cross-turn memory, and zero-code REST API tool mounting.<br>![license](https://img.shields.io/github/license/pardnchiu/agenvoy)  | [Agenvoy](https://github.com/pardnchiu/agenvoy) |
+| A terminal-based REST API testing tool compatible with VSCode REST Client extension's .http file format. Execute HTTP requests through an intuitive TUI interface and display responses in real-time. | [go-rest-client](https://github.com/pardnchiu/go-rest-client) |
+| A unified multi-channel notification hub that delivers messages to Discord, Slack, LINE, and Email through a single REST API. | [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) |
+| A CLI tool that syncs local projects to remote servers via rsync/SSH and runs Podman Compose workloads — with a local SQLite deployment registry for container lifecycle tracking.<br>![license](https://img.shields.io/github/license/pardnchiu/go-podrun) | [go-podrun](https://github.com/pardnchiu/go-podrun) |
+| A Proxmox VE VM automation REST API built in Go — full lifecycle provisioning via SSE, concurrent IP & CPU architecture auto-allocation, and transparent multi-node cluster routing.<br>![license](https://img.shields.io/github/license/pardnchiu/go-pve-qemu) | [go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu) |
+| A lightweight Function-as-a-Service platform that accepts code via HTTP API and executes it securely inside a Bubblewrap sandbox.<br>![license](https://img.shields.io/github/license/pardnchiu/go-faas) | [go-faas](https://github.com/pardnchiu/go-faas) |
+| A JSON database system example that combines Redis-style key-value operations and MongoDB-style document query functionality | [JsonDB](https://github.com/pardnchiu/JsonDB) |
+| A website monitoring tool offering real-time status checks, SSL certificate monitoring, and email notifications. Includes a TUI interface for convenient status management. | [go-web-monitor](https://github.com/pardnchiu/web-monitor) |
+| A terminal-based RSS news aggregator with multi-source support, content extraction, local storage, and intelligent overview features. | [go-rss-reader](https://github.com/pardnchiu/rss-reader) |
+| A Go image caching server with on-the-fly processing (resize, blur, format conversion) and multi-layer caching via Nginx + Cloudflare CDN. |  [go-image-server](https://github.com/pardnchiu/demo-go-image-server) |
 
 #### Packages
 - **SQL Clients** (chainable query builders)
