@@ -32,16 +32,17 @@
 | A Go image caching server with on-the-fly processing (resize, blur, format conversion) and multi-layer caching via Nginx + Cloudflare CDN. |  [go-image-server](https://github.com/pardnchiu/demo-go-image-server) |
 
 #### Packages
-- **SQL Clients** (chainable query builders)
-  - [go-sqlite](https://github.com/pardnchiu/go-sqlite) — SQLite
-  - [go-pg](https://github.com/pardnchiu/go-pg) — PostgreSQL
-  - [go-mysql](https://github.com/pardnchiu/go-mysql) — MySQL / MariaDB
-- [go-queue](https://github.com/pardnchiu/go-queue) — Priority-based task queue with automatic timeout promotion
-- [go-scheduler](https://github.com/pardnchiu/go-scheduler) — Scheduler with standard cron and task dependencies <img src="https://awesome.re/mentioned-badge.svg" height="16px">
-- [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) — IP threat detection with automatic blacklisting
-- [go-jwt](https://github.com/pardnchiu/go-jwt) — JWT authentication with auto-renewal <img src="https://awesome.re/mentioned-badge.svg" height="16px">
-- [go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) — Redis client with graceful fallback
-- [go-logger](https://github.com/pardnchiu/go-logger) — Logging client with automatic rotation
+| Description | Link |
+| - | - |
+| A Go SQLite library built on read-write separation architecture, simplifying database access through a chainable API and automatic struct binding | [go-sqlite](https://github.com/pardnchiu/go-sqlite) |
+| Golang PostgreSQL wrapper supporting chain calls, read-write separation, query builder, and complete connection management. | [go-pg](https://github.com/pardnchiu/go-pg) |
+| Golang MySQL wrapper supporting chain calls, read-write separation, query builder, and complete connection management. | [go-mysql](https://github.com/pardnchiu/go-mysql) |
+| A min-heap based priority task queue with automatic promotion, retry, and panic recovery, designed for Go concurrency workloads. | [go-queue](https://github.com/pardnchiu/go-queue) |
+| A Go task scheduler with cron syntax, task dependency chains, and failure strategy control.<br>![](https://awesome.re/mentioned-badge.svg) | [go-scheduler](https://github.com/pardnchiu/go-scheduler) |
+| A Redis-backed real-time IP risk assessment engine that automatically identifies and blocks malicious requests through dynamic scoring and multi-dimensional behavior analysis | [go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry) |
+| A ECDSA and Redis-backed JWT authentication library with full token lifecycle management and device fingerprint binding..<br>![](https://awesome.re/mentioned-badge.svg)  | [go-jwt](https://github.com/pardnchiu/go-jwt) |
+| A Golang Redis fallback solution that automatically switches to local storage when the connection is unavailable and restores data when the connection is recovered. | [go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback) |
+| A Golang logging package with automatic rotation, multi-level log classification, file management capabilities, and comprehensive error handling mechanisms. | [go-logger](https://github.com/pardnchiu/go-logger) |
 
 ### Node.js
 
