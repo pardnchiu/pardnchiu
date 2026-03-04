@@ -12,16 +12,16 @@
 ### Go
 
 #### Platform / Infrastructure
-- **[Agenvoy](https://github.com/pardnchiu/agenvoy)** ![license](https://img.shields.io/github/license/pardnchiu/agenvoy)  
+- **[Agenvoy](https://github.com/pardnchiu/agenvoy)** <img src="https://img.shields.io/github/license/pardnchiu/agenvoy" height="16px">  
   Agentic AI platform core with skill routing, multi-provider intelligent dispatch, cross-turn memory, and zero-code REST API tool mounting.
 
-- **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** ![license](https://img.shields.io/github/license/pardnchiu/go-pve-qemu)  
-  Proxmox VE VM automation REST API — full lifecycle provisioning via SSE, concurrent IP & CPU architecture auto-allocation, and transparent multi-node cluster routing. Successor: [go-kvmesh](https://github.com/pardnchiu/go-kvmesh) `WIP`
+- **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** <img src="https://img.shields.io/github/license/pardnchiu/go-pve-qemu" height="16px">  
+  Proxmox VE VM automation REST API — full lifecycle provisioning via SSE, concurrent IP & CPU architecture auto-allocation, and transparent multi-node cluster routing. Successor: [go-kvmesh](https://github.com/pardnchiu/go-kvmesh) `WIP` / [go-qemu](https://github.com/pardnchiu/go-go-qemu) `WIP`
 
-- **[go-faas](https://github.com/pardnchiu/go-faas)** ![license](https://img.shields.io/github/license/pardnchiu/go-faas)  
+- **[go-faas](https://github.com/pardnchiu/go-faas)** <img src="https://img.shields.io/github/license/pardnchiu/go-faas" height="16px">  
   Function-as-a-Service platform that accepts code via HTTP API and executes it securely inside a Bubblewrap sandbox.
 
-- **[go-podrun](https://github.com/pardnchiu/go-podrun)** ![license](https://img.shields.io/github/license/pardnchiu/go-podrun)  
+- **[go-podrun](https://github.com/pardnchiu/go-podrun)** <img src="https://img.shields.io/github/license/pardnchiu/go-podrun" height="16px">  
    CLI tool that syncs local projects to remote servers via rsync/SSH and runs Podman Compose workloads — with a local SQLite deployment registry for container lifecycle tracking.
 
 #### Services
