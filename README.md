@@ -13,7 +13,7 @@
 
 #### Platform / Infrastructure
 - **[Agenvoy](https://github.com/pardnchiu/agenvoy)** <img src="https://img.shields.io/github/license/pardnchiu/agenvoy" height="16px">  
-  A Go-based Agentic AI platform core with skill routing, multi-provider intelligent dispatch, cross-turn memory, and REST API tool mounting.
+  A Go agentic AI platform with skill routing, multi-provider intelligent dispatch, Discord bot integration, and security-first shared agent design.
 
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** <img src="https://img.shields.io/github/license/pardnchiu/go-pve-qemu" height="16px">  
   Proxmox VE VM automation REST API — full lifecycle provisioning via SSE, concurrent IP & CPU architecture auto-allocation, and transparent multi-node cluster routing. Successor: [go-kvmesh](https://github.com/pardnchiu/go-kvmesh) `WIP` / [go-qemu](https://github.com/pardnchiu/go-go-qemu) `WIP`
