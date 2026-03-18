@@ -18,7 +18,9 @@ Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-pro
 
 ***
 
-## Backend
+## Backend (Go / Node.js / PHP)
+
+<details>
 
 ### Go
 
@@ -71,9 +73,13 @@ Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-pro
 - [php-session-fallback](https://github.com/pardnchiu/php-session-fallback) — Session manager with graceful fallback
 - [php-mailer](https://github.com/pardnchiu/php-mailer) — PHPMailer wrapper
 
+</details>
+  
 ---
 
-## Frontend
+## Frontend (Web / Swift)
+
+<details>
 
 ### Web (HTML / CSS / JS)
 
@@ -103,9 +109,13 @@ Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-pro
 - [demo-swift-firebase-messaging](https://github.com/pardnchiu/demo-swift-firebase-messaging) — Messaging demo with Firebase and UIKit
 - [demo-swift-moneybook](https://github.com/pardnchiu/demo-swift-moneybook) — Moneybook UI demo with UIKit
 
+</details>
+
 ---
 
 ## Production
+
+<details>
 
 ### Website
 - [JOBALL](https://joball.tw) — Expert matching platform in Taiwan
@@ -120,9 +130,9 @@ Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-pro
 ### VSCode Extension
 - [NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd) — Markdown editor
 
----
+### Discontinued
 
-## Discontinued
-
-### iOS
+#### iOS
 - [JOBALL](https://apps.apple.com/us/app/joball-接洽/id1272878907) — Expert matching platform (Discontinued)
+
+</details>
