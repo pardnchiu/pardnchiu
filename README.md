@@ -7,21 +7,29 @@
 
 ---
 
+## [Agenvoy](https://github.com/pardnchiu/agenvoy) — Agentic framework
+Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-provider intelligent dispatch and a security-first design.
+
+- **[v0.14.1](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.14.1)** — Fix SyncSkills failing to create skill directories when the parent skills directory does not exist; replace `os.Mkdir` with `os.Stat` check + `os.MkdirAll` for recursive directory creation; remove unused browser import from CLI entry point
+- **[v0.14.0](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.14.0)** — OS-native sandbox isolation (bubblewrap on Linux with auto-install, sandbox-exec on macOS); per-request token usage tracking accumulated across all tool-call iterations; tool handlers restructured into individually named files; exclude logic and file walk/list moved into `filesystem` package; symlink-safe path resolution in `GetAbsPath`
+- **[v0.13.0](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.13.0)** — Self-registering tool Registry replacing switch-based routing and embedded JSON definitions; scheduler persistent JSON storage with full CRUD (add/update/delete for tasks and crons); keychain migrated under `filesystem`; absolute path restriction to user home directory; trimmed history ellipsis markers
+- **[v0.12.0](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.12.0)** — Full scheduler subsystem (cron + one-time tasks with Discord callbacks); centralize `filesystem` + `configs` packages; replace custom cron parser with `go-scheduler`; `schedule-task` skill
+- **[v0.11.2](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.11.2)** — Fix bidirectional error-memory keyword matching; fix Claude multi-system-prompt merge; pre-tool text suppression rule in system prompt
+
+***
+
 ## Backend
 
 ### Go
 
 #### Platform / Infrastructure
-- **[Agenvoy](https://github.com/pardnchiu/agenvoy)** <img src="https://img.shields.io/github/license/pardnchiu/agenvoy" height="16px">  
-  Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-provider intelligent dispatch and a security-first design.
-
-- **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** <img src="https://img.shields.io/github/license/pardnchiu/go-pve-qemu" height="16px">  
+- **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)**
   Proxmox VE VM automation REST API — full lifecycle provisioning via SSE, concurrent IP & CPU architecture auto-allocation, and transparent multi-node cluster routing. Successor: [go-kvmesh](https://github.com/pardnchiu/go-kvmesh) `WIP` / [go-qemu](https://github.com/pardnchiu/go-go-qemu) `WIP`
 
-- **[go-faas](https://github.com/pardnchiu/go-faas)** <img src="https://img.shields.io/github/license/pardnchiu/go-faas" height="16px">  
+- **[go-faas](https://github.com/pardnchiu/go-faas)** 
   Function-as-a-Service platform that accepts code via HTTP API and executes it securely inside a Bubblewrap sandbox.
 
-- **[go-podrun](https://github.com/pardnchiu/go-podrun)** <img src="https://img.shields.io/github/license/pardnchiu/go-podrun" height="16px">  
+- **[go-podrun](https://github.com/pardnchiu/go-podrun)**
    CLI tool that syncs local projects to remote servers via rsync/SSH and runs Podman Compose workloads — with a local SQLite deployment registry for container lifecycle tracking.
 
 #### Services
