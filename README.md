@@ -10,11 +10,11 @@
 ## [Agenvoy](https://github.com/pardnchiu/agenvoy) — Agentic framework
 Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-provider intelligent dispatch and a security-first design.
 
+- **[v0.14.2](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.14.2)** — Fix bwrap sandbox failure on Ubuntu 24.04+ by adding runtime availability probe (`checkBwrap` with `sync.Once`) with automatic fallback to direct execution; temporarily remove `--unshare-all` flag to avoid namespace isolation conflicts on restricted environments; include script stdout/stderr output in cron/task error logs for better diagnostics
 - **[v0.14.1](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.14.1)** — Fix SyncSkills failing to create skill directories when the parent skills directory does not exist; replace `os.Mkdir` with `os.Stat` check + `os.MkdirAll` for recursive directory creation; remove unused browser import from CLI entry point
 - **[v0.14.0](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.14.0)** — OS-native sandbox isolation (bubblewrap on Linux with auto-install, sandbox-exec on macOS); per-request token usage tracking accumulated across all tool-call iterations; tool handlers restructured into individually named files; exclude logic and file walk/list moved into `filesystem` package; symlink-safe path resolution in `GetAbsPath`
 - **[v0.13.0](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.13.0)** — Self-registering tool Registry replacing switch-based routing and embedded JSON definitions; scheduler persistent JSON storage with full CRUD (add/update/delete for tasks and crons); keychain migrated under `filesystem`; absolute path restriction to user home directory; trimmed history ellipsis markers
 - **[v0.12.0](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.12.0)** — Full scheduler subsystem (cron + one-time tasks with Discord callbacks); centralize `filesystem` + `configs` packages; replace custom cron parser with `go-scheduler`; `schedule-task` skill
-- **[v0.11.2](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.11.2)** — Fix bidirectional error-memory keyword matching; fix Claude multi-system-prompt merge; pre-tool text suppression rule in system prompt
 
 ***
 
