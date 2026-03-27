@@ -1,7 +1,3 @@
-> My code is my pitch — if it doesn't resonate, no worries.
-
----
-
 ## [Agenvoy](https://github.com/pardnchiu/agenvoy) — Agentic framework
 Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-provider intelligent dispatch and a security-first design.
 
