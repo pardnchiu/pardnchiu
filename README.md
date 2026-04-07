@@ -1,23 +1,13 @@
 > My code is my pitch — if it doesn't resonate, no worries.
 
-## [Agenvoy](https://github.com/pardnchiu/agenvoy) — Agentic framework
-Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-provider intelligent dispatch and a security-first design.
-
-- **[v0.17.4](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.17.4)** — Add OpenAI Codex as a standalone OAuth provider (Device Code Flow with auto-refresh, default model `gpt-5.3-codex`). Add `read_image` tool to read local image files as base64 data URLs — supports JPEG, PNG, GIF, WebP up to 10 MB, decoded and re-encoded as JPEG. Restore Yahoo Finance as a native Go tool (`fetch_yahoo_finance`) with concurrent dual-endpoint fetch (query1/query2) replacing the removed JSON API extensions. Fix summary generation reliability by completing the summary workflow before final completion signaling. Fix tool fallback handling for `search_history` and `fetch_google_rss` when models send `query` instead of `keyword`. Fix event logging crashes on tool errors without `Err`. Fix stale `discussion_log` retention by filtering entries older than the oldest active context. Fix nil-safe operations and fill missing CRUD coverage in scheduler task and cron flows. Update news-retrieval system prompt with mandatory fallback windows `1h → 24h → 7d → search_web`. Refactor summary extraction into a dedicated workflow; simplify provider startup paths.
-- **[v0.17.3](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.17.3)** — Add `search_tools` deferred tool loading — agents discover and activate tools on demand using keyword fuzzy search or `select:<name>` direct selection, reducing context overhead on large tool sets. Add `exclude_tools` parameter to `/v1/send` for per-request tool filtering. Add prompt caching across Claude, Gemini, and Copilot providers to reduce latency and token cost. Auto-prompt LLM to record error patterns after successful tool retry. Refactor scheduler into `crons/` / `tasks/` / `script/` sub-packages with file-based state persistence; replace network skill sync with embedded FS copy; overhaul file tools with binary detection and PDF page-range reading.
-- **[v0.17.2](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.17.2)** — Add `call_external_agent`, `verify_with_external_agent`, and `review_result` tools for external delegation and internal priority-model review. Refactor session message assembly into 4 fixed segments (SystemPrompts / OldHistories / UserInput / ToolHistories) with reactive context trimming on context-length errors. Add `model` field to `/v1/send` request to bypass automatic agent selection.
-- **[v0.17.1](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.17.1)** — Fix build break caused by importing the missing `externalAgent` package before it existed in the repository.
-- **[v0.17.0](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.17.0)**  — Full REST API layer with `/v1/send` (SSE + non-SSE), `/v1/key`, `/v1/tools`, `/v1/tool/:name` endpoints. TUI dashboard complete with file browser, session viewer, and live log stream. Discord bot and REST API unified under `cmd/app`. Copilot token migrated to system keychain. Renamed `browser` package to `fetchPage`. Updated `schedule-task` and `script-tool-creator` skills to invoke tools via Agenvoy API instead of direct external calls.
-
-***
-
 ## Backend (Go / Node.js / PHP)
-
-<details>
 
 ### Go
 
 #### Platform / Infrastructure
+- **[Agenvoy](https://github.com/pardnchiu/Agenvoy)**
+  Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-provider intelligent dispatch and a security-first design.
+  
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)**
   Proxmox VE VM automation REST API — full lifecycle provisioning via SSE, concurrent IP & CPU architecture auto-allocation, and transparent multi-node cluster routing. Successor: [go-kvmesh](https://github.com/pardnchiu/go-kvmesh) `WIP` / [go-qemu](https://github.com/pardnchiu/go-go-qemu) `WIP`
 
@@ -65,14 +55,10 @@ Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-pro
 - [php-cache-fallback](https://github.com/pardnchiu/php-cache-fallback) — Cache manager with graceful fallback
 - [php-session-fallback](https://github.com/pardnchiu/php-session-fallback) — Session manager with graceful fallback
 - [php-mailer](https://github.com/pardnchiu/php-mailer) — PHPMailer wrapper
-
-</details>
   
 ---
 
 ## Frontend (Web / Swift)
-
-<details>
 
 ### Web (HTML / CSS / JS)
 
@@ -102,13 +88,9 @@ Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-pro
 - [demo-swift-firebase-messaging](https://github.com/pardnchiu/demo-swift-firebase-messaging) — Messaging demo with Firebase and UIKit
 - [demo-swift-moneybook](https://github.com/pardnchiu/demo-swift-moneybook) — Moneybook UI demo with UIKit
 
-</details>
-
 ---
 
 ## Production
-
-<details>
 
 ### Website
 - [JOBALL](https://joball.tw) — Expert matching platform in Taiwan
@@ -127,5 +109,3 @@ Agenvoy is inspired by OpenClaw, built on a Go-based architecture with multi-pro
 
 #### iOS
 - [JOBALL](https://apps.apple.com/us/app/joball-接洽/id1272878907) — Expert matching platform (Discontinued)
-
-</details>
