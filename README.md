@@ -1,6 +1,6 @@
 > My code is my pitch — if it doesn't resonate, no worries.
 
-## Backend (Go / Node.js / PHP)
+## Backend
 
 ### Go
 
@@ -58,7 +58,7 @@
   
 ---
 
-## Frontend (Web / Swift)
+## Frontend
 
 ### Web (HTML / CSS / JS)
 
@@ -78,7 +78,7 @@
 - [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/) — Easy way to choose icons from [skillicons.dev](https://skillicons.dev/)
 - [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/) — Pokemon Quest
 
-### Swift (iOS / macOS)
+### Swift
 
 #### Libraries
 - [ExSwift](https://github.com/pardnchiu/ExSwift) — Swift extension utilities
