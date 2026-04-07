@@ -25,6 +25,7 @@
 - [go-image-server](https://github.com/pardnchiu/demo-go-image-server) — Image caching server with on-the-fly processing and CDN integration
 
 #### Packages
+- [ToriiDB](https://github.com/pardnchiu/ToriiDB) — Zero-dependency embedded JSON database
 - **SQL Clients** (chainable query builders)
   - [go-sqlite](https://github.com/pardnchiu/go-sqlite) — SQLite
   - [go-pg](https://github.com/pardnchiu/go-pg) — PostgreSQL
