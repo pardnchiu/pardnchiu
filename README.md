@@ -20,7 +20,6 @@
 #### Services
 - [go-notify-hub](https://github.com/pardnchiu/go-notify-hub) — Multi-channel notification hub (Discord, Slack, LINE, Email)
 - [go-rest-client](https://github.com/pardnchiu/go-rest-client) — TUI-based REST API tester with .http file compatibility
-- [JsonDB](https://github.com/pardnchiu/JsonDB) — JSON database example combining key-value and document query
 - [go-web-monitor](https://github.com/pardnchiu/web-monitor) — Website monitor with SSL tracking and email alerts
 - [go-rss-reader](https://github.com/pardnchiu/rss-reader) — Terminal RSS aggregator with LLM summarization
 - [go-image-server](https://github.com/pardnchiu/demo-go-image-server) — Image caching server with on-the-fly processing and CDN integration
