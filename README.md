@@ -88,7 +88,7 @@
 - **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan) · peak 10K users · 340K monthly views
 
 **Chrome Extension**
-- **[C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — Cross-origin real-time chat
+- **[C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE Cross-origin real-time chat
 
 **VS Code Extension**
 - **[NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with live preview
