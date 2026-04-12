@@ -2,24 +2,38 @@
 
 <table><tr><td valign="top" width="33%">
 
+### Recent
+- **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
+- **[go-utils (v0.1.3)](https://github.com/pardnchiu/go-utils/releases/tag/v0.1.3)** — Add generic PUT, PATCH, DELETE HTTP methods by extracting a shared `send` helper from the existing POST implementation.
+- **[go-utils (v0.1.2)](https://github.com/pardnchiu/go-utils/releases/tag/v0.1.2)** — Add `Init` function with `sync.Once` to keychain package and simplify public API by removing per-call `service`/`fallbackPath` parameters.
+- **[go-utils (v0.1.1)](https://github.com/pardnchiu/go-utils/releases/tag/v0.1.1)** — Replace hardcoded service name in keychain package with a caller-provided `service` parameter, changing the public API signature of `Get`, `Set`, and `Delete`.
+- **[go-utils (v0.1.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.1.0)** — Initial release of personal Go utility package with generic HTTP client, atomic file writer, and cross-platform keychain integration.
+- **[Agenvoy (v0.18.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.18.0)** — Introduces vim-style TUI navigation with command input mode, consolidates CLI and server into a unified `agen` entrypoint, and migrates session history, error memory, and web/page caches from JSON/filesystem storage to ToriiDB.
+- **[ToriiDB (v0.4.3)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.3)** — Switch AOF compaction trigger from line count to byte size with a 1MB floor, so compaction reflects actual disk waste and replay cost instead of record count.
+- **[ToriiDB (v0.4.2)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.2)** — STrigger AOF compaction inline on writes when the inflation ratio (AOF lines / live keys) reaches 2x, with a minimum live-key threshold to avoid wasteful rewrites on small databases.
+- **[ToriiDB (v0.4.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.1)** — SExtract shared `core` struct to enable `Session` support, add lazy DB replay and parallel compaction for faster startup/shutdown, replace channel-based cancellation with `context.Context`, support custom storage path via `New(path)`, and sync Expire/Persist changes to JSON cache files.
+- **[ToriiDB (v0.4.0)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.0)** — SAdd NE (not equal) comparison operator, extract a dedicated filter package with an infix expression parser supporting AND/OR/NOT logical operators, and add concurrent slice scan for FIND/QUERY when data exceeds 1024 entries.
+
+</td><td valign="top" width="33%">
+
 ### Backend
 
-**Go — Framework**
+**Go/Framework**
 - **[Agenvoy](https://github.com/pardnchiu/Agenvoy)** — AI agent framework with multi-provider LLM routing
 
-**Go — Infrastructure**
+**Go/Infrastructure**
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle API with SSE streaming
 - **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime with Bubblewrap sandbox
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Container deployment CLI via rsync/SSH
 
-**Go — Service**
+**Go/Service**
 - **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — Unified API for Discord / Slack / LINE / Email
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, `.http` file compatible
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — Uptime + SSL expiry monitor
 - **[go-rss-reader](https://github.com/pardnchiu/rss-reader)** — TUI RSS reader with full-text extraction
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache, on-the-fly WebP conversion
 
-**Go — Package**
+**Go/Package**
 - **[go-utils](https://github.com/pardnchiu/go-utils)** — Personal Go utility functions for rapid development
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded JSON document DB, zero dependencies
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
@@ -44,7 +58,9 @@
 
 </td><td valign="top" width="33%">
 
-### Frontend
+### Frontend & Product
+
+#### Frontend
 
 **Framework**
 - **[QuickUI](https://quickui.pardn.io)** — Virtual DOM framework on pure JS with reactive binding
@@ -68,9 +84,9 @@
 - **[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)** — Pure CSS Pokemon Quest recreation
 - **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** — SwiftUI component reproductions
 
-</td><td valign="top" width="33%">
+***
 
-### Product
+#### Product
 
 **Web**
 - **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan)
