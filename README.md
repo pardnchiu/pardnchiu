@@ -20,6 +20,7 @@
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache, on-the-fly WebP conversion
 
 **Go — Package**
+- **[go-utils](https://github.com/pardnchiu/go-utils)** — Personal Go utility functions for rapid development
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded JSON document DB, zero dependencies
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with priority scheduling
