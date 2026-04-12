@@ -9,6 +9,24 @@
 - **[Agenvoy (v0.18.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.18.0)** — Introduces vim-style TUI navigation with command input mode, consolidates CLI and server into a unified `agen` entrypoint, and migrates session history, error memory, and web/page caches from JSON/filesystem storage to ToriiDB.
 - **[ToriiDB (v0.4.3)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.3)** — Switch AOF compaction trigger from line count to byte size with a 1MB floor, so compaction reflects actual disk waste and replay cost instead of record count.
 
+***
+
+### Product
+
+**Web**
+- **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
+
+**Chrome Extension**
+- **[C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE Cross-origin real-time chat
+
+**VS Code Extension**
+- **[NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with live preview
+
+**Discontinued**<br>
+**[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** · 
+**[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** · 
+**[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
+
 </td><td valign="top" width="33%">
 
 ### Backend
@@ -56,9 +74,7 @@
 
 </td><td valign="top" width="33%">
 
-### Frontend & Product
-
-#### Frontend
+### Frontend
 
 **Framework**
 - **[QuickUI](https://quickui.pardn.io)** — Virtual DOM framework on pure JS with reactive binding · **20K+/mo**
@@ -79,23 +95,5 @@
 **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** · 
 **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** · 
 **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)**
-
-***
-
-#### Product
-
-**Web**
-- **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
-
-**Chrome Extension**
-- **[C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE Cross-origin real-time chat
-
-**VS Code Extension**
-- **[NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with live preview
-
-**Discontinued**<br>
-**[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** · 
-**[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** · 
-**[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
 
 </td></tr></table>
