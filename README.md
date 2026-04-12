@@ -85,7 +85,7 @@
 #### Product
 
 **Web**
-- **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan)
+- **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan) · peak 10K users · 340K monthly views
 
 **macOS**
 - **[NanoMD](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** — Native Markdown editor with Mermaid
