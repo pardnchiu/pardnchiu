@@ -27,7 +27,6 @@
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — GeoIP threat scoring + progressive ban
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT middleware with Redis session + auto-renewal
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis with auto local-storage failover
-- **[go-logger](https://github.com/pardnchiu/go-logger)** — slog-based logger with auto-rotation
 
 **Node.js**
 - **[node-image-server](https://github.com/pardnchiu/demo-node-image-server)** — Four-layer cache, WebP default (TypeScript)
