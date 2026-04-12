@@ -1,4 +1,4 @@
-> AI Infrastructure · Platform Engineering<br>
+> Started in iOS development, now focusing on AI Infrastructure · Platform Engineering<br>
 > My code is my pitch — if it doesn't resonate, no worries.
 
 <table><tr><td valign="top" width="33%">
