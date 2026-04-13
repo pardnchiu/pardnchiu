@@ -92,7 +92,7 @@
 - **[WebUI](https://webui.pardn.io)** — Visual drag-and-drop website builder
 - **[AdminUI](https://adminui.pardn.io)** — Admin dashboard template
 
-**Demo/Swift**<br>
+**Demo/iOS**<br>
 **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** · 
 **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** · 
 **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)**
