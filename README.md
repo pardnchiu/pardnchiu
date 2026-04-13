@@ -4,7 +4,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
-- **[go-utils (v0.2.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.2.0)** — Introduce a new database package providing a PostgreSQL connection constructor and a directory-based migration runner.
+- **[go-utils (v0.2.1)](https://github.com/pardnchiu/go-utils/releases/tag/v0.2.1)** — Add two new packages: `database` (PostgreSQL connector + directory-based migration runner) and `rod` (go-rod bundle for headless browser fetching with readability extraction and HTML→Markdown conversion).
 - **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
 - **[Agenvoy (v0.18.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.18.0)** — Introduces vim-style TUI navigation with command input mode, consolidates CLI and server into a unified `agen` entrypoint, and migrates session history, error memory, and web/page caches from JSON/filesystem storage to ToriiDB.
 - **[ToriiDB (v0.4.3)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.3)** — Switch AOF compaction trigger from line count to byte size with a 1MB floor, so compaction reflects actual disk waste and replay cost instead of record count.
