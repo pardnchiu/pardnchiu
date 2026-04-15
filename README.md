@@ -4,7 +4,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
-- **[go-utils (v0.4.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.4.0)** — Reworks the `rod` package with a richer `*FetchResult` return type, stealth / viewport / settle injection, typed `FetchError` for block detection, and idle browser eviction. Breaking change: `Fetch` / `FetchWS` signatures and return types are no longer backward-compatible with v0.3.x.
+- **[go-utils (v0.4.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.4.0)** — Upgrades the `rod` package with a richer `*FetchResult` return type, stealth / viewport / settle injection, typed `FetchError` for block detection, and idle browser eviction.
 - **[Agenvoy (v0.18.2)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.18.2)** — Improve tool-call reliability by correctly handling stub tools and streamed function-call arguments, while tightening absolute-path guidance and file path resolution across prompts, schemas, and filesystem helpers.
 - **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
 - **[ToriiDB (v0.4.3)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.3)** — Switch AOF compaction trigger from line count to byte size with a 1MB floor, so compaction reflects actual disk waste and replay cost instead of record count.
