@@ -2,6 +2,14 @@
 > Obsessed with foundations: clean interfaces, minimal dependencies, production-grade internals.<br>
 > My code is my pitch — if it doesn't resonate, no worries.
 
+***
+
+### [Agenvoy](https://github.com/pardnchiu/Agenvoy) — AI Agent Framework
+
+> A Go agent runtime built from the standard library up, zero framework dependencies. Ships with intelligent multi-provider routing across 7 LLM backends, OS-native sandbox, built-in scheduler, a purpose-built embedded database, and tool extensions in Python / JavaScript / REST API — drop a JSON spec and any HTTP endpoint becomes a callable tool.
+
+***
+
 <table><tr><td valign="top" width="33%">
 
 ### Recent
@@ -36,17 +44,13 @@
 - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler with dependency chains
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT middleware with Redis session + auto-renewal
 
-
-**Go/Framework**
-- **[Agenvoy](https://github.com/pardnchiu/Agenvoy)** — AI agent framework with multi-provider LLM routing
-
 **Go/Infrastructure**
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle API with SSE streaming
 - **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime with Bubblewrap sandbox
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Container deployment CLI via rsync/SSH
 
 **Go/Service**
-- **[ThreadsMarketing](https://github.com/pardnchiu/ThreadsMarketing)** — AI marketing agent for Threads with DNA-driven content loop `WIP`
+- **[ThreadsMarketing](https://github.com/pardnchiu/ThreadsMarketing)** — AI marketing agent for Threads, built on Agenvoy with DNA-driven content loop `WIP`
 - **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — Unified API for Discord / Slack / LINE / Email
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, `.http` file compatible
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — Uptime + SSL expiry monitor
