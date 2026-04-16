@@ -1,5 +1,4 @@
 > Started in iOS development, now focusing on AI Infrastructure · Platform Engineering<br>
-> Obsessed with foundations: clean interfaces, minimal dependencies, production-grade internals.<br>
 > My code is my pitch — if it doesn't resonate, no worries.
 
 ***
