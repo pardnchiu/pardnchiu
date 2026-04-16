@@ -6,7 +6,7 @@
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy) — AI Agent Framework
 
-> A Go agent runtime built from the standard library up, zero framework dependencies. Ships with intelligent multi-provider routing across 7 LLM backends, OS-native sandbox, built-in scheduler, a purpose-built embedded database, and tool extensions in Python / JavaScript / REST API — drop a JSON spec and any HTTP endpoint becomes a callable tool.
+> A Go agent runtime built from the standard library up, zero framework dependencies. Ships with intelligent multi-provider routing across 7 LLM backends, [OS-native sandbox](https://github.com/pardnchiu/go-faas), [built-in scheduler](https://github.com/pardnchiu/go-scheduler), a purpose-built [embedded database](https://github.com/pardnchiu/ToriiDB), and tool extensions in Python / JavaScript / REST API — drop a JSON spec and any HTTP endpoint becomes a callable tool.
 
 ***
 
