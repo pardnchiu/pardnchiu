@@ -1,5 +1,6 @@
-> Started in iOS development, now focusing on AI Infrastructure · Platform Engineering<br>
-> My code is my pitch — if it doesn't resonate, no worries.
+> Started in iOS development, now focusing on AI Infrastructure · Platform Engineering.
+>
+> My code is my pitch — if it resonates, you're my people.
 
 ***
 
