@@ -13,9 +13,9 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
+- **[go-utils (v0.5.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.5.0)** — Introduces a new `utils` package providing a RFC 4122 v4 `UUID()` generator and typed environment-variable helpers (`GetWithDefault` / `GetWithDefaultInt` / `GetWithDefaultFloat`), plus MIT LICENSE and README structure polish.
 - **[Agenvoy (v0.19.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.0)** — Introduces concurrent tool-call dispatch, an `invoke_subagent` in-process delegate, and a same-payload circuit breaker; switches `search_web` to the DuckDuckGo lite endpoint and hardens provider/fetch fallbacks across Codex, Google RSS, and Yahoo Finance.
 - **[ToriiDB (v0.4.5)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.4.5)** — Split `Entry.parseCached` into a write-path `parseAndCache` and a read-path `cached` to eliminate a data race between concurrent RLock holders, and fix `GetField` which previously called the cache accessor with no lock held.
-- **[go-utils (v0.4.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.4.0)** — Upgrades the `rod` package with a richer `*FetchResult` return type, stealth / viewport / settle injection, typed `FetchError` for block detection, and idle browser eviction.
 - **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
 
 ***
