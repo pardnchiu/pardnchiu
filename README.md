@@ -17,7 +17,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
-- **[ToriiDB (v0.5.0)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.0)** — Add semantic vector search backed by OpenAI embeddings.
+- **[ToriiDB (v0.5.0)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.0)** — Add semantic vector search backed by OpenAI embeddings. Vectors are inlined on each `Entry`, persisted through AOF, and queried via new `VSEARCH` / `VSIM` / `VGET` commands; a content-addressed embedding cache under `__torii:embed:*` de-duplicates API calls across identical texts.
 - **[go-utils (v0.5.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.5.0)** — Introduces a new `utils` package providing a RFC 4122 v4 `UUID()` generator and typed environment-variable helpers (`GetWithDefault` / `GetWithDefaultInt` / `GetWithDefaultFloat`), plus MIT LICENSE and README structure polish.
 - **[Agenvoy (v0.19.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.0)** — Introduces concurrent tool-call dispatch, an `invoke_subagent` in-process delegate, and a same-payload circuit breaker; switches `search_web` to the DuckDuckGo lite endpoint and hardens provider/fetch fallbacks across Codex, Google RSS, and Yahoo Finance.
 - **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
