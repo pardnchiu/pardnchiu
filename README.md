@@ -8,6 +8,10 @@
 
 > A Go agent runtime built from the standard library up, zero framework dependencies. Ships with intelligent multi-provider routing across 7 LLM backends, [OS-native sandbox](https://github.com/pardnchiu/go-faas), [built-in scheduler](https://github.com/pardnchiu/go-scheduler), a purpose-built [embedded database](https://github.com/pardnchiu/ToriiDB), and tool extensions in Python / JavaScript / REST API — drop a JSON spec and any HTTP endpoint becomes a callable tool.
 
+### [ToriiDB](https://github.com/pardnchiu/ToriiDB) — Embedded Document Database
+
+> A four-in-one embedded database in pure Go — KV cache (Redis-style), document DB (MongoDB-style JSON queries), vector DB (OpenAI embeddings with cosine top-K), and local persistence (AOF + JSON snapshots with in-memory parsed cache) — packed into a single import. Embeddings live inline on each key and share the same AOF and compaction paths as KV values, no secondary index engine, no separate vector store. Aimed at Go projects that want to collapse a Redis + MongoDB + Pinecone stack into one binary instead of running three services behind the network.
+
 ***
 
 <table><tr><td valign="top" width="33%">
@@ -59,7 +63,6 @@
 
 **Go/Package**
 - **[go-utils](https://github.com/pardnchiu/go-utils)** — Personal Go utility functions for rapid development
-- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded JSON document DB, zero dependencies
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with priority scheduling
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — GeoIP threat scoring + progressive ban
