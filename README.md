@@ -17,9 +17,9 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
+- **[Agenvoy (v0.19.1)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.1)** — Refactor skill activation into a lazy-loaded `select_skill` tool, migrate sandbox and utility primitives to `go-utils`, and upgrade persistence/search internals with semantic session-history retrieval.
 - **[go-utils (v0.6.0)](https://github.com/pardnchiu/go-utils/releases/tag/v0.6.0)** — Introduces a new `sandbox` package that wraps process execution on macOS (via `sandbox-exec` seatbelt profiles) and Linux (via `bwrap` bubblewrap), with a shared denylist loader (`New`) guarded by `sync.Once` and a home-directory path validator.
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
-- **[Agenvoy (v0.19.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.0)** — Introduces concurrent tool-call dispatch, an `invoke_subagent` in-process delegate, and a same-payload circuit breaker; switches `search_web` to the DuckDuckGo lite endpoint and hardens provider/fetch fallbacks across Codex, Google RSS, and Yahoo Finance.
 - **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
 
 ***
