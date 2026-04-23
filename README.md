@@ -17,7 +17,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
-- **[Agenvoy (v0.19.4)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.4)** — Token-efficient tool prompts (description and parameter-schema hygiene across 8 built-in tools), explicit tool registration across the registry, and `download_page` split into separate `fetch_page` / `save_page_to_file` handlers.
+- **[Agenvoy (v0.19.5)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.5)** — Extends `read_file` with CSV/TSV dispatch, disables its `alreadyCall` cache to stop stale post-edit reads, and splits the file / error-memory toolset into dedicated `fileReader` / `fileWriter` / `errorMemory` packages under `internal/filesystem/`.
 - **[go-utils (v0.7.1)](https://github.com/pardnchiu/go-utils/releases/tag/v0.7.1)** — Reworks `sandbox.Wrap` into a context-aware, option-driven API returning `*exec.Cmd`, and adds first-class CPU, memory, network, capability, and filesystem-bind controls on both macOS (seatbelt) and Linux (bubblewrap + systemd-run).
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
 - **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
