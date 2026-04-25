@@ -17,7 +17,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
-- **[Agenvoy (v0.19.6)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.6)** — Adds the `ask_user` interactive-input tool, switches `run_command` to an argv-only schema, introduces semantic + TTL-backed error memory search, and installs per-API / global `search_web` throttling. Also ships three new skills (`commit-generate`, `readme-generate`, `version-generate`) under `extensions/skills/`.
+- **[Agenvoy (v0.19.7)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.19.7)** — Tool registry hardening: tool descriptions and JSON schemas now follow the reviewer ruleset (single-sentence English, defaults on every optional field), scheduler and agent tool packages are reorganized into per-domain subpackages, Gemini joins the external agent roster, and the new tool-reviewer and code-reviewer skills land alongside a code-reviewer entropy bugfix.
 - **[go-utils (v0.7.1)](https://github.com/pardnchiu/go-utils/releases/tag/v0.7.1)** — Reworks `sandbox.Wrap` into a context-aware, option-driven API returning `*exec.Cmd`, and adds first-class CPU, memory, network, capability, and filesystem-bind controls on both macOS (seatbelt) and Linux (bubblewrap + systemd-run).
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
 - **[ThreadsMarketing (v0.1.0)](https://github.com/pardnchiu/ThreadsMarketing/releases/tag/v0.1.0)** — Initial release with TUI dashboard, Threads OAuth login flow, and startup token verification.
