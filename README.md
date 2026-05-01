@@ -1,6 +1,9 @@
-> Started in iOS development, now focusing on AI Infrastructure · Platform Engineering.
->
+# 邱敬幃 Pardn Chiu
+
+> Started in iOS development, now focusing on AI Infrastructure · Platform Engineering.<br>
 > My code is my pitch — if it resonates, you're my people.
+
+Taiwan · AI Infrastructure · Platform Engineering
 
 ***
 
@@ -11,10 +14,7 @@
 ### [ToriiDB](https://github.com/pardnchiu/ToriiDB) — Embedded JSON/Vector Database
 
 > A four-in-one embedded database in pure Go — KV cache (Redis-style), document DB (MongoDB-style JSON queries), vector DB (OpenAI embeddings with cosine top-K), and local persistence (AOF + JSON snapshots with in-memory parsed cache) — packed into a single import. Embeddings live inline on each key and share the same AOF and compaction paths as KV values, no secondary index engine, no separate vector store. Aimed at Go projects that want to collapse a Redis + MongoDB + Pinecone stack into one binary instead of running three services behind the network.
-
 ***
-
-<table><tr><td valign="top" width="33%">
 
 ### Recent
 - **[go-pkg (v0.11.0)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.11.0)** — AReshapes the filesystem surface: read-side APIs split out into a dedicated `reader` sub-package, and a new `parser` sub-package handles common document formats. Existing `filesystem.ListFiles` / `filesystem.Exists` callers must re-import.
@@ -23,23 +23,7 @@
 
 ***
 
-### Product
-
-**Web**
-- **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
-
-**Chrome Extension**
-- **[C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE Cross-origin real-time chat
-
-**VS Code Extension**
-- **[NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with live preview
-
-**Discontinued**<br>
-**[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** · 
-**[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** · 
-**[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
-
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Backend
 
@@ -80,7 +64,7 @@
 **[php-session-fallback](https://github.com/pardnchiu/php-session-fallback)** · 
 **[php-mailer](https://github.com/pardnchiu/php-mailer)**
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Frontend
 
@@ -99,9 +83,27 @@
 - **[WebUI](https://webui.pardn.io)** — Visual drag-and-drop website builder
 - **[AdminUI](https://adminui.pardn.io)** — Admin dashboard template
 
-**Demo/iOS**<br>
-**[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** · 
-**[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** · 
-**[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)**
+**Demo/iOS**
+- **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** 
+- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)**
+- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)**
 
 </td></tr></table>
+
+***
+
+### Product
+
+**Web**
+- **[JOBALL](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
+
+**Chrome Extension**
+- **[C2hat](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE Cross-origin real-time chat
+
+**VS Code Extension**
+- **[NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with live preview
+
+**Discontinued**<br>
+**[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** · 
+**[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** · 
+**[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
