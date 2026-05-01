@@ -51,13 +51,13 @@ Taiwan · AI Infrastructure · Platform Engineering
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — GeoIP threat scoring + progressive ban
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis with auto local-storage failover
 
-**Node.js**<br>
-**[node-image-server](https://github.com/pardnchiu/demo-node-image-server)** · 
+**Node.js**
+- **[node-image-server](https://github.com/pardnchiu/demo-node-image-server)** · 
 **[node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth)** · 
 **[node-mysql-pool](https://github.com/pardnchiu/node-mysql-pool)**
 
-**PHP**<br>
-**[php-async](https://github.com/pardnchiu/php-async)** · 
+**PHP**
+- **[php-async](https://github.com/pardnchiu/php-async)** · 
 **[php-mysql-cli](https://github.com/pardnchiu/php-mysql-cli)** · 
 **[php-redis-cli](https://github.com/pardnchiu/php-redis-cli)** · 
 **[php-cache-fallback](https://github.com/pardnchiu/php-cache-fallback)** · 
@@ -103,7 +103,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 **VS Code Extension**
 - **[NanoMD](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with live preview
 
-**Discontinued**<br>
-**[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** · 
+**Discontinued**
+- **[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** · 
 **[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** · 
 **[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
