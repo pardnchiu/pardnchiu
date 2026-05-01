@@ -17,8 +17,8 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent
+- **[go-pkg (v0.11.0)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.11.0)** — AReshapes the filesystem surface: read-side APIs split out into a dedicated `reader` sub-package, and a new `parser` sub-package handles common document formats. Existing `filesystem.ListFiles` / `filesystem.Exists` callers must re-import.
 - **[Agenvoy (v0.20.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.20.0)** — Session lifecycle adds a friendly-name layer plus three routing prefixes: subagent name dispatch, `:<name>` one-shot CLI prefix, and skill-arg pass-through. Runtime gains a UID/PID singleton with per-session state tracking. go-utils upgraded to v0.9.4.
-- **[go-utils (v0.9.4)](https://github.com/pardnchiu/go-utils/releases/tag/v0.9.4)** — Add `IncludeNonRegular` to `filesystem.ListOption` for opt-in symlink / device / socket / pipe listing in `ListFiles` and `WalkFiles`. When `IncludeNonRegular=true`, the `IsRegular()` filter is relaxed to `!IsDir()`, so non-regular entries are returned alongside regular files; callers may then `os.Lstat` / `os.Stat` to classify further. `ListDirs` intentionally does **not** accept this option — including symlinks-to-directories at the entry level requires per-entry `os.Stat` syscalls (DirEntry-level `IsDir()` returns false for symlinks regardless of target), which would silently impose unbounded perf cost; that is reserved for a future explicit `FollowSymlinks` option. `ListAll` already returns the raw `os.ReadDir` result, so the field is a no-op there. Default (`false`) preserves the previous regular-file-only behavior.
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
 
 ***
