@@ -14,11 +14,15 @@ Taiwan · AI Infrastructure · Platform Engineering
 ### [ToriiDB](https://github.com/pardnchiu/ToriiDB) — Embedded JSON/Vector Database
 
 > A four-in-one embedded database in pure Go — KV cache (Redis-style), document DB (MongoDB-style JSON queries), vector DB (OpenAI embeddings with cosine top-K), and local persistence (AOF + JSON snapshots with in-memory parsed cache) — packed into a single import. Embeddings live inline on each key and share the same AOF and compaction paths as KV values, no secondary index engine, no separate vector store. Aimed at Go projects that want to collapse a Redis + MongoDB + Pinecone stack into one binary instead of running three services behind the network.
+
+
+### [ToriiDB](https://github.com/pardnchiu/KuraDB)
+
 ***
 
 ### Recent
-- **[go-pkg (v0.11.0)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.11.0)** — AReshapes the filesystem surface: read-side APIs split out into a dedicated `reader` sub-package, and a new `parser` sub-package handles common document formats. Existing `filesystem.ListFiles` / `filesystem.Exists` callers must re-import.
-- **[Agenvoy (v0.20.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.20.0)** — Session lifecycle adds a friendly-name layer plus three routing prefixes: subagent name dispatch, `:<name>` one-shot CLI prefix, and skill-arg pass-through. Runtime gains a UID/PID singleton with per-session state tracking. go-utils upgraded to v0.9.4.
+- **[Agenvoy (v0.20.1)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.20.1)** — Adds always-allow permission mode and GPT-5.5 entries to OpenAI configs, inlines file read/write helpers into tool handlers, and moves CLI / Discord flows under the interactive package. Also refines fetch-page skip behavior and continues the go-utils → go-pkg migration.
+- **[go-pkg (v0.11.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.11.3)** — Reader APIs now return consistent `File` metadata across walk-style listings in addition to existing glob/list endpoints. This extends the unified reader output model without changing the previously introduced structured `SearchFiles` match format.
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
 
 ***
