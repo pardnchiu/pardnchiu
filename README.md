@@ -21,8 +21,8 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
+- **[go-pkg (v0.12.1)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.1)** — Introduces the `tui` package — a thin layer over `tview` / `tcell` that builds primitives (`Image` / `InputField` / `List` / `TextView`) from a single config struct. Optional behaviors live on the config as nil-able fields: `Border` consolidates title, alignment, and focus / blur color binding; `InputField` exposes `DoneFunc` / `InputCapture` for key handling.
 - **[Agenvoy (v0.20.1)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.20.1)** — Adds always-allow permission mode and GPT-5.5 entries to OpenAI configs, inlines file read/write helpers into tool handlers, and moves CLI / Discord flows under the interactive package. Also refines fetch-page skip behavior and continues the go-utils → go-pkg migration.
-- **[go-pkg (v0.11.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.11.3)** — Reader APIs now return consistent `File` metadata across walk-style listings in addition to existing glob/list endpoints. This extends the unified reader output model without changing the previously introduced structured `SearchFiles` match format.
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
 
 ***
