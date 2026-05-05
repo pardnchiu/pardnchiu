@@ -21,8 +21,8 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
+- **[go-pkg (v0.12.2)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.2)** — Extends the `http` package with caller-owned streaming variants, unblocking SSE consumers and protocol clients (e.g. MCP) that need response headers and Content-Type dispatch — cases the auto-decoding generic API cannot serve. The existing `GET[T]` / `POST[T]` family remains the default for one-shot JSON / XML calls.
 - **[Agenvoy (v0.20.1)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.20.1)** — Adds an `internal/pending` registry that lets subagents share the CLI's confirm/ask flow. Continues the `os.*` → `go-pkg/filesystem` migration across remaining call sites, and inlines file tool helpers into their handlers while dropping the dormant skill parser tests.
-- **[go-pkg (v0.12.1)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.1)** — Introduces the `tui` package — a thin layer over `tview` / `tcell` that builds primitives (`Image` / `InputField` / `List` / `TextView`) from a single config struct. Optional behaviors live on the config as nil-able fields: `Border` consolidates title, alignment, and focus / blur color binding; `InputField` exposes `DoneFunc` / `InputCapture` for key handling.
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
 
 ***
