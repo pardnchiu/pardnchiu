@@ -7,17 +7,27 @@ Taiwan · AI Infrastructure · Platform Engineering
 
 ***
 
-### [Agenvoy](https://github.com/pardnchiu/Agenvoy) — AI Agent Runtime
+### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
 
-> Agentic runtime | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution 
+> Agentic runtime <br>
+> Multi-provider concurrent dispatch <br>
+> Self-improving error memory <br>
+> Pluggable tool extensions <br>
+> Sandbox execution 
 
-### [ToriiDB](https://github.com/pardnchiu/ToriiDB) — Embedded JSON/Vector Database
+### [ToriiDB](https://github.com/pardnchiu/ToriiDB)
 
-> Embedded JSON database | Redis-style KV | MongoDB-like JSON queries | Inline vector embeddings | AOF persistence 
+> Embedded JSON database <br>
+> Redis-style KV <br>
+> MongoDB-like JSON queries <br>
+> Inline vector embeddings <br>
+> AOF persistence 
 
 
 ### [KuraDB](https://github.com/pardnchiu/KuraDB) — (WIP)
-> Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) | SQLite-backed | Keyword & vector search 
+> Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) <br>
+> SQLite-backed <br>
+> Keyword & vector search 
 
 ***
 
