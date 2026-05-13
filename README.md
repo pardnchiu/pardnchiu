@@ -21,7 +21,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
-- **[Agenvoy (v0.20.3)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.20.3)** — Plugs Agenvoy into the MCP ecosystem with a dual-transport client adapter that merges global and per-session config. Tightens the tool registry boundary and closes a confirm-gate gap that let user-defined API endpoints execute silently. Detailed documentation moves from the repo into GitHub Wiki.
+- **[Agenvoy (v0.22.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.22.0)** — Rebuilds the scheduler from the ground up around dedicated cron and task storage with skill bindings and TUI controls. Reorganizes interactive surfaces under a unified runtime namespace and expands the TUI with inline bot editing and MCP integration. Retires legacy script extensions as the public API discovery flow takes their place.
 - **[go-pkg (v0.12.2)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.2)** — Extends the `http` package with caller-owned streaming variants, unblocking SSE consumers and protocol clients (e.g. MCP) that need response headers and Content-Type dispatch — cases the auto-decoding generic API cannot serve. The existing `GET[T]` / `POST[T]` family remains the default for one-shot JSON / XML calls.
 - **[ToriiDB (v0.5.1)](https://github.com/pardnchiu/ToriiDB/releases/tag/v0.5.1)** — Add OS keychain as a secondary source for `OPENAI_API_KEY`. Lookup order is env (including `.env`) first, keychain fallback second — darwin uses `security`, linux uses `secret-tool`, other platforms read `$HOME/.secrets`.
 
