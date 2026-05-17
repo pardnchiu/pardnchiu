@@ -22,7 +22,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
-- **[Agenvoy (v0.23.0)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.23.0)** — Brings Telegram online as a first-class chat runtime alongside Discord, with shared session naming, background push, and a TUI-driven enablement flow. Reworks the cross-runtime confirmation gate so chat platforms no longer block each other in-flight. CLI surface narrows as Discord auth moves into the TUI wizard.
+- **[Agenvoy (v0.23.1)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.23.1)** — Adds Codex-backed image generation behind a per-provider tool gate, with reference-image support and a unified file-marker delivery path on the Telegram side. Documentation is refreshed end-to-end so README and wiki track the listener-registry pending dispatch landed in v0.23.0.
 - **[go-bot (v0.2.0)](https://github.com/pardnchiu/go-bot/releases/tag/v0.2.0)** — Converges the Telegram message helpers onto a unified functional-options API: per-call render mode and the status reaction emoji now flow through opt-in constructors instead of positional variadic arguments, leaving room to extend per-call settings without further signature churn.
 - **[go-pkg (v0.12.2)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.2)** — Extends the `http` package with caller-owned streaming variants, unblocking SSE consumers and protocol clients (e.g. MCP) that need response headers and Content-Type dispatch — cases the auto-decoding generic API cannot serve. The existing `GET[T]` / `POST[T]` family remains the default for one-shot JSON / XML calls.
 
