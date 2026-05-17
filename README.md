@@ -9,25 +9,15 @@ Taiwan · AI Infrastructure · Platform Engineering
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
 
-> Agentic runtime <br>
-> Multi-provider concurrent dispatch <br>
-> Self-improving error memory <br>
-> Pluggable tool extensions <br>
-> Sandbox execution 
+> Agentic runtime | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution 
 
 ### [ToriiDB](https://github.com/pardnchiu/ToriiDB)
 
-> Embedded JSON database <br>
-> Redis-style KV <br>
-> MongoDB-like JSON queries <br>
-> Inline vector embeddings <br>
-> AOF persistence 
+> Embedded JSON database | Redis-style KV | MongoDB-like JSON queries | Inline vector embeddings | AOF persistence 
 
 
 ### [KuraDB](https://github.com/pardnchiu/KuraDB) — (WIP)
-> Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) <br>
-> SQLite-backed <br>
-> Keyword & vector search 
+> Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) | SQLite-backed | Keyword & vector search 
 
 ***
 
@@ -60,6 +50,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache, on-the-fly WebP conversion
 
 **Go/Package**
+- **[go-bot](https://github.com/pardnchiu/go-bot)** 
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go utility functions for rapid development
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with priority scheduling
