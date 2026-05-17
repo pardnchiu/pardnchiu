@@ -22,9 +22,9 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
+- **[go-bot (v0.2.1)](https://github.com/pardnchiu/go-bot/releases/tag/v0.2.1)** — Adds Discord as a second platform alongside Telegram: outbound WebSocket gateway via bwmarrin/discordgo, daemon lifecycle (New / Start / Close / Status), basic Send, and per-channel SendStatus / FinishStatus mirroring the Telegram contract. Telegram gains SaveFile for downloading any fileID to a local path with UUID-based naming, 20MB hard cap, and go-pkg/filesystem atomic write.
 - **[go-pkg (v0.12.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.3)** — Extends `filesystem/parser` with three tabular / binary input handlers: `Image` re-encodes JPEG / PNG / GIF to JPEG base64 data URLs, `CSV` reads CSV / TSV with BOM-aware decoding and 1MB guard, and `XLSX` parses OOXML first sheet via stdlib `archive/zip` + `encoding/xml`. The new APIs all return `(string, error)` — diverging from the existing `(string, []Chunk, error)` shape — because chunking has no meaning for images or rows.
 - **[Agenvoy (v0.23.1)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.23.1)** — Adds Codex-backed image generation behind a per-provider tool gate, with reference-image support and a unified file-marker delivery path on the Telegram side. Documentation is refreshed end-to-end so README and wiki track the listener-registry pending dispatch landed in v0.23.0.
-- **[go-bot (v0.2.0)](https://github.com/pardnchiu/go-bot/releases/tag/v0.2.0)** — Converges the Telegram message helpers onto a unified functional-options API: per-call render mode and the status reaction emoji now flow through opt-in constructors instead of positional variadic arguments, leaving room to extend per-call settings without further signature churn.
 
 ***
 
