@@ -22,8 +22,8 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
+- **[Agenvoy (v0.23.4)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.23.4)** — Scheduled-state introspection becomes a first-class tool surface. The runtime now exposes read-only listers for one-shot tasks and recurring crons, closing a discovery gap that previously forced the agent to fall back on filesystem traversal.
 - **[go-bot (v0.3.0)](https://github.com/pardnchiu/go-bot/releases/tag/v0.3.0)** — Rounds out the Discord attachment IO contract symmetrically with Telegram: `SendFiles` uploads 1–10 attachments in a single `ChannelMessageSendComplex` call (no split between single and album like Telegram needs), while `Save` downloads any user-supplied attachment to disk via UUID-named files with a 25 MiB cap, atomic write, and defensive `Size`-vs-actual-bytes double check. `discord.Input` now exposes `Attachments []*discordgo.MessageAttachment` as a first-class field so handlers can iterate without reaching into `Raw`.
-- **[Agenvoy (v0.23.2)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.23.2)** — Brings inbound Telegram audio and video into the agent pipeline through a Gemini-backed transcription utility plus an auto-save attachment intake on the runtime side. Provider-dependent tools now gate on credential presence rather than model registration, so any agent can reach the utility surface without adding the backend as one of its own models.
 - **[go-pkg (v0.12.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.3)** — Extends `filesystem/parser` with three tabular / binary input handlers: `Image` re-encodes JPEG / PNG / GIF to JPEG base64 data URLs, `CSV` reads CSV / TSV with BOM-aware decoding and 1MB guard, and `XLSX` parses OOXML first sheet via stdlib `archive/zip` + `encoding/xml`. The new APIs all return `(string, error)` — diverging from the existing `(string, []Chunk, error)` shape — because chunking has no meaning for images or rows.
 ***
 
