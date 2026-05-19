@@ -22,7 +22,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
-- **[Agenvoy (v0.24.3)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.24.3)** — Refines internal runtime boundaries again by moving Torii integration and error-memory handling into clearer runtime and exec layers. Also seeds the default MCP config during install and update so fresh environments come up with a working baseline immediately.
+- **[Agenvoy (v0.24.4)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.24.4)** — Detaches media delivery from the reply lifecycle so both runtimes return the agent's text immediately while file and voice uploads run in the background. Path-validates extracted markers before send and routes upload errors through a structured failure channel so silent loss is no longer possible.
 - **[go-bot (v0.3.5)](https://github.com/pardnchiu/go-bot/releases/tag/v0.3.5)** — Hardens chat-bot concurrency on the status and prompt paths, and switches attachment downloads to streaming I/O so memory stays bounded under load. Also trims redundant slog output from the Discord dispatch path.
 - **[go-pkg (v0.12.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.12.3)** — Extends `filesystem/parser` with three tabular / binary input handlers: `Image` re-encodes JPEG / PNG / GIF to JPEG base64 data URLs, `CSV` reads CSV / TSV with BOM-aware decoding and 1MB guard, and `XLSX` parses OOXML first sheet via stdlib `archive/zip` + `encoding/xml`. The new APIs all return `(string, error)` — diverging from the existing `(string, []Chunk, error)` shape — because chunking has no meaning for images or rows.
 ***
