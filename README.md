@@ -9,7 +9,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
 
-> Agentic runtime | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution 
+> Agent OS | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution 
 
 ### [ToriiDB](https://github.com/pardnchiu/ToriiDB)
 
