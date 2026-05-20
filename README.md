@@ -22,9 +22,9 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
+- **[Agenvoy (v0.24.5)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.24.5)** — Polishes the bot-channel reply experience with chunked output and numbered tool-call statuses. Hardens the page-fetch path with safer default behavior. Tightens lazy-schema tool design so descriptions stay scoped to trigger context.
 - **[go-browser (v0.1.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.1.3)** — Scroll capture is now incremental: a snapshot is taken before scrolling and after every scroll step so SPA timelines that recycle off-screen DOM no longer lose top content. Each snapshot runs through its own readability pass and outputs are merged with hash-based deduplication across the tree and markdown.
 - **[go-pkg (v0.13.0)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.13.0)** — Carves the browser-automation subpackage out of this module; web fetch, cookie-injected sessions, and interactive tab control now live in the standalone `pardnchiu/go-browser` repo. This module sheds its Chromium and readability dependencies as a result.
-- **[Agenvoy (v0.24.4)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.24.4)** — Detaches media delivery from the reply lifecycle so both runtimes return the agent's text immediately while file and voice uploads run in the background. Path-validates extracted markers before send and routes upload errors through a structured failure channel so silent loss is no longer possible.
 - **[go-bot (v0.3.5)](https://github.com/pardnchiu/go-bot/releases/tag/v0.3.5)** — Hardens chat-bot concurrency on the status and prompt paths, and switches attachment downloads to streaming I/O so memory stays bounded under load. Also trims redundant slog output from the Discord dispatch path.
 ***
 
