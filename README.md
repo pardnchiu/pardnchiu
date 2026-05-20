@@ -22,6 +22,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### Recent
+- **[go-browser (v0.1.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.1.3)** — Scroll capture is now incremental: a snapshot is taken before scrolling and after every scroll step so SPA timelines that recycle off-screen DOM no longer lose top content. Each snapshot runs through its own readability pass and outputs are merged with hash-based deduplication across the tree and markdown.
 - **[go-pkg (v0.13.0)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.13.0)** — Carves the browser-automation subpackage out of this module; web fetch, cookie-injected sessions, and interactive tab control now live in the standalone `pardnchiu/go-browser` repo. This module sheds its Chromium and readability dependencies as a result.
 - **[Agenvoy (v0.24.4)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.24.4)** — Detaches media delivery from the reply lifecycle so both runtimes return the agent's text immediately while file and voice uploads run in the background. Path-validates extracted markers before send and routes upload errors through a structured failure channel so silent loss is no longer possible.
 - **[go-bot (v0.3.5)](https://github.com/pardnchiu/go-bot/releases/tag/v0.3.5)** — Hardens chat-bot concurrency on the status and prompt paths, and switches attachment downloads to streaming I/O so memory stays bounded under load. Also trims redundant slog output from the Discord dispatch path.
@@ -49,6 +50,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache, on-the-fly WebP conversion
 
 **Go/Package**
+- **[go-browser](https://github.com/pardnchiu/go-browser)** Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API 
 - **[go-bot](https://github.com/pardnchiu/go-bot)** 
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go utility functions for rapid development
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
