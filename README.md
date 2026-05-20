@@ -50,8 +50,8 @@ Taiwan · AI Infrastructure · Platform Engineering
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache, on-the-fly WebP conversion
 
 **Go/Package**
-- **[go-browser](https://github.com/pardnchiu/go-browser)** Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API 
-- **[go-bot](https://github.com/pardnchiu/go-bot)** 
+- **[go-browser](https://github.com/pardnchiu/go-browser)** — Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API 
+- **[go-bot](https://github.com/pardnchiu/go-bot)** — No-webhook chat bot library | Telegram + Discord | Interactive prompts | Gemini TTS 
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go utility functions for rapid development
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with priority scheduling
