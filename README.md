@@ -8,16 +8,25 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-
 > Personal Agent | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution 
 
-### [ToriiDB](https://github.com/pardnchiu/ToriiDB)
+- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — 提供語意搜尋記憶的能力
+  > Embedded JSON database | Redis-style KV | MongoDB-like JSON queries | Inline vector embeddings | AOF persistence 
 
-> Embedded JSON database | Redis-style KV | MongoDB-like JSON queries | Inline vector embeddings | AOF persistence 
+- **[KuraDB](https://github.com/pardnchiu/KuraDB)** — 將實體資料轉為 RAG
+  > Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) | SQLite-backed | Keyword & vector search
 
+- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — 提供排程的能力 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
+  > Cron scheduler with dependency chains
 
-### [KuraDB](https://github.com/pardnchiu/KuraDB) — (WIP)
-> Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) | SQLite-backed | Keyword & vector search 
+- **[go-browser](https://github.com/pardnchiu/go-browser)** — 提供操作 Chrome 的能力
+  > Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API
+
+- **[go-bot](https://github.com/pardnchiu/go-bot)** — 提供 Telegram / Discord 的能力
+  > No-webhook chat bot library | Telegram + Discord | Interactive prompts | Gemini TTS
+
+- **[go-faas](https://github.com/pardnchiu/go-faas)** — 提供多工具接口層能力
+  > FaaS runtime with Bubblewrap sandbox
 
 ***
 
@@ -33,12 +42,10 @@ Taiwan · AI Infrastructure · Platform Engineering
 ### Backend
 
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler with dependency chains
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT middleware with Redis session + auto-renewal
 
 **Go/Infrastructure**
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle API with SSE streaming
-- **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime with Bubblewrap sandbox
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Container deployment CLI via rsync/SSH
 
 **Go/Service**
@@ -49,8 +56,6 @@ Taiwan · AI Infrastructure · Platform Engineering
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache, on-the-fly WebP conversion
 
 **Go/Package**
-- **[go-browser](https://github.com/pardnchiu/go-browser)** — Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API 
-- **[go-bot](https://github.com/pardnchiu/go-bot)** — No-webhook chat bot library | Telegram + Discord | Interactive prompts | Gemini TTS 
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go utility functions for rapid development
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with priority scheduling
