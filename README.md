@@ -8,28 +8,21 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> Personal Agent | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution 
+> Personal Agent | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution
 
 - #### Memory
-  - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)**
-    > Embedded JSON database | Redis-style KV | MongoDB-like JSON queries | Inline vector embeddings | AOF persistence
-  - **[cim-prototype](https://github.com/pardnio/cim-prototype)**
-    > 概要是記憶
+  - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded hybrid store — Redis KV · MongoDB queries · inline vector search · AOF persistence
+  - **[cim-prototype](https://github.com/pardnio/cim-prototype)** — Cognitive memory — structured summary + fuzzy retrieval · keyword / semantic / time-decay scoring
 - #### RAG
-  - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — 將實體資料轉為 RAG
-    > Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) | SQLite-backed | Keyword & vector search
-- #### Cron/Task
-  - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — 提供排程的能力 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
-    > Cron scheduler with dependency chains
+  - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format ingestion (PDF / Word / PPT / Excel / CSV / Image / AV / Text) · keyword & vector search · SQLite-backed
+- #### Cron / Task
+  - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) — Cron scheduler — dependency chains · Skip / Stop failure strategies · dynamic add / remove without restart
 - #### Browser Control
-  - **[go-browser](https://github.com/pardnchiu/go-browser)** — 提供操作 Chrome 的能力
-    > Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API
-- #### Messenager
-  - **[go-bot](https://github.com/pardnchiu/go-bot)** — 提供 Telegram / Discord 的能力
-    > No-webhook chat bot library | Telegram + Discord | Interactive prompts | Gemini TTS
-- #### SandBox/Plug Tool
-  - **[go-faas](https://github.com/pardnchiu/go-faas)** — 提供多工具接口層能力
-    > FaaS runtime with Bubblewrap sandbox
+  - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chromium extractor — one-shot fetch → Markdown / HTML / JSON · real Chrome session passthrough · interactive tab API
+- #### Messenger
+  - **[go-bot](https://github.com/pardnchiu/go-bot)** — Webhook-free bot — Telegram long polling + Discord WebSocket · interactive prompts · Gemini TTS
+- #### Sandbox / Plug Tool
+  - **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime — Python / JS / TS via HTTP API · Bubblewrap namespace isolation · SSE streaming output
 
 ***
 
