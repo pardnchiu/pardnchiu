@@ -16,7 +16,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 - #### RAG
   - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format ingestion (PDF / Word / PPT / Excel / CSV / Image / AV / Text) · keyword & vector search · SQLite-backed
 - #### Cron / Task
-  - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) — Cron scheduler — dependency chains · Skip / Stop failure strategies · dynamic add / remove without restart
+  - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler — dependency chains · Skip / Stop failure strategies · dynamic add / remove without restart
 - #### Browser Control
   - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chromium extractor — one-shot fetch → Markdown / HTML / JSON · real Chrome session passthrough · interactive tab API
 - #### Messenger
@@ -38,6 +38,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 ### Backend
 
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
+- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler with dependency chains
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT middleware with Redis session + auto-renewal
 
 **Go/Infrastructure**
