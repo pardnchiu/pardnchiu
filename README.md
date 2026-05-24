@@ -10,23 +10,26 @@ Taiwan · AI Infrastructure · Platform Engineering
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
 > Personal Agent | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution 
 
-- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — 提供語意搜尋記憶的能力
-  > Embedded JSON database | Redis-style KV | MongoDB-like JSON queries | Inline vector embeddings | AOF persistence 
-
-- **[KuraDB](https://github.com/pardnchiu/KuraDB)** — 將實體資料轉為 RAG
-  > Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) | SQLite-backed | Keyword & vector search
-
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — 提供排程的能力 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
-  > Cron scheduler with dependency chains
-
-- **[go-browser](https://github.com/pardnchiu/go-browser)** — 提供操作 Chrome 的能力
-  > Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API
-
-- **[go-bot](https://github.com/pardnchiu/go-bot)** — 提供 Telegram / Discord 的能力
-  > No-webhook chat bot library | Telegram + Discord | Interactive prompts | Gemini TTS
-
-- **[go-faas](https://github.com/pardnchiu/go-faas)** — 提供多工具接口層能力
-  > FaaS runtime with Bubblewrap sandbox
+- #### Memory
+  - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)**
+    > Embedded JSON database | Redis-style KV | MongoDB-like JSON queries | Inline vector embeddings | AOF persistence
+  - **[cim-prototype](https://github.com/pardnio/cim-prototype)**
+    > 概要是記憶
+- #### RAG
+  - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — 將實體資料轉為 RAG
+    > Multi-format ingestion (PDF/Word/PPT/Excel/CSV/Image/Audio-Video/Text) | SQLite-backed | Keyword & vector search
+- #### Cron/Task
+  - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — 提供排程的能力 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
+    > Cron scheduler with dependency chains
+- #### Browser Control
+  - **[go-browser](https://github.com/pardnchiu/go-browser)** — 提供操作 Chrome 的能力
+    > Web content extractor | Login passthrough | Markdown / HTML / JSON output | Interactive tab API
+- #### Messenager
+  - **[go-bot](https://github.com/pardnchiu/go-bot)** — 提供 Telegram / Discord 的能力
+    > No-webhook chat bot library | Telegram + Discord | Interactive prompts | Gemini TTS
+- #### SandBox/Plug Tool
+  - **[go-faas](https://github.com/pardnchiu/go-faas)** — 提供多工具接口層能力
+    > FaaS runtime with Bubblewrap sandbox
 
 ***
 
