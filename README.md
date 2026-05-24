@@ -19,10 +19,10 @@ Taiwan · AI Infrastructure · Platform Engineering
   - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler — dependency chains · Skip / Stop failure strategies · dynamic add / remove without restart
 - #### Browser Control
   - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chromium extractor — one-shot fetch → Markdown / HTML / JSON · real Chrome session passthrough · interactive tab API
-- #### Messenger
-  - **[go-bot](https://github.com/pardnchiu/go-bot)** — Webhook-free bot — Telegram long polling + Discord WebSocket · interactive prompts · Gemini TTS
 - #### Sandbox / Plug Tool
   - **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime — Python / JS / TS via HTTP API · Bubblewrap namespace isolation · SSE streaming output
+- #### Messenger
+  - **[go-bot](https://github.com/pardnchiu/go-bot)** — Webhook-free bot — Telegram long polling + Discord WebSocket · interactive prompts · Gemini TTS
 
 ***
 
