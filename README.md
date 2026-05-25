@@ -8,21 +8,21 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> Personal Agent | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution
+> Make AI actually work for you — your personal AI assistant.
 
 - #### Memory
-  - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded hybrid store — Redis KV · MongoDB queries · inline vector search · AOF persistence
-  - **[cim-prototype](https://github.com/pardnio/cim-prototype)** — Cognitive memory — structured summary + fuzzy retrieval · keyword / semantic / time-decay scoring
+  - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded KV with JSON query and semantic vector search
+  - **[cim-prototype](https://github.com/pardnio/cim-prototype)** — LLM with Cognitive Imperfect Memory
 - #### RAG
-  - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format ingestion (PDF / Word / PPT / Excel / CSV / Image / AV / Text) · keyword & vector search · SQLite-backed
+  - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format ingestion, SQLite-backed, keyword & vector search
 - #### Cron / Task
-  - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler — dependency chains · Skip / Stop failure strategies · dynamic add / remove without restart
+  - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** —  Scheduler with standard cron and task dependencies
 - #### Browser Control
-  - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chromium extractor — one-shot fetch → Markdown / HTML / JSON · real Chrome session passthrough · interactive tab API
+  - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chrome extractor with one-shot fetch and interactive tabs
 - #### Sandbox / Plug Tool
-  - **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime — Python / JS / TS via HTTP API · Bubblewrap namespace isolation · SSE streaming output
+  - **[go-faas](https://github.com/pardnchiu/go-faas)** — Function-as-a-Service runtime for Python / JS / TS
 - #### Messenger
-  - **[go-bot](https://github.com/pardnchiu/go-bot)** — Webhook-free bot — Telegram long polling + Discord WebSocket · interactive prompts · Gemini TTS
+  - **[go-bot](https://github.com/pardnchiu/go-bot)** — Telegram long polling + Discord WebSocket
 
 ***
 
