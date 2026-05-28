@@ -26,13 +26,6 @@ Taiwan · AI Infrastructure · Platform Engineering
 
 ***
 
-### Recent
-- **[Agenvoy (v0.24.13)](https://github.com/pardnchiu/Agenvoy/releases/tag/v0.24.13)** — Agent resolution recovers the multi-agent failover path: when dispatcher routing exhausts its retries it now marks the dispatcher dead and falls through to the registry order instead of returning an outright error, so other registered agents still get tried. Skips dispatcher entirely when only one agent is registered. File tools remember per-session permission-denied roots and short-circuit subsequent calls into the same subtree.
-- **[go-browser (v0.1.3)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.1.3)** — Scroll capture is now incremental: a snapshot is taken before scrolling and after every scroll step so SPA timelines that recycle off-screen DOM no longer lose top content. Each snapshot runs through its own readability pass and outputs are merged with hash-based deduplication across the tree and markdown.
-- **[go-pkg (v0.13.0)](https://github.com/pardnchiu/go-pkg/releases/tag/v0.13.0)** — Carves the browser-automation subpackage out of this module; web fetch, cookie-injected sessions, and interactive tab control now live in the standalone `pardnchiu/go-browser` repo. This module sheds its Chromium and readability dependencies as a result.
-- **[go-bot (v0.3.5)](https://github.com/pardnchiu/go-bot/releases/tag/v0.3.5)** — Hardens chat-bot concurrency on the status and prompt paths, and switches attachment downloads to streaming I/O so memory stays bounded under load. Also trims redundant slog output from the Discord dispatch path.
-***
-
 <table><tr><td valign="top" width="50%">
 
 ### Backend
