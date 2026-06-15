@@ -8,7 +8,7 @@ Taiwan · AI Infrastructure · Platform Engineering
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> A personal agent that writes its own tools and repairs itself — Make AI actually work for you.
+> A personal AI Agent that runs on your machine—builds tools, searches files, automates tasks, and learns from its mistakes.
 
 | Category | Package | Description |
 | :- | :- | :- |
