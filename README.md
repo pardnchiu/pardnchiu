@@ -3,10 +3,12 @@
 > My code is my pitch — if it resonates, you're my people.<br>
 > Taiwan · AI Infrastructure · Platform Engineering
 
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pardnchiu&show_icons=true&count_private=true)
+
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> A personal AI Agent that runs on your machine—builds tools, searches files, automates tasks, and learns from its mistakes.
+> Make AI actually work for you - A personal agent that writes its own tools and repairs itself.
 
 | Category | Package | Description |
 | :- | :- | :- |
