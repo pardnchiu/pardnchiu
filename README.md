@@ -8,16 +8,16 @@
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
 > Make AI actually work for you — a personal agent that writes its own tools and repairs itself.
 
-Assembled entirely from my own stack below. What it uses, and where:
+Built on my own stack below — the parts it runs, and the concepts it borrows:
 
 | Component | Role in Agenvoy |
 | :- | :- |
-| **[cim-prototype](https://github.com/pardnio/cim-prototype)** | The memory model itself — keep a rolling structured summary ('current understanding'), not the full transcript |
+| **[cim-prototype](https://github.com/pardnio/cim-prototype)** | *Concept* · the memory model it's built on — a rolling structured summary ('current understanding'), not the full transcript |
+| **[go-faas](https://github.com/pardnchiu/go-faas)** | *Concept* · the sandboxing approach for running the tools the agent writes for itself |
 | **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Persists those summaries and their embeddings for semantic recall |
 | **[KuraDB](https://github.com/pardnchiu/KuraDB)** | RAG layer over ingested documents |
 | **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** | Runs recurring and dependent background tasks |
 | **[go-browser](https://github.com/pardnchiu/go-browser)** | Reads the live web through a real logged-in Chrome |
-| **[go-faas](https://github.com/pardnchiu/go-faas)** | Sandbox where the agent runs the tools it writes for itself |
 | **[go-bot](https://github.com/pardnchiu/go-bot)** | Talks to you over Telegram / Discord / LINE |
 
 ***
