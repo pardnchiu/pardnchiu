@@ -25,7 +25,6 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
 ### Backend
 
 **Go/AI**
-- **[cim-prototype](https://github.com/pardnio/cim-prototype)** — Prototype of summary-based LLM memory: keeps a rolling structured summary ('current understanding') instead of full history
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and inline vector search
 - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format document store on SQLite with hybrid keyword + vector search
 
