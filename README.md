@@ -43,12 +43,12 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
 
 **Go/Package**
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, multi-format document parsing
-- **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit with read-write separation
-  - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — chainable query builder + read-write pools per engine
+- **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Rewrite consolidating the three drivers below into one SQL toolkit with read-write separation
+  - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — `[archived]` standalone per-engine clients, superseded by go-sqlkit
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
 - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Min-heap cron scheduler with dependency chains and panic recovery <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-bot](https://github.com/pardnchiu/go-bot)** — Rewritten as a drop-in importable library for interactive Telegram / Discord / LINE bots, with Gemini TTS voice
-  - **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — Its predecessor REST-API notification gateway · _archived_
+  - **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — `[archived]` predecessor REST-API notification gateway
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP threat scoring with geo-anomaly progressive ban
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
