@@ -60,14 +60,14 @@
 ### Frontend
 
 **Framework**
-- **[QuickUI](https://quickui.pardn.io)** — Virtual DOM framework on pure JS with reactive binding <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
+- **[QuickUI](https://github.com/pardnio/QuickUI)** — Virtual DOM framework on pure JS with reactive binding <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
 
 **Library**
-- **[NanoMD](https://nanomd.pardn.io)** — Split-pane Markdown editor with Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
-- **[NanoJSON](https://nanojson.pardn.io)** — Interactive JSON tree editor, zero dependencies <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
-- **[FlexPlyr](https://flexplyr.pardn.io)** — HTML5 / YouTube / Vimeo unified player <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
-- **[RenderJS](https://renderjs.pardn.io)** — Chainable DOM manipulation via prototype extension <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
-- **[pdf2image](https://pdf2image.pardn.io/)** — Client-side PDF to JPG/PNG/WebP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
+- **[NanoMD](https://github.com/pardnio/NanoMD)** — Split-pane Markdown editor with Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
+- **[NanoJSON](https://github.com/pardnio/NanoJSON)** — Interactive JSON tree editor, zero dependencies <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
+- **[FlexPlyr](https://github.com/pardnio/FlexPlyr)** — HTML5 / YouTube / Vimeo unified player <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
+- **[RenderJS](https://github.com/pardnio/RendeJS)** — Chainable DOM manipulation via prototype extension <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
+- **[pdf2image](https://github.com/pardnio/pdf2image)** — Client-side PDF to JPG/PNG/WebP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 **Demo/Web**
 - **[demo-web](https://github.com/pardnchiu/demo-web)** — 30+ frontend reproductions
