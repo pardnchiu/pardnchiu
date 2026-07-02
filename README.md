@@ -35,7 +35,8 @@
 
 **Go/Package**
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go utility functions for rapid development
-- **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
+- **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — SQL clients with read-write separation
+  - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)**
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with priority scheduling
 - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler with dependency chains <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — GeoIP threat scoring + progressive ban
@@ -75,9 +76,9 @@
 - **[AdminUI](https://adminui.pardn.io)** — Admin dashboard template
 
 **Demo/iOS**
-- **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** 
-- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)**
-- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)**
+- **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)**  · 
+**[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** · 
+**[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)**
 
 ***
 
