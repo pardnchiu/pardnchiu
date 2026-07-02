@@ -12,8 +12,8 @@ Assembled entirely from my own stack below. What it uses, and where:
 
 | Component | Role in Agenvoy |
 | :- | :- |
-| **[cim-prototype](https://github.com/pardnio/cim-prototype)** | Long-term memory — how the agent recalls across sessions |
-| **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Stores those memories and their embeddings for semantic recall |
+| **[cim-prototype](https://github.com/pardnio/cim-prototype)** | The memory model itself — keep a rolling structured summary ('current understanding'), not the full transcript |
+| **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Persists those summaries and their embeddings for semantic recall |
 | **[KuraDB](https://github.com/pardnchiu/KuraDB)** | RAG layer over ingested documents |
 | **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** | Runs recurring and dependent background tasks |
 | **[go-browser](https://github.com/pardnchiu/go-browser)** | Reads the live web through a real logged-in Chrome |
@@ -25,7 +25,7 @@ Assembled entirely from my own stack below. What it uses, and where:
 ### Backend
 
 **Go/AI**
-- **[cim-prototype](https://github.com/pardnio/cim-prototype)** — LLM memory modeling human selective attention: fuzzy retrieval + dynamic summaries
+- **[cim-prototype](https://github.com/pardnio/cim-prototype)** — Prototype of summary-based LLM memory: keeps a rolling structured summary ('current understanding') instead of full history
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and inline vector search
 - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format document store on SQLite with hybrid keyword + vector search
 
