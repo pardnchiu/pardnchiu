@@ -34,7 +34,6 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
 - **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime executing Python / JS / TS in Bubblewrap sandboxes
 
 **Go/Service**
-- **[go-browser](https://github.com/pardnchiu/go-browser)** — Chrome DevTools Protocol extractor reusing real logged-in sessions
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with concurrent checks and email alerts
 - **[go-rss-reader](https://github.com/pardnchiu/rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline SQLite store
@@ -42,6 +41,7 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
 
 **Go/Package**
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, multi-format document parsing
+- **[go-browser](https://github.com/pardnchiu/go-browser)** — Chrome DevTools Protocol extractor reusing real logged-in sessions
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Rewrite consolidating the three drivers below into one SQL toolkit with read-write separation
   - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — `[archived]` standalone per-engine clients, superseded by go-sqlkit
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
