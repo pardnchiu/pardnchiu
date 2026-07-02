@@ -35,7 +35,6 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
 - **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime executing Python / JS / TS in Bubblewrap sandboxes
 
 **Go/Service**
-- **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — One REST API fanning a message out to Discord / Slack / LINE / Email, channels hot-swappable at runtime
 - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chrome DevTools Protocol extractor reusing real logged-in sessions
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with concurrent checks and email alerts
@@ -48,7 +47,8 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
   - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — chainable query builder + read-write pools per engine
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
 - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Min-heap cron scheduler with dependency chains and panic recovery <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
-- **[go-bot](https://github.com/pardnchiu/go-bot)** — Library for interactive Telegram / Discord / LINE bots with Gemini TTS voice
+- **[go-bot](https://github.com/pardnchiu/go-bot)** — Rewritten as a drop-in importable library for interactive Telegram / Discord / LINE bots, with Gemini TTS voice
+  - **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — The REST-API service it grew out of: one endpoint fanning a message out to Discord / Slack / LINE / Email, channels hot-swappable at runtime
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP threat scoring with geo-anomaly progressive ban
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
