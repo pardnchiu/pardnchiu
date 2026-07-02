@@ -1,7 +1,17 @@
 # 邱敬幃 Pardn Chiu
 
+<img align="right" width="170" src="./image/coding.jpg" alt="Pardn Chiu" />
+
 > My code is my pitch — if it resonates, you're my people.<br>
 > Taiwan · AI Infrastructure · Platform Engineering
+
+Full-stack engineer shipping from requirement analysis to production across **iOS, web, backend, and infrastructure**. I run my own micro data center and build my tooling from the ground up — an embedded vector store, a JWT/session layer, a task scheduler — now assembling them into **Agenvoy**, a personal agent that writes its own tools and repairs itself.
+
+[![Website](https://img.shields.io/badge/Website-pardn.io-111111?style=flat-square&logo=safari&logoColor=white)](https://pardn.io)
+[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chiuchingwei@gmail.com)
+[![JOBALL](https://img.shields.io/badge/JOBALL-joball.tw-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://joball.tw)
+
+<br clear="right"/>
 
 ***
 
@@ -67,7 +77,7 @@
 - **[NanoMD](https://github.com/pardnio/NanoMD)** — Split-pane Markdown editor with Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
 - **[NanoJSON](https://github.com/pardnio/NanoJSON)** — Interactive JSON tree editor, zero dependencies <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
 - **[FlexPlyr](https://github.com/pardnio/FlexPlyr)** — HTML5 / YouTube / Vimeo unified player <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
-- **[RenderJS](https://github.com/pardnio/RendeJS)** — Chainable DOM manipulation via prototype extension <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
+- **[RenderJS](https://github.com/pardnio/RenderJS)** — Chainable DOM manipulation via prototype extension <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
 - **[pdf2image](https://github.com/pardnio/pdf2image)** — Client-side PDF to JPG/PNG/WebP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 **Demo/Web**
@@ -97,3 +107,11 @@
 - **[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** · 
 **[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** · 
 **[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
+
+***
+
+### Connect
+
+Building something that needs any of the above — or want to hire full-stack / iOS / infra? Let's talk.
+
+**[pardn.io](https://pardn.io)** · **[chiuchingwei@gmail.com](mailto:chiuchingwei@gmail.com)** · **[JOBALL](https://joball.tw)**
