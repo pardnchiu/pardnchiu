@@ -38,7 +38,7 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with concurrent checks and email alerts
 - **[go-rss-reader](https://github.com/pardnchiu/rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline SQLite store
-- **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Image server with four-tier cache and on-the-fly WebP/AVIF conversion
+- **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache (browser / Cloudflare / Nginx / local) with on-the-fly parameterized WebP/AVIF conversion
 
 **Go/Package**
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, multi-format document parsing
@@ -53,7 +53,7 @@ Built on my own stack below — the parts it runs, and the concepts it borrows:
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
 
 **Node.js**
-- **[node-image-server](https://github.com/pardnchiu/demo-node-image-server)** — Four-layer cache (browser/CDN/Nginx/local) image server with WebP conversion
+- **[node-image-server](https://github.com/pardnchiu/demo-node-image-server)** — Four-layer cache (browser / Cloudflare Worker / Nginx / local) with parameterized WebP conversion
 - **[node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
 - **[node-mysql-pool](https://github.com/pardnchiu/node-mysql-pool)** — MySQL pool with read/write split and a fluent query builder
 
