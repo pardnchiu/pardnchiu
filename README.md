@@ -10,8 +10,8 @@
 
 | Category | Package | Description |
 | :- | :- | :- |
-| Memory| **[cim-prototype](https://github.com/pardnio/cim-prototype)** | LLM with Cognitive Imperfect Memory |
-| | **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Embedded KV with JSON query and semantic vector search |
+| Memory Design | **[cim-prototype](https://github.com/pardnio/cim-prototype)** | LLM with Cognitive Imperfect Memory |
+| Memory Store | **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Embedded KV with JSON query and semantic vector search |
 | RAG | **[KuraDB](https://github.com/pardnchiu/KuraDB)** | Multi-format ingestion, SQLite-backed, keyword & vector search |
 | Cron / Task | **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** | Scheduler with standard cron and task dependencies |
 | Browser Control | **[go-browser](https://github.com/pardnchiu/go-browser)** | Chrome extractor with one-shot fetch and interactive tabs |
@@ -20,13 +20,7 @@
 
 ***
 
-<table><tr><td valign="top" width="50%">
-
 ### Backend
-
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler with dependency chains
-- **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT middleware with Redis session + auto-renewal
 
 **Go/Infrastructure**
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle API with SSE streaming
@@ -43,7 +37,9 @@
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go utility functions for rapid development
 - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — SQL clients with read-write separation
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with priority scheduling
+- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler with dependency chains <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — GeoIP threat scoring + progressive ban
+- **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT middleware with Redis session + auto-renewal <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis with auto local-storage failover
 
 **Node.js**
@@ -59,19 +55,19 @@
 **[php-session-fallback](https://github.com/pardnchiu/php-session-fallback)** · 
 **[php-mailer](https://github.com/pardnchiu/php-mailer)**
 
-</td><td valign="top" width="50%">
+***
 
 ### Frontend
 
 **Framework**
-- **[QuickUI](https://quickui.pardn.io)** — Virtual DOM framework on pure JS with reactive binding<br>![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui)
+- **[QuickUI](https://quickui.pardn.io)** — Virtual DOM framework on pure JS with reactive binding <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
 
 **Library**
-- **[NanoMD](https://nanomd.pardn.io)** — Split-pane Markdown editor with Mermaid<br>![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd)
-- **[NanoJSON](https://nanojson.pardn.io)** — Interactive JSON tree editor, zero dependencies<br>![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson)
-- **[FlexPlyr](https://flexplyr.pardn.io)** — HTML5 / YouTube / Vimeo unified player<br>![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr)
-- **[RenderJS](https://renderjs.pardn.io)** — Chainable DOM manipulation via prototype extension<br>![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs)
-- **[pdf2image](https://pdf2image.pardn.io/)** — Client-side PDF to JPG/PNG/WebP<br>![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)
+- **[NanoMD](https://nanomd.pardn.io)** — Split-pane Markdown editor with Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
+- **[NanoJSON](https://nanojson.pardn.io)** — Interactive JSON tree editor, zero dependencies <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
+- **[FlexPlyr](https://flexplyr.pardn.io)** — HTML5 / YouTube / Vimeo unified player <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
+- **[RenderJS](https://renderjs.pardn.io)** — Chainable DOM manipulation via prototype extension <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
+- **[pdf2image](https://pdf2image.pardn.io/)** — Client-side PDF to JPG/PNG/WebP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 **Demo/Web**
 - **[demo-web](https://github.com/pardnchiu/demo-web)** — 30+ frontend reproductions
@@ -82,8 +78,6 @@
 - **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** 
 - **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)**
 - **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)**
-
-</td></tr></table>
 
 ***
 
