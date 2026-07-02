@@ -6,28 +6,37 @@
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> Make AI actually work for you - A personal agent that writes its own tools and repairs itself.
+> Make AI actually work for you — a personal agent that writes its own tools and repairs itself.
 
-| Category | Package | Description |
-| :- | :- | :- |
-| Memory Design | **[cim-prototype](https://github.com/pardnio/cim-prototype)** | LLM memory modeling human selective attention — fuzzy retrieval + dynamic summaries |
-| Memory Store | **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Embedded DB unifying key-value, JSON query, and inline vector search |
-| RAG | **[KuraDB](https://github.com/pardnchiu/KuraDB)** | Multi-format document store on SQLite with hybrid keyword + vector search |
-| Cron / Task | **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** | Min-heap cron scheduler with dependency chains and panic recovery <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a> |
-| Browser Control | **[go-browser](https://github.com/pardnchiu/go-browser)** | Chrome DevTools Protocol extractor reusing real logged-in sessions |
-| Sandbox / Plug Tool | **[go-faas](https://github.com/pardnchiu/go-faas)** | FaaS runtime running Python / JS / TS in Bubblewrap sandboxes |
-| Messenger | **[go-bot](https://github.com/pardnchiu/go-bot)** | Library for interactive Telegram / Discord / LINE bots with Gemini TTS voice |
+Assembled entirely from my own stack below. What it uses, and where:
+
+| Component | Role in Agenvoy |
+| :- | :- |
+| **[cim-prototype](https://github.com/pardnio/cim-prototype)** | Long-term memory — how the agent recalls across sessions |
+| **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Stores those memories and their embeddings for semantic recall |
+| **[KuraDB](https://github.com/pardnchiu/KuraDB)** | RAG layer over ingested documents |
+| **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** | Runs recurring and dependent background tasks |
+| **[go-browser](https://github.com/pardnchiu/go-browser)** | Reads the live web through a real logged-in Chrome |
+| **[go-faas](https://github.com/pardnchiu/go-faas)** | Sandbox where the agent runs the tools it writes for itself |
+| **[go-bot](https://github.com/pardnchiu/go-bot)** | Talks to you over Telegram / Discord / LINE |
 
 ***
 
 ### Backend
 
+**Go/AI**
+- **[cim-prototype](https://github.com/pardnio/cim-prototype)** — LLM memory modeling human selective attention: fuzzy retrieval + dynamic summaries
+- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and inline vector search
+- **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format document store on SQLite with hybrid keyword + vector search
+
 **Go/Infrastructure**
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s, SQLite registry
+- **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime executing Python / JS / TS in Bubblewrap sandboxes
 
 **Go/Service**
 - **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — One REST API fanning a message out to Discord / Slack / LINE / Email, channels hot-swappable at runtime
+- **[go-browser](https://github.com/pardnchiu/go-browser)** — Chrome DevTools Protocol extractor reusing real logged-in sessions
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with concurrent checks and email alerts
 - **[go-rss-reader](https://github.com/pardnchiu/rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline SQLite store
@@ -38,6 +47,8 @@
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit with read-write separation
   - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — chainable query builder + read-write pools per engine
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
+- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Min-heap cron scheduler with dependency chains and panic recovery <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
+- **[go-bot](https://github.com/pardnchiu/go-bot)** — Library for interactive Telegram / Discord / LINE bots with Gemini TTS voice
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP threat scoring with geo-anomaly progressive ban
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
