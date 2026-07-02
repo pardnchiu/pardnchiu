@@ -13,10 +13,10 @@
 | Memory Design | **[cim-prototype](https://github.com/pardnio/cim-prototype)** | LLM memory modeling human selective attention — fuzzy retrieval + dynamic summaries |
 | Memory Store | **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** | Embedded DB unifying key-value, JSON query, and inline vector search |
 | RAG | **[KuraDB](https://github.com/pardnchiu/KuraDB)** | Multi-format document store on SQLite with hybrid keyword + vector search |
-| Cron / Task | **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** | Min-heap cron scheduler with dependency chains and panic recovery |
+| Cron / Task | **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** | Min-heap cron scheduler with dependency chains and panic recovery <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a> |
 | Browser Control | **[go-browser](https://github.com/pardnchiu/go-browser)** | Chrome DevTools Protocol extractor reusing real logged-in sessions |
 | Sandbox / Plug Tool | **[go-faas](https://github.com/pardnchiu/go-faas)** | FaaS runtime running Python / JS / TS in Bubblewrap sandboxes |
-| Messenger | **[go-bot](https://github.com/pardnchiu/go-bot)** | Multi-platform bot for Telegram / Discord / LINE with Gemini TTS |
+| Messenger | **[go-bot](https://github.com/pardnchiu/go-bot)** | Library for interactive Telegram / Discord / LINE bots with Gemini TTS voice |
 
 ***
 
@@ -27,7 +27,7 @@
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s, SQLite registry
 
 **Go/Service**
-- **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — Unified notification gateway for Discord / Slack / LINE / Email
+- **[go-notify-hub](https://github.com/pardnchiu/go-notify-hub)** — One REST API fanning a message out to Discord / Slack / LINE / Email, channels hot-swappable at runtime
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with concurrent checks and email alerts
 - **[go-rss-reader](https://github.com/pardnchiu/rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline SQLite store
@@ -38,7 +38,6 @@
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit with read-write separation
   - **[go-sqlite](https://github.com/pardnchiu/go-sqlite)** · **[go-pg](https://github.com/pardnchiu/go-pg)** · **[go-mysql](https://github.com/pardnchiu/go-mysql)** — chainable query builder + read-write pools per engine
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Cron scheduler with dependency chains <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP threat scoring with geo-anomaly progressive ban
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
