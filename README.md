@@ -64,14 +64,14 @@
 ### Frontend
 
 **Framework**
-- **[QuickUI](https://quickui.pardn.io)** — Virtual DOM framework on pure JS with reactive binding · **20K+/mo**
+- **[QuickUI](https://quickui.pardn.io)** — Virtual DOM framework on pure JS with reactive binding · ![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui)
 
 **Library**
-- **[NanoMD](https://nanomd.pardn.io)** — Split-pane Markdown editor with Mermaid · **20K+/mo**
-- **[NanoJSON](https://nanojson.pardn.io)** — Interactive JSON tree editor, zero dependencies · **20K+/mo**
-- **[FlexPlyr](https://flexplyr.pardn.io)** — HTML5 / YouTube / Vimeo unified player · **20K+/mo**
-- **[RenderJS](https://renderjs.pardn.io)** — Chainable DOM manipulation via prototype extension · **20K+/mo**
-- **[pdf2image](https://pdf2image.pardn.io/)** — Client-side PDF to JPG/PNG/WebP · **1K+/mo**
+- **[NanoMD](https://nanomd.pardn.io)** — Split-pane Markdown editor with Mermaid · ![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd)
+- **[NanoJSON](https://nanojson.pardn.io)** — Interactive JSON tree editor, zero dependencies · ![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson)
+- **[FlexPlyr](https://flexplyr.pardn.io)** — HTML5 / YouTube / Vimeo unified player · ![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr)
+- **[RenderJS](https://renderjs.pardn.io)** — Chainable DOM manipulation via prototype extension · ![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs)
+- **[pdf2image](https://pdf2image.pardn.io/)** — Client-side PDF to JPG/PNG/WebP · ![jsdelivr](https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image)
 
 **Demo/Web**
 - **[demo-web](https://github.com/pardnchiu/demo-web)** — 30+ frontend reproductions
