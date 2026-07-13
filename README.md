@@ -19,7 +19,7 @@
 **Go/Infrastructure**
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s, SQLite registry
-- **[go-faas](https://github.com/pardnchiu/go-faas)** — FaaS runtime executing Python / JS / TS in Bubblewrap sandboxes
+- **[HakoRun(go-faas)](https://github.com/pardnchiu/HakoRun)** — Lightweight MCP-Server for agents to create APIs
 
 **Go/Service**
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
