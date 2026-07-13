@@ -12,14 +12,12 @@
 
 ### Backend
 
-**Go/AI**
+**Go/Infrastructure**
+- **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Lightweight MCP-Server for agents to create APIs
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and inline vector search
 - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format document store on SQLite with hybrid keyword + vector search
-
-**Go/Infrastructure**
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s, SQLite registry
-- **[HakoRun(go-faas)](https://github.com/pardnchiu/HakoRun)** — Lightweight MCP-Server for agents to create APIs
 
 **Go/Service**
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
