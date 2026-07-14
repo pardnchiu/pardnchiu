@@ -12,20 +12,18 @@
 
 ### Backend
 
-**Go/Infrastructure**
-- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and inline vector search
+**Go/Service**
 - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — Multi-format document store on SQLite with hybrid keyword + vector search
+- **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Lightweight MCP-Server for agents to create APIs
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s, SQLite registry
-
-**Go/Service**
-- **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Lightweight MCP-Server for agents to create APIs
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with concurrent checks and email alerts
 - **[go-rss-reader](https://github.com/pardnchiu/rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline SQLite store
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache (browser / Cloudflare / Nginx / local) with on-the-fly parameterized WebP/AVIF conversion
 
-**Go/Package**
+**Go/Module**
+- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — (module) Embedded DB unifying key-value, JSON query, and inline vector search
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, multi-format document parsing
 - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chrome DevTools Protocol extractor reusing real logged-in sessions
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Rewrite consolidating the three drivers below into one SQL toolkit with read-write separation
