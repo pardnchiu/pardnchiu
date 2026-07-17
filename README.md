@@ -3,6 +3,9 @@
 > My code is my pitch — if it resonates, you're my people.<br>
 > Taiwan · AI Infrastructure · Platform Engineering
 
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=pardnchiu&show_icons=true&count_private=true)
+![](https://ghchart.rshah.org/pardnchiu)
+
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
