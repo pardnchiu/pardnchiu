@@ -23,7 +23,7 @@
 - **[go-image-server](https://github.com/pardnchiu/demo-go-image-server)** — Four-layer cache (browser / Cloudflare / Nginx / local) with on-the-fly parameterized WebP/AVIF conversion
 
 **Go/Module**
-- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — (module) Embedded DB unifying key-value, JSON query, and inline vector search
+- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and inline vector search
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, multi-format document parsing
 - **[go-browser](https://github.com/pardnchiu/go-browser)** — Chrome DevTools Protocol extractor reusing real logged-in sessions
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Rewrite consolidating the three drivers below into one SQL toolkit with read-write separation
