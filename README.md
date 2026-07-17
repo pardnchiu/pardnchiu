@@ -18,7 +18,7 @@
 
 **Go/Service**
 - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — RAG database on SQLite with hybrid keyword + vector search
-- **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap (WIP)
+- **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
