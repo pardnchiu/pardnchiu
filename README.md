@@ -4,7 +4,6 @@
 > Taiwan · AI Infrastructure · Platform Engineering
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=pardnchiu&show_icons=true&count_private=true)
-![](https://ghchart.rshah.org/pardnchiu)
 
 ***
 
