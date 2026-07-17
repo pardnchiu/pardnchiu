@@ -11,8 +11,8 @@
 ***
 
 <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Min-heap cron scheduler with dependency chains and panic recovery
-- **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding
+- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — (module) Min-heap cron scheduler with dependency chains and panic recovery
+- **[go-jwt](https://github.com/pardnchiu/go-jwt)** — (module) JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding
 
 ### Backend
 
