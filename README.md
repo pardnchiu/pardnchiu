@@ -16,7 +16,7 @@
 
 ### Backend
 
-<details>
+<details open>
 
 <summary>Go/Service</summary>
 
@@ -31,7 +31,7 @@
 
 </details>
 
-<details>
+<details open>
 
 <summary>Go/Module</summary>
 
@@ -48,7 +48,7 @@
 </details>
 
 
-<details>
+<details open>
 
 <summary>Node.js</summary>
 
@@ -59,7 +59,7 @@
 </details>
 
 
-<details>
+<details open>
 
 <summary>PHP</summary>
 
@@ -76,7 +76,7 @@
 
 ### Frontend
 
-<details>
+<details open>
 
 <summary>Framework/Library</summary>
 
@@ -89,7 +89,7 @@
 
 </details>
 
-<details>
+<details open>
 
 <summary>Demo/Web</summary>
 
@@ -99,7 +99,7 @@
 
 </details>
 
-<details>
+<details open>
 
 <summary>Demo/iOS</summary>
 
