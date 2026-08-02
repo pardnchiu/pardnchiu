@@ -14,9 +14,11 @@
 - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — (module) Min-heap cron scheduler with dependency chains and panic recovery
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — (module) JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding
 
+***
+
 ### Backend
 
-<details open>
+<details >
 
 <summary>Go/Service</summary>
 
@@ -31,7 +33,7 @@
 
 </details>
 
-<details open>
+<details >
 
 <summary>Go/Module</summary>
 
@@ -48,7 +50,7 @@
 </details>
 
 
-<details open>
+<details >
 
 <summary>Node.js</summary>
 
@@ -59,7 +61,7 @@
 </details>
 
 
-<details open>
+<details >
 
 <summary>PHP</summary>
 
@@ -76,7 +78,7 @@
 
 ### Frontend
 
-<details open>
+<details >
 
 <summary>Framework/Library</summary>
 
@@ -89,7 +91,7 @@
 
 </details>
 
-<details open>
+<details >
 
 <summary>Demo/Web</summary>
 
@@ -99,7 +101,7 @@
 
 </details>
 
-<details open>
+<details >
 
 <summary>Demo/iOS</summary>
 
@@ -109,9 +111,11 @@
 
 </details>
 
+***
+
 ### Product
 
-<details open>
+<details >
 
 - **[JOBALL (Web)](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
 - **[C2hat (Chrome Extension)](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE cross-domain chat extension with no server-side message storage
