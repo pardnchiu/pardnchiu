@@ -20,7 +20,7 @@
 
 <details >
 
-<summary>Go/Service</summary>
+<summary>Go/Service (8)</summary>
 
 - **[KuraDB](https://github.com/pardnchiu/KuraDB)** — RAG database on SQLite with hybrid keyword + vector search
 - **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
@@ -35,7 +35,7 @@
 
 <details >
 
-<summary>Go/Module</summary>
+<summary>Go/Module (9)</summary>
 
 - **[go-llm-router](https://github.com/pardnchiu/go-llm-router)** — Unified routing across 12+ LLM providers with normalized token usage
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
@@ -52,7 +52,7 @@
 
 <details >
 
-<summary>Node.js</summary>
+<summary>Node.js (3)</summary>
 
 - **[node-image-server](https://github.com/pardnchiu/demo-node-image-server)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
 - **[node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
@@ -63,7 +63,7 @@
 
 <details >
 
-<summary>PHP</summary>
+<summary>PHP (6)</summary>
 
 - **[php-async](https://github.com/pardnchiu/php-async)** — ReactPHP async task runner with topological dependency sorting
 - **[php-mysql-cli](https://github.com/pardnchiu/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience
@@ -80,7 +80,7 @@
 
 <details >
 
-<summary>Framework/Library</summary>
+<summary>Framework/Library (6)</summary>
 
 - **[QuickUI](https://github.com/pardnio/QuickUI)** — Zero-dependency vDOM framework with Proxy reactivity, i18n, lifecycle hooks <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
 - **[NanoMD](https://github.com/pardnio/NanoMD)** — Dependency-free Markdown editor: split preview, vDOM diffing, Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
@@ -93,7 +93,7 @@
 
 <details >
 
-<summary>Demo/Web</summary>
+<summary>Demo/Web (3)</summary>
 
 - **[demo-web](https://github.com/pardnchiu/demo-web)** — 30+ frontend website reproductions, several built on PDRenderKit
 - **[WebUI](https://webui.pardn.io)** — Visual website builder with modular prebuilt templates (WIP)
@@ -103,7 +103,7 @@
 
 <details >
 
-<summary>Demo/iOS</summary>
+<summary>Demo/iOS (3)</summary>
 
 - **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
 - **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
