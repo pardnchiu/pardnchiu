@@ -6,7 +6,7 @@
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> A personal AI agent that writes its own tools and self-schedules tasks via MCP.
+> Make AI actually work for you - A personal agent that writes its own tools and repairs itself.
 
 ***
 
