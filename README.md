@@ -18,7 +18,7 @@
 
 ### Backend
 
-<details >
+<details open>
 
 <summary>Go/Service (8)</summary>
 
@@ -33,7 +33,7 @@
 
 </details>
 
-<details >
+<details open>
 
 <summary>Go/Module (9)</summary>
 
@@ -50,7 +50,7 @@
 </details>
 
 
-<details >
+<details open>
 
 <summary>Node.js (3)</summary>
 
@@ -61,7 +61,7 @@
 </details>
 
 
-<details >
+<details open>
 
 <summary>PHP (6)</summary>
 
@@ -78,7 +78,7 @@
 
 ### Frontend
 
-<details >
+<details open>
 
 <summary>Framework/Library (6)</summary>
 
@@ -91,7 +91,7 @@
 
 </details>
 
-<details >
+<details open>
 
 <summary>Demo/Web (3)</summary>
 
@@ -101,7 +101,7 @@
 
 </details>
 
-<details >
+<details open>
 
 <summary>Demo/iOS (3)</summary>
 
@@ -115,7 +115,7 @@
 
 ### Product
 
-<details >
+<details open>
 
 - **[JOBALL (Web)](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
 - **[C2hat (Chrome Extension)](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE cross-domain chat extension with no server-side message storage
