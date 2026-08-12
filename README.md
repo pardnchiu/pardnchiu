@@ -6,7 +6,7 @@
 ***
 
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> Make AI actually work for you - A personal agent that writes its own tools and repairs itself.
+> Make AI actually work for you — a personal AI harness that writes and repairs its own tools, and lets Claude Code and Codex build and share them via MCP. 
 
 ***
 
