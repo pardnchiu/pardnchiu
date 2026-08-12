@@ -5,6 +5,8 @@
 
 ***
 
+<img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96>
+
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
 > Make AI actually work for you — a personal AI harness that writes and repairs its own tools, and lets Claude Code and Codex build and share them via MCP. 
 
