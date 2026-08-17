@@ -2,6 +2,9 @@
 
 > My code is my pitch — if it resonates, you're my people.<br>
 > Taiwan · AI Infrastructure · Platform Engineering
+>
+> AI is good. The weakest link is always the human.<br>
+> Before using it, learn the basics so you can tell when it’s making things up.
 
 ***
 
