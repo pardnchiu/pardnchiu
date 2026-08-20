@@ -13,7 +13,7 @@
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
 
 Make AI actually work for you<br>
-A personal AI harness that writes and repairs its own tools, and lets Claude Code and Codex build and share them via MCP. 
+Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Code, Codex and any MCP client build and share them.
 
 ***
 
