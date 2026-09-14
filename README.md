@@ -6,7 +6,9 @@
 > AI is good. The weakest link is always the human.<br>
 > Before using it, learn the basics so you can tell when it’s making things up.
 >
-> Development is evolution. If you're solving problems too, we'll meet eventually.
+> Development is evolution.<br>
+> If you're solving problems too,<br>
+> our paths are bound to intersect.
 
 ***
 
