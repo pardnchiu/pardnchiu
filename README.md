@@ -1,6 +1,6 @@
 # 邱敬幃 Pardn Chiu
 
-> My code is my pitch — if it resonates, you're my people.<br>
+> Show code not just words — my code is my pitch.<br>
 > Taiwan · AI Infrastructure · Platform Engineering
 >
 > Development is evolution.<br>
