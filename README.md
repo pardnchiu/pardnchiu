@@ -4,8 +4,7 @@
 > Taiwan · Infrastructure Engineering 
 >
 > Development is evolution.<br>
-> If you're solving problems too,<br>
-> our paths are bound to intersect.
+> If you're solving problems too, our paths are bound to intersect.
 
 ***
 
