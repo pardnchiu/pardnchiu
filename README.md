@@ -40,7 +40,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 - **[go-llm-router](https://github.com/pardnchiu/go-llm-router)** — Unified routing across 12+ LLM providers with normalized token usage
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
-- **[go-browser](https://github.com/pardnchiu/go-browser)** — CDP browser automation reusing real sessions with stealth anti-detection
+- **[go-browser](https://github.com/pardnchiu/go-browser)** — A Go library that extracts web content via Chrome with optional Markdown or HTML and cookie sessions 
 - **[go-bot](https://github.com/pardnchiu/go-bot)** — Library for Telegram/Discord/LINE bots with native UI and Gemini TTS
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, document parsing
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and vector search
