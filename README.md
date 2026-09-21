@@ -1,10 +1,11 @@
 # 邱敬幃 Pardn Chiu
 
-> Show code not just words — my code is my pitch.<br>
-> Taiwan · Infrastructure Engineering 
+> **Show code, not just words — my code is my pitch.**<br>
+> Taiwan · Infrastructure Engineering
 >
-> Development is evolution.<br>
-> If you're solving problems too, our paths are bound to intersect.
+> AI is a tool; your own expertise is what counts.<br>
+> Don't use AI to design your architecture.<br>
+> Use it to catch bugs and sharpen algorithms — that's what it's actually good at.
 
 ***
 
