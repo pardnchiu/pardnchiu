@@ -45,7 +45,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-bot](https://github.com/pardnchiu/go-bot)** — A Go chat-bot library with a core layout, unified replies, and native multi-platform interactions
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, document parsing
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — A Go embedded database with a shared socket daemon, JSON field operations, and semantic vector search
-- **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
+- **[go-queue](https://github.com/pardnchiu/go-queue)** — A Go priority task queue with anti-starvation promotion, priority-scaled timeouts, and graceful drain shutdown
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP risk scoring with progressive escalating bans
 - **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — A Go scheduling library with task dependency chains, execution timeouts, and cron expressions <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
