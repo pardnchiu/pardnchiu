@@ -23,7 +23,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Go/Service (8)</summary>
 
-- **[KuraDB](https://github.com/pardnchiu/KuraDB)** — RAG database on SQLite with hybrid keyword + vector search
+- **[KuraDB](https://github.com/pardnchiu/KuraDB)** — A Go read-only RAG database with drop-in auto-indexing, parallel keyword and semantic search, and MCP tools
 - **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
@@ -41,12 +41,12 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-llm-router](https://github.com/pardnchiu/go-llm-router)** — A Go LLM router library with a unified Agent interface, multi-provider routing, and normalized token usage
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
 - **[go-browser](https://github.com/pardnchiu/go-browser)** — A Go library that extracts web content via Chrome with optional Markdown or HTML and cookie sessions 
-- **[go-bot](https://github.com/pardnchiu/go-bot)** — Library for Telegram/Discord/LINE bots with native UI and Gemini TTS
+- **[go-bot](https://github.com/pardnchiu/go-bot)** — A Go chat-bot library with a core layout, unified replies, and native multi-platform interactions
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, document parsing
-- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and vector search
+- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — A Go embedded database with a shared socket daemon, JSON field operations, and semantic vector search
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP risk scoring with progressive escalating bans
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Min-heap cron scheduler with dependency chains and panic recovery <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
+- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — A Go scheduling library with task dependency chains, execution timeouts, and cron expressions <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
 
