@@ -24,7 +24,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Go/Service (8)</summary>
 
-- **[KuraDB](https://github.com/pardnchiu/KuraDB)** — A Go read-only RAG database with drop-in auto-indexing, parallel keyword and semantic search, and MCP tools
+- **[KuraDB](https://kuradb.pardn.io)** — A Go read-only RAG database with drop-in auto-indexing, parallel keyword and semantic search, and MCP tools
 - **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
 - **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
@@ -39,15 +39,14 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Go/Module (11)</summary>
 
-- **[go-llm-router](https://github.com/pardnchiu/go-llm-router)** — A Go LLM router library with a unified Agent interface, multi-provider routing, and normalized token usage
+- **[go-llm-router](https://go-llm-router.pardn.io)** — A Go LLM router library with a unified Agent interface, multi-provider routing, and normalized token usage
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
-- **[go-browser](https://github.com/pardnchiu/go-browser)** — A Go library that extracts web content via Chrome with optional Markdown or HTML and cookie sessions 
-- **[go-bot](https://github.com/pardnchiu/go-bot)** — A Go chat-bot library with a core layout, unified replies, and native multi-platform interactions
-- **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, document parsing
-- **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — A Go embedded database with a shared socket daemon, JSON field operations, and semantic vector search
-- **[go-queue](https://github.com/pardnchiu/go-queue)** — A Go priority task queue with anti-starvation promotion, priority-scaled timeouts, and graceful drain shutdown
+- **[go-browser](https://go-browser.pardn.io)** — A Go library that extracts web content via Chrome with optional Markdown or HTML and cookie sessions 
+- **[go-bot](https://go-bot.pardn.io)** — A Go chat-bot library with a core layout, unified replies, and native multi-platform interactions
+- **[ToriiDB](https://toriidb.pardn.io)** — A Go embedded database with a shared socket daemon, JSON field operations, and semantic vector search
+- **[go-queue](https://go-queue.pardn.io)** — A Go priority task queue with anti-starvation promotion, priority-scaled timeouts, and graceful drain shutdown
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP risk scoring with progressive escalating bans
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — A Go scheduling library with task dependency chains, execution timeouts, and cron expressions <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
+- **[go-scheduler](https://go-scheduler.pardn.io)** — A Go scheduling library with task dependency chains, execution timeouts, and cron expressions <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
 
@@ -86,11 +85,11 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Framework/Library (6)</summary>
 
-- **[QuickUI](https://github.com/pardnio/QuickUI)** — Zero-dependency vDOM framework with Proxy reactivity, i18n, lifecycle hooks <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
-- **[NanoMD](https://github.com/pardnio/NanoMD)** — Dependency-free Markdown editor: split preview, vDOM diffing, Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
-- **[NanoJSON](https://github.com/pardnio/NanoJSON)** — Firebase-style visual JSON tree editor with type switching, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
-- **[FlexPlyr](https://github.com/pardnio/FlexPlyr)** — Unified media player for HTML5 / YouTube / Vimeo, themeable, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
-- **[RenderJS](https://github.com/pardnio/RenderJS)** — Prototype-extending DOM library with chainable syntax and manual `renew()` updates <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
+- **[QuickUI](https://quickui.pardn.io)** — Zero-dependency vDOM framework with Proxy reactivity, i18n, lifecycle hooks <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
+- **[NanoMD](https://nanomd.pardn.io)** — Dependency-free Markdown editor: split preview, vDOM diffing, Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
+- **[NanoJSON](https://nanojson.pardn.io)** — Firebase-style visual JSON tree editor with type switching, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
+- **[FlexPlyr](https://flexplyr.pardn.io)** — Unified media player for HTML5 / YouTube / Vimeo, themeable, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
+- **[RenderJS](https://renderjs.pardn.io)** — Prototype-extending DOM library with chainable syntax and manual `renew()` updates <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
 - **[pdf2image](https://github.com/pardnio/pdf2image)** — Client-side PDF → JPG/PNG/WebP via pdf.js with ZIP batching <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 </details>
