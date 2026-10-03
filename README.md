@@ -98,9 +98,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Demo/Web (3)</summary>
 
-- **[demo-web](https://github.com/pardnchiu/demo-web)** — 30+ frontend website reproductions, several built on PDRenderKit
-- **[WebUI](https://webui.pardn.io)** — Visual website builder with modular prebuilt templates (WIP)
-- **[AdminUI](https://adminui.pardn.io)** — Admin dashboard template built on QuickUI, NanoMD, NanoJSON, FlexPlyr
+- **[demo-web](https://demo-web.pardn.io)** — 30+ frontend website reproductions, several built on PDRenderKit
+- **[WebUI](https://github.com/pardnio/webui)** — Visual website builder with modular prebuilt templates (WIP)
+- **[AdminUI](https://github.com/pardnio/adminui)** — Admin dashboard template built on QuickUI, NanoMD, NanoJSON, FlexPlyr
 
 </details>
 
