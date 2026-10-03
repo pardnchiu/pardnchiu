@@ -90,7 +90,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[NanoJSON](https://nanojson.pardn.io)** — Firebase-style visual JSON tree editor with type switching, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
 - **[FlexPlyr](https://flexplyr.pardn.io)** — Unified media player for HTML5 / YouTube / Vimeo, themeable, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
 - **[RenderJS](https://renderjs.pardn.io)** — Prototype-extending DOM library with chainable syntax and manual `renew()` updates <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
-- **[pdf2image](https://github.com/pardnio/pdf2image)** — Client-side PDF → JPG/PNG/WebP via pdf.js with ZIP batching <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
+- **[pdf2image](https://pdf2image.pardn.io)** — Client-side PDF → JPG/PNG/WebP via pdf.js with ZIP batching <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 </details>
 
