@@ -26,7 +26,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 - **[KuraDB](https://kuradb.pardn.io)** — A Go read-only RAG database with drop-in auto-indexing, parallel keyword and semantic search, and MCP tools
 - **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
-- **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — Proxmox VM lifecycle REST API with SSE progress streaming
+- **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with email alerts
@@ -39,14 +39,14 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Go/Module (11)</summary>
 
-- **[go-llm-router](https://go-llm-router.pardn.io)** — A Go LLM router library with a unified Agent interface, multi-provider routing, and normalized token usage
+- **[go-llm-router](https://go-llm-router.pardn.io)** — ONE AGENT INTERFACE FOR EVERY LLM PROVIDER
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
-- **[go-browser](https://go-browser.pardn.io)** — A Go library that extracts web content via Chrome with optional Markdown or HTML and cookie sessions 
-- **[go-bot](https://go-bot.pardn.io)** — A Go chat-bot library with a core layout, unified replies, and native multi-platform interactions
-- **[ToriiDB](https://toriidb.pardn.io)** — A Go embedded database with a shared socket daemon, JSON field operations, and semantic vector search
-- **[go-queue](https://go-queue.pardn.io)** — A Go priority task queue with anti-starvation promotion, priority-scaled timeouts, and graceful drain shutdown
+- **[go-browser](https://go-browser.pardn.io)** — EXTRACT WEB CONTENT VIA CHROME — MARKDOWN OR HTML, READY FOR AGENTS
+- **[go-bot](https://go-bot.pardn.io)** — BUILD BOTS THAT FIT EVERY CHAT PLATFORM
+- **[ToriiDB](https://toriidb.pardn.io)** — EMBEDDED JSON KV STORAGE WITH A SHARED SOCKET DAEMON AND VECTOR SEARCH
+- **[go-queue](https://go-queue.pardn.io)** — PRIORITY TASKS THAT NEVER STARVE
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP risk scoring with progressive escalating bans
-- **[go-scheduler](https://go-scheduler.pardn.io)** — A Go scheduling library with task dependency chains, execution timeouts, and cron expressions <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
+- **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
 
@@ -85,12 +85,12 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Framework/Library (6)</summary>
 
-- **[QuickUI](https://quickui.pardn.io)** — Zero-dependency vDOM framework with Proxy reactivity, i18n, lifecycle hooks <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
-- **[NanoMD](https://nanomd.pardn.io)** — Dependency-free Markdown editor: split preview, vDOM diffing, Mermaid <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
-- **[NanoJSON](https://nanojson.pardn.io)** — Firebase-style visual JSON tree editor with type switching, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
-- **[FlexPlyr](https://flexplyr.pardn.io)** — Unified media player for HTML5 / YouTube / Vimeo, themeable, zero deps <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
-- **[RenderJS](https://renderjs.pardn.io)** — Prototype-extending DOM library with chainable syntax and manual `renew()` updates <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
-- **[pdf2image](https://pdf2image.pardn.io)** — Client-side PDF → JPG/PNG/WebP via pdf.js with ZIP batching <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
+- **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
+- **[NanoMD](https://nanomd.pardn.io)** — LIGHTWEIGHT MARKDOWN EDITOR IN PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
+- **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
+- **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
+- **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
+- **[pdf2image](https://pdf2image.pardn.io)** — TURN ANY PDF INTO IMAGES RIGHT IN THE BROWSER <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 </details>
 
@@ -98,7 +98,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Demo/Web (3)</summary>
 
-- **[demo-web](https://demo-web.pardn.io)** — 30+ frontend website reproductions, several built on PDRenderKit
+- **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
 - **[WebUI](https://github.com/pardnio/webui)** — Visual website builder with modular prebuilt templates (WIP)
 - **[AdminUI](https://github.com/pardnio/adminui)** — Admin dashboard template built on QuickUI, NanoMD, NanoJSON, FlexPlyr
 
