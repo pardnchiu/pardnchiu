@@ -85,9 +85,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Framework/Library (6)</summary>
 
-- **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
+- **[QuickUI](https://quickui.pardn.io)** — ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
 - **[NanoMD](https://nanomd.pardn.io)** — LIGHTWEIGHT MARKDOWN EDITOR IN PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
-- **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
+- **[NanoJSON](https://nanojson.pardn.io)** — LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
 - **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
 - **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
 - **[pdf2image](https://pdf2image.pardn.io)** — TURN ANY PDF INTO IMAGES RIGHT IN THE BROWSER <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
