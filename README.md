@@ -9,9 +9,9 @@
 
 ***
 
-<a href="https://github.com/pardnchiu/Agenvoy"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
+<a href="https://github.com/agenvoy/Agenvoy"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
 
-### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
+### [Agenvoy](https://github.com/agenvoy/Agenvoy)
 
 Make AI actually work for you<br>
 Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Code, Codex and any MCP client build and share them.
@@ -29,15 +29,15 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-pve-qemu](https://go-pve-qemu.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
-- **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with email alerts
-- **[go-rss-reader](https://github.com/pardnchiu/rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
+- **[go-web-monitor](https://github.com/pardnchiu/go-web-monitor)** — TUI uptime + SSL-expiry monitor with email alerts
+- **[go-rss-reader](https://github.com/pardnchiu/go-rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
 - **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
 
 </details>
 
 <details open>
 
-<summary>Go/Module (11)</summary>
+<summary>Go/Module (12)</summary>
 
 - **[go-llm-router](https://go-llm-router.pardn.io)** — ONE AGENT INTERFACE FOR EVERY LLM PROVIDER
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
@@ -49,6 +49,8 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN
+- **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: generic HTTP client, policy-aware filesystem, OS-native sandbox
+- (Archived) **[go-logger](https://github.com/pardnio/go-logger)** — Eight-level file-routed logger with slog JSON / tree text output and auto rotation
 
 </details>
 
@@ -57,9 +59,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Node.js (3)</summary>
 
-- **[node-image-server](https://github.com/pardnchiu/demo-node-image-server)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
-- **[node-jwt-auth](https://github.com/pardnchiu/node-jwt-auth)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
-- **[node-mysql-pool](https://github.com/pardnchiu/node-mysql-pool)** — MySQL pool with read/write split and a fluent query builder
+- **[node-image-server](https://github.com/pardnio/node-image-server)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
+- **[node-jwt-auth](https://github.com/pardnio/node-jwt-auth)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
+- **[node-mysql-pool](https://github.com/pardnio/node-mysql-pool)** — MySQL pool with read/write split and a fluent query builder
 
 </details>
 
@@ -68,12 +70,20 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>PHP (6)</summary>
 
-- **[php-async](https://github.com/pardnchiu/php-async)** — ReactPHP async task runner with topological dependency sorting
-- **[php-mysql-cli](https://github.com/pardnchiu/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience
-- **[php-redis-cli](https://github.com/pardnchiu/php-redis-cli)** — Redis client over the native extension with persistent multi-DB connections
-- **[php-cache-fallback](https://github.com/pardnchiu/php-cache-fallback)** — Hybrid Redis + filesystem cache with automatic fallback
-- **[php-session-fallback](https://github.com/pardnchiu/php-session-fallback)** — Redis session manager with filesystem fallback and hardening
-- **[php-mailer](https://github.com/pardnchiu/php-mailer)** — PHPMailer SMTP wrapper with rate-limited bulk sending
+- **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
+- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience
+- **[php-redis-cli](https://github.com/pardnio/php-redis-cli)** — Redis client over the native extension with persistent multi-DB connections
+- **[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)** — Hybrid Redis + filesystem cache with automatic fallback
+- **[php-session-fallback](https://github.com/pardnio/php-session-fallback)** — Redis session manager with filesystem fallback and hardening
+- **[php-mailer](https://github.com/pardnio/php-mailer)** — PHPMailer SMTP wrapper with rate-limited bulk sending
+
+</details>
+
+<details open>
+
+<summary>Infra/Shell (1)</summary>
+
+- **[pdpve](https://github.com/pardnio/pdpve)** — Bash scripts for Proxmox VE
 
 </details>
 
@@ -96,19 +106,24 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <details open>
 
-<summary>Demo/Web (3)</summary>
+<summary>Demo/Web (7)</summary>
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
-- **[WebUI](https://github.com/pardnio/webui)** — Visual website builder with modular prebuilt templates (WIP)
-- **[AdminUI](https://github.com/pardnio/adminui)** — Admin dashboard template built on QuickUI, NanoMD, NanoJSON, FlexPlyr
+- **[WebUI](https://webui.pardn.io)** — Visual website builder with modular prebuilt templates (WIP)
+- **[AdminUI](https://adminui.pardn.io)** — Admin dashboard template built on QuickUI, NanoMD, NanoJSON, FlexPlyr
+- **[DeskUI](https://pardnio.github.io/DeskUI/)** — Desktop-style web UI
+- **[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)** — Pokémon Quest characters drawn in pure CSS
+- **[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)** — Pick, sort and generate Skill Icons links
+- **[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)** — Admin dashboard template (2022 edition)
 
 </details>
 
 <details open>
 
-<summary>Demo/iOS (3)</summary>
+<summary>iOS (4)</summary>
 
-- **[demo-swiftui](https://github.com/pardnchiu/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
+- **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
+- **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
 - **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
 - **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit finance tracker with monthly views and Font Awesome
 
