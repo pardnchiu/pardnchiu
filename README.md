@@ -26,7 +26,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 - **[KuraDB](https://kuradb.pardn.io)** — A Go read-only RAG database with drop-in auto-indexing, parallel keyword and semantic search, and MCP tools
 - **[HakoRun (go-faas)](https://github.com/pardnchiu/HakoRun)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
-- **[go-pve-qemu](https://github.com/pardnchiu/go-pve-qemu)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
+- **[go-pve-qemu](https://go-pve-qemu.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
 - **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://github.com/pardnchiu/web-monitor)** — TUI uptime + SSL-expiry monitor with email alerts
