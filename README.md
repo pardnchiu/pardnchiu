@@ -24,12 +24,12 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Go/Service (8)</summary>
 
-- **[KuraDB](https://kuradb.pardn.io)** — A Go read-only RAG database with drop-in auto-indexing, parallel keyword and semantic search, and MCP tools
-- **[HakoRun (go-faas)](https://go-faas.pardn.io)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
+- **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
+- **[HakoRun (go-faas)](https://go-faas.pardn.io)** — SECURE MULTI-LANGUAGE FAAS WITH SANDBOXED EXECUTION
 - **[go-pve-qemu](https://go-pve-qemu.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
-- **[go-rest-client](https://go-rest-client.pardn.io)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
-- **[go-web-monitor](https://go-web-monitor.pardn.io)** — TUI uptime + SSL-expiry monitor with email alerts
+- **[go-rest-client](https://go-rest-client.pardn.io)** — RUN YOUR .HTTP FILES RIGHT IN THE TERMINAL
+- **[go-web-monitor](https://go-web-monitor.pardn.io)** — KEEP EVERY SITE IN SIGHT, RIGHT FROM YOUR TERMINAL
 - **[go-rss-reader](https://github.com/pardnchiu/go-rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
 - **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
 
