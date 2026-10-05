@@ -28,9 +28,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[HakoRun (go-faas)](https://go-faas.pardn.io)** — Sandboxed FaaS platform running Python/JS/TS via Bubblewrap
 - **[go-pve-qemu](https://go-pve-qemu.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
-- **[go-rest-client](https://github.com/pardnchiu/go-rest-client)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
-- **[go-web-monitor](https://github.com/pardnchiu/go-web-monitor)** — TUI uptime + SSL-expiry monitor with email alerts
-- **[go-rss-reader](https://github.com/pardnchiu/go-rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
+- **[go-rest-client](https://go-rest-client.pardn.io)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
+- **[go-web-monitor](https://go-web-monitor.pardn.io)** — TUI uptime + SSL-expiry monitor with email alerts
+- **[go-rss-reader](https://go-rss-reader.pardn.io)** — TUI RSS aggregator with reader-mode extraction and offline store
 - **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
 
 </details>
