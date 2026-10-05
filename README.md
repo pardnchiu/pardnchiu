@@ -30,7 +30,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
 - **[go-rest-client](https://go-rest-client.pardn.io)** — TUI REST client, VSCode `.http` compatible, with SSE streaming
 - **[go-web-monitor](https://go-web-monitor.pardn.io)** — TUI uptime + SSL-expiry monitor with email alerts
-- **[go-rss-reader](https://go-rss-reader.pardn.io)** — TUI RSS aggregator with reader-mode extraction and offline store
+- **[go-rss-reader](https://github.com/pardnchiu/go-rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
 - **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
 
 </details>
