@@ -84,7 +84,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 <summary>Demo/Web (2)</summary>
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
-- **[WebUI](https://webui.pardn.io)** — Visual website builder with modular prebuilt templates (WIP)
+- **[WebUI](https://webui.pardn.io)** — Visual website builder with modular prebuilt templates (discontinued demo)
 
 </details>
 
