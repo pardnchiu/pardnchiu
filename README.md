@@ -1,3 +1,5 @@
+Last updated: 2026-10-06
+
 # 邱敬幃 Pardn Chiu
 
 > **Show code, not just words — my code is my pitch.**<br>
@@ -50,7 +52,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: generic HTTP client, policy-aware filesystem, OS-native sandbox
-- (Archived) **[go-logger](https://github.com/pardnio/go-logger)** — Eight-level file-routed logger with slog JSON / tree text output and auto rotation
+- (Archived) **[go-logger](https://github.com/pardnio/go-logger)** — DEPRECATED — MIGRATE TO LOG/SLOG
 
 </details>
 
