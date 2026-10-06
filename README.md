@@ -61,6 +61,14 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 </details>
 
+<details open>
+
+<summary>PHP (2)</summary>
+
+- (Archived) **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
+- (Archived) **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience
+
+</details>
 
 ***
 
@@ -68,14 +76,13 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <details open>
 
-<summary>Framework/Library (6)</summary>
+<summary>Framework/Library (5)</summary>
 
 - **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
 - **[NanoMD](https://nanomd.pardn.io)** — LIGHTWEIGHT MARKDOWN EDITOR IN PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
 - **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
 - **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
 - **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
-- (Archived) **[pdf2image](https://pdf2image.pardn.io)** — TURN ANY PDF INTO IMAGES RIGHT IN THE BROWSER <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 </details>
 
