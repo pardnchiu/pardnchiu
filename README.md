@@ -27,7 +27,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
 - **[HakoRun](https://hakorun.pardn.io)** — SELF-HOSTED FAAS, NO DOCKER OR KUBERNETES REQUIRED
 - **[QemuRun-pve](https://qemurun-pve.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
-- **[PodRun](https://podrun.pardn.io)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
+- **[PodRun](https://podrun.pardn.io)** — DEPLOY TO REMOTE PODMAN AND K3S LIKE LOCAL DOCKER COMPOSE
 - **[go-rest-client](https://go-rest-client.pardn.io)** — RUN YOUR .HTTP FILES RIGHT IN THE TERMINAL
 - **[go-web-monitor](https://go-web-monitor.pardn.io)** — KEEP EVERY SITE IN SIGHT, RIGHT FROM YOUR TERMINAL
 - **[go-rss-reader](https://github.com/pardnchiu/go-rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
