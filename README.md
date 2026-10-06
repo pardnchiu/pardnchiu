@@ -61,9 +61,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Node.js (3)</summary>
 
-- **[node-image-server](https://node-image-server.pardn.io)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
-- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
-- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — MySQL pool with read/write split and a fluent query builder
+- **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE
+- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE
+- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — CHAIN YOUR MYSQL QUERIES ACROSS READ AND WRITE POOLS
 
 </details>
 
