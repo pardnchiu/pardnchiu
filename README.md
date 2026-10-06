@@ -24,25 +24,21 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <details open>
 
-<summary>Go/Service (8)</summary>
+<summary>Go/Service (5)</summary>
 
 - **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
 - **[HakoRun](https://hakorun.pardn.io)** — SELF-HOSTED FAAS, NO DOCKER OR KUBERNETES REQUIRED
 - **[QemuRun-pve](https://qemurun-pve.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[PodRun](https://podrun.pardn.io)** — DEPLOY TO REMOTE PODMAN AND K3S LIKE LOCAL DOCKER COMPOSE
-- **[go-rest-client](https://go-rest-client.pardn.io)** — RUN YOUR .HTTP FILES RIGHT IN THE TERMINAL
-- **[go-web-monitor](https://go-web-monitor.pardn.io)** — KEEP EVERY SITE IN SIGHT, RIGHT FROM YOUR TERMINAL
-- **[go-rss-reader](https://go-rss-reader.pardn.io)** — READ THE NEWS, NOT THE NOISE, RIGHT IN YOUR TERMINAL
 - **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
 
 </details>
 
 <details open>
 
-<summary>Go/Module (12)</summary>
+<summary>Go/Module (9)</summary>
 
 - **[go-llm-router](https://go-llm-router.pardn.io)** — ONE AGENT INTERFACE FOR EVERY LLM PROVIDER
-- **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
 - **[go-browser](https://go-browser.pardn.io)** — EXTRACT WEB CONTENT VIA CHROME — MARKDOWN OR HTML, READY FOR AGENTS
 - **[go-bot](https://go-bot.pardn.io)** — BUILD BOTS THAT FIT EVERY CHAT PLATFORM
 - **[ToriiDB](https://toriidb.pardn.io)** — EMBEDDED JSON KV STORAGE WITH A SHARED SOCKET DAEMON AND VECTOR SEARCH
@@ -51,8 +47,6 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN
-- **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: generic HTTP client, policy-aware filesystem, OS-native sandbox
-- (Archived) **[go-logger](https://github.com/pardnio/go-logger)** — DEPRECATED — MIGRATE TO LOG/SLOG
 
 </details>
 
@@ -67,27 +61,6 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 </details>
 
-
-<details open>
-
-<summary>PHP (6)</summary>
-
-- **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
-- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience
-- **[php-redis-cli](https://github.com/pardnio/php-redis-cli)** — Redis client over the native extension with persistent multi-DB connections
-- **[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)** — Hybrid Redis + filesystem cache with automatic fallback
-- **[php-session-fallback](https://github.com/pardnio/php-session-fallback)** — Redis session manager with filesystem fallback and hardening
-- **[php-mailer](https://github.com/pardnio/php-mailer)** — PHPMailer SMTP wrapper with rate-limited bulk sending
-
-</details>
-
-<details open>
-
-<summary>Infra/Shell (1)</summary>
-
-- **[pdpve](https://github.com/pardnio/pdpve)** — Bash scripts for Proxmox VE
-
-</details>
 
 ***
 
@@ -108,15 +81,10 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <details open>
 
-<summary>Demo/Web (7)</summary>
+<summary>Demo/Web (2)</summary>
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
 - **[WebUI](https://webui.pardn.io)** — Visual website builder with modular prebuilt templates (WIP)
-- **[AdminUI](https://adminui.pardn.io)** — Admin dashboard template built on QuickUI, NanoMD, NanoJSON, FlexPlyr
-- **[DeskUI](https://pardnio.github.io/DeskUI/)** — Desktop-style web UI
-- **[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)** — Pokémon Quest characters drawn in pure CSS
-- **[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)** — Pick, sort and generate Skill Icons links
-- **[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)** — Admin dashboard template (2022 edition)
 
 </details>
 
