@@ -55,8 +55,8 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Node.js (3)</summary>
 
-- (Archived) **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE
-- (Archived) **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE
+- (Archived) **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE (same implementation as go-image-server, in Node.js)
+- (Archived) **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE (same implementation as go-jwt, in Node.js)
 - (Archived) **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — CHAIN YOUR MYSQL QUERIES ACROSS READ AND WRITE POOLS
 
 </details>
@@ -66,7 +66,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 <summary>PHP (2)</summary>
 
 - (Archived) **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
-- (Archived) **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience
+- (Archived) **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience (same implementation as node-mysql-pool, in PHP)
 
 </details>
 
