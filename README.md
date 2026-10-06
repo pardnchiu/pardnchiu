@@ -32,7 +32,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[PodRun](https://podrun.pardn.io)** — DEPLOY TO REMOTE PODMAN AND K3S LIKE LOCAL DOCKER COMPOSE
 - **[go-rest-client](https://go-rest-client.pardn.io)** — RUN YOUR .HTTP FILES RIGHT IN THE TERMINAL
 - **[go-web-monitor](https://go-web-monitor.pardn.io)** — KEEP EVERY SITE IN SIGHT, RIGHT FROM YOUR TERMINAL
-- **[go-rss-reader](https://github.com/pardnchiu/go-rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
+- **[go-rss-reader](https://go-rss-reader.pardn.io)** — READ THE NEWS, NOT THE NOISE, RIGHT IN YOUR TERMINAL
 - **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
 
 </details>
