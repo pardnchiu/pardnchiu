@@ -55,9 +55,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Node.js (3)</summary>
 
-- **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE
-- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE
-- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — CHAIN YOUR MYSQL QUERIES ACROSS READ AND WRITE POOLS
+- (Archived) **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE
+- (Archived) **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE
+- (Archived) **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — CHAIN YOUR MYSQL QUERIES ACROSS READ AND WRITE POOLS
 
 </details>
 
@@ -75,7 +75,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
 - **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
 - **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
-- **[pdf2image](https://pdf2image.pardn.io)** — TURN ANY PDF INTO IMAGES RIGHT IN THE BROWSER <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
+- (Archived) **[pdf2image](https://pdf2image.pardn.io)** — TURN ANY PDF INTO IMAGES RIGHT IN THE BROWSER <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/pdf2image" height="20">
 
 </details>
 
@@ -83,8 +83,8 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Demo/Web (2)</summary>
 
-- **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
-- **[WebUI](https://webui.pardn.io)** — Visual website builder with modular prebuilt templates (discontinued demo)
+- (Archived) **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
+- (Archived) **[WebUI](https://github.com/pardnio/website-builder)** — Visual website builder with modular prebuilt templates (discontinued demo)
 
 </details>
 
@@ -92,10 +92,10 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>iOS (4)</summary>
 
-- **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
-- **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
-- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
-- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit finance tracker with monthly views and Font Awesome
+- (Archived) **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
+- (Archived) **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
+- (Archived) **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
+- (Archived) **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit finance tracker with monthly views and Font Awesome
 
 </details>
 
