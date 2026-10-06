@@ -25,7 +25,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 <summary>Go/Service (8)</summary>
 
 - **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
-- **[HakoRun (go-faas)](https://go-faas.pardn.io)** — SECURE MULTI-LANGUAGE FAAS WITH SANDBOXED EXECUTION
+- **[HakoRun](https://hakorun.pardn.io)** — SECURE MULTI-LANGUAGE FAAS WITH SANDBOXED EXECUTION
 - **[go-pve-qemu](https://go-pve-qemu.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[go-podrun](https://github.com/pardnchiu/go-podrun)** — Deploy CLI over rsync/SSH to Podman Compose or k3s
 - **[go-rest-client](https://go-rest-client.pardn.io)** — RUN YOUR .HTTP FILES RIGHT IN THE TERMINAL
