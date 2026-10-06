@@ -1,4 +1,4 @@
-Last updated: 2026-10-06
+Last updated: 2026-10-07
 
 # 邱敬幃 Pardn Chiu
 
@@ -61,9 +61,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Node.js (3)</summary>
 
-- **[node-image-server](https://github.com/pardnio/node-image-server)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
-- **[node-jwt-auth](https://github.com/pardnio/node-jwt-auth)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
-- **[node-mysql-pool](https://github.com/pardnio/node-mysql-pool)** — MySQL pool with read/write split and a fluent query builder
+- **[node-image-server](https://node-image-server.pardn.io)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
+- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
+- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — MySQL pool with read/write split and a fluent query builder
 
 </details>
 
