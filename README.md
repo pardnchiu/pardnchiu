@@ -3,7 +3,8 @@ Last updated: 2026-10-07
 # 邱敬幃 Pardn Chiu
 
 > **Show code, not just words — my code is my pitch.**<br>
-> Taiwan · Infrastructure Engineering
+> Taiwan · Infrastructure Engineering<br>
+> Started in iOS, expert in web frontend and backend, now focused on infrastructure.
 >
 > AI is a tool; your own expertise is what counts.<br>
 > Don't use AI to design your architecture.<br>
@@ -24,9 +25,20 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <details open>
 
-<summary>Go/Service (5)</summary>
+<summary>Go/AI Agent (5)</summary>
 
 - **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
+- **[go-llm-router](https://go-llm-router.pardn.io)** — ONE AGENT INTERFACE FOR EVERY LLM PROVIDER
+- **[go-browser](https://go-browser.pardn.io)** — EXTRACT WEB CONTENT VIA CHROME — MARKDOWN OR HTML, READY FOR AGENTS
+- **[go-bot](https://go-bot.pardn.io)** — BUILD BOTS THAT FIT EVERY CHAT PLATFORM
+- **[ToriiDB](https://toriidb.pardn.io)** — EMBEDDED JSON KV STORAGE WITH A SHARED SOCKET DAEMON AND VECTOR SEARCH
+
+</details>
+
+<details open>
+
+<summary>Go/Self-hosted Infra (4)</summary>
+
 - **[HakoRun](https://hakorun.pardn.io)** — SELF-HOSTED FAAS, NO DOCKER OR KUBERNETES REQUIRED
 - **[QemuRun-pve](https://qemurun-pve.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[PodRun](https://podrun.pardn.io)** — DEPLOY TO REMOTE PODMAN AND K3S LIKE LOCAL DOCKER COMPOSE
@@ -36,12 +48,8 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <details open>
 
-<summary>Go/Module (9)</summary>
+<summary>Go/Backend Toolkit (5)</summary>
 
-- **[go-llm-router](https://go-llm-router.pardn.io)** — ONE AGENT INTERFACE FOR EVERY LLM PROVIDER
-- **[go-browser](https://go-browser.pardn.io)** — EXTRACT WEB CONTENT VIA CHROME — MARKDOWN OR HTML, READY FOR AGENTS
-- **[go-bot](https://go-bot.pardn.io)** — BUILD BOTS THAT FIT EVERY CHAT PLATFORM
-- **[ToriiDB](https://toriidb.pardn.io)** — EMBEDDED JSON KV STORAGE WITH A SHARED SOCKET DAEMON AND VECTOR SEARCH
 - **[go-queue](https://go-queue.pardn.io)** — PRIORITY TASKS THAT NEVER STARVE
 - **[go-ip-sentry](https://go-ip-sentry.pardn.io)** — STOP MALICIOUS IPS BEFORE THEY REACH YOUR HANDLERS
 - **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
