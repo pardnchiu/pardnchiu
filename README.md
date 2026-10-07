@@ -17,7 +17,7 @@ Last updated: 2026-10-07
 ### [Agenvoy](https://github.com/agenvoy/Agenvoy)
 
 Make AI actually work for you<br>
-Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Code, Codex and any MCP client build and share them.
+Self-hosted 24/7 personal AI agent that runs on your own machine — memory, schedules, tools and credentials stay local. Single Go binary with MCP.
 
 ***
 
