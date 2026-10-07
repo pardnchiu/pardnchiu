@@ -27,11 +27,11 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Go/AI Agent (5)</summary>
 
-- **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
 - **[go-llm-router](https://go-llm-router.pardn.io)** — ONE AGENT INTERFACE FOR EVERY LLM PROVIDER
 - **[go-browser](https://go-browser.pardn.io)** — EXTRACT WEB CONTENT VIA CHROME — MARKDOWN OR HTML, READY FOR AGENTS
 - **[go-bot](https://go-bot.pardn.io)** — BUILD BOTS THAT FIT EVERY CHAT PLATFORM
 - **[ToriiDB](https://toriidb.pardn.io)** — EMBEDDED JSON KV STORAGE WITH A SHARED SOCKET DAEMON AND VECTOR SEARCH
+- **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
 
 </details>
 
@@ -54,7 +54,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[go-ip-sentry](https://go-ip-sentry.pardn.io)** — STOP MALICIOUS IPS BEFORE THEY REACH YOUR HANDLERS
 - **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
-- **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN
+- **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN (KV local storage implementation before ToriiDB)
 
 </details>
 
