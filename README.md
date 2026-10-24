@@ -112,11 +112,11 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <details open>
 
-<summary>Demo/Web (7)</summary>
+<summary>Demo/Web (8)</summary>
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
 - **[WebUI](https://github.com/pardnio/website-builder)** — Visual website builder with modular prebuilt templates (discontinued demo)
-- (Others) [AdminUI](https://github.com/pardnio/AdminUI), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- (Others) [AdminUI](https://github.com/pardnio/AdminUI), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/), [website-builder](https://github.com/pardnio/website-builder)
 
 </details>
 
