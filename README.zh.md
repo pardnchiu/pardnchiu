@@ -13,7 +13,7 @@
 **項目需知**
 
 1. 測試檔案與 SKILL repo（含 Python 腳本）皆由 LLM 生成，我只檢查 I/O
-2. pardnio 存放封存的 repo，pardnchiu 維護模組與函式庫，agenvoy 為正式釋出的 Agent 專案
+2. pardnio 存放封存的 repo，pardnchiu 維護模組與函式庫
 
 ---
 
@@ -30,13 +30,14 @@
 
 <details open>
 
-<summary>Go／AI Agent（5）</summary>
+<summary>Go／AI Agent（6）</summary>
 
 - **[go-llm-router](https://go-llm-router.pardn.io)** — 一個 Agent 介面，串接所有 LLM 供應商
 - **[go-browser](https://go-browser.pardn.io)** — 透過 Chrome 擷取網頁內容，輸出 Markdown 或 HTML，直接供 agent 使用
 - **[go-bot](https://go-bot.pardn.io)** — 打造適配各聊天平台的機器人
 - **[ToriiDB](https://toriidb.pardn.io)** — 內嵌式 JSON KV 儲存，共享 socket daemon 與向量搜尋
 - **[KuraDB](https://kuradb.pardn.io)** — 放入檔案，讓你的 agent 幫你搜出來
+- **[cim-prototype](https://github.com/pardnchiu/cim-prototype)** — 具備認知不完美記憶系統的 LLM，模擬人類選擇性記憶以應對長時間多輪對話
 
 </details>
 
@@ -68,9 +69,9 @@
 
 <summary>Node.js（3）</summary>
 
-- （已封存）**[node-image-server](https://node-image-server.pardn.io)** — 縮圖一次，處處從快取供應（早期 Node.js 實作，後續以 Go 延續為 go-image-server）
-- （已封存）**[node-jwt-auth](https://node-jwt-auth.pardn.io)** — 綁定每台裝置的雙 token JWT 認證（早期 Node.js 實作，後續以 Go 延續為 go-jwt）
-- （已封存）**[node-mysql-pool](https://node-mysql-pool.pardn.io)** — 以鏈式查詢串接讀寫連線池
+- **[node-image-server](https://node-image-server.pardn.io)** — 縮圖一次，處處從快取供應（早期 Node.js 實作，後續以 Go 延續為 go-image-server）
+- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — 綁定每台裝置的雙 token JWT 認證（早期 Node.js 實作，後續以 Go 延續為 go-jwt）
+- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — 以鏈式查詢串接讀寫連線池
 
 </details>
 
@@ -78,8 +79,8 @@
 
 <summary>PHP（6）</summary>
 
-- （已封存）**[php-async](https://github.com/pardnio/php-async)** — ReactPHP 非同步任務執行器，具拓撲相依排序
-- （已封存）**[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — 鏈式 MySQL 客戶端，讀寫路由與重試韌性（早期 PHP 實作，後續以 Node.js 延續為 node-mysql-pool）
+- **[php-async](https://github.com/pardnio/php-async)** — ReactPHP 非同步任務執行器，具拓撲相依排序
+- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — 鏈式 MySQL 客戶端，讀寫路由與重試韌性（早期 PHP 實作，後續以 Node.js 延續為 node-mysql-pool）
 - [php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
@@ -103,8 +104,8 @@
 - **[QuickUI](https://quickui.pardn.io)** — 零相依、免建置即可執行的虛擬 DOM 框架
 - **[NanoMD](https://nanomd.pardn.io)** — 單一解析器，快速將 Markdown 轉為 AST 與 HTML
 - **[NanoJSON](https://nanojson.pardn.io)** — 純 JavaScript 打造的輕量視覺化 JSON 編輯器
-- （已封存）**[FlexPlyr](https://flexplyr.pardn.io)** — 一套播放器 API，支援 HTML5、YouTube 與 Vimeo
-- （已封存）**[RenderJS](https://renderjs.pardn.io)** — 擴充原生 JS 原型，免額外負擔地渲染
+- **[FlexPlyr](https://flexplyr.pardn.io)** — 一套播放器 API，支援 HTML5、YouTube 與 Vimeo
+- **[RenderJS](https://renderjs.pardn.io)** — 擴充原生 JS 原型，免額外負擔地渲染
 - [pdf2image](https://pdf2image.pardn.io)
 
 </details>
@@ -113,8 +114,8 @@
 
 <summary>Demo／網頁（7）</summary>
 
-- （已封存）**[demo-web](https://demo-web.pardn.io)** — 38 個手工前端頁面，零建置步驟
-- （已封存）**[WebUI](https://github.com/pardnio/website-builder)** — 視覺化網站建置工具，內建模組化版型（已停止開發的 demo）
+- **[demo-web](https://demo-web.pardn.io)** — 38 個手工前端頁面，零建置步驟
+- **[WebUI](https://github.com/pardnio/website-builder)** — 視覺化網站建置工具，內建模組化版型（已停止開發的 demo）
 - [AdminUI](https://github.com/pardnio/AdminUI)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
@@ -123,10 +124,10 @@
 
 <summary>iOS（4）</summary>
 
-- （已封存）**[ExSwift](https://github.com/pardnio/ExSwift)** — 宣告式 UIKit 擴充，鏈式語法
-- （已封存）**[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI 元件，重現 Pinterest 風格動態介面
-- （已封存）**[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase 聊天應用，QR 加好友、純程式碼 UIKit
-- （已封存）**[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit 記帳工具，月檢視與 Font Awesome
+- **[ExSwift](https://github.com/pardnio/ExSwift)** — 宣告式 UIKit 擴充，鏈式語法
+- **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI 元件，重現 Pinterest 風格動態介面
+- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase 聊天應用，QR 加好友、純程式碼 UIKit
+- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit 記帳工具，月檢視與 Font Awesome
 
 </details>
 
