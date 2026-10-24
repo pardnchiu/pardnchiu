@@ -13,9 +13,9 @@
 **項目需知**
 
 1. 測試檔案與 SKILL repo（含 Python 腳本）皆由 LLM 生成，我只檢查 I/O
-2. pardnio 存放封存的 repo，pardnchiu 維護模組與函式庫，agenvoy 開發正式上線的 Agent 產品
+2. pardnio 存放封存的 repo，pardnchiu 維護模組與函式庫，agenvoy 為正式釋出的 Agent 專案
 
-***
+---
 
 <a href="https://agenvoy.com/"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
 
@@ -24,7 +24,7 @@
 讓 AI 真正替你做事<br>
 以 Go 打造、24 小時運行的本地 AI agent harness，具備自動建工具、MCP 與 Ollama 支援
 
-***
+---
 
 ### 後端
 
@@ -92,7 +92,7 @@
 
 </details>
 
-***
+---
 
 ### 前端
 
@@ -130,7 +130,7 @@
 
 </details>
 
-***
+---
 
 ### 產品
 

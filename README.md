@@ -13,9 +13,9 @@ Last updated: 2026-10-24
 **Project notes**
 
 1. Test files and SKILL repos (including Python scripts) are all LLM-generated; I only review their input/output.
-2. pardnio stores archived repos, pardnchiu maintains modules and libraries, and agenvoy ships production agents.
+2. pardnio stores archived repos, pardnchiu maintains modules and libraries, and agenvoy hosts officially released agent projects.
 
-***
+---
 
 <a href="https://agenvoy.com/"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
 
@@ -24,7 +24,7 @@ Last updated: 2026-10-24
 Make AI actually work for you<br>
 A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama
 
-***
+---
 
 ### Backend
 
@@ -64,7 +64,6 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 </details>
 
-
 <details open>
 
 <summary>Node.js (3)</summary>
@@ -93,7 +92,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 </details>
 
-***
+---
 
 ### Frontend
 
@@ -131,7 +130,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 </details>
 
-***
+---
 
 ### Product
 
@@ -142,8 +141,8 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[JOBALL (Web)](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
 - **[C2hat (Chrome Extension)](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE cross-domain chat extension with no server-side message storage
 - **[NanoMD (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with split-screen preview and Mermaid support
-- (Discontinued) **[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** ・ 
-**[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** ・ 
-**[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
-  
+- (Discontinued) **[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** ・
+  **[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** ・
+  **[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
+
 </details>
