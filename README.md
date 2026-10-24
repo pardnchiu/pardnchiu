@@ -89,7 +89,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>Infra/Shell (1)</summary>
 
-- (Others) [pdpve](https://github.com/pardnio/pdpve) (earlier Shell implementation, continued in Go as QemuRun-pve)
+- [pdpve](https://github.com/pardnio/pdpve) (earlier Shell implementation, continued in Go as QemuRun-pve)
 
 </details>
 

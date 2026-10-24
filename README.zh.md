@@ -89,7 +89,7 @@
 
 <summary>Infra／Shell（1）</summary>
 
-- （其他）[pdpve](https://github.com/pardnio/pdpve)（早期 Shell 實作，後續以 Go 延續為 QemuRun-pve）
+- [pdpve](https://github.com/pardnio/pdpve)（早期 Shell 實作，後續以 Go 延續為 QemuRun-pve）
 
 </details>
 
