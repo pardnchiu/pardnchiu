@@ -61,7 +61,7 @@
 - **[go-scheduler](https://go-scheduler.pardn.io)** — 排程任務，支援相依、逾時與 cron 表達式 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT，含 Redis 生命週期與裝置綁定 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — Redis 掛了也能繼續讀取（ToriiDB 前身的 KV 本地儲存實作）
-- [go-logger](https://github.com/pardnio/go-logger)
+- （其他）[go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 
@@ -81,7 +81,7 @@
 
 - **[php-async](https://github.com/pardnio/php-async)** — ReactPHP 非同步任務執行器，具拓撲相依排序
 - **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — 鏈式 MySQL 客戶端，讀寫路由與重試韌性（早期 PHP 實作，後續以 Node.js 延續為 node-mysql-pool）
-- [php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
+- （其他）[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
 
@@ -89,7 +89,7 @@
 
 <summary>Infra／Shell（1）</summary>
 
-- [pdpve](https://github.com/pardnio/pdpve)
+- （其他）[pdpve](https://github.com/pardnio/pdpve)（早期 Shell 實作，後續以 Go 延續為 QemuRun-pve）
 
 </details>
 
@@ -106,7 +106,7 @@
 - **[NanoJSON](https://nanojson.pardn.io)** — 純 JavaScript 打造的輕量視覺化 JSON 編輯器
 - **[FlexPlyr](https://flexplyr.pardn.io)** — 一套播放器 API，支援 HTML5、YouTube 與 Vimeo
 - **[RenderJS](https://renderjs.pardn.io)** — 擴充原生 JS 原型，免額外負擔地渲染
-- [pdf2image](https://pdf2image.pardn.io)
+- **[pdf2image](https://pdf2image.pardn.io)** — 在瀏覽器中直接把任何 PDF 轉成圖片
 
 </details>
 
@@ -116,7 +116,7 @@
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 個手工前端頁面，零建置步驟
 - **[WebUI](https://github.com/pardnio/website-builder)** — 視覺化網站建置工具，內建模組化版型（已停止開發的 demo）
-- [AdminUI](https://github.com/pardnio/AdminUI)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- （其他）[AdminUI](https://github.com/pardnio/AdminUI)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
