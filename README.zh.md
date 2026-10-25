@@ -1,4 +1,4 @@
-最後更新：2026-10-24
+最後更新：2026-10-25
 
 # 邱敬幃 Pardn Chiu
 
@@ -112,11 +112,11 @@
 
 <details open>
 
-<summary>Demo／網頁（8）</summary>
+<summary>Demo／網頁（7）</summary>
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 個手工前端頁面，零建置步驟
-- **[WebUI](https://github.com/pardnio/website-builder)** — 視覺化網站建置工具，內建模組化版型（已停止開發的 demo）
-- （其他）[AdminUI](https://github.com/pardnio/AdminUI)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)、[website-builder](https://github.com/pardnio/website-builder)
+- **[WebUI](https://pardnio.github.io/WebUI/)** — 挑個版型、點擊編輯，頁面直接上線
+- （其他）[AdminUI](https://github.com/pardnio/AdminUI)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
