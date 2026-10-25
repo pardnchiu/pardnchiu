@@ -79,8 +79,8 @@
 
 <summary>PHP（6）</summary>
 
-- **[php-async](https://github.com/pardnio/php-async)** — ReactPHP 非同步任務執行器，具拓撲相依排序
-- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — 鏈式 MySQL 客戶端，讀寫路由與重試韌性（早期 PHP 實作，後續以 Node.js 延續為 node-mysql-pool）
+- **[php-async](https://github.com/pardnio/php-async)** — 宣告好相依，交給 Promise 去跑
+- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — 串起查詢，而不是串字串（早期 PHP 實作，後續以 Node.js 延續為 node-mysql-pool）
 - （其他）[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
@@ -116,7 +116,7 @@
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 個手工前端頁面，零建置步驟
 - **[WebUI](https://pardnio.github.io/WebUI/)** — 挑個版型、點擊編輯，頁面直接上線
-- （其他）[AdminUI](https://github.com/pardnio/AdminUI)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- （其他）[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
@@ -127,7 +127,7 @@
 - **[ExSwift](https://github.com/pardnio/ExSwift)** — 宣告式 UIKit 擴充，鏈式語法
 - **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI 元件，重現 Pinterest 風格動態介面
 - **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase 聊天應用，QR 加好友、純程式碼 UIKit
-- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit 記帳工具，月檢視與 Font Awesome
+- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — 用鏈式語法打造一整套 UIKit 記帳 App
 
 </details>
 

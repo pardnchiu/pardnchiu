@@ -79,8 +79,8 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>PHP (6)</summary>
 
-- **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
-- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience (earlier PHP implementation, continued in Node.js as node-mysql-pool)
+- **[php-async](https://github.com/pardnio/php-async)** — DECLARE THE DEPENDENCIES, LET THE PROMISES RUN THEM
+- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — CHAIN YOUR QUERIES, NOT YOUR STRINGS (earlier PHP implementation, continued in Node.js as node-mysql-pool)
 - (Others) [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
@@ -116,7 +116,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
 - **[WebUI](https://pardnio.github.io/WebUI/)** — PICK A TEMPLATE, CLICK TO EDIT, SHIP A PAGE
-- (Others) [AdminUI](https://github.com/pardnio/AdminUI), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- (Others) [AdminUI](https://pardnio.github.io/AdminUI/), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
@@ -127,7 +127,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
 - **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
 - **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
-- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit finance tracker with monthly views and Font Awesome
+- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — BUILD A WHOLE UIKIT BOOKKEEPING APP IN CHAINS
 
 </details>
 
