@@ -1,4 +1,4 @@
-Last updated: 2026-10-25
+Last updated: 2026-10-27
 
 # 邱敬幃 Pardn Chiu
 
@@ -126,7 +126,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
 - **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
-- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
+- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — REAL-TIME CHAT ON IOS, BUILT WITH PURE CODE AND FIREBASE
 - **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — BUILD A WHOLE UIKIT BOOKKEEPING APP IN CHAINS
 
 </details>

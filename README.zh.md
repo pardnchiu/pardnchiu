@@ -1,4 +1,4 @@
-最後更新：2026-10-25
+最後更新：2026-10-27
 
 # 邱敬幃 Pardn Chiu
 
@@ -126,7 +126,7 @@
 
 - **[ExSwift](https://github.com/pardnio/ExSwift)** — 宣告式 UIKit 擴充，鏈式語法
 - **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI 元件，重現 Pinterest 風格動態介面
-- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase 聊天應用，QR 加好友、純程式碼 UIKit
+- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — 在 iOS 上即時聊天，以純程式碼與 Firebase 打造
 - **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — 用鏈式語法打造一整套 UIKit 記帳 App
 
 </details>
