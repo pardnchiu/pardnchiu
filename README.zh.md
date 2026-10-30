@@ -54,14 +54,14 @@
 
 <details open>
 
-<summary>Go／後端工具組（6）</summary>
+<summary>Go／後端工具組（9）</summary>
 
 - **[go-queue](https://go-queue.pardn.io)** — 永不飢餓的優先度任務佇列
 - **[go-ip-sentry](https://go-ip-sentry.pardn.io)** — 在惡意 IP 抵達 handler 之前攔下
 - **[go-scheduler](https://go-scheduler.pardn.io)** — 排程任務，支援相依、逾時與 cron 表達式 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT，含 Redis 生命週期與裝置綁定 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — Redis 掛了也能繼續讀取（ToriiDB 前身的 KV 本地儲存實作）
-- （其他）[go-logger](https://github.com/pardnio/go-logger)
+- （其他）[go-logger](https://github.com/pardnio/go-logger)、[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)
 
 </details>
 
