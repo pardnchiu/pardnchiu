@@ -61,7 +61,7 @@
 - **[go-scheduler](https://go-scheduler.pardn.io)** — 排程任務，支援相依、逾時與 cron 表達式 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT，含 Redis 生命週期與裝置綁定 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — Redis 掛了也能繼續讀取（ToriiDB 前身的 KV 本地儲存實作）
-- （其他）[go-logger](https://github.com/pardnio/go-logger)、[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)
+- （其他）[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)、[go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 

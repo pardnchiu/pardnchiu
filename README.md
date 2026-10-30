@@ -61,7 +61,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN (KV local storage implementation before ToriiDB)
-- (Others) [go-logger](https://github.com/pardnio/go-logger), [go-web-monitor](https://go-web-monitor.pardn.io), [go-rss-reader](https://go-rss-reader.pardn.io), [go-rest-client](https://go-rest-client.pardn.io)
+- (Others) [go-web-monitor](https://go-web-monitor.pardn.io), [go-rss-reader](https://go-rss-reader.pardn.io), [go-rest-client](https://go-rest-client.pardn.io), [go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 
