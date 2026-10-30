@@ -1,4 +1,4 @@
-最後更新：2026-10-27
+最後更新：2026-10-31
 
 # 邱敬幃 Pardn Chiu
 
@@ -37,7 +37,7 @@
 - **[go-bot](https://go-bot.pardn.io)** — 打造適配各聊天平台的機器人
 - **[ToriiDB](https://toriidb.pardn.io)** — 內嵌式 JSON KV 儲存，共享 socket daemon 與向量搜尋
 - **[KuraDB](https://kuradb.pardn.io)** — 放入檔案，讓你的 agent 幫你搜出來
-- **[cim-prototype](https://github.com/pardnchiu/cim-prototype)** — 具備認知不完美記憶系統的 LLM，模擬人類選擇性記憶以應對長時間多輪對話
+- **[cim-prototype](https://github.com/pardnio/cim-prototype)** — 具備認知不完美記憶系統的 LLM，模擬人類選擇性記憶以應對長時間多輪對話
 
 </details>
 
@@ -137,11 +137,12 @@
 
 <details open>
 
-<summary>已上線（6）</summary>
+<summary>已上線（7）</summary>
 
 - **[JOBALL（網頁）](https://joball.tw)** — 台灣自由工作者媒合平台 · **高峰 1 萬名使用者／月瀏覽 34 萬**
 - **[C2hat（Chrome 擴充功能）](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — 端對端加密的跨網域聊天擴充，訊息不留存於伺服器
 - **[NanoMD（VS Code 擴充功能）](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown 編輯器，分割畫面預覽與 Mermaid 支援
+- **[NanoMD（Chrome 擴充功能）](https://chromewebstore.google.com/detail/nanomd/pdklinlfmpobpakengplkhbbneaamijd)** — 直接在 Chrome 中渲染 Markdown 檔案
 - （已停止維護）**[NanoMD（macOS）](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** ・ **[Ninlog（macOS）](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** ・ **[JOBALL（iOS）](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
 
 </details>
