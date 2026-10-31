@@ -1,4 +1,4 @@
-最後更新：2026-10-31
+最後更新：2026-11-01
 
 # 邱敬幃 Pardn Chiu
 
@@ -61,7 +61,7 @@
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT，含 Redis 生命週期與裝置綁定 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-ip-sentry](https://go-ip-sentry.pardn.io)** — 在惡意 IP 抵達 handler 之前攔下
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — Redis 掛了也能繼續讀取（ToriiDB 前身的 KV 本地儲存實作）
-- （其他）[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)、[go-logger](https://github.com/pardnio/go-logger)
+- （封存）[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)、[go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 
@@ -81,7 +81,7 @@
 
 - **[php-async](https://github.com/pardnio/php-async)** — 宣告好相依，交給 Promise 去跑
 - **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — 串起查詢，而不是串字串（早期 PHP 實作，後續以 Node.js 延續為 node-mysql-pool）
-- （其他）[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
+- （封存）[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
 
@@ -116,7 +116,7 @@
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 個手工前端頁面，零建置步驟
 - **[WebUI](https://pardnio.github.io/WebUI/)** — 挑個版型、點擊編輯，頁面直接上線
-- （其他）[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- （封存）[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 

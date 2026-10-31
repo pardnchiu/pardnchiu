@@ -1,4 +1,4 @@
-Last updated: 2026-10-31
+Last updated: 2026-11-01
 
 # 邱敬幃 Pardn Chiu
 
@@ -61,7 +61,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-ip-sentry](https://go-ip-sentry.pardn.io)** — STOP MALICIOUS IPS BEFORE THEY REACH YOUR HANDLERS
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN (KV local storage implementation before ToriiDB)
-- (Others) [go-web-monitor](https://go-web-monitor.pardn.io), [go-rss-reader](https://go-rss-reader.pardn.io), [go-rest-client](https://go-rest-client.pardn.io), [go-logger](https://github.com/pardnio/go-logger)
+- (Archive) [go-web-monitor](https://go-web-monitor.pardn.io), [go-rss-reader](https://go-rss-reader.pardn.io), [go-rest-client](https://go-rest-client.pardn.io), [go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 
@@ -81,7 +81,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - **[php-async](https://github.com/pardnio/php-async)** — DECLARE THE DEPENDENCIES, LET THE PROMISES RUN THEM
 - **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — CHAIN YOUR QUERIES, NOT YOUR STRINGS (earlier PHP implementation, continued in Node.js as node-mysql-pool)
-- (Others) [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
+- (Archive) [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
 
@@ -116,7 +116,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
 - **[WebUI](https://pardnio.github.io/WebUI/)** — PICK A TEMPLATE, CLICK TO EDIT, SHIP A PAGE
-- (Others) [AdminUI](https://pardnio.github.io/AdminUI/), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- (Archive) [AdminUI](https://pardnio.github.io/AdminUI/), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
