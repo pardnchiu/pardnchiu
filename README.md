@@ -63,9 +63,11 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 </details>
 
-- **Node.js (3)** (Archive) [node-image-server](https://node-image-server.pardn.io), [node-jwt-auth](https://node-jwt-auth.pardn.io), [node-mysql-pool](https://node-mysql-pool.pardn.io)
-- **PHP (6)** (Archive) [php-async](https://github.com/pardnio/php-async), [php-mysql-cli](https://github.com/pardnio/php-mysql-cli), [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
-- **Infra/Shell (1)** (Archive) [pdpve](https://github.com/pardnio/pdpve)
+**Node.js (3)** (Archive) [node-image-server](https://node-image-server.pardn.io), [node-jwt-auth](https://node-jwt-auth.pardn.io), [node-mysql-pool](https://node-mysql-pool.pardn.io)
+
+**PHP (6)** (Archive) [php-async](https://github.com/pardnio/php-async), [php-mysql-cli](https://github.com/pardnio/php-mysql-cli), [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
+
+**Infra/Shell (1)** (Archive) [pdpve](https://github.com/pardnio/pdpve)
 
 ---
 
@@ -82,8 +84,9 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 </details>
 
-- **Demo/Web (7)** (Archive) [demo-web](https://demo-web.pardn.io), [WebUI](https://pardnio.github.io/WebUI/), [AdminUI](https://pardnio.github.io/AdminUI/), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
-- **iOS (4)** (Archive) [ExSwift](https://github.com/pardnio/ExSwift), [demo-swiftui](https://github.com/pardnio/demo-swiftui), [demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging), [demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
+**Demo/Web (7)** (Archive) [demo-web](https://demo-web.pardn.io), [WebUI](https://pardnio.github.io/WebUI/), [AdminUI](https://pardnio.github.io/AdminUI/), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+
+**iOS (4)** (Archive) [ExSwift](https://github.com/pardnio/ExSwift), [demo-swiftui](https://github.com/pardnio/demo-swiftui), [demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging), [demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
 
 ---
 
