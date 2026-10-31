@@ -63,29 +63,9 @@
 
 </details>
 
-<details open>
-
-<summary>Node.js（3）</summary>
-
-- （封存）[node-image-server](https://node-image-server.pardn.io)、[node-jwt-auth](https://node-jwt-auth.pardn.io)、[node-mysql-pool](https://node-mysql-pool.pardn.io)
-
-</details>
-
-<details open>
-
-<summary>PHP（6）</summary>
-
-- （封存）[php-async](https://github.com/pardnio/php-async)、[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)、[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
-
-</details>
-
-<details open>
-
-<summary>Infra／Shell（1）</summary>
-
-- （封存）[pdpve](https://github.com/pardnio/pdpve)
-
-</details>
+- **Node.js（3）**（封存）[node-image-server](https://node-image-server.pardn.io)、[node-jwt-auth](https://node-jwt-auth.pardn.io)、[node-mysql-pool](https://node-mysql-pool.pardn.io)
+- **PHP（6）**（封存）[php-async](https://github.com/pardnio/php-async)、[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)、[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
+- **Infra／Shell（1）**（封存）[pdpve](https://github.com/pardnio/pdpve)
 
 ---
 
@@ -102,23 +82,8 @@
 
 </details>
 
-<details open>
-
-<summary>Demo／網頁（7）</summary>
-
-- （封存）[demo-web](https://demo-web.pardn.io)、[WebUI](https://pardnio.github.io/WebUI/)、[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
-
-</details>
-
-<details open>
-
-<summary>iOS（4）</summary>
-
-- **[ExSwift](https://github.com/pardnio/ExSwift)** — 宣告式 UIKit 擴充，鏈式語法
-- **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI 元件，重現 Pinterest 風格動態介面
-- （封存）[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)、[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
-
-</details>
+- **Demo／網頁（7）**（封存）[demo-web](https://demo-web.pardn.io)、[WebUI](https://pardnio.github.io/WebUI/)、[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- **iOS（4）**（封存）[ExSwift](https://github.com/pardnio/ExSwift)、[demo-swiftui](https://github.com/pardnio/demo-swiftui)、[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)、[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
 
 ---
 
