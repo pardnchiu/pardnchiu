@@ -37,7 +37,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[go-bot](https://go-bot.pardn.io)** — BUILD BOTS THAT FIT EVERY CHAT PLATFORM
 - **[ToriiDB](https://toriidb.pardn.io)** — EMBEDDED JSON KV STORAGE WITH A SHARED SOCKET DAEMON AND VECTOR SEARCH
 - **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
-- **[cim-prototype](https://github.com/pardnio/cim-prototype)** — LLM with a Cognitive Imperfect Memory system that simulates human selective memory for long multi-turn conversations
+- (Archive) [cim-prototype](https://github.com/pardnio/cim-prototype)
 
 </details>
 
@@ -48,7 +48,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[HakoRun](https://hakorun.pardn.io)** — SELF-HOSTED FAAS, NO DOCKER OR KUBERNETES REQUIRED
 - **[QemuRun-pve](https://qemurun-pve.pardn.io)** — ONE API CALL FROM CLOUD IMAGE TO SSH-READY VM ON PROXMOX VE
 - **[PodRun](https://podrun.pardn.io)** — DEPLOY TO REMOTE PODMAN AND K3S LIKE LOCAL DOCKER COMPOSE
-- **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
+- (Archive) [go-image-server](https://go-image-server.pardn.io)
 
 </details>
 
@@ -59,9 +59,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[go-queue](https://go-queue.pardn.io)** — PRIORITY TASKS THAT NEVER STARVE
 - **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
-- **[go-ip-sentry](https://go-ip-sentry.pardn.io)** — STOP MALICIOUS IPS BEFORE THEY REACH YOUR HANDLERS
-- **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN (KV local storage implementation before ToriiDB)
-- (Archive) [go-web-monitor](https://go-web-monitor.pardn.io), [go-rss-reader](https://go-rss-reader.pardn.io), [go-rest-client](https://go-rest-client.pardn.io), [go-logger](https://github.com/pardnio/go-logger)
+- (Archive) [go-ip-sentry](https://go-ip-sentry.pardn.io), [go-redis-fallback](https://go-redis-fallback.pardn.io), [go-web-monitor](https://go-web-monitor.pardn.io), [go-rss-reader](https://go-rss-reader.pardn.io), [go-rest-client](https://go-rest-client.pardn.io), [go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 
@@ -69,9 +67,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>Node.js (3)</summary>
 
-- **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE (earlier Node.js implementation, continued in Go as go-image-server)
-- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE (earlier Node.js implementation, continued in Go as go-jwt)
-- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — CHAIN YOUR MYSQL QUERIES ACROSS READ AND WRITE POOLS
+- (Archive) [node-image-server](https://node-image-server.pardn.io), [node-jwt-auth](https://node-jwt-auth.pardn.io), [node-mysql-pool](https://node-mysql-pool.pardn.io)
 
 </details>
 
@@ -79,9 +75,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>PHP (6)</summary>
 
-- **[php-async](https://github.com/pardnio/php-async)** — DECLARE THE DEPENDENCIES, LET THE PROMISES RUN THEM
-- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — CHAIN YOUR QUERIES, NOT YOUR STRINGS (earlier PHP implementation, continued in Node.js as node-mysql-pool)
-- (Archive) [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
+- (Archive) [php-async](https://github.com/pardnio/php-async), [php-mysql-cli](https://github.com/pardnio/php-mysql-cli), [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
 
@@ -89,7 +83,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>Infra/Shell (1)</summary>
 
-- [pdpve](https://github.com/pardnio/pdpve) (earlier Shell implementation, continued in Go as QemuRun-pve)
+- (Archive) [pdpve](https://github.com/pardnio/pdpve)
 
 </details>
 
@@ -104,9 +98,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP
 - **[NanoMD](https://nanomd.pardn.io)** — FAST MARKDOWN TO AST AND HTML IN ONE PARSER
 - **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT
-- **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO
-- **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD
-- **[pdf2image](https://pdf2image.pardn.io)** — TURN ANY PDF INTO IMAGES RIGHT IN THE BROWSER
+- (Archive) [FlexPlyr](https://flexplyr.pardn.io), [RenderJS](https://renderjs.pardn.io), [pdf2image](https://pdf2image.pardn.io)
 
 </details>
 
@@ -114,9 +106,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>Demo/Web (7)</summary>
 
-- **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
-- **[WebUI](https://pardnio.github.io/WebUI/)** — PICK A TEMPLATE, CLICK TO EDIT, SHIP A PAGE
-- (Archive) [AdminUI](https://pardnio.github.io/AdminUI/), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- (Archive) [demo-web](https://demo-web.pardn.io), [WebUI](https://pardnio.github.io/WebUI/), [AdminUI](https://pardnio.github.io/AdminUI/), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
@@ -126,8 +116,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
 - **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
-- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — REAL-TIME CHAT ON IOS, BUILT WITH PURE CODE AND FIREBASE
-- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — BUILD A WHOLE UIKIT BOOKKEEPING APP IN CHAINS
+- (Archive) [demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging), [demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
 
 </details>
 

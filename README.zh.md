@@ -37,7 +37,7 @@
 - **[go-bot](https://go-bot.pardn.io)** — 打造適配各聊天平台的機器人
 - **[ToriiDB](https://toriidb.pardn.io)** — 內嵌式 JSON KV 儲存，共享 socket daemon 與向量搜尋
 - **[KuraDB](https://kuradb.pardn.io)** — 放入檔案，讓你的 agent 幫你搜出來
-- **[cim-prototype](https://github.com/pardnio/cim-prototype)** — 具備認知不完美記憶系統的 LLM，模擬人類選擇性記憶以應對長時間多輪對話
+- （封存）[cim-prototype](https://github.com/pardnio/cim-prototype)
 
 </details>
 
@@ -48,7 +48,7 @@
 - **[HakoRun](https://hakorun.pardn.io)** — 自架 FaaS，不需要 Docker 或 Kubernetes
 - **[QemuRun-pve](https://qemurun-pve.pardn.io)** — 一次 API 呼叫，從雲端映像到可 SSH 登入的 Proxmox VE 虛擬機
 - **[PodRun](https://podrun.pardn.io)** — 像在本地執行 docker compose 一樣部署到遠端 Podman 與 k3s
-- **[go-image-server](https://go-image-server.pardn.io)** — 縮圖一次，處處快取
+- （封存）[go-image-server](https://go-image-server.pardn.io)
 
 </details>
 
@@ -59,9 +59,7 @@
 - **[go-queue](https://go-queue.pardn.io)** — 永不飢餓的優先度任務佇列
 - **[go-scheduler](https://go-scheduler.pardn.io)** — 排程任務，支援相依、逾時與 cron 表達式 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT，含 Redis 生命週期與裝置綁定 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
-- **[go-ip-sentry](https://go-ip-sentry.pardn.io)** — 在惡意 IP 抵達 handler 之前攔下
-- **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — Redis 掛了也能繼續讀取（ToriiDB 前身的 KV 本地儲存實作）
-- （封存）[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)、[go-logger](https://github.com/pardnio/go-logger)
+- （封存）[go-ip-sentry](https://go-ip-sentry.pardn.io)、[go-redis-fallback](https://go-redis-fallback.pardn.io)、[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)、[go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 
@@ -69,9 +67,7 @@
 
 <summary>Node.js（3）</summary>
 
-- **[node-image-server](https://node-image-server.pardn.io)** — 縮圖一次，處處從快取供應（早期 Node.js 實作，後續以 Go 延續為 go-image-server）
-- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — 綁定每台裝置的雙 token JWT 認證（早期 Node.js 實作，後續以 Go 延續為 go-jwt）
-- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — 以鏈式查詢串接讀寫連線池
+- （封存）[node-image-server](https://node-image-server.pardn.io)、[node-jwt-auth](https://node-jwt-auth.pardn.io)、[node-mysql-pool](https://node-mysql-pool.pardn.io)
 
 </details>
 
@@ -79,9 +75,7 @@
 
 <summary>PHP（6）</summary>
 
-- **[php-async](https://github.com/pardnio/php-async)** — 宣告好相依，交給 Promise 去跑
-- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — 串起查詢，而不是串字串（早期 PHP 實作，後續以 Node.js 延續為 node-mysql-pool）
-- （封存）[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
+- （封存）[php-async](https://github.com/pardnio/php-async)、[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)、[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
 
@@ -89,7 +83,7 @@
 
 <summary>Infra／Shell（1）</summary>
 
-- [pdpve](https://github.com/pardnio/pdpve)（早期 Shell 實作，後續以 Go 延續為 QemuRun-pve）
+- （封存）[pdpve](https://github.com/pardnio/pdpve)
 
 </details>
 
@@ -104,9 +98,7 @@
 - **[QuickUI](https://quickui.pardn.io)** — 零相依、免建置即可執行的虛擬 DOM 框架
 - **[NanoMD](https://nanomd.pardn.io)** — 單一解析器，快速將 Markdown 轉為 AST 與 HTML
 - **[NanoJSON](https://nanojson.pardn.io)** — 純 JavaScript 打造的輕量視覺化 JSON 編輯器
-- **[FlexPlyr](https://flexplyr.pardn.io)** — 一套播放器 API，支援 HTML5、YouTube 與 Vimeo
-- **[RenderJS](https://renderjs.pardn.io)** — 擴充原生 JS 原型，免額外負擔地渲染
-- **[pdf2image](https://pdf2image.pardn.io)** — 在瀏覽器中直接把任何 PDF 轉成圖片
+- （封存）[FlexPlyr](https://flexplyr.pardn.io)、[RenderJS](https://renderjs.pardn.io)、[pdf2image](https://pdf2image.pardn.io)
 
 </details>
 
@@ -114,9 +106,7 @@
 
 <summary>Demo／網頁（7）</summary>
 
-- **[demo-web](https://demo-web.pardn.io)** — 38 個手工前端頁面，零建置步驟
-- **[WebUI](https://pardnio.github.io/WebUI/)** — 挑個版型、點擊編輯，頁面直接上線
-- （封存）[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- （封存）[demo-web](https://demo-web.pardn.io)、[WebUI](https://pardnio.github.io/WebUI/)、[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
@@ -126,8 +116,7 @@
 
 - **[ExSwift](https://github.com/pardnio/ExSwift)** — 宣告式 UIKit 擴充，鏈式語法
 - **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI 元件，重現 Pinterest 風格動態介面
-- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — 在 iOS 上即時聊天，以純程式碼與 Firebase 打造
-- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — 用鏈式語法打造一整套 UIKit 記帳 App
+- （封存）[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)、[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
 
 </details>
 
