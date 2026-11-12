@@ -1,6 +1,6 @@
-Last updated: 2026-11-01
+Last updated: 2026-11-12
 
-# 邱敬幃 Pardn Chiu
+# Pardn Chiu (邱敬幃)
 
 > **Show code, not just words — my code is my pitch.**<br>
 > Taiwan · Infrastructure Engineering<br>
