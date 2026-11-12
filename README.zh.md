@@ -1,6 +1,6 @@
 最後更新：2026-11-12
 
-# Pardn Chiu (邱敬幃)
+# 邱敬幃 (Pardn Chiu)
 
 > **Show code, not just words——代碼就是我的自介**<br>
 > 台灣 · 基礎設施工程<br>
