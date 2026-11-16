@@ -1,4 +1,4 @@
-最後更新：2026-11-12
+最後更新：2026-11-16
 
 # 邱敬幃 (Pardn Chiu)
 
@@ -6,15 +6,6 @@
 > 台灣 · 基礎設施工程<br>
 > 從 iOS 起家，精通網站前後端，目前專注在基礎建設
 >
-> 我的 GitHub 專注於基礎設施與基礎元件<br>
-> 核心功能優先，少臃腫、少花俏<br>
-> 身為開發者的你，歡迎善加使用這裡的每個工具
-
-**項目需知**
-
-1. 測試檔案與 SKILL repo（含 Python 腳本）皆由 LLM 生成，我只檢查 I/O
-2. pardnio 存放封存的 repo，pardnchiu 維護模組與函式庫
-
 ---
 
 <a href="https://agenvoy.com/"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>

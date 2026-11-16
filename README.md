@@ -1,4 +1,4 @@
-Last updated: 2026-11-12
+Last updated: 2026-11-16
 
 # Pardn Chiu (邱敬幃)
 
@@ -6,15 +6,6 @@ Last updated: 2026-11-12
 > Taiwan · Infrastructure Engineering<br>
 > Started in iOS, expert in web frontend and backend, now focused on infrastructure.
 >
-> My GitHub is all infrastructure and foundational components.<br>
-> Core functionality first — less bloat, fewer gimmicks.<br>
-> If you're a developer, every tool here is yours to use.
-
-**Project notes**
-
-1. Test files and SKILL repos (including Python scripts) are all LLM-generated; I only review their input/output.
-2. pardnio stores archived repos, and pardnchiu maintains modules and libraries.
-
 ---
 
 <a href="https://agenvoy.com/"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
