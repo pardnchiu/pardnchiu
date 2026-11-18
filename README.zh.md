@@ -1,96 +1,129 @@
-最後更新：2026-11-16
+最後更新：2026-11-18
 
 # 邱敬幃 (Pardn Chiu)
 
 > **Show code, not just words——代碼就是我的自介**<br>
 > 台灣 · 基礎設施工程<br>
 > 從 iOS 起家，精通網站前後端，目前專注在基礎建設
->
+
 ---
 
 <a href="https://agenvoy.com/"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
 
 ### [Agenvoy](https://agenvoy.com/)
 
-讓 AI 真正替你做事<br>
-以 Go 打造、24 小時運行的本地 AI agent harness，具備自動建工具、MCP 與 Ollama 支援
+**以單一 Go 執行檔交付、在你自己的電腦上以 daemon 24 小時運行的私人 AI agent。**<br>
+用一句話描述任務，Agenvoy 就會規劃步驟、呼叫工具並交付結果；沒有合適的工具時，它會自己寫一個、在沙箱中測試，並保留下來重複使用。
+
+<br clear="left"/>
+
+- **自己打造工具** — 找到免金鑰的公開 API 或撰寫新工具，並與 Claude Code、Codex 及任何 MCP agent 共用同一套沙箱化工具庫
+- **本地優先** — session、記憶與排程存放在你磁碟上的 SQLite；憑證留在作業系統 keychain；指令在 `sandbox-exec`／`bwrap` 中執行，預設關閉網路
+- **一句話自動化** — 用自然語言建立 cron 排程，在你的電腦上執行並把結果推送到 Telegram 或 Discord，不需開放任何對內連接埠
+- **任意模型** — 15 家 LLM 供應商加上本地 Ollama／LM Studio，支援依任務路由、MCP（stdio／HTTP）、生圖、語音轉文字與文字轉語音
+- **看得見、管得住** — 串流 TUI 與 Web 儀表板、敏感路徑的確認關卡，以及支援喚醒詞的免手持語音模式
 
 ---
 
-### 後端
+### AI
 
-<details open>
+- **[go-llm-router](https://go-llm-router.pardn.io)** — 以統一的 Go 介面串接 15 家 LLM 供應商。用 `provider@model` 字串解析任何模型，把 Claude、Gemini、OpenAI 的推理強度正規化為六個等級，並將各家的 token 與快取用量整合成同一種格式。從 Agenvoy 抽離而來，Agenvoy 現已完全建立在它之上。
+- **[ToriiDB](https://toriidb.pardn.io)** — 內建向量搜尋的嵌入式 Go JSON 鍵值儲存。第一個開啟資料目錄的程序會成為共用的 unix socket daemon，寫入以 fsync 落盤到追加日誌並以原子快照壓縮，在 16 個資料庫上提供 17 個 Redis 風格指令。
 
-<summary>Go／AI Agent（6）</summary>
+### 基礎設施
 
-- **[go-llm-router](https://go-llm-router.pardn.io)** — 一個 Agent 介面，串接所有 LLM 供應商
-- **[go-browser](https://go-browser.pardn.io)** — 透過 Chrome 擷取網頁內容，輸出 Markdown 或 HTML，直接供 agent 使用
-- **[go-bot](https://go-bot.pardn.io)** — 打造適配各聊天平台的機器人
-- **[ToriiDB](https://toriidb.pardn.io)** — 內嵌式 JSON KV 儲存，共享 socket daemon 與向量搜尋
-- **[KuraDB](https://kuradb.pardn.io)** — 放入檔案，讓你的 agent 幫你搜出來
-- （封存）[cim-prototype](https://github.com/pardnio/cim-prototype)
+- **[HakoRun](https://hakorun.pardn.io)** — 不需要 Docker 或 Kubernetes 的自架 FaaS。上傳 Python、JS 或 TS 函式即可透過 HTTP 呼叫；每次執行都隔離在 Bubblewrap 中（所有 namespace 皆不共用、無網路、移除 capabilities），由 systemd slice 限制資源，並以 SSE 串流回傳，版本以時間戳固定。
+- **[QemuRun-pve](https://qemurun-pve.pardn.io)** — 一次 API 呼叫，從官方雲端映像建立可 SSH 登入的 Proxmox VE 虛擬機。處理並行的 VMID／IP 配置，偵測全叢集共通的 CPU 基準讓虛擬機保持可遷移，並透過 SSH 在各節點分派 `qm`，每個建置階段都以 SSE 串流回報。
 
-</details>
+### 函式庫
 
-<details open>
-
-<summary>Go／自架基礎設施（4）</summary>
-
-- **[HakoRun](https://hakorun.pardn.io)** — 自架 FaaS，不需要 Docker 或 Kubernetes
-- **[QemuRun-pve](https://qemurun-pve.pardn.io)** — 一次 API 呼叫，從雲端映像到可 SSH 登入的 Proxmox VE 虛擬機
-- **[PodRun](https://podrun.pardn.io)** — 像在本地執行 docker compose 一樣部署到遠端 Podman 與 k3s
-- （封存）[go-image-server](https://go-image-server.pardn.io)
-
-</details>
-
-<details open>
-
-<summary>Go／後端工具組（9）</summary>
-
-- **[go-queue](https://go-queue.pardn.io)** — 永不飢餓的優先度任務佇列
-- **[go-scheduler](https://go-scheduler.pardn.io)** — 排程任務，支援相依、逾時與 cron 表達式 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
-- **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT，含 Redis 生命週期與裝置綁定 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
-- （封存）[go-ip-sentry](https://go-ip-sentry.pardn.io)、[go-redis-fallback](https://go-redis-fallback.pardn.io)、[go-web-monitor](https://go-web-monitor.pardn.io)、[go-rss-reader](https://go-rss-reader.pardn.io)、[go-rest-client](https://go-rest-client.pardn.io)、[go-logger](https://github.com/pardnio/go-logger)
-
-</details>
-
-**Node.js（3）**（封存）[node-image-server](https://node-image-server.pardn.io)、[node-jwt-auth](https://node-jwt-auth.pardn.io)、[node-mysql-pool](https://node-mysql-pool.pardn.io)
-
-**PHP（6）**（封存）[php-async](https://github.com/pardnio/php-async)、[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)、[php-redis-cli](https://github.com/pardnio/php-redis-cli)、[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)、[php-session-fallback](https://github.com/pardnio/php-session-fallback)、[php-mailer](https://github.com/pardnio/php-mailer)
-
-**Infra／Shell（1）**（封存）[pdpve](https://github.com/pardnio/pdpve)
-
----
+- **[go-queue](https://go-queue.pardn.io)** — 以單一 min-heap 承載五個優先等級的任務佇列，具備防飢餓升級、獨立的重試層級、panic 隔離，以及有期限的優雅關閉。
+- **[go-scheduler](https://go-scheduler.pardn.io)** — Cron 排程器，支援任務相依鏈（失敗時停止或略過）、各任務逾時，以及可在執行期間新增與移除任務的 min-heap 事件迴圈。 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
+- **[go-jwt](https://go-jwt.pardn.io)** — ES256 JWT，透過 Redis JTI 白名單即時撤銷、綁定裝置指紋，並以鎖保護的 refresh 輪替確保跨實例安全。 [![Awesome Go 收錄](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
 ### 前端
 
-<details open>
-
-<summary>框架／函式庫（6）</summary>
-
-- **[QuickUI](https://quickui.pardn.io)** — 零相依、免建置即可執行的虛擬 DOM 框架
-- **[NanoMD](https://nanomd.pardn.io)** — 單一解析器，快速將 Markdown 轉為 AST 與 HTML
-- **[NanoJSON](https://nanojson.pardn.io)** — 純 JavaScript 打造的輕量視覺化 JSON 編輯器
-- （封存）[FlexPlyr](https://flexplyr.pardn.io)、[RenderJS](https://renderjs.pardn.io)、[pdf2image](https://pdf2image.pardn.io)
-
-</details>
-
-**Demo／網頁（7）**（封存）[demo-web](https://demo-web.pardn.io)、[WebUI](https://pardnio.github.io/WebUI/)、[AdminUI](https://pardnio.github.io/AdminUI/)、[DeskUI](https://pardnio.github.io/DeskUI/)、[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)、[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)、[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
-
-**iOS（4）**（封存）[ExSwift](https://github.com/pardnio/ExSwift)、[demo-swiftui](https://github.com/pardnio/demo-swiftui)、[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)、[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
-
----
+- **[NanoMD](https://nanomd.pardn.io)** — 單次掃描的 TypeScript Markdown 解析器，輸出與渲染器無關的 JSON AST。約 90 ms 渲染 4 MB 文件（比 marked 快 1.1–1.3 倍），按需載入 Mermaid／KaTeX／Chart.js，並輸出經過消毒的 HTML。
 
 ### 產品
 
-<details open>
+- **[JOBALL](https://joball.tw)** — 台灣自由工作者媒合平台 · **高峰 1 萬名使用者／月瀏覽 34 萬**
 
-<summary>已上線（7）</summary>
+---
 
-- **[JOBALL（網頁）](https://joball.tw)** — 台灣自由工作者媒合平台 · **高峰 1 萬名使用者／月瀏覽 34 萬**
-- **[C2hat（Chrome 擴充功能）](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — 端對端加密的跨網域聊天擴充，訊息不留存於伺服器
-- **[NanoMD（VS Code 擴充功能）](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown 編輯器，分割畫面預覽與 Mermaid 支援
-- **[NanoMD（Chrome 擴充功能）](https://chromewebstore.google.com/detail/nanomd/pdklinlfmpobpakengplkhbbneaamijd)** — 直接在 Chrome 中渲染 Markdown 檔案
-- （已停止維護）**[NanoMD（macOS）](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** ・ **[Ninlog（macOS）](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** ・ **[JOBALL（iOS）](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
+<details>
+
+<summary><strong>更多</strong></summary>
+
+**Go／AI Agent**
+
+- [go-browser](https://go-browser.pardn.io)
+- [go-bot](https://go-bot.pardn.io)
+- [KuraDB](https://kuradb.pardn.io)
+- （封存）[cim-prototype](https://github.com/pardnio/cim-prototype)
+
+**Go／基礎設施**
+
+- [PodRun](https://podrun.pardn.io)
+- （封存）[go-image-server](https://go-image-server.pardn.io)
+
+**Go／工具組**（封存）
+
+- [go-ip-sentry](https://go-ip-sentry.pardn.io)
+- [go-redis-fallback](https://go-redis-fallback.pardn.io)
+- [go-web-monitor](https://go-web-monitor.pardn.io)
+- [go-rss-reader](https://go-rss-reader.pardn.io)
+- [go-rest-client](https://go-rest-client.pardn.io)
+- [go-logger](https://github.com/pardnio/go-logger)
+
+**已上架應用**
+
+- [C2hat（Chrome）](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)
+- [NanoMD（VS Code）](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)
+- [NanoMD（Chrome）](https://chromewebstore.google.com/detail/nanomd/pdklinlfmpobpakengplkhbbneaamijd)
+- （已停止維護）[NanoMD（macOS）](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)
+- （已停止維護）[Ninlog（macOS）](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)
+- （已停止維護）[JOBALL（iOS）](https://apps.apple.com/us/app/joball-接洽/id1272878907)
+
+**前端**
+
+- [QuickUI](https://quickui.pardn.io)
+- [NanoJSON](https://nanojson.pardn.io)
+- （封存）[FlexPlyr](https://flexplyr.pardn.io)
+- （封存）[RenderJS](https://renderjs.pardn.io)
+- （封存）[pdf2image](https://pdf2image.pardn.io)
+- （封存）[demo-web](https://demo-web.pardn.io)
+- （封存）[WebUI](https://pardnio.github.io/WebUI/)
+- （封存）[AdminUI](https://pardnio.github.io/AdminUI/)
+- （封存）[DeskUI](https://pardnio.github.io/DeskUI/)
+- （封存）[css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)
+- （封存）[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)
+- （封存）[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+
+**Node.js**（封存）
+
+- [node-image-server](https://node-image-server.pardn.io)
+- [node-jwt-auth](https://node-jwt-auth.pardn.io)
+- [node-mysql-pool](https://node-mysql-pool.pardn.io)
+
+**PHP**（封存）
+
+- [php-async](https://github.com/pardnio/php-async)
+- [php-mysql-cli](https://github.com/pardnio/php-mysql-cli)
+- [php-redis-cli](https://github.com/pardnio/php-redis-cli)
+- [php-cache-fallback](https://github.com/pardnio/php-cache-fallback)
+- [php-session-fallback](https://github.com/pardnio/php-session-fallback)
+- [php-mailer](https://github.com/pardnio/php-mailer)
+
+**iOS**（封存）
+
+- [ExSwift](https://github.com/pardnio/ExSwift)
+- [demo-swiftui](https://github.com/pardnio/demo-swiftui)
+- [demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)
+- [demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
+
+**Infra／Shell**（封存）
+
+- [pdpve](https://github.com/pardnio/pdpve)
 
 </details>
