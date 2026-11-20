@@ -1,10 +1,13 @@
-Last updated: 2026-11-18
+Last updated: 2026-11-20
 
 # Pardn Chiu (邱敬幃)
 
 > **Show code, not just words — my code is my pitch.**<br>
 > Taiwan · Infrastructure Engineering<br>
 > Started in iOS, expert in web frontend and backend, now focused on infrastructure.
+>
+> Everything I've released is already out there. What I'm building now is a new architecture.<br>
+> Take the code if it's useful to you — the know-how is the real value, and I'm keeping it to build what's next.
 
 ---
 
