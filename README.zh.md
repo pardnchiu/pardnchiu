@@ -1,4 +1,4 @@
-最後更新：2026-11-20
+最後更新：2026-11-23
 
 # 邱敬幃 (Pardn Chiu)
 
@@ -70,14 +70,14 @@
 - [PodRun](https://podrun.pardn.io)
 - （封存）[go-image-server](https://go-image-server.pardn.io)
 
-**Go／工具組**（封存）
+**Go／工具組**
 
-- [go-ip-sentry](https://go-ip-sentry.pardn.io)
-- [go-redis-fallback](https://go-redis-fallback.pardn.io)
-- [go-web-monitor](https://go-web-monitor.pardn.io)
-- [go-rss-reader](https://go-rss-reader.pardn.io)
-- [go-rest-client](https://go-rest-client.pardn.io)
-- [go-logger](https://github.com/pardnio/go-logger)
+- （封存）[go-ip-sentry](https://go-ip-sentry.pardn.io)
+- （封存）[go-redis-fallback](https://go-redis-fallback.pardn.io)
+- （封存）[go-web-monitor](https://go-web-monitor.pardn.io)
+- （封存）[go-rss-reader](https://go-rss-reader.pardn.io)
+- （封存）[go-rest-client](https://go-rest-client.pardn.io)
+- （封存）[go-logger](https://github.com/pardnio/go-logger)
 
 **已上架應用**
 
@@ -103,30 +103,30 @@
 - （封存）[SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)
 - （封存）[web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
-**Node.js**（封存）
+**Node.js**
 
-- [node-image-server](https://node-image-server.pardn.io)
-- [node-jwt-auth](https://node-jwt-auth.pardn.io)
-- [node-mysql-pool](https://node-mysql-pool.pardn.io)
+- （封存）[node-image-server](https://node-image-server.pardn.io)
+- （封存）[node-jwt-auth](https://node-jwt-auth.pardn.io)
+- （封存）[node-mysql-pool](https://node-mysql-pool.pardn.io)
 
-**PHP**（封存）
+**PHP**
 
-- [php-async](https://github.com/pardnio/php-async)
-- [php-mysql-cli](https://github.com/pardnio/php-mysql-cli)
-- [php-redis-cli](https://github.com/pardnio/php-redis-cli)
-- [php-cache-fallback](https://github.com/pardnio/php-cache-fallback)
-- [php-session-fallback](https://github.com/pardnio/php-session-fallback)
-- [php-mailer](https://github.com/pardnio/php-mailer)
+- （封存）[php-async](https://github.com/pardnio/php-async)
+- （封存）[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)
+- （封存）[php-redis-cli](https://github.com/pardnio/php-redis-cli)
+- （封存）[php-cache-fallback](https://github.com/pardnio/php-cache-fallback)
+- （封存）[php-session-fallback](https://github.com/pardnio/php-session-fallback)
+- （封存）[php-mailer](https://github.com/pardnio/php-mailer)
 
-**iOS**（封存）
+**iOS**
 
-- [ExSwift](https://github.com/pardnio/ExSwift)
-- [demo-swiftui](https://github.com/pardnio/demo-swiftui)
-- [demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)
-- [demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
+- （封存）[ExSwift](https://github.com/pardnio/ExSwift)
+- （封存）[demo-swiftui](https://github.com/pardnio/demo-swiftui)
+- （封存）[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)
+- （封存）[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
 
-**Infra／Shell**（封存）
+**Infra／Shell**
 
-- [pdpve](https://github.com/pardnio/pdpve)
+- （封存）[pdpve](https://github.com/pardnio/pdpve)
 
 </details>

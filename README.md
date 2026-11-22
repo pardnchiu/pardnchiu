@@ -1,4 +1,4 @@
-Last updated: 2026-11-20
+Last updated: 2026-11-23
 
 # Pardn Chiu (邱敬幃)
 
@@ -70,14 +70,14 @@ Describe a task in one sentence and Agenvoy plans the steps, calls tools, and de
 - [PodRun](https://podrun.pardn.io)
 - (Archive) [go-image-server](https://go-image-server.pardn.io)
 
-**Go / Toolkit** (Archive)
+**Go / Toolkit**
 
-- [go-ip-sentry](https://go-ip-sentry.pardn.io)
-- [go-redis-fallback](https://go-redis-fallback.pardn.io)
-- [go-web-monitor](https://go-web-monitor.pardn.io)
-- [go-rss-reader](https://go-rss-reader.pardn.io)
-- [go-rest-client](https://go-rest-client.pardn.io)
-- [go-logger](https://github.com/pardnio/go-logger)
+- (Archive) [go-ip-sentry](https://go-ip-sentry.pardn.io)
+- (Archive) [go-redis-fallback](https://go-redis-fallback.pardn.io)
+- (Archive) [go-web-monitor](https://go-web-monitor.pardn.io)
+- (Archive) [go-rss-reader](https://go-rss-reader.pardn.io)
+- (Archive) [go-rest-client](https://go-rest-client.pardn.io)
+- (Archive) [go-logger](https://github.com/pardnio/go-logger)
 
 **Shipped apps**
 
@@ -103,30 +103,30 @@ Describe a task in one sentence and Agenvoy plans the steps, calls tools, and de
 - (Archive) [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)
 - (Archive) [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
-**Node.js** (Archive)
+**Node.js**
 
-- [node-image-server](https://node-image-server.pardn.io)
-- [node-jwt-auth](https://node-jwt-auth.pardn.io)
-- [node-mysql-pool](https://node-mysql-pool.pardn.io)
+- (Archive) [node-image-server](https://node-image-server.pardn.io)
+- (Archive) [node-jwt-auth](https://node-jwt-auth.pardn.io)
+- (Archive) [node-mysql-pool](https://node-mysql-pool.pardn.io)
 
-**PHP** (Archive)
+**PHP**
 
-- [php-async](https://github.com/pardnio/php-async)
-- [php-mysql-cli](https://github.com/pardnio/php-mysql-cli)
-- [php-redis-cli](https://github.com/pardnio/php-redis-cli)
-- [php-cache-fallback](https://github.com/pardnio/php-cache-fallback)
-- [php-session-fallback](https://github.com/pardnio/php-session-fallback)
-- [php-mailer](https://github.com/pardnio/php-mailer)
+- (Archive) [php-async](https://github.com/pardnio/php-async)
+- (Archive) [php-mysql-cli](https://github.com/pardnio/php-mysql-cli)
+- (Archive) [php-redis-cli](https://github.com/pardnio/php-redis-cli)
+- (Archive) [php-cache-fallback](https://github.com/pardnio/php-cache-fallback)
+- (Archive) [php-session-fallback](https://github.com/pardnio/php-session-fallback)
+- (Archive) [php-mailer](https://github.com/pardnio/php-mailer)
 
-**iOS** (Archive)
+**iOS**
 
-- [ExSwift](https://github.com/pardnio/ExSwift)
-- [demo-swiftui](https://github.com/pardnio/demo-swiftui)
-- [demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)
-- [demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
+- (Archive) [ExSwift](https://github.com/pardnio/ExSwift)
+- (Archive) [demo-swiftui](https://github.com/pardnio/demo-swiftui)
+- (Archive) [demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)
+- (Archive) [demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)
 
-**Infra / Shell** (Archive)
+**Infra / Shell**
 
-- [pdpve](https://github.com/pardnio/pdpve)
+- (Archive) [pdpve](https://github.com/pardnio/pdpve)
 
 </details>
